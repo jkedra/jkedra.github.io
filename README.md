@@ -1,3 +1,4 @@
 jkedra.github.io
 ================
-Github site
+https://help.github.com/articles/using-jekyll-with-pages/
+
