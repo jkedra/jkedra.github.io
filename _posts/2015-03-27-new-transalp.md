@@ -57,8 +57,8 @@ przednie koło zaczęło mi wyraźnie myszkować. Dość nieprzyjemne uczucie.
 
 Innego dnia - na tym samym ciasnym zakręcie - z nieco większą prędkością,
 tylne koło uśliznęło mi się na zewnątrz. Temperatura około 13℃ .
-Jeżeli to tylko kwestia temperatury to nie ma problemu - może to kwestia
-twardości opon i ich bieżnika (szerokie klocki).
+Jeżeli to tylko zależność od temperatury to nie ma problemu -
+ale może to kwestia twardości opon i ich bieżnika (szerokie klocki).
 
 To może być też sprawa nieprawidłowej techniki jazdy. Cały czas
 łapię się na tym, że opieram się na kierownicy i za mało kieruję
