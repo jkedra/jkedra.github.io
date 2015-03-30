@@ -16,7 +16,7 @@ categories: vim
 ## Frequently Used Digraphs
 
 1. DG (Degree Sign): °
-2. oC (Celcius Degree) ⇒ ℃, oF (Fahrenheit) ⇒ ℉
+2. oC (Celcius Degree) ⇒ ℃ , oF (Fahrenheit) ⇒ ℉
 3. Eu (Euro): €
 4. Greek letters follow pattern with an astrisk:
    a\*, b\*, g\*, D\*, H\*, L\*, \*t, \*w, \*W : α,β,γ, Δ, Θ, Λ, τ, ω, Ω
@@ -30,9 +30,10 @@ categories: vim
 12. Capital Romans: 1R-9R aR-cR ⇒ Ⅰ Ⅱ Ⅲ Ⅳ  Ⅴ Ⅵ  Ⅶ  Ⅷ  Ⅸ  Ⅹ Ⅺ Ⅻ 
 13. Small Romans: 1r-9r ar-cr ⇒ ⅰ-ⅸ ⅹ-ⅻ
 14. Arrows: <- ← -> →  -!↑ -v↓ <>↔ =>⇒ <=⇐  ==⇔
-15. Set: for all: FA ⇒ ∀, There Exists TE⇒ ∃, Empty Set /0 ⇒ ∅
+14. Arrows: << « >> »
+15. Set operators: For All: FA ⇒ ∀, There Exists TE⇒ ∃, Empty Set /0 ⇒ ∅
 16. Minus or Plus: -+ ⇒ ∓
-17. Bullet: Sb ∙ Ring: Ob ∘ RT Square Root RT √
+17. Bullet: Sb ∙ Ring: Ob ∘ RT Square Root RT √ times X\* ×
 18. Infinity: 00 ∞ Right Angle: -L ∟ Angle -V ∠
 19. AND & OR: AN ∧ OR ∨
 20. Identical =3 ≡ , Not Equal: != ≠ , Less Greater =< ≤ >= ≥
