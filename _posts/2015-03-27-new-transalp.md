@@ -6,32 +6,30 @@ author: jkedra
 language: pl
 categories: [motocykl, transalp]
 ---
-Na początku marca kupiłem mój pierwszy motocykl:
+Na początku marca 2015 kupiłem mój pierwszy motocykl:
 [Honda Transalp XL650V][transalp] z 2004 roku.
-Dałem 9300 zł za dość duży przebieg 54.200km i poobijany sprzęt:
+Ten typ trzyma się dość drogo więc wydałem 9300 zł za nieco poobijaną maszynę
+z dość dużym przebiegem 54.200km:
 
 * poobdzierane plastyki
-* ślady po miesiącach spędzonych pod chmurką,
+* nie był garażowany: plastiki, lakier, rdza
 * wgniotka na baku
-* pordzewiałe elementy
 * wyraźne ranty na tarczach hamulcowych
 
-Te bardziej zadbane ale i kilka lat starsze kosztują kilka tysięcy więcej.
-Tutaj przynajmniej wszystko jest jak na dłoni.
+Te bardziej zadbane potrafiły kosztować kilka tysięcy więcej mimo, iż starsze
+niż 2004. Tutaj przynajmniej wszystko jest jak na dłoni.
 
-Start marca był suchy ale dość zimny z temparaturami 0-12℃. Minęło zaledwie
-kilka dni od kupna i zachorowałem na tydzień leżenia w łóżku.
-Całkiem możliwe, że te kilka kilometrów, które zrobiłem motocyklem temu dopomogło.
+Start marca był suchy ale dość zimny z temperaturami 0-12℃. i przeważnie mokro.
 Dopiero od połowy marca mogłem przetestować maszynę.
-Wyjeździłem dopiero ze dwa 15 litrowe baki paliwa więc
-nie mam jeszcze zbyt wiele doświadczenia.
 Z obsługi na razie zmieniłem tylko olej i filtr.
 
 Motocykl dostałem tylko z jednym kluczykiem więc od razu pojawiła się sprawa
 dorobienia kolejnego. Ta wersja [Transalpa][transalp] jest już wyposażona
 w [imobilizer][immob] [HISS][hiss] więc sprawa nie jest zupełnie trywialna.
+Kluczyk udało się kupić na Allegro i zarejestrować samodzielnie w
+imobilizerze. Planuję Napisać o tym oddzielnego posta.
 
-Spalanie na poziomie około 5l/100km przy ekonomicznej jeździe.
+Spalanie 4.5-6l/100km. Minimalne spalanie przy trzymaniu niskich obrotów.
 
 ## Jazda ##
 
@@ -84,19 +82,24 @@ Na mokrym i ciepłym, tylne koło blokuje się bardzo szybko.
 #### Teren ####
 Trawa jest teraz świeża i grunt mokry. Glina wciska się od razu
 w wycięcia bieżnika i utrata przyczepności na pochyleniach
-już mi się przydarzyla. Te opony nadają się bardziej na szuterek
-niż na trawę lub glinę.
+już mi się przydarzyla. Te opony nie nadają się w ogóle na trawę
+lub glinę. Na suchych drogach, szuter, koleiny - nie ma problem.
+Ale każda kępa trawy mnie stresuje.
 
 ### Silnik ###
-Szybko się nagrzewa w kilkadziesiąt sekund. Ssanie można wyłączyć
-już po pół minuty w ciepłe dni. Bieg jałowy to około 1300 obrotów.
+Obroty na biegu jałowym ustawiłem tak, żeby nie były większe
+niż 1300-1400 obr/sek przy całkowicie rozgrzanym silniku.
+Silnik nagrzewa się wstępnie w kilkadziesiąt sekund i ssanie można
+zredukować po pół minuty.
 W zimne dni (≤10℃ ) trzymam ssanie częściowo otwarte przez kilka minut
 do pierwszej dłuższej prostej. W przeciwnym razie na biegu jałowym
 obroty są nierówne, a czasem wręcz gaśnie.
 
 ### Sprzęgło ###
-Chwyta dość wysoko ale nie ślizga się. Drażni dźwignia sprzęgła
-luźno opadająca w pozycję otwartą (od manetki).
+Chwyta dość wysoko i choć nie ślizga się to drażni dźwignia sprzęgła
+luźno opadająca w pozycję otwartą (od manetki). Poza tym sprzęgło jest
+dość twarde i jak sądzę - już wytarte. Zestaw nowych tarcz
+i sprężyn to około 250 zł.
 
 ### Hamulce ###
 Zaskakująco skuteczne hamulce choć jak na razie bardzo łatwo
@@ -110,14 +113,16 @@ klamki hamulca skończyłoby się utratą kontroli nad pojazdem.
 
 Tylny hamulec również hamuje całkiem znośnie, nie trzeba
 szczególnie mocno dusić pedału. Tylne koło bardzo szybko się 
-blokuje przy hamowaniu na morkym.
-
-Sam pedał jest za wysoko na mój gust - potrzeba go obniżyć.
+blokuje przy hamowaniu na morkym. Praktycznie nie używam go
+poza jazdą w terenie.
 
 ### Opony ###
 
 1. Przód: Metzeler Tourance 90/90-21 M/C 54S
 2. Tył: Metzeler Tourance, 120/90-17 M/C 64S, rocznik 2011
+
+### Inne Problemy ###
+Przy niskich obrotach silnika (czyli nie przy małej prędkości), silnik szarpie i idzie nierówno przy obciążaniu. Podobnie silnik pracuje dość nierówno przy obciążeniu pożniej 3tys. obr/min.
 
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
 [hiss]:      https://www.youtube.com/watch?v=db0ee6u7CjQ "Honda Ignition Security System"
