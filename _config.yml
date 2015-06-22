@@ -2,8 +2,7 @@
 title: GitHub Test Blog
 email: jurek.kedra@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog o IT, rowerach, motocyklach, elektronice i o czym jeszcze
-  się da.
+  Blog about IT, bikes, motobikes, electronics and so on.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jurek.kedra.org" # the base hostname & protocol for your site
 twitter_username: jurked
