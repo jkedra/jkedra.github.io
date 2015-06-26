@@ -8,8 +8,8 @@ categories: [motocykl, transalp]
 ---
 Na początku marca 2015 kupiłem mój pierwszy motocykl:
 [Honda Transalp XL650V][transalp] z 2004 roku.
-Ten typ trzyma się dość drogo więc wydałem 9300 zł za nieco poobijaną maszynę
-z dość dużym przebiegem 54.200km:
+Ten model trzyma się dość drogo więc wydałem 9300 zł za nieco poobijaną maszynę
+z dość dużym przebiegem 54.250km:
 
 * poobdzierane plastyki
 * nie był garażowany: plastiki, lakier, rdza
@@ -27,7 +27,7 @@ Motocykl dostałem tylko z jednym kluczykiem więc od razu pojawiła się sprawa
 dorobienia kolejnego. Ta wersja [Transalpa][transalp] jest już wyposażona
 w [imobilizer][immob] [HISS][hiss] więc sprawa nie jest zupełnie trywialna.
 Kluczyk udało się kupić na Allegro i zarejestrować samodzielnie w
-imobilizerze. Planuję Napisać o tym oddzielnego posta.
+imobilizerze. Planuję napisać o tym oddzielnego posta.
 
 Spalanie 4.5-6l/100km. Minimalne spalanie przy trzymaniu niskich obrotów.
 
@@ -83,8 +83,10 @@ Na mokrym i ciepłym, tylne koło blokuje się bardzo szybko.
 Trawa jest teraz świeża i grunt mokry. Glina wciska się od razu
 w wycięcia bieżnika i utrata przyczepności na pochyleniach
 już mi się przydarzyla. Te opony nie nadają się w ogóle na trawę
-lub glinę. Na suchych drogach, szuter, koleiny - nie ma problem.
-Ale każda kępa trawy mnie stresuje.
+lub glinę. Na suchych drogach, szuter, koleiny - nie ma problemu.
+Nawet przy jeździe z dużym nachyleniem w dół i górę Transalp prowadzi
+się stabilnie.
+Ale każda kępa trawy nadal mnie stresuje.
 
 ### Silnik ###
 Obroty na biegu jałowym ustawiłem tak, żeby nie były większe
@@ -102,18 +104,22 @@ dość twarde i jak sądzę - już wytarte. Zestaw nowych tarcz
 i sprężyn to około 250 zł.
 
 ### Hamulce ###
-Zaskakująco skuteczne hamulce choć jak na razie bardzo łatwo
-koła wpadają w poślizg podczas testów hamowania.
+Zaskakująco skuteczne hamulce choć początkowo koła bardzo łatwo wpadały
+w poślizg podczas testów hamowania. Ale to ze względu na niską
+temperaturę otoczenia. Przy 20℃ i wyżej nie udało mi się jeszcze
+zablokować przedniego koła - ale spróbuję :-)
 
 Amortyzator z przodu jest miękki i ma głębokie ugięcie.
 Musiałem się nauczyć stopniowego hamowania
 tak aby go wpierw ugiąć i utwardzić. Dopiero potem można
 przyciskać mocniej. Przy dużej prędkości szybkie naciśnięcie
 klamki hamulca skończyłoby się utratą kontroli nad pojazdem.
+Praktycznie używam tylko środkowego palca, w razie potrzeby
+później dodaję wskazujący.
 
 Tylny hamulec również hamuje całkiem znośnie, nie trzeba
 szczególnie mocno dusić pedału. Tylne koło bardzo szybko się 
-blokuje przy hamowaniu na morkym. Praktycznie nie używam go
+blokuje przy hamowaniu na morkym. Zwykle nie używam go
 poza jazdą w terenie.
 
 ### Opony ###
@@ -122,7 +128,9 @@ poza jazdą w terenie.
 2. Tył: Metzeler Tourance, 120/90-17 M/C 64S, rocznik 2011
 
 ### Inne Problemy ###
-Przy niskich obrotach silnika (czyli nie przy małej prędkości), silnik szarpie i idzie nierówno przy obciążaniu. Podobnie silnik pracuje dość nierówno przy obciążeniu pożniej 3tys. obr/min.
+Przy niskich obrotach silnika (czyli nie przy małej prędkości),
+silnik szarpie i idzie nierówno przy obciążaniu.
+Podobnie silnik pracuje dość nierówno przy obciążeniu do ok 3tys. obr/min.
 
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
 [hiss]:      https://www.youtube.com/watch?v=db0ee6u7CjQ "Honda Ignition Security System"
