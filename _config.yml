@@ -10,3 +10,5 @@ github_username:  jkedra
 
 # Build settings
 markdown: kramdown
+
+textile_ext: "textile,txtl,tl"
