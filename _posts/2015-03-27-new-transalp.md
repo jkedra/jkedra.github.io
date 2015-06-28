@@ -4,7 +4,7 @@ title:  "Motocykl"
 date:   2015-03-27 16:00:00
 author: jkedra
 language: pl
-categories: [motocykl, transalp]
+categories: moto
 ---
 Na początku marca 2015 kupiłem mój pierwszy motocykl:
 [Honda Transalp XL650V][transalp] z 2004 roku.
