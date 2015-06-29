@@ -52,6 +52,7 @@ Posts in Polish:
 
 
 {% for item in site.posts %}
+{{ item }}
 {% endfor %}
 
 When analysing above it is good to be familiar with:
