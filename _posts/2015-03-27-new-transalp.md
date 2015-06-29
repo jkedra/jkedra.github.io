@@ -74,10 +74,10 @@ Tylne koło potrafi się uśliznąć podczas ruszania na zakręcie 90 stopni.
 
 #### Mokro ####
 O ile asfalt jest czysty przyczepność jest znośna. O wiele bardziej
-niebezpieczna jazda wydaje się na podczas niskich temperatur.
+niebezpieczna jazda wydaje się na nim podczas niskich temperatur.
 Poślizgi są wtedy znacznie częstsze.
 
-Na mokrym i ciepłym, tylne koło blokuje się bardzo szybko.
+Na mokrym asfalcie, podczas hamowania tylne koło blokuje się bardzo szybko.
 
 #### Teren ####
 Trawa jest teraz świeża i grunt mokry. Glina wciska się od razu
