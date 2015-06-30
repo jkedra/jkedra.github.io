@@ -6,18 +6,20 @@ author: jkedra
 language: pl
 categories: moto
 ---
-Na początku marca 2015 kupiłem mój pierwszy motocykl:
-[Honda Transalp XL650V][transalp] z 2004 roku.
-Ten model trzyma się dość drogo więc wydałem 9300 zł za nieco poobijaną maszynę
+Dużo jeździłem na dwóch kółkach ale bez silnika. Jestem dopiero początkującym
+motocyklistą bo prawo kat.A zrobiłem w październiku 2014, pożyczyłem na 2 tyg.
+Hondę [CBF500](https://pl.wikipedia.org/wiki/Honda_CBF_500) i przez 4 dni
+urlopu zrobiłem ponad tysiąc kilometrów. Potem przyszła zima i potężny test
+cierpliwości.
+
+W marcu kupiłem mój pierwszy motocykl:
+Honda [Transalp XL650V][transalp] z 2004 roku. Maszyna nieco poobijana
 z dość dużym przebiegem 54.250km:
 
 * poobdzierane plastyki
 * nie był garażowany: plastiki, lakier, rdza
 * wgniotka na baku
 * wyraźne ranty na tarczach hamulcowych
-
-Te bardziej zadbane potrafiły kosztować kilka tysięcy więcej mimo, iż starsze
-niż 2004. Tutaj przynajmniej wszystko jest jak na dłoni.
 
 Start marca był suchy ale dość zimny z temperaturami 0-12℃. i przeważnie mokro.
 Dopiero od połowy marca mogłem przetestować maszynę.
@@ -34,20 +36,23 @@ Spalanie 4.5-6l/100km. Minimalne spalanie przy trzymaniu niskich obrotów.
 ## Jazda ##
 
 ### Pozycja ###
-Transalp jest wyraźnie wyższy od motocykli na których jeździłem
-ale zatrzymując się w ruchu miejskim nadal stoję pewnie obiema stopami.
-Pozycja jazdy wyprostowana, dość komfortowa. Kolana idealnie
-komponują się w zagłębienia pod zbiornikiem stanowiąc wspólną bryłę
+Transalp jest wyraźnie wyższy od motocykli na których jeździłem na kursie
+i od CBF500, ale zatrzymując się w ruchu miejskim nadal
+stoję pewnie obiema stopami.
+Pozycja jazdy wyprostowana, dość komfortowa. Kolana chowają się
+się częściowo w zagłębienia pod zbiornikiem stanowiąc wspólną bryłę
 z linią motocykla. Odczucie zimna podczas jazdy jest ograniczone
 do zewnętrznych części kolan i nóg.
 
 
 ### Prowadzenie ###
-Nie czułem się komfortowo do czasu aż nie zrobiłem na nim kilku
-ósemek. Dopiero wtedy wyczułem właściwą pozycję.
+Dziwacznie mi się na nim jeździło aż nie zrobiłem na nim kilku
+ósemek. Dopiero wtedy wyczułem właściwą pozycję: trzymanie
+kolanami zbiornika, wyluzowanie kierownicy.
 
+Stare wygi pewnie dawno to wiedzą, ale dla mnie to odkrycie:
 Prowadzenie się motocykla mocno zależy od temperatury asfaltu.
-Fatalna przyczepność do asfaltu w zimne dni. Bywa bardziej
+Fatalna przyczepność do drogi w zimne dni. Bywa nawet bardziej
 niebezpiecznie niż podczas jazdy na mokrym.
 
 Kiedyś podczas wolnej jazdy z dużym przechyłem (ciasny zakręt)
@@ -119,8 +124,8 @@ później dodaję wskazujący.
 
 Tylny hamulec również hamuje całkiem znośnie, nie trzeba
 szczególnie mocno dusić pedału. Tylne koło bardzo szybko się 
-blokuje przy hamowaniu na morkym. Zwykle nie używam go
-poza jazdą w terenie.
+blokuje przy hamowaniu na mokrym. Zwykle nie używam go
+poza jazdą w terenie (a tej na razie nie było wiele).
 
 ### Opony ###
 
