@@ -3,7 +3,7 @@ layout: post
 title:  "First Post"
 date:   2015-02-06 14:20:50
 author: jkedra
-categories: [www, jekyll]
+categories: www
 tags: jekyll
 ---
 [Markdown syntax][md] looks incredibly simple and [Jekyll][jekyll] supports it out of the box.
@@ -29,19 +29,12 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 ## Liquid ##
 
-Liquid syntax as below:
-{% highlight liquid %}
-{% raw %}
-    {% for item in site.posts %}
-       * [{{ item.title }}]({{ item.url }})
-    {% endfor %}
-{% endraw %}
-{% endhighlight %}
+Some day I discovered [Flask](flask.pocoo.org/) and its
+[Jinja templates](http://jinja.pocoo.org/docs/dev/templates/).
+And this was a great template system for the web.
 
-produces:
-
-{% for item in site.posts %}{% if item.language == "en" %}
-1. [{{ item.title }}]({{ item.url }}) {% for t in item.tags %} {{ t }} {% endfor %}{% endif %}{% endfor %}
+Later on, when I found [Jekyll] and its template system -- [Liquid],
+I came to me, they (Liquid-Jinja) are similar in syntax.
 
 Posts in Polish:
 
@@ -49,16 +42,6 @@ Posts in Polish:
 1. [{{ item.title }}]({{ item.url }}) {% for t in item.tags %} {{ t }} {% endfor %}
 {% endif %}
 {% endfor %}
-
-
-{% for item in site.posts %}
-{{ item }}
-{% endfor %}
-
-When analysing above it is good to be familiar with:
-
-* [Jekyll variables](http://jekyllrb.com/docs/variables/)
-* [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 
 ## Sass ##
 [Sass][sass] is an extension to CSS, a preprocessor which allows to use
@@ -74,6 +57,7 @@ to another (@extend). Here is [Sass Reference][sassref].
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
+[liquid]:      http://liquidmarkup.org/
 [textile]:     http://redcloth.org/textile
 [md]:          http://daringfireball.net/projects/markdown/
 [sass]:        http://sass-lang.com/guide
