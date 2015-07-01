@@ -49,6 +49,11 @@ variables, nesting, arithmetic operators.
 It also allows to share a set of CSS properties from one selector
 to another (@extend). Here is [Sass Reference][sassref].
 
+## CoffeeScript ##
+
+* [Wikipedia on CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript)
+* [CoffeeScript Site](http://coffeescript.org/)
+
 ## References ##
 
 1. [Markdown Syntax][md]
