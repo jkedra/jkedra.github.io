@@ -1,8 +1,27 @@
 ---
 layout: default
+title: test1
 ---
 
 {% assign excluded = "content|previous|next|excerpt" | split: "|" %}
+
+<h3>Code:</h3>
+
+  {% highlight liquid %}
+  {% raw %}
+  {% for post in site.posts %}
+  <li> <ul>
+       {% for item in post %}
+       <li><b>{{ item[0] }}</b> : 
+            {% if excluded contains item[0] %}⋯ {% else %} {{ item[1] }} {% endif %} </li>
+       {% endfor %}
+       </ul>
+  </li>
+  {% endfor %}
+  {% endraw %}
+  {% endhighlight %}
+
+<h3>Results:</h3>
 
 <ol>
 {% for post in site.posts %}
@@ -12,7 +31,6 @@ layout: default
           {% if excluded contains item[0] %}⋯ {% else %} {{ item[1] }} {% endif %} </li>
      {% endfor %}
      </ul>
-     </li>
 </li>
 {% endfor %}
 </ol>
