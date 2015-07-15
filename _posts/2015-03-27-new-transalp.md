@@ -91,7 +91,17 @@ już mi się przydarzyla. Te opony nie nadają się w ogóle na trawę
 lub glinę. Na suchych drogach, szuter, koleiny - nie ma problemu.
 Nawet przy jeździe z dużym nachyleniem w dół i górę Transalp prowadzi
 się stabilnie.
-Ale każda kępa trawy nadal mnie stresuje.
+
+_UPDATE 2015.07.15_: Zaliczyłem już kilka poważnych jazd w terenie.
+Najbardziej wyczynową było ominięcie odcinka między Izdebkami,
+a Rudawcem -- zablokowanego ze względu na zjazd deskorolkarzy
+po serpentynach. Wpierw bardzo stromy podjazd drogą polną.
+Pióropusz wysokiej trawy pośrodku i głębokie koleiny
+na prawo i lewo z dużymi kamieniami. Podjazd tak ostry,
+że chyba spadłbym z motocykla gdybym się tam zatrzymał.
+Potem jazda po ściernisku, dalej -- pomimo, że drogą -- w trawie
+po pas. Transalp dał radę - jest bardzo stabilny, tylna opona
+efektywna, nie boksuje. Warunek: musi być sucho.
 
 ### Silnik ###
 Obroty na biegu jałowym ustawiłem tak, żeby nie były większe
@@ -112,7 +122,11 @@ i sprężyn to około 250 zł.
 Zaskakująco skuteczne hamulce choć początkowo koła bardzo łatwo wpadały
 w poślizg podczas testów hamowania. Ale to ze względu na niską
 temperaturę otoczenia. Przy 20℃ i wyżej nie udało mi się jeszcze
-zablokować przedniego koła - ale spróbuję :-)
+zablokować przedniego koła w wyniku normalnego hamowania.
+
+Raz testowo hamowałem raz testowo na piasku przednim hamulcem
+i sytuacja w której blokuje się przód jest taką,
+której chciałbym raczej uniknąć.
 
 Amortyzator z przodu jest miękki i ma głębokie ugięcie.
 Musiałem się nauczyć stopniowego hamowania
@@ -122,21 +136,25 @@ klamki hamulca skończyłoby się utratą kontroli nad pojazdem.
 Praktycznie używam tylko środkowego palca, w razie potrzeby
 później dodaję wskazujący.
 
-Tylny hamulec również hamuje całkiem znośnie, nie trzeba
-szczególnie mocno dusić pedału. Tylne koło bardzo szybko się 
-blokuje przy hamowaniu na mokrym. Zwykle nie używam go
-poza jazdą w terenie (a tej na razie nie było wiele).
+Tylny hamulec jest dość czuły, nie trzeba szczególnie mocno
+dusić pedału. Jednak tylne koło bardzo szybko się blokuje,
+zwłaszcza na mokrej nawierzchni. Zwykle nie ma sensu używać
+go poza jazdą w terenie.
 
 ### Opony ###
 
-1. Przód: Metzeler Tourance 90/90-21 M/C 54S
-2. Tył: Metzeler Tourance, 120/90-17 M/C 64S, rocznik 2011
+1. Przód: [Metzeler Tourance][tourance] 90/90-21 M/C 54S
+2. Tył: [Metzeler Tourance][tourance], 120/90-17 M/C 64S, rocznik 2011
 
 ### Inne Problemy ###
 Przy niskich obrotach silnika (czyli nie przy małej prędkości),
 silnik szarpie i idzie nierówno przy obciążaniu.
 Podobnie silnik pracuje dość nierówno przy obciążeniu do ok 3tys. obr/min.
 
+_update 2015.07.15_: Problem rozwiązała [synchronizacja gaźników][synchro].
+
+[tourance]:  http://www.oponeo.pl/model-opony-motocyklowej/metzeler-tourance
+[synchro]:   /moto/2015/07/06/synchro.html
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
 [hiss]:      https://www.youtube.com/watch?v=db0ee6u7CjQ "Honda Ignition Security System"
 [immob]:       http://pl.wikipedia.org/wiki/Immobilizer
