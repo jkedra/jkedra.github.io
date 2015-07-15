@@ -6,11 +6,15 @@ author: jkedra
 language: pl
 categories: moto
 ---
-Dużo jeździłem na dwóch kółkach ale bez silnika. Jestem dopiero początkującym
-motocyklistą bo prawo kat.A zrobiłem w październiku 2014, pożyczyłem na 2 tyg.
+Gdy w kwietniu 2014 spotkałem się z Łukaszem, przyjechał na Yamaha Virago 500.
+Typowy błyszczący chopper. Nigdy wcześniej nie jeździłem motocyklem.
+Gdy przewiozłem się jego Virago od razu wiedziałem, że to jest to!
+Zapisałem się do [najlepszej szkoły motocyklowej w Krakowie](http://msm.malopolska.pl)
+i zdałem prawo jazdy w październiku tego samego roku.
+Gdy tylko otrzymałem dokument, [wypożyczyłem na 2 tyg.](http://motonasezon.pl)
 Hondę [CBF500](https://pl.wikipedia.org/wiki/Honda_CBF_500) i przez 4 dni
-urlopu zrobiłem ponad tysiąc kilometrów. Potem przyszła zima i potężny test
-cierpliwości.
+urlopu zrobiłem ponad tysiąc kilometrów.
+A potem przyszła zima i potężny test cierpliwości.
 
 W marcu kupiłem mój pierwszy motocykl:
 Honda [Transalp XL650V][transalp] z 2004 roku. Maszyna nieco poobijana
