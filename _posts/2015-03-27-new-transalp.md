@@ -128,7 +128,7 @@ w poślizg podczas testów hamowania. Ale to ze względu na niską
 temperaturę otoczenia. Przy 20℃ i wyżej nie udało mi się jeszcze
 zablokować przedniego koła w wyniku normalnego hamowania.
 
-Raz testowo hamowałem raz testowo na piasku przednim hamulcem
+Hamowałem raz testowo na piasku przednim hamulcem
 i sytuacja w której blokuje się przód jest taką,
 której chciałbym raczej uniknąć.
 
