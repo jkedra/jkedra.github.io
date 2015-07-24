@@ -8,28 +8,79 @@ categories: moto
 ---
 Gdy w kwietniu 2014 spotkałem się z Łukaszem, przyjechał na Yamaha Virago 500.
 Typowy błyszczący chopper. Nigdy wcześniej nie jeździłem motocyklem.
-Gdy przewiozłem się jego Virago od razu wiedziałem, że to jest to!
-Zapisałem się do [najlepszej szkoły motocyklowej w Krakowie](http://msm.malopolska.pl)
-i zdałem prawo jazdy w październiku tego samego roku.
-Gdy tylko otrzymałem dokument, [wypożyczyłem na 2 tyg.](http://motonasezon.pl)
-Hondę [CBF500](https://pl.wikipedia.org/wiki/Honda_CBF_500) i przez 4 dni
-urlopu zrobiłem ponad tysiąc kilometrów.
+Gdy przewiozłem się jego Virago od razu zrozumiałem, że utrafiłem w pewien
+niezagospodarowany obszar mojego życia.
+
+Zanim zacząłem jeździć na kursie, oglądałem wszelkie możliwe motocykle
+na allegro. Mój rocznik wybiera raczej choppery:
+Yamaha Virago, Suzuki Intruder. Jak na tym jeździć po zakrętach?
+Jaką pozycję przybrać na takim motocyklu? 
+Bardziej mnie ciągnęło w kierunku typów
+turystycznych. Wyglądało, że w moim zasięgu będzie tania Yamaha XJ600,
+także XJ900 wyglądała ponętnie ze względu na wał kardana. Tego typu
+maszyny jednak są zbyt mało elastyczne, ograniczone wyłącznie do
+jazdy po asfalcie. A ja lubię las i bezdroża.  
+
+Zapisałem się do [najlepszej szkoły motocyklowej w Krakowie][msm]
+i w trakcie 30 godzin nużącego kręcenia ósemek i slalomów
+na placu manewrowym -- w upale, smrodzie asfaltu i benzyny,
+często też w deszczu -- zrozumiałem, że na motocyklu nie chcę jeździć prosto.
+Kurs dał mi też możliwość jazdy na wielu typach motocykli, zaliczyłem tam
+Suzuki GN125, jakąś 200, jakąś 300, jeździłem na [GS500]
+i w końcu Suzuki [Gladius][SVF650]. Nie zliczę ile razy położyłem tam
+motocykl, jak przyjarałem sprzęgła, hamulce i wytarłem opony.
+Każda godzina spędzona w tej szkole to oszczędności
+na moim własnym motocyklu no i zdrowiu.
+
+Po między kolejnymi zajęciami praktycznymi byłem tak napalony,
+że czytałem wszystkie możliwe książki, jakie znajdywałem
+na temat techniki jazdy motocyklem.
+
+Udało mi się zdać prawo jazdy przy pierwszym podejściu
+w październiku tego samego roku. Opłaciło się szkolić
+10h więcej niż przewiduje kurs.
+Gdy tylko otrzymałem dokument, [wypożyczyłem](http://motonasezon.pl)
+Hondę [CB500](https://pl.wikipedia.org/wiki/Honda_CBF_500) i przez 4 dni
+urlopu zrobiłem ponad półtora tysiąca kilometrów. CB500 leciutki motorek,
+to był dobry wybór dla nowicjusza. Pojedzie nie tylko po asfalcie ale
+jako tako i po drogach ziemnych. Zawieszenie jednak niskie więc 
+bardzo uważałem bo motor nie mój.
+Już byłem pewien, że XJ600 to nie będzie mój wybór - celowałem bardziej
+w endurowate turystyki: Yamaha TDJ 850/900, w miarę uniwersalny ale
+duża pojemność nie wydawała się właściwa dla zielnego kierowcy.
+Honda Transalp, niby wszystko OK ale jakoś taka malutka, cieniutka.
+Africa Twin zbyt ekstrawagancka. Jednocylindrowe Yamahy Tenere
+jakoś podejrzane i za bardzo endurowate.
+Idealnym wyborem wydawało się Suzuki V-Strom 650,
+ale to ciągle nowy model dość wysoka cena mnie odstraszała. W końcu
+chodziło o pierwszy motocykl - spodziewałem się, że obiję i przytrę
+go wielokrotnie.
 A potem przyszła zima i potężny test cierpliwości.
 
 W marcu kupiłem mój pierwszy motocykl:
-Honda [Transalp XL650V][transalp] z 2004 roku. Maszyna nieco poobijana
-z dość dużym przebiegem 54.250km:
+Honda [Transalp XL650V][transalp] z 2004 roku. Piersze wrażenie jest
+"jaki to wysoki motocykl"! No z CB na Transalpa trzeba się wspinać.
+Maszyna nieco poobijana, z widoczną historią, tu jakieś wgniotki,
+tu lakier wyblakły, tam podrdzewiała, ranty na tarczach hamulcowych.
+No i z przebiegiem który wydawał mi się kosmicznie duży: 54.250km,
+ale jednak bardziej realny niż różnej maści dwudziestolatki
+z zawsze mniej niż 30tys. przebiegu.
+Teraz, po 5 miesiącach posiadania motocykla
+(z czego 2 miesiące stał w garażu) i nabiciu mu ponad 4 tys km.
+po prostu jeżdżąc na krótkie wycieczki, 50 tys. 
+nie wydaje mi się szczególnie dużym przebiegiem u 11 letniego moto.
 
-* poobdzierane plastyki
-* nie był garażowany: plastiki, lakier, rdza
-* wgniotka na baku
-* wyraźne ranty na tarczach hamulcowych
 
-Start marca był suchy ale dość zimny z temperaturami 0-12℃. i przeważnie mokro.
+# Pierwsze wrażenia
+
+Start marca był suchy ale dość zimny z temperaturami 0-12℃. i przeważnie mokro,
+nie dało się jeździć choć tak bardzo chciałem, że aż się rozchorowałem.
 Dopiero od połowy marca mogłem przetestować maszynę.
-Z obsługi na razie zmieniłem tylko olej i filtr.
+Z obsługi póki co zmieniłem olej, filtry, zsychronizowałem gaźnik,
+poregulowałem stop i dźwignię tylnego hamulca. W kwietniu byłem 3 tygodnie
+w delegacji więc też sobie nie użyłem.
 
-Motocykl dostałem tylko z jednym kluczykiem więc od razu pojawiła się sprawa
+Motocykl dostałem tylko z jednym kluczykiem i od razu pojawiła się sprawa
 dorobienia kolejnego. Ta wersja [Transalpa][transalp] jest już wyposażona
 w [imobilizer][immob] [HISS][hiss] więc sprawa nie jest zupełnie trywialna.
 Kluczyk udało się kupić na Allegro i zarejestrować samodzielnie w
@@ -157,6 +208,9 @@ Podobnie silnik pracuje dość nierówno przy obciążeniu do ok 3tys. obr/min.
 
 _update 2015.07.15_: Problem rozwiązała [synchronizacja gaźników][synchro].
 
+[svf650]:    https://pl.wikipedia.org/wiki/Suzuki_SFV650
+[gs500]:     https://pl.wikipedia.org/wiki/Suzuki_GS_500
+[msm]:       http://szkola-motocyklowa.pl/
 [tourance]:  http://www.oponeo.pl/model-opony-motocyklowej/metzeler-tourance
 [synchro]:   /moto/2015/07/06/synchro.html
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
