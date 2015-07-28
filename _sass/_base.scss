@@ -14,10 +14,16 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
+    // that is nicely compiled later into
+    // font-family: font-size: font-weight:
+    // http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+    //
+    font: {
+        family: $base-font-family;
+        size: $base-font-size;
+        weight: 300;
+    }
     line-height: $base-line-height;
-    font-weight: 300;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
