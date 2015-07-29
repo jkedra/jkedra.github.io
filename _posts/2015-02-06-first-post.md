@@ -21,10 +21,11 @@ I started taking notes there as well. But sharing among friends
 is not enough I wanted to share most of them publicly.
 
 Considering above I moved to blogging instead, and
-choose [Blogspot] as my platform.
-But Blogspot was to heavy for me, to slow, to stiff.
-And despite it was owned by Google (I like stuff they invest into)
-I did not like [Blogspot] at all.
+choose [Blogspot] as my platform. I created a couple of posts
+during over a year but soon I discovered this is not my choice.
+Blogspot was too heavy for me, too slow, too stiff. I could not
+breath.  And despite I usually like Google products
+(it is owned by Google) I did not like [Blogspot] at all.
 
 Recently I have found [Jekyll], it is static website rendered
 from text templates. Posts can be written in [markdown][md]
