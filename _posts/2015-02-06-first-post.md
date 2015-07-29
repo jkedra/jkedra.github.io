@@ -4,10 +4,40 @@ title:  "First Post"
 date:   2015-02-06 14:20:50
 author: jkedra
 categories: www
+language: en
 tags: jekyll
 ---
-[Markdown syntax][md] looks incredibly simple and [Jekyll][jekyll] supports it out of the box.
-But there are myriad extensions for other formats as well including [Textile][textile]. 
+
+## Why blogging
+Why blogging at all? IT knowledge is so wide and wast
+- there is no chance I could remember all of it.
+Often it happens I learn something and the skill is not used later
+for longer time. If I would not write it down, I will forget it.
+So I developed some ways of storing the information. Starting with
+plain files, spread over my Oracle Virtualbox VM. Then I peeked
+my friend taking notes in the Google Docs. I had file versioning,
+rich format cabapilities. It could be even shared among friends.
+I started taking notes there as well. But sharing among friends
+is not enough I wanted to share most of them publicly.
+
+Considering above I moved to blogging instead, and
+choose [Blogspot] as my platform.
+But Blogspot was to heavy for me, to slow, to stiff.
+And despite it was owned by Google (I like stuff they invest into)
+I did not like [Blogspot] at all.
+
+Recently I have found [Jekyll], it is static website rendered
+from text templates. Posts can be written in [markdown][md]
+or [textile]. Both formats are good enough for me, allow for
+rich format and media sharing. The content is under git
+(actually github) version control.
+Looks like it is the solution I was looking for. Geekish enough,
+easy to edit, I can take the whole site with me and a single
+git push is enough to publish my changes.
+
+## Jekyll
+[Markdown syntax][md] is simpler than HTML and [Jekyll] supports it out of the box.
+But there are myriad extensions for other formats as well including [Textile]. 
 
 Jekyll also offers powerful support for code snippets:
 
@@ -62,6 +92,7 @@ to another (@extend). Here is [Sass Reference][sassref].
 1. [Markdown Syntax][md]
 2. [Textile Syntax][textile]
 
+[blogspot]:    https://www.blogger.com
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
