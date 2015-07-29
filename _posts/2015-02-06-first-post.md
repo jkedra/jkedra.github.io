@@ -12,7 +12,7 @@ tags: jekyll
 Why blogging at all? IT knowledge is so wide and wast
 - there is no chance I could remember all of it.
 Often it happens I learn something and the skill is not used later
-for longer time. If I would not write it down, I will forget it.
+for longer time. If had not written it down, I would have forgotten it.
 So I developed some ways of storing the information. Starting with
 plain files, spread over my Oracle Virtualbox VM. Then I peeked
 my friend taking notes in the Google Docs. I had file versioning,
@@ -58,8 +58,9 @@ class URLLister(SGMLParser):
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[Jekyll] can be also deployed
-[directly to S3](http://www.jonknapp.com/2013/01/deploying-jekyll-to-s3/).
+1. [Jekyll] can be also deployed
+   [directly to S3](http://www.jonknapp.com/2013/01/deploying-jekyll-to-s3/).
+2. [Jekyll multiple languages][jkyl-lang]
 
 ## Liquid ##
 
@@ -97,6 +98,7 @@ to another (@extend). Here is [Sass Reference][sassref].
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
+[jkyl-lang]:   http://jekyll-langs.liaohuqiu.net/
 [liquid]:      http://liquidmarkup.org/
 [textile]:     http://redcloth.org/textile
 [md]:          http://daringfireball.net/projects/markdown/
