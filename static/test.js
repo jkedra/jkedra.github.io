@@ -1,9 +1,11 @@
 
 function permaLink() {
-    if(this.id != '') {
+    if(this.id.length > 0) {
         $('<a class="headerlink">\u00B6</a>').
-        attr('href', '#' + this.id).
-        attr('title', 'Permalink to this headline').
+        attr({
+			href: '#' + this.id,
+			title: 'Permalink to this headline'
+			}).
         appendTo(this);
     }
 };
