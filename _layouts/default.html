@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
+  <!--headstart-->{% capture incldhead %}{% include head.html %}{% endcapture %}
+  {{ incldhead | strip_newlines | replace:'  <',"  <" }}
+  <!--headend-->
   <body>
 
     {% include header.html %}

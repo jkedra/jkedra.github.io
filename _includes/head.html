@@ -4,16 +4,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
   {% if page.css %}
   <link rel="stylesheet" href="/static/{{ page.css }}.css">
   {% endif %}
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  {% if page.jquery %} 
-  <script src="{{ "/static/jquery-1.11.3.js" | prepend: site.baseurl }}"></script>
+
+  {% if page.jquery %}<script src="{{ "/static/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/static/test.js" | prepend: site.baseurl }}"></script>
   {% endif %}
+
+  {% if page.jss %}{% for included_js in page.jss %}
+  <script src="/static/{{ included_js }}.js"></script>
+  {% endfor %}{% endif %}
+
+  {% if page.js %}
+  <script src="/static/{{ page.js }}.js"></script>
+  {% endif %}
+
 </head>

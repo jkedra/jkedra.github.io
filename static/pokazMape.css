@@ -1,0 +1,10 @@
+p.pokazMape {
+  border-style: solid;
+  padding: 3px;
+  text-align: center;
+}
+
+p.pokazMape:hover {
+  color: white;
+  background-color: green;
+}
