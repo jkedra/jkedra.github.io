@@ -17,6 +17,11 @@ function regPokazMapy() {
     regPokazMape('p.pokazMape', 'starawies',
         'map_starawies',
 		'https://mapsengine.google.com/map/u/0/embed?mid=zBqI9lALHG00.kO7CEoIiN8oM');
+
+    regPokazMape('p.pokazMape', 'ochotnica',
+        'map_ochotnica',
+		'https://www.google.com/maps/d/u/0/embed?mid=zBqI9lALHG00.kFrN6dxyNvsI');
+
 }
 
 $(document).ready(regPokazMapy);
