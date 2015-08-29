@@ -22,6 +22,10 @@ function regPokazMapy() {
         'map_ochotnica',
 		'https://www.google.com/maps/d/u/0/embed?mid=zBqI9lALHG00.kFrN6dxyNvsI');
 
+    regPokazMape('p.pokazMape', 'muszyna',
+        'map_muszyna',
+		'https://mapsengine.google.com/map/u/0/embed?mid=zBqI9lALHG00.kTnm-73ulm0Y');
+
 }
 
 $(document).ready(regPokazMapy);
