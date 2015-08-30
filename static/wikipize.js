@@ -6,8 +6,12 @@ function wikipize() {
 		function() {
 			var href = $(this).attr("href");
 			if( /^w:/.test( href ) ) {
-				var targetLink = "https://pl.wikipedia.org/wiki/" +
-                                  href.slice(2);
+				// if empty link, use <A>TEXT</A>
+				var targetLink = "https://pl.wikipedia.org/wiki/";
+                if(href.slice(2).length)
+					targetLink += href.slice(2)
+				else
+					targetLink += $(this).text();
 
 				console.log("HREF=" + href + " => " + targetLink);
 				$(this).attr("href", targetLink);
