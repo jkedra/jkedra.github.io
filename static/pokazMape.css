@@ -8,3 +8,21 @@ p.pokazMape:hover {
   color: white;
   background-color: green;
 }
+
+p.pokazMape2 {
+  border-style: solid;
+  padding: 3px;
+  text-align: center;
+}
+
+p.pokazMape2:hover {
+  color: white;
+  background-color: green;
+}
+
+#map_ochotnica {
+  height:   480px;
+  width:    720px;
+  display:  none;
+}
+

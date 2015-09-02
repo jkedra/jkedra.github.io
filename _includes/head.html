@@ -21,6 +21,10 @@
   <script src="{{ "/static/pilcrow.js" | prepend: site.baseurl }}" defer></script>
   {% endif %}
 
+  {% if page.gmaps %}
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBS83qv6_UGD5glfsguqS0c6Xqt_7kbKv0&language=pl&region=PL"></script>
+  {% endif %}
+
   {% if page.jss %}
     {% for ln in page.jss %}
     {% assign jsarr = ln | split:" " %} 
