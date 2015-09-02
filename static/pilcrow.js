@@ -1,5 +1,5 @@
 
-function permaLink() {
+function pilcrow() {
     if(this.id.length > 0) {
         $('<a class="headerlink">\u00B6</a>').
         attr({
@@ -11,7 +11,7 @@ function permaLink() {
 };
 
 function myHeader() {
-    $('h1, h2, h3, h4').each(permaLink);
+    $('h1, h2, h3, h4').each(pilcrow);
 }
 
 $(document).ready(myHeader);
