@@ -13,6 +13,7 @@ p.pokazMape2 {
   border-style: solid;
   padding: 3px;
   text-align: center;
+  display: none;
 }
 
 p.pokazMape2:hover {
@@ -25,4 +26,11 @@ p.pokazMape2:hover {
   width:    720px;
   display:  none;
 }
+
+#map_starawies {
+  height:   480px;
+  width:    720px;
+  display:  none;
+}
+
 
