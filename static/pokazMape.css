@@ -21,16 +21,9 @@ p.pokazMape2:hover {
   background-color: green;
 }
 
-#map_ochotnica {
+div.gmaps {
   height:   480px;
   width:    720px;
   display:  none;
 }
-
-#map_starawies {
-  height:   480px;
-  width:    720px;
-  display:  none;
-}
-
 
