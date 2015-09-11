@@ -6,22 +6,11 @@ author: jkedra
 language: en
 categories: www
 ---
-This is Textile test page.
 
-h1. Cache
+"Textile":https://en.wikipedia.org/wiki/Textile_%28markup_language%29 is a nice markup language with syntax which tempts me by its simplicity and clarity. Originally developed for PHP it still remains well supported there.
 
-*  "Memcached":http://memcached.org/about, _allows you to take memory
-   from parts of your system where you have more than you need
-   and make it accessible to areas where you have less than you need_.
+Jekyll supports Textile natively. However it uses "RedCloth":redcloth implementation which is rather old version, contains no fancy syntax and as for now "is not actively developed":https://github.com/jgarber/redcloth/commit/b24f03db023d1653d60dd33b28e09317cd77c6a0?short_path=cb3e0f2#diff-cb3e0f2c76a671c083e8f001970f4631.
 
-h3. AWS CloudFormation
+The up to date specification can be found at "TxStyle.org":http://txstyle.org/ page. This is the PHP version. It has much more flexible syntax and it would be my choice if it was present in Jekyll.
 
-* "Troposphere":https://github.com/cloudtools/troposphere
-  This is GitHub repository.
-* "CloudFormation Masterclass":https://www.youtube.com/watch?v=6R44BADNJA8
-* "Template Reference":http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html
-
-[lsblk-aws]: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-store-swap-volumes.html
-[lsblk-man]: http://manpages.ubuntu.com/manpages/raring/man8/lsblk.8.html
-[lsblk-rh]: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/s1-sysinfo-filesystems.html
-
+[redcloth]http://redcloth.org/textile
