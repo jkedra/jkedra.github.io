@@ -1,3 +1,4 @@
+// vim:ts=4:expandtab
 function mapsApiCallback() {
 	console.info("mapsApiCallback: GMAPS API3 loaded");
 	$("p.pokazMape2").show();
@@ -57,27 +58,19 @@ function regPokazMape2(buttonSel, buttonId, targetId, mapLink) {
 	});
 }
 
-function regPokazMapy() {
+// defaults for maps, otherwise call regPokazMape2 directly
+function mDef(mapName, kmz) {
+    var btn  = 'p.pokazMape2';
 	var kmls = 'http://kedra.org/kml/';
+    regPokazMape2(btn, mapName, 'map_'+mapName, kmls + kmz);
+}
 
-    regPokazMape2('p.pokazMape2', 'ochotnica', 'map_ochotnica',
-                   kmls + 'Ochotnica.kmz');
-
-    regPokazMape2('p.pokazMape2', 'starawies', 'map_starawies',
-                   kmls + 'StaraWies.kmz');
-
-    regPokazMape2('p.pokazMape2', 'tatry', 'map_tatry',
-				   kmls + 'Tatry.kmz');
-
-    regPokazMape2('p.pokazMape2', 'muszyna', 'map_muszyna',
-				  kmls + 'StarySacz-Muszyna.kmz');
-
-/*
-    regPokazMape('p.pokazMape', 'starawies',
-        'map_starawies',
-		'https://mapsengine.google.com/map/u/0/embed?mid=zBqI9lALHG00.kO7CEoIiN8oM');
-*/
-
+function regPokazMapy() {
+    mDef('ochotnica',   'Ochotnica.kmz');
+    mDef('starawies',   'StaraWies.kmz');
+    mDef('tatry',       'Tatry.kmz');
+    mDef('muszyna',     'StarySacz-Muszyna.kmz');
+    mDef('slonne',      'MotoSlonne.kmz');
 }
 
 $(document).ready(regPokazMapy);
