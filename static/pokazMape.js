@@ -46,6 +46,14 @@ function regPokazMape2(buttonSel, buttonId, targetId, mapLink) {
 				url: mapLink,
 				map: map
 			});
+
+		  // overzoom
+		  google.maps.event.addListenerOnce(map, "zoom_changed", function() { 
+			  //console.info("old zoom: " + map.getZoom()); 
+			  map.setZoom(map.getZoom()+1);
+			  //console.info("new zoom: " + map.getZoom()); 
+		  });
+
 	});
 }
 
