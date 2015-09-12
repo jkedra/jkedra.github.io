@@ -1,8 +1,8 @@
 # Site settings
-title: GitHub Test Blog
+title: Test Blog
 email: jurek.kedra@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog about IT, bikes, motobikes, electronics and so on.
+  Testing blog about IT, bikes, motobikes, electronics and so on.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jurek.kedra.org" # the base hostname & protocol for your site
 twitter_username: jurked
