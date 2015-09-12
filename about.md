@@ -2,12 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+language: en
 ---
 
-Blog oparty o podstawowy temat Jekylla. Więcej na temat *kastomizacji* tematów
-jak i podstawowa dokumentacja do Jekylla [jekyllrb.com](http://jekyllrb.com/)
+Here is all you need to know about me:
 
-Źrodła dla nowych tematów Jekylla:
-[github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My name is Jurek, 41, born and live in Poland. Married, 2 teen daughters and 1 son.
 
-Źródla samego Jekylla: [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Occassionaly radio amateur (licensed 2004), electronics (digital and analog),
+biker since I could ride a bicycle, since 2014 motobiker.
+Professionally unix administrator (1994) and database administrator (2000).
+

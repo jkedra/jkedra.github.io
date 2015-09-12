@@ -1,15 +1,21 @@
 ---
-layout: default
+layout: page
+title: IT
+permalink: /it/
+language: en
 ---
-{% assign language="pl" %}
+This page groups posts which are related to:
 
-<div class="home">
+1. SysAdm - system administration
+2. Oracle (database)
+3. Programming
 
-  <h1 class="page-heading">Posty</h1>
+## IT posts
 
+{% assign category="www" %}
   <ul class="post-list">
     {% for post in site.posts %}
-    {% if post.language == language %}
+    {% if post.categories contains category %}
       <li>
         <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
 
@@ -21,5 +27,3 @@ layout: default
     {% endfor %}
  
   </ul>
-
-</div>

@@ -37,6 +37,10 @@ easy to edit, I can take the whole site with me and a single
 git push is enough to publish my changes.
 
 ## Jekyll
+
+
+~                 
+
 [Markdown syntax][md] is simpler than HTML and [Jekyll] supports it out of the box.
 But there are myriad extensions for other formats as well including [Textile]. 
 
@@ -61,6 +65,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 1. [Jekyll] can be also deployed
    [directly to S3](http://www.jonknapp.com/2013/01/deploying-jekyll-to-s3/).
 2. [Jekyll multiple languages][jkyl-lang]
+3. [Jekyll Themes](https://github.com/jglovier/jekyll-new)
 
 ## Liquid ##
 
