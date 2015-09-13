@@ -14,7 +14,12 @@ layout: default
            ({{ post.language | capitalize }})
         </span>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% assign is_draft = (post.path | truncate: 6, "") %}
+          {% if is_draft == "_draft" %} {% assign class_post_link = "post-link-draft" %}
+          {% else %} {% assign class_post_link = "post-link" %}
+          {% endif %}
+          <a class="{{ class_post_link }}"
+             href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
