@@ -25,7 +25,7 @@ Ta strona grupuje polskie posty na temat motocykli.
 1. [Pozytywnie do przodu][pdp],
   [Moroccooff-2015](http://pozytywniedoprzodu.blogspot.com/p/moroccooff-2015.html),
   [tutaj ta sama relacja na TCP](http://forum.transalpclub.pl/viewtopic.php?f=42&t=18063).
-2. [Theth przez chłopaków z TCP](http://forum.transalpclub.pl/viewtopic.php?f=42&t=19295),
+2. [Theth opisany przez Qtera](http://forum.transalpclub.pl/viewtopic.php?f=42&t=19295),
    dużo obrazków, wiele detali na temat pętli Theth.
 
 ## Trasy

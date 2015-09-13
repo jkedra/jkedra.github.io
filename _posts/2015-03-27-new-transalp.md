@@ -29,8 +29,8 @@ Kurs dał mi też możliwość jazdy na wielu typach motocykli, zaliczyłem tam
 Suzuki GN125, jakąś 200, jakąś 300, jeździłem na [GS500]
 i w końcu Suzuki [Gladius][SVF650]. Nie zliczę ile razy położyłem tam
 motocykl, jak przyjarałem sprzęgła, hamulce i wytarłem opony.
-Każda godzina spędzona w tej szkole to oszczędności
-na moim własnym motocyklu no i zdrowiu.
+Każda godzina spędzona w szkole to konkretne oszczędności
+na moim własnym motocyklu i zdrowiu.
 
 Po między kolejnymi zajęciami praktycznymi byłem tak napalony,
 że czytałem wszystkie możliwe książki, jakie znajdywałem
@@ -41,7 +41,7 @@ w październiku tego samego roku. Opłaciło się szkolić
 10h więcej niż przewiduje kurs.
 Gdy tylko otrzymałem dokument, [wypożyczyłem](http://motonasezon.pl)
 Hondę [CB500](https://pl.wikipedia.org/wiki/Honda_CBF_500) i przez 4 dni
-urlopu zrobiłem ponad półtora tysiąca kilometrów. CB500 leciutki motorek,
+urlopu nakręciłem ponad półtora tysiąca kilometrów. CB500 leciutki motorek,
 to był dobry wybór dla nowicjusza. Pojedzie nie tylko po asfalcie ale
 jako tako i po drogach ziemnych. Zawieszenie jednak niskie więc 
 bardzo uważałem bo motor nie mój.
@@ -86,7 +86,8 @@ w [imobilizer][immob] [HISS][hiss] więc sprawa nie jest zupełnie trywialna.
 Kluczyk udało się kupić na Allegro i zarejestrować samodzielnie w
 imobilizerze. Planuję napisać o tym oddzielnego posta.
 
-Spalanie 4.5-6l/100km. Minimalne spalanie przy trzymaniu niskich obrotów.
+Spalanie 4.5-6l/100km. Minimalne spalanie przy niskich obrotach i 
+wyższej temperaturze na zewnątrz.
 
 ## Jazda ##
 
