@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Wymiana sprzęgła"
-date:   2015-09-12 20:30:00
 author: jkedra
 language: pl
 categories: moto
 tags: serwis
 ---
-
 W starym moto sprzęgło będzie trzeba serwisować wcześniej czy później.
 To tylko kwestia czasu.<!--more-->
 Dlatego już zbieram informacje co i jak będzie potrzebne do jego wymiany.
