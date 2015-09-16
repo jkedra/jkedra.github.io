@@ -5,13 +5,25 @@ function wikipize() {
 	$("a").each(
 		function() {
 			var href = $(this).attr("href");
-			if( /^w:/.test( href ) ) {
+			//  w:xxx  - polish wiki
+			//  we:xxx - english wiki
+			//
+			// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
+			var results = /^w(\w)*:([^\)]*)/.exec( href )
+			if(results != null) {
+				var lang  = results[1];	// wiki language
+				var entry = results[2];	// wiki entry
+				switch(lang) {
+					case undefined:
+						lang = "pl"; break;
+					case "e":
+						lang = "en"; break;
+				}
 				// if empty link, use <A>TEXT</A>
-				var targetLink = "https://pl.wikipedia.org/wiki/";
-                if(href.slice(2).length)
-					targetLink += href.slice(2)
-				else
-					targetLink += $(this).text();
+				if(entry.length==0)
+					entry = $(this).text();
+
+				targetLink = "https://"+lang+".wikipedia.org/wiki/"+entry;
 
 				console.log("HREF=" + href + " => " + targetLink);
 				$(this).attr("href", targetLink);
