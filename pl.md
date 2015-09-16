@@ -3,15 +3,9 @@ layout: page
 title: Polskie
 permalink: /pl/
 ---
-Czy to tylko mój problem w jakim pisać języku? To oczywiste, że
-angielski dociera do większej ilości odbiorców. Ale nie chcę
-zupełnie rezygnować z mojego języka ojczystego: 
-Jest ładny, pisze się łatwo (choć rozwlekle) i nie muszę
-co chwila sprawdzać pisowni.
-
-Wybrałem angielski, ale postanowiłem zostawić sobie możliwość
-użycia języka polskiego tam gdzie kworum będzie celowo
-ograniczone do polskich odbiorców.
+Na język bloga wybrałem angielski, ale zostawiam sobie możliwość
+użycia języka polskiego tam gdzie celowo ograniczam obiorców
+do rodaków. Sprawy lokalne, polityka itp.
 
 ## Posty po polsku
 
