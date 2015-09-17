@@ -11,6 +11,9 @@ Ta strona grupuje polskie posty na temat motocykli.
 ### Fora
 * [Forum Transalp Club](http://forum.transalpclub.pl)
 
+### Techniczne
+1. [Porównanie XL650 kontra XT660R](http://forum.transalpclub.pl/viewtopic.php?f=191&t=14314)
+
 ### Blogi motocyklowe
 1. [Motohoryzont][mh] - podróże motocyklowe Janusza Osadzińskiego.
    Nie mogłem się od tego oderwać.
