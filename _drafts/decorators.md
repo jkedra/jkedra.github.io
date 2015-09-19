@@ -2,6 +2,7 @@
 layout: post
 title:  "Python Decorators"
 author: jkedra
+language: en
 categories: python
 ---
 
