@@ -7,6 +7,8 @@ categories: www
 language: en
 tags: css
 css: css-snip1
+jquery: true
+js: wikipize
 ---
 
 CSS snippets repository to avoid reinventing the wheel.
@@ -37,6 +39,11 @@ p.note {
 1. [Syntactically Awesome StyleSheets][Sass]
 2. [Sass Reference][sassref]
 3. [Sass Playground](saasmeister.com) - check how your CSS looks like.
+4. [Sass vs Less](https://css-tricks.com/sass-vs-less/),
+   [Less wiki](we:Less_%28stylesheet_language%29)
+
+### Bootstraps
+1. [Bootstrap](http://getbootstrap.com/)
 
 [csslrn1]:     http://www.w3schools.com/css/
 [cssref1]:     http://www.w3schools.com/cssref/
