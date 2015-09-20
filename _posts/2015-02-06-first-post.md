@@ -15,7 +15,7 @@ Often it happens I learn something and the skill is not used later
 for longer time. If had not written it down, I would have forgotten it.
 So I developed some ways of storing the information. Starting with
 plain files, spread over my Oracle Virtualbox VM. Then I peeked
-my friend taking notes in the Google Docs. I had file versioning,
+my friend taking notes in the Google Docs. It had file versioning,
 rich format cabapilities. It could be even shared among friends.
 I started taking notes there as well. But sharing among friends
 is not enough I wanted to share most of them publicly.
@@ -38,11 +38,8 @@ git push is enough to publish my changes.
 
 ## Jekyll
 
-
-~                 
-
 [Markdown syntax][md] is simpler than HTML and [Jekyll] supports it out of the box.
-But there are myriad extensions for other formats as well including [Textile]. 
+There are myriad extensions for other formats as well including [Textile]. 
 
 Jekyll also offers powerful support for code snippets:
 
