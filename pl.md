@@ -2,10 +2,11 @@
 layout: page
 title: Polskie
 permalink: /pl/
+language: pl
 ---
-Na język bloga wybrałem angielski, ale zostawiam sobie możliwość
-użycia języka polskiego tam gdzie celowo ograniczam obiorców
-do rodaków. Sprawy lokalne, polityka itp.
+Bywa, że angielski nie ma sensu lub celowo warto ograniczyć
+czytelników do tych, którzy znają polskie realia.
+Sprawy lokalne, polityka itp.
 
 ## Posty po polsku
 
