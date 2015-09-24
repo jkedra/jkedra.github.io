@@ -8,3 +8,35 @@ Q1      { quotes: "\00AB" "\00BB" }
 Q1:before       { content: open-quote }
 Q1:after        { content: close-quote }
 
+
+/* ***** internal ***** */
+
+qq { quotes: "<" ">";
+     font-family: Courier,sans-serif;
+}
+
+qq:before { content: open-quote }
+qq:after  { content: close-quote }
+
+
+/* ========= tables ========== */
+
+/* center table
+table { margin-left: auto; margin-right: auto; }
+*/
+
+th, td {
+    /*border: 1px solid black; */
+    padding: 0.3em 1em;
+}
+
+th { background-color: DarkSlateGray;
+     color: white;
+}
+
+td { background-color: SeaShell;
+     color: DarkSlateGrey;
+   }
+
+/* right intent */
+td:first-child { text-align: right }
