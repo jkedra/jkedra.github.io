@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "CSS (draft)"
+title:  CSS
 date:   2015-08-11 13:30:00
 author: jkedra
 categories: www
 language: en
 tags: css
-css: css-snip1
+css: [css-snip1, css]
+scss: [rcorn]
 jquery: true
 js: wikipize
 ---
@@ -28,6 +29,85 @@ p.note {
     The "border-left-width" property does not work if it is used alone.
     Use the "border-style" property to set the borders first.
 </p>
+
+### Attributes Selection
+http://www.w3schools.com/css/css_attribute_selectors.asp
+
+attribute       |example           | description
+----------------|------------------|------------
+[target]        |a[target]         | selects <qq>a</qq> elements with a target attribute
+----------------|------------------|------------
+[attr="val"]   |a[target]="_blank"]|
+----------------|------------------|------------
+[attr~="val"]   |[title~="flower"] |selects element with an attribute val containing specified (whole) word
+----------------|------------------|------------
+[attr&#124;="val"]|[class&#124;="top"]|selects el with an attribute starting with word (whole word): top-gun
+----------------|------------------|------------
+[attr^="val"]   |[class^="top"]    |selects el with an attribute starting with a string (not whole word): topgun
+----------------|------------------|------------
+[attr$="val"]   |[class$="top"]    |selects el with an attribute ending with a string (not a whole word ): guntop
+----------------|------------------|------------
+[attr*="val"]   |[class*="top"]    |selects el containing specified string (not a whole word): gutopgun
+----------------|------------------|------------
+
+### CSS3 Rounded Corners
+
+With CSS3, you can give any element "rounded corner", by using the
+[border-radius property](http://www.w3schools.com/css/css3_borders.asp).
+
+<p id="rcorners1">
+Here is for the background.
+</p>
+
+<p id="rcorners2">
+This example is for the border.
+</p>
+
+<p id="rcorners3">
+This example is for a background image.
+</p>
+
+<p id="clearb"> </p>
+
+### CSS3 Shadow Property
+At example above (CSS3 Rounded Corners) you can clearly see shadowed boxes.
+This is how box-shadow property works. The text-shadow property is applied
+to each h3-h5 header.
+
+The subject is elaborated at
+[W3Schools](http://www.w3schools.com/css/css3_shadows.asp).
+
+## CSS3 Backgrounds
+
+### CSS3 Border Images
+
+1. At Google Images there are
+   [tons of background images](https://www.google.com/search?tbm=isch&q=border+image+png).
+2. [Border Image Generator](http://border-image.com)
+3. [W3Schools Border Images](http://www.w3schools.com/css/css3_border_images.asp)
+
+### CSS3 Multiple Backgrounds
+
+<div id="background1">
+CSS3 allows you to add multiple background images for an element.
+The different background images are separated by commas,
+and the images are stacked on top of each other.
+</div>
+
+<br>
+More details on CSS3 backgrounds may be found at
+[W3Schools](http://www.w3schools.com/css/css3_backgrounds.asp).
+
+### CSS3 Gradients
+
+<div class="grbox" id="grad1">Diagonal Gradients</div>
+<div class="grbox" id="grad2">7 Color Stops</div>
+<div class="grbox" id="grad3">Radial Gradients</div>
+<div id="clearb"></div>
+
+Multiple options are available. A lot of example can be found
+at [W3Schools](http://www.w3schools.com/css/css3_gradients.asp).
+
 
 ## CSS
 1. [Learn Layout](http://learnlayout.com/) - CSS layouts explained.

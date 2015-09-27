@@ -7,7 +7,7 @@ language: en
 tags: html
 jquery: true
 js: wikipize
-css: html5
+css: [html5]
 ---
 
 New features of HTML and those I have already forgotten. HTML evolved

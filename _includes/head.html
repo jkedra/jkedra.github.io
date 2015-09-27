@@ -10,7 +10,15 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
   {% if page.css %}
-  <link rel="stylesheet" href="/static/{{ page.css }}.css">
+    {% for ln in page.css %}
+  <link rel="stylesheet" href="/static/{{ ln }}.css">
+    {% endfor %}
+  {% endif %}
+
+  {% if page.scss %}
+    {% for ln in page.scss %}
+  <link rel="stylesheet" href="/css/{{ ln }}.css">
+    {% endfor %}
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
