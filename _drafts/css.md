@@ -9,7 +9,8 @@ tags: css
 css: [css-snip1, css]
 scss: [rcorn]
 jquery: true
-js: wikipize
+jss: [wikipize, css]
+jquery: true
 ---
 
 CSS snippets repository to avoid reinventing the wheel.
@@ -55,24 +56,24 @@ attribute       |example           | description
 With CSS3, you can give any element "rounded corner", by using the
 [border-radius property](http://www.w3schools.com/css/css3_borders.asp).
 
-<p id="rcorners1">
+<p class="rcorners1">
 Here is for the background.
 </p>
 
-<p id="rcorners2">
+<p class="rcorners2">
 This example is for the border.
 </p>
 
-<p id="rcorners3">
+<p class="rcorners3">
 This example is for a background image.
 </p>
 
-<p id="clearb"> </p>
+<p class="clearb"> </p>
 
 ### CSS3 Shadow Property
 At example above (CSS3 Rounded Corners) you can clearly see shadowed boxes.
 This is how box-shadow property works. The text-shadow property is applied
-to each h3-h5 header.
+to each h1,h2 headers.
 
 The subject is elaborated at
 [W3Schools](http://www.w3schools.com/css/css3_shadows.asp).
@@ -103,10 +104,30 @@ More details on CSS3 backgrounds may be found at
 <div class="grbox" id="grad1">Diagonal Gradients</div>
 <div class="grbox" id="grad2">7 Color Stops</div>
 <div class="grbox" id="grad3">Radial Gradients</div>
-<div id="clearb"></div>
+<div class="clearb"></div>
 
 Multiple options are available. A lot of example can be found
 at [W3Schools](http://www.w3schools.com/css/css3_gradients.asp).
+
+### CSS3 Transformations
+
+<p class="rcorners2" id="id1">
+This example is for the border.
+</p>
+
+<form oninput="result.value=parseInt(rotation.value)">
+  Rotation:
+  <input type="range" name="rotation" min="-90" max="+90" value="0">
+  <output name="result">0</output>
+</form>
+<p class="clearb"> </p>
+
+The example above uses HTML5 <qq>input type="range"</qq>,
+and [W3 wiki](https://www.w3.org/wiki/HTML/Elements/input/range)
+describes all its attributes.
+
+W3Schools describes CSS3 [2D](http://www.w3schools.com/css/css3_2dtransforms.asp)
+and 3D transformations.
 
 
 ## CSS
@@ -114,6 +135,7 @@ at [W3Schools](http://www.w3schools.com/css/css3_gradients.asp).
 2. [CSS W3 Schools][csslrn1] - CSS tutorial, a lot of editable examples.
 3. [CSS color names][csscol1]
 4. [Border Image Generator](http://border-image.com)
+5. [CSS Reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### Sass
 1. [Syntactically Awesome StyleSheets][Sass]

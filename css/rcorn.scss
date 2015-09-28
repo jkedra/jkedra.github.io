@@ -8,7 +8,7 @@
  * =============== CORNERS =================
  */
 
-#rcorners1, #rcorners2, #rcorners3 {
+.rcorners1, .rcorners2, .rcorners3 {
     float: left;
 
     border-radius: 25px;
@@ -30,15 +30,15 @@
     align-items: center;     /* align-vertical */
 }
 
-#rcorners1 { background: #8AC007; }
-#rcorners2 { border: 2px solid #8AC007; }
-#rcorners3 {
+.rcorners1 { background: #8AC007; }
+.rcorners2 { border: 2px solid #8AC007; }
+.rcorners3 {
         background: url(/img/paper.gif);
         background-position: left top;
         background-repeat: repeat;
 }
 
-#clearb {
+.clearb {
   clear: both;
 }
 
