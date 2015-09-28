@@ -11,7 +11,7 @@ function wikipize() {
       // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
       // http://www.rexegg.com/regex-conditionals.html
       // optionally enclosed in ()
-      var results = /^w(\w)*:(\B*)/.exec( href )
+      var results = /^w(\w)*:(.*)/.exec( href )
       if(results != null) {
         var lang  = results[1]; // wiki language
         var entry = results[2]; // wiki entry
