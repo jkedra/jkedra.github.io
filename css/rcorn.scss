@@ -3,12 +3,46 @@
 ---
 @charset "utf-8";
 
+/* ========= tables ========== */
+
+/* center table
+table { margin-left: auto; margin-right: auto; }
+*/
+
+th, td {
+    padding: 0.3em 1em;
+}
+
+th {  background-color: DarkSlateGray;
+      color: white;
+      border-radius: 0.5em;
+}
+
+td { background-color: SeaShell;
+     color: DarkSlateGrey;
+     &:first-child, &:nth-child(2) {
+          padding: 0.3em 0em;
+          text-align: center;
+          font-family: Courier,sans-serif;
+     }
+
+}
+
+
 /* 
  * http://www.w3schools.com/css/css3_borders.asp
  * =============== CORNERS =================
  */
 
-.rcorners1, .rcorners2, .rcorners3 {
+@mixin displayCenterFlex {
+    /* http://stackoverflow.com/questions/
+       8865458/how-to-align-text-vertically-center-in-div-with-css */
+    display: flex;
+    justify-content: center; /* align-horizontal */
+    align-items: center;     /* align-vertical */
+}
+    
+.rcorner {
     float: left;
 
     border-radius: 25px;
@@ -24,18 +58,25 @@
 
     text-align: center;
 
-    /* http://stackoverflow.com/questions/8865458/how-to-align-text-vertically-center-in-div-with-css */
-    display: flex;
-    justify-content: center; /* align-horizontal */
-    align-items: center;     /* align-vertical */
+    @include displayCenterFlex;
 }
 
-.rcorners1 { background: #8AC007; }
-.rcorners2 { border: 2px solid #8AC007; }
+.rcorners1 {
+    @extend .rcorner;
+    background: #8AC007;
+}
+
+.rcorners2 {
+    @extend .rcorner;
+    border: 2px solid #8AC007;
+}
+
 .rcorners3 {
-        background: url(/img/paper.gif);
-        background-position: left top;
+    @extend .rcorner;
+    background: url(/img/paper.gif) {
+        position: left top;
         background-repeat: repeat;
+    }
 }
 
 .clearb {
@@ -53,16 +94,15 @@ h1,h2 {
  */
 
 #background1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* */
+    @include displayCenterFlex;
+
     padding: 4em 6em 8em 4em;
     /*height: 350px; */
-    background: url(/img/b2.png), url(/img/b4.png);
-    background-position: left top, right bottom; 
-    /*background-size: 300px 380px; */ 
-    background-repeat: no-repeat, no-repeat;
+    background: url(/img/b2.png), url(/img/b4.png) {
+        position: left top, right bottom; 
+        /*background-size: 300px 380px; */ 
+        repeat: no-repeat, no-repeat;
+    }
 }
 
 
@@ -71,9 +111,7 @@ h1,h2 {
  */
 
 .grbox {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    @include displayCenterFlex;
 
     float: left;
     margin: 0em 1em 2em 0em;
@@ -84,24 +122,16 @@ h1,h2 {
     color: white;
 }
 
-#grad1 {
-    background: -webkit-linear-gradient(left top, red , blue); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(bottom right, red, blue); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, red, blue); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, red , blue); /* Standard syntax (must be last) */
+
+@mixin gradient($what, $type,$descr...) {
+    @each $kit in -webkit- -o- -moz- {
+        #{$what}: #{$kit}#{$type}-gradient($descr);
+    }
+    /* Standard syntax (must be last) */
+    #{$what}: #{$type}-gradient($descr);
 }
 
-#grad2 {
-    background: -webkit-linear-gradient(red, orange, yellow, green, blue, indigo, violet); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(red, orange, yellow, green, blue, indigo, violet); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(red, orange, yellow, green, blue, indigo, violet); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet); /* Standard syntax (must be last) */
-}
-
-#grad3 {
-    background: -webkit-radial-gradient(red, green, blue); /* Safari 5.1 to 6.0 */
-    background: -o-radial-gradient(red, green, blue); /* For Opera 11.6 to 12.0 */
-    background: -moz-radial-gradient(red, green, blue); /* For Firefox 3.6 to 15 */
-    background: radial-gradient(red, green, blue); /* Standard syntax (must be last) */
-}
+#grad1 { @include gradient(background, linear, left top, red, blue); }
+#grad2 { @include gradient(background, linear, red, orange, yellow, green, blue, indigo, violet); }
+#grad3 { @include gradient(background, radial, red, green, blue); }
 

@@ -34,22 +34,48 @@ p.note {
 ### Attributes Selection
 http://www.w3schools.com/css/css_attribute_selectors.asp
 
-attribute       |example           | description
-----------------|------------------|------------
-[target]        |a[target]         | selects <qq>a</qq> elements with a target attribute
-----------------|------------------|------------
-[attr="val"]   |a[target]="_blank"]|
-----------------|------------------|------------
-[attr~="val"]   |[title~="flower"] |selects element with an attribute val containing specified (whole) word
-----------------|------------------|------------
-[attr&#124;="val"]|[class&#124;="top"]|selects el with an attribute starting with word (whole word): top-gun
-----------------|------------------|------------
-[attr^="val"]   |[class^="top"]    |selects el with an attribute starting with a string (not whole word): topgun
-----------------|------------------|------------
-[attr$="val"]   |[class$="top"]    |selects el with an attribute ending with a string (not a whole word ): guntop
-----------------|------------------|------------
-[attr*="val"]   |[class*="top"]    |selects el containing specified string (not a whole word): gutopgun
-----------------|------------------|------------
+<table id="cssattr">
+<tr>
+    <th>attribute</th> <th>example</th>
+    <th><description</th>
+</tr>
+
+<tr>
+    <td>[target]</td> <td>a[target]</td>
+    <td>selects <qq>a</qq> elements with a target attribute</td>
+</tr>
+
+<tr>
+    <td>[attr="val"]</td> <td>a[target]="_blank"]</td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>[attr~="val"]</td> <td>[title~="flower"]</td>
+    <td>selects element with an attribute val containing specified (whole) word</td>
+</tr>
+
+<tr>
+    <td>[attr&#124;="val"]</td> <td>[class&#124;="top"]</td>
+    <td>selects el with an attribute starting with word (whole word): top-gun</td>
+</tr>
+
+<tr>
+    <td>[attr^="val"]</td> <td>[class^="top"]</td>
+    <td>selects el with an attribute starting with a string (not whole word): topgun</td>
+</tr>
+
+<tr>
+    <td>[attr$="val"]</td> <td>[class$="top"]</td>
+    <td>selects el with an attribute ending with a string (not a whole word ): guntop</td>
+</tr>
+
+<tr>
+    <td>[attr*="val"]</td><td>[class*="top"]</td>
+    <td>selects el containing specified string (not a whole word): gutopgun</td>
+</tr>
+</table>
+
 
 ### CSS3 Rounded Corners
 
@@ -138,10 +164,9 @@ and 3D transformations.
 5. [CSS Reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### Sass
-1. [Syntactically Awesome StyleSheets][Sass]
-2. [Sass Reference][sassref]
-3. [Sass Playground](saasmeister.com) - check how your CSS looks like.
-4. [Sass vs Less](https://css-tricks.com/sass-vs-less/),
+1. [Syntactically Awesome StyleSheets][Sass], and its [reference][sassref].
+2. [Sass Playground](saasmeister.com) - check how your CSS looks like.
+3. [Sass vs Less](https://css-tricks.com/sass-vs-less/),
    [Less wiki](we:Less_%28stylesheet_language%29)
 
 ### Bootstraps
