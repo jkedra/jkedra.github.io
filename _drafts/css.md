@@ -182,6 +182,7 @@ HOVER OVER ME
 2. [Sass Playground](saasmeister.com) - check how your CSS looks like.
 3. [Sass vs Less](https://css-tricks.com/sass-vs-less/),
    [Less wiki](we:Less_%28stylesheet_language%29)
+4. [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/)
 
 ### Bootstraps
 1. [Bootstrap](http://getbootstrap.com/)
