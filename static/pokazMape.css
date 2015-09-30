@@ -9,18 +9,6 @@ p.pokazMape:hover {
   background-color: green;
 }
 
-p.pokazMape2 {
-  border-style: solid;
-  padding: 3px;
-  text-align: center;
-  display: none;
-}
-
-p.pokazMape2:hover {
-  color: white;
-  background-color: green;
-}
-
 div.gmaps {
   height:   480px;
   width:    720px;
