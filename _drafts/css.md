@@ -137,15 +137,18 @@ at [W3Schools](http://www.w3schools.com/css/css3_gradients.asp).
 
 ### CSS3 Transformations
 
-<p class="rcorners2" id="id1">
+<div class="rcorners2" id="id1">
 This example is for the border.
-</p>
+</div>
 
+<div class="rcorners2" id="id2">
 <form oninput="result.value=parseInt(rotation.value)">
   Rotation:
   <input type="range" name="rotation" min="-90" max="+90" value="0">
   <output name="result">0</output>
 </form>
+</div>
+
 <p class="clearb"> </p>
 
 The example above uses HTML5 <qq>input type="range"</qq>,
@@ -153,7 +156,18 @@ and [W3 wiki](https://www.w3.org/wiki/HTML/Elements/input/range)
 describes all its attributes.
 
 W3Schools describes CSS3 [2D](http://www.w3schools.com/css/css3_2dtransforms.asp)
-and 3D transformations.
+and [3D](http://www.w3schools.com/css/css3_3dtransforms.asp) transformations.
+
+### CSS3 Transitions
+[CSS3 Transitions](http://www.w3schools.com/css/css3_transitions.asp)
+are not transformations. Using them together adds dynamic feeling to a page.
+
+<div class="rcorners-trans">
+HOVER OVER ME
+</div>
+
+<p class="clearb"></p>
+
 
 
 ## CSS
@@ -161,7 +175,7 @@ and 3D transformations.
 2. [CSS W3 Schools][csslrn1] - CSS tutorial, a lot of editable examples.
 3. [CSS color names][csscol1]
 4. [Border Image Generator](http://border-image.com)
-5. [CSS Reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+5. [MDN](https://developer.mozilla.org/) [CSS Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started) and [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 
 ### Sass
 1. [Syntactically Awesome StyleSheets][Sass], and its [reference][sassref].

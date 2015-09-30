@@ -5,7 +5,7 @@ function myTransform() {
 		function() {
 			var degree=$(this).val();
 			//console.info("degree: "+degree);
-			$("p.rcorners2#id1").css({
+			$(".rcorners2#id1").css({
 				transform: 'rotate('+degree+'deg)'
 			});
 		});
