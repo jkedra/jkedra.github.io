@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Polskie
+title: PL
 permalink: /pl/
 language: pl
 ---
-Bywa, że angielski nie ma sensu lub celowo warto ograniczyć
-czytelników do tych, którzy znają polskie realia.
 Sprawy lokalne, polityka itp.
 
 ## Posty po polsku
