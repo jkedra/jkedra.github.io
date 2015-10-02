@@ -171,8 +171,8 @@ HOVER OVER ME
 
 
 ## CSS
-1. [Learn Layout](http://learnlayout.com/) - CSS layouts explained.
-2. [CSS W3 Schools][csslrn1] - CSS tutorial, a lot of editable examples.
+1. [CSS W3 Schools][csslrn1] - CSS tutorial, a lot of editable examples.
+2. [Learn Layout](http://learnlayout.com/) - CSS layouts explained.
 3. [CSS color names][csscol1]
 4. [Border Image Generator](http://border-image.com)
 5. [MDN](https://developer.mozilla.org/) [CSS Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started) and [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
@@ -187,6 +187,7 @@ HOVER OVER ME
 ### Bootstraps
 1. [Bootstrap](http://getbootstrap.com/)
 2. [W3CSS](http://www.w3schools.com/w3css/default.asp)
+3. [Nice bootstrap list](http://learnlayout.com/frameworks.html) from learnlayout.com.
 
 [csslrn1]:     http://www.w3schools.com/css/
 [cssref1]:     http://www.w3schools.com/cssref/

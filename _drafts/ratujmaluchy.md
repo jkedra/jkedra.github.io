@@ -11,11 +11,12 @@ w tej sprawie, pod obywatelskim projektem reformy edukacji
 -- bardzo wyraźnie zaznaczały się w mediach. Troska rodziców
 potrafiła zmobilizować 1mln ludzi do podpisania się pod listą
 żądającą referendum. Nieco mniejsza liczba w sposób czynny
-angażowała się w sprawę zbierania podpisów, a niektórzy
-poświęcili temu cały swój wolny czas.
+angażowała się w sprawę zbierając podpisy -- wystawając
+przed kościołami, zaczepiając w szatniach przedszkoli
+i zadręczając współpracowaników w biurach. Elbanowscy
+i podobni poświęcali sprawie cały swój wolny czas.
 
-Sam zebrałem z kilkadziesiąt podpisów w swoim miejscu
-pracy, wśród rodziny i we wspólnocie. Już sama sytuacja
+Sam zebrałem z kilkadziesiąt podpisów. Już sama sytuacja
 w której to rząd RP narzuca rodzicom decyzje edukacyjne
 wydała mi się wtedy pogwałceniem demokracji.
 Gdy zaś dodałem się do tego obraz już przeładowanej
@@ -52,7 +53,7 @@ jeszcze bardziej chamski, a bezbronny był
 jeszcze słabszy. 
 
 Elbanowscy przedrzeźniają
-<abbr title="Ministerstwo Edukacji Narodowej">MEN</a>
+<abbr title="Ministerstwo Edukacji Narodowej">MEN</abbr>
 w ich wersji <i>darmowego podręcznika</i> zadaniem
 dla zdolnego pierwszoklasisty: Rysunek przedstwia
 klasę z ciasno upakowanymi ławkami. Polecenie
