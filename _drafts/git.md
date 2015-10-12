@@ -13,3 +13,7 @@ but git beats them all and it is the first
 use for my own projects.
 
 https://github.com/styleguide
+
+## Git Extensions and reads
+https://github.com/sitaramc/gitolite/
+
