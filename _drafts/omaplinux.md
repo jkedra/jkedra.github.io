@@ -2,6 +2,7 @@
 layout: post
 title:  "Little Linux Devices"
 author: jkedra
+lang: en
 ---
 
 ## Experience with
