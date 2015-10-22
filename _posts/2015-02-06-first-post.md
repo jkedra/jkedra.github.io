@@ -91,10 +91,14 @@ to another (@extend). Here is [Sass Reference][sassref].
 * [Wikipedia on CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript)
 * [CoffeeScript Site](http://coffeescript.org/)
 
-## References ##
+## Markdown
 
 1. [Markdown Syntax][md]
-2. [Textile Syntax][textile]
+2. [Python Markdown Extensions](https://pythonhosted.org/Markdown/extensions/index.html)
+3. [PHP Markdown Extensions](https://michelf.ca/projects/php-markdown/extra/)
+3. [pandoc](http://pandoc.org/README.html) [Markdown Extension](http://pandoc.org/demo/example9/pandocs-markdown.html) -
+   versatile unix tool to convert between text formats.
+4. [Textile Syntax][textile]
 
 [blogspot]:    https://www.blogger.com
 [jekyll]:      http://jekyllrb.com
