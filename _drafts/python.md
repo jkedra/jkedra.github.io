@@ -33,7 +33,8 @@ Some parts were clearly a challenge to me.
 I have recently bought two books:
 
 1. _"Fluent Python"_ by Luciano Ramalho
-2. and _"Test Driven Development with Python"_ by Harry J.W. Percival
+2. and [_"Test Driven Development with Python"_][tddpercival]
+   by Harry J.W. Percival
 
 So I started to read "Fluent Python" just to immediately find out I have no idea
 what I am reading about. With the first chapter I had no idea about Python's
@@ -62,6 +63,7 @@ There are really simple, infinite iterators like
 [DIP]:  http://diveintopython.net/
 [DIP3]: http://www.diveintopython3.net/
 [django]: https://www.djangoproject.com/
+[tddpercival]: http://chimera.labs.oreilly.com/books/1234000000754/index.html
 [PSL]: https://docs.python.org/3/library/
 [itertools]: https://docs.python.org/3/library/itertools.html
 [collections]: https://docs.python.org/3/library/collections.html
