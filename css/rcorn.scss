@@ -108,6 +108,26 @@ h1,h2 {
     }
 }
 
+#background2 {
+ @include displayCenterFlex;
+  width: 300px;
+  background: url(/img/web-wood-grey-small.jpg) {
+     repeat: no-repeat;
+  }
+}
+
+#rgbatest {
+ @include displayCenterFlex;
+  width:150px; /* or whatever width you want. */
+  max-width:250px; /* or whatever width you want. */
+  padding: 1em;
+  color: rgba(255,255,255,.8);
+  background-color: rgba(142,213,87,.3);
+}
+#rgbatest:hover {
+  color: rgba(255,255,255,1);
+  background-color: rgba(142,213,87,.6);
+}
 
 /* gradients
  *

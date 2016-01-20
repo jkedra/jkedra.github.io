@@ -132,8 +132,47 @@ More details on CSS3 backgrounds may be found at
 <div class="grbox" id="grad3">Radial Gradients</div>
 <div class="clearb"></div>
 
-Multiple options are available. A lot of example can be found
+Multiple options are available. A lot of examples can be found
 at [W3Schools](http://www.w3schools.com/css/css3_gradients.asp).
+
+### RGBa Browser Support
+RGBa is a way to declare a color in CSS
+that includes alpha transparency support.
+
+By setting the CSS opacity property, we can adjust the transparency
+of the entire element and its contents.
+RGBa colour gives us something different – the ability to control
+the opacity of the individual colours rather than the entire element.
+
+It looks like this:
+
+{% highlight css %}
+#rgbatest {
+  color: rgba(255,255,255,.8);
+  background-color: rgba(142,213,87,.3);
+}
+#rgbatest:hover {
+  color: rgba(255,255,255,1);
+  background-color: rgba(142,213,87,.6);
+}
+{% endhighlight %}
+
+<div id="background2">
+  <div id="rgbatest">
+      HOVER ME
+  </div>
+</div>
+
+<p></p>
+
+
+
+* An article about [RGBa Browser Support](https://css-tricks.com/rgba-browser-support/).
+* [RGBa Generator](http://www.cssportal.com/css3-rgba-generator/)
+* [RGBa vs opacity](https://24ways.org/2009/working-with-rgba-colour)
+
+
+## Transformations and Transitions
 
 ### CSS3 Transformations
 
