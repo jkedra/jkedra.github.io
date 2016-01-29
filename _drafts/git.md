@@ -12,8 +12,11 @@ but git beats them all and it is the first
 [vcs](https://en.wikipedia.org/wiki/VCS) I started to
 use for my own projects.
 
-https://github.com/styleguide
+1. https://github.com/styleguide
 
 ## Git Extensions and reads
-https://github.com/sitaramc/gitolite/
+* https://github.com/sitaramc/gitolite/
+
+# Git HowTo
+* [How to Undo Almost Anything with GIT](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 

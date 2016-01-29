@@ -12,6 +12,9 @@ lang: en
     Nicely integrated with django.
 * [Django Debug Toolbar][debug-toolbar]: a must!
 
+# Testing
+* [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
+
 
 
 [djbreadcrumbs]: https://django-bootstrap-breadcrumbs.readthedocs.org/en/latest/
