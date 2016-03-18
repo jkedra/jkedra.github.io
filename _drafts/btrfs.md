@@ -1,0 +1,155 @@
+---
+layout: post
+title:  BTRFS
+author: jkedra
+language: en
+categories: linux
+---
+
+# BTRFS
+
+## Create
+
+    mkfs.btrfs -f -L testbtrfs  /dev/sdd1 /dev/sdd2 /dev/sdd3
+    mkfs.btrfs -L home /dev/sdd1
+
+    [root@oel7 ~]# mkfs.btrfs -L home /dev/sdd1
+    btrfs-progs v3.19.1
+    See http://btrfs.wiki.kernel.org for more information.
+
+    Turning ON incompat feature 'extref': increased hardlink limit per file to 65536
+    fs created label home on /dev/sdd1
+	nodesize 16384 leafsize 16384 sectorsize 4096 size 30.00GiB
+
+## Subvolumes testing
+
+    [root@oel7 ~]# btrfs subvolume create /home/sub1
+    Create subvolume '/home/sub1'
+    [root@oel7 ~]# btrfs subvolume create /home/sub2
+    Create subvolume '/home/sub2'
+    [root@oel7 ~]# btrfs subvolume list /home
+    ID 258 gen 14 top level 5 path sub1
+    ID 259 gen 15 top level 5 path sub2
+
+## Snapper
+
+### Configuration
+
+    [root@oel7 ~]# ls /home
+    jxa  oracle  sub1  sub2
+    [root@oel7 ~]# snapper -c home create-config /home
+    [root@oel7 ~]# snapper -c home list
+    Type   | # | Pre # | Date | User | Cleanup | Description | Userdata
+    -------+---+-------+------+------+---------+-------------+---------
+    single | 0 |       |      | root |         | current     |         
+    [root@oel7 ~]# snapper list
+    Unknown config.
+    [root@oel7 ~]# snapper -c root create-config /home
+    Creating config failed (subvolume already covered).
+    [root@oel7 ~]# snapper delete-config home
+    Command 'delete-config' does not take arguments.
+    [root@oel7 ~]# snapper delete-config 
+    Unknown config.
+    [root@oel7 ~]# snapper -c home delete-config 
+    [root@oel7 ~]# snapper -c root create-config /home
+    [root@oel7 ~]# snapper list
+    Type   | # | Pre # | Date | User | Cleanup | Description | Userdata
+    -------+---+-------+------+------+---------+-------------+---------
+    single | 0 |       |      | root |         | current     |         
+    [root@oel7 ~]# snapper list-configs
+    Config | Subvolume
+    -------+----------
+    root   | /home    
+
+#### /home config
+
+    snapper set-config ALLOW_USERS="oracle"
+    snapper set-config TIMELINE_LIMIT_HOURLY="24"
+    snapper set-config TIMELINE_LIMIT_DAILY="14"
+    snapper set-config TIMELINE_LIMIT_MONTHLY="6"
+    snapper set-config TIMELINE_LIMIT_YEARLY="0"
+    snapper get-config
+    Key                    | Value 
+    -----------------------+-------
+    ALLOW_GROUPS           |       
+    ALLOW_USERS            | oracle
+    BACKGROUND_COMPARISON  | yes   
+    EMPTY_PRE_POST_CLEANUP | yes   
+    EMPTY_PRE_POST_MIN_AGE | 1800  
+    FSTYPE                 | btrfs 
+    NUMBER_CLEANUP         | yes   
+    NUMBER_LIMIT           | 50    
+    NUMBER_MIN_AGE         | 1800  
+    SUBVOLUME              | /home 
+    TIMELINE_CLEANUP       | yes   
+    TIMELINE_CREATE        | yes   
+    TIMELINE_LIMIT_DAILY   | 14    
+    TIMELINE_LIMIT_HOURLY  | 24    
+    TIMELINE_LIMIT_MONTHLY | 6     
+    TIMELINE_LIMIT_YEARLY  | 0     
+    TIMELINE_MIN_AGE       | 1800  
+
+#### root fs config
+
+	mv log log-old
+	btrfs subvolume create /var/log
+	chmod 775 log
+	chown root:syslog log
+	mv log-old/* log
+	rmdir log-old
+
+	mv cache cache-old
+	btrfs subvolume create /var/cache
+	chmod 755 cache
+	mv cache-old/* cache
+	rmdir cache-old
+
+	mv /tmp /tmp-old
+	btrfs subvolume create /tmp
+	chmod 1777 /tmp
+	mv /tmp-old/* /tmp
+	rmdir /tmp-old
+
+	mv /var/tmp /var/tmp-old
+	btrfs subvolume create /var/tmp
+	chmod 1777 /var/tmp
+	mv /var/tmp-old/* /var/tmp
+	rmdir /var/tmp-old
+	 
+	snapper -c root2 create-config /
+
+    root@ubuntu15b:/var# snapper list-configs
+    Config | Subvolume
+    -------+----------
+    root   | /home    
+    root2  | /        
+
+
+    snapper -c root2 set-config ALLOW_USERS="jxa"
+    snapper -c root2 set-config TIMELINE_LIMIT_HOURLY="24"
+    snapper -c root2 set-config TIMELINE_LIMIT_DAILY="7"
+    snapper -c root2 set-config TIMELINE_LIMIT_MONTHLY="0"
+    snapper -c root2 set-config TIMELINE_LIMIT_YEARLY="0"
+    snapper -c root2 get-config
+
+### Tuning
+Prevent `updatedb` of indexing `.snapshots` directories.
+The configuration to adjust is locatedd in `/etc/updatedb.conf`:
+
+	PRUNENAMES=".git .bzr .hg .svn .snapshots"
+
+## Resources
+
+1. [How to manage BTRFS Storage Pools, Subvolumes and Snapshots][course1] - RedHat documentation on LVM CLI.
+2. [Incremental Backup][incrm]
+3. [Subvolumes and Snapshots][lwn] - an LWN article.
+4. [Snappper][snapper] - automatic snapshots.
+5. [Tuning Snapper][archlin] - ArchLinux Wiki.
+
+[course1]: http://www.linux.com/learn/tutorials/767332-howto-manage-btrfs-storage-pools-subvolumes-and-snapshots-on-linux-part-1
+
+[incrm]: https://btrfs.wiki.kernel.org/index.php/Incremental_Backup
+[lwn]: https://lwn.net/Articles/579009/
+[snapper]: http://snapper.io/documentation.html
+[archlin]: https://wiki.archlinux.org/index.php/Snapper
+
