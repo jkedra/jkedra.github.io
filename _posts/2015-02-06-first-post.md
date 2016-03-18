@@ -63,6 +63,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
    [directly to S3](http://www.jonknapp.com/2013/01/deploying-jekyll-to-s3/).
 2. [Jekyll multiple languages][jkyl-lang]
 3. [Jekyll Themes](https://github.com/jglovier/jekyll-new)
+4. [Jekyll News](https://jekyllrb.com/news/)
 
 ## Liquid ##
 
