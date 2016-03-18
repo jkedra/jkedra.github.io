@@ -4,7 +4,7 @@ title:  "LVM2"
 date:   2015-07-29 11:41:00
 author: jkedra
 language: en
-categories: linux
+tags: linux
 ---
 
 ## Resources

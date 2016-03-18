@@ -3,7 +3,7 @@ layout: post
 title:  BTRFS
 author: jkedra
 language: en
-categories: linux
+tags: linux fs
 ---
 
 # BTRFS
