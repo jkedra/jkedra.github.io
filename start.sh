@@ -3,7 +3,7 @@
 # https://help.github.com/articles/using-jekyll-with-pages/#installing-jekyll
 bundle update
 #bundle exec jekyll serve 
-bundle exec jekyll serve --drafts
+bundle exec jekyll serve --drafts --incremental
 
 #http://localhost:4000
 
