@@ -133,11 +133,25 @@ tags: linux fs
     snapper -c root2 get-config
 
 ### Tuning
+
+#### snapper
+
+I like snapper to ignore a list of directories when doing
+reports (comparing changes). So I add a filter file
+`/etc/snapper/filters/mysnap.txt`
+with following lines:
+
+    */.git
+    */.cache
+
+
+#### updatedb
 Prevent `updatedb` of indexing `.snapshots` directories.
-The configuration to adjust is locatedd in `/etc/updatedb.conf`:
+The configuration to adjust is located in `/etc/updatedb.conf`:
 
-	PRUNENAMES=".git .bzr .hg .svn .snapshots"
+	PRUNENAMES=".git .bzr .hg .svn .cache .snapshots"
 
+#### kernel
 Use the latest kernel available. Even with LTS Ubuntu (14.04 at the moment)
 [you may use 4.2 kernel][ubuntu14kernel].
 
