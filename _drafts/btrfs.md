@@ -138,6 +138,9 @@ The configuration to adjust is locatedd in `/etc/updatedb.conf`:
 
 	PRUNENAMES=".git .bzr .hg .svn .snapshots"
 
+Use the latest kernel available. Even with LTS Ubuntu (14.04 at the moment)
+[you may use 4.2 kernel][ubuntu14kernel].
+
 ## Resources
 
 1. [How to manage BTRFS Storage Pools, Subvolumes and Snapshots][course1] - RedHat documentation on LVM CLI.
@@ -152,4 +155,7 @@ The configuration to adjust is locatedd in `/etc/updatedb.conf`:
 [lwn]: https://lwn.net/Articles/579009/
 [snapper]: http://snapper.io/documentation.html
 [archlin]: https://wiki.archlinux.org/index.php/Snapper
+[ubuntu14kernel]: http://askubuntu.com/questions/690149/when-will-4-2-0-kernel-be-available-for-14-04-lts
+
+
 
