@@ -12,12 +12,14 @@ tags: python
 ## Python Adventure
 
 I did not find [Python](we:) by myself. I was aware of existence but ignored it.
-It is my wife, who dragged the thing to our home. She attended a training and
-told me a couple of warm words about it. So I put a little more attention to
-Python than I did before. And it did not took much to fall in love with Python -
-it became my favourite language. I like do things with Python, I like the beauty
-of code imposed by the language structure, I like its design. I like very much
-to contemplate beautiful code in Python, I really enjoy it.
+I knew Google used it, I knew two geeks at a place I worked in a past, used it
+and spoke positively about it.  But actually it is my wife, who dragged the
+thing to our home. She attended a training and told me a couple of warm words
+about it.  So I put a little more attention to Python than I did before. And it
+did not took much to fall in love with Python - it became my favourite language.
+I like do things with Python, I like the beauty of code imposed by the language
+structure, I like its design. I like very much to contemplate beautiful code in
+Python, I really enjoy it.
 
 Being not a professional Python programmer, I write in it for fun. No pressure,
 slow pace, more satisfaction. So even simple discoveries make me wonder.
