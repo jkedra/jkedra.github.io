@@ -47,7 +47,7 @@ jako tako i po drogach ziemnych. Zawieszenie jednak niskie więc
 bardzo uważałem bo motor nie mój.
 Już byłem pewien, że XJ600 to nie będzie mój wybór - celowałem bardziej
 w endurowate turystyki: Yamaha TDJ 850/900, w miarę uniwersalny ale
-duża pojemność nie wydawała się właściwa dla zielnego kierowcy.
+duża pojemność nie wydawała się właściwa dla zielonego kierowcy.
 Honda Transalp, niby wszystko OK ale jakoś taka malutka, cieniutka.
 Africa Twin zbyt ekstrawagancka. Jednocylindrowe Yamahy Tenere
 jakoś podejrzane i za bardzo endurowate.
@@ -64,7 +64,7 @@ Maszyna nieco poobijana, z widoczną historią, tu jakieś wgniotki,
 tu lakier wyblakły, tam podrdzewiała, ranty na tarczach hamulcowych.
 No i z przebiegiem który wydawał mi się kosmicznie duży: 54.250km,
 ale jednak bardziej realny niż różnej maści dwudziestolatki
-z zawsze mniej niż 30tys. przebiegu.
+z zawsze mniej niż 30 tys. przebiegu.
 Teraz, po 5 miesiącach posiadania motocykla
 (z czego 2 miesiące stał w garażu) i nabiciu mu ponad 4 tys km.
 po prostu jeżdżąc na krótkie wycieczki, 50 tys. 
