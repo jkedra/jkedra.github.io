@@ -64,6 +64,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 2. [Jekyll multiple languages][jkyl-lang]
 3. [Jekyll Themes](https://github.com/jglovier/jekyll-new)
 4. [Jekyll News](https://jekyllrb.com/news/)
+5. Collections: [Baleter's introduction](http://ben.balter.com/2015/02/20/jekyll-collections/) and [original Jekyll's docs](http://jekyllrb.com/docs/collections/) on collections.
 
 ## Liquid ##
 
