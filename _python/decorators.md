@@ -3,7 +3,6 @@ layout: post
 title:  "Python Decorators"
 author: jkedra
 language: en
-categories: python
 ---
 
 Some time ago, while reading documentation about Flask I came across of mysterious decorators.

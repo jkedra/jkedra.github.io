@@ -2,9 +2,8 @@
 layout: post
 title:  Learning Python 5ed
 author: jkedra
-categories: books
 language: en
-tags: python
+tags: book
 ---
 
 ### Intro

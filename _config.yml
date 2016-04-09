@@ -11,6 +11,8 @@ github_username:  jkedra
 collections:
   tests:
     output: true
+  python:
+    output: true
 
 # Build settings
 markdown: kramdown

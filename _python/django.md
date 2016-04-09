@@ -3,7 +3,7 @@ layout: post
 title:  Django
 author: jkedra
 lang: en
-tags: python
+tags: django
 ---
 
 # Tutorial

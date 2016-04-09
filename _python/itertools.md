@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Python Itertools"
-date:   2015-12-13 19:00:00
 author: jkedra
 language: en
 jquery: true
 jss: [wikipize]
-tags: python
 ---
 
 ## Python Adventure
