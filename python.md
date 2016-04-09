@@ -5,7 +5,25 @@ permalink: /python/
 language: en
 ---
 
-## Python
+{% assign excluded = "content|previous|next|excerpt|docs" | split: "|" %}
+
+
+[Stupid Python Ideas Blog](http://stupidpythonideas.blogspot.com/search/label/tutorial)
+
+<ol>
+{% for post in site.documents %}
+{% if post.collection == "python" %}
+<li> <ul>
+     {% for item in post %}
+     <li><b>{{ item[0] }}</b> :
+          {% if excluded contains item[0] %}⋯ {% else %} {{ item[1] }} {% endif %} </li>
+     {% endfor %}
+     </ul>
+</li>
+{% endif %}
+{% endfor %}
+</ol>
+
 
 {% assign category="python" %}
   <ul class="post-list">

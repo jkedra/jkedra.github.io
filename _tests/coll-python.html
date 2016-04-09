@@ -1,0 +1,39 @@
+---
+layout: default
+title: test1
+---
+
+{% assign excluded = "content|previous|next|excerpt|docs" | split: "|" %}
+
+<h3>Code:</h3>
+
+  {% highlight liquid %}
+  {% raw %}
+  {% for post in site.collections %}
+  <li> <ul>
+       {% for item in post %}
+       <li><b>{{ item[0] }}</b> : 
+            {% if excluded contains item[0] %}⋯ {% else %} {{ item[1] }} {% endif %} </li>
+       {% endfor %}
+       </ul>
+  </li>
+  {% endfor %}
+  {% endraw %}
+  {% endhighlight %}
+
+<h3>Collection Python:</h3>
+
+<ol>
+{% for post in site.documents %}
+{% if post.collection == "python" %}
+<li> <ul>
+     {% for item in post %}
+     <li><b>{{ item[0] }}</b> : 
+          {% if excluded contains item[0] %}⋯ {% else %} {{ item[1] }} {% endif %} </li>
+     {% endfor %}
+     </ul>
+</li>
+{% endif %}
+{% endfor %}
+</ol>
+
