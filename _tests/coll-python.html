@@ -9,7 +9,8 @@ title: test1
 
   {% highlight liquid %}
   {% raw %}
-  {% for post in site.collections %}
+  {% for post in site.documents %}
+  {% if post.collection == "python" %}
   <li> <ul>
        {% for item in post %}
        <li><b>{{ item[0] }}</b> : 
@@ -17,6 +18,7 @@ title: test1
        {% endfor %}
        </ul>
   </li>
+  {% endif %}
   {% endfor %}
   {% endraw %}
   {% endhighlight %}
