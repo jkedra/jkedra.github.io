@@ -132,6 +132,17 @@ tags: linux fs
     snapper -c root2 set-config TIMELINE_LIMIT_YEARLY="0"
     snapper -c root2 get-config
 
+Suse recommends to create following subvolumes:
+
+    /tmp
+    /opt
+    /srv
+    /var/crash
+    /var/spool
+    /var/log
+    /var/run
+    /var/tmp
+
 ### Tuning
 
 #### snapper
@@ -154,6 +165,23 @@ The configuration to adjust is located in `/etc/updatedb.conf`:
 #### kernel
 Use the latest kernel available. Even with LTS Ubuntu (14.04 at the moment)
 [you may use 4.2 kernel][ubuntu14kernel].
+
+### Maintenance
+BTRFS occupies more space when snapper is active. Depending on configuration
+and on the filesystem activity, it might actually occupy much more than
+a regular filesystem does. So the rule of thumb is to plan btrfs size
+at least twice what a regular filesystem would take. If possible, plan it more.
+
+Even with such the wide space margin, during often system updates and upgrades
+the space pressure might go high and other-than-fs-increase solution is
+often required. In such the situation you may sacrifice snapshots history
+or remove some of them selectively. The command you are searching for 
+is `snapper delete (remove|rm) number | number1-number2`, for example:
+
+snapper -c root2 delete 63-97
+
+This removes some incremental changes so releases sometimes significant
+amount of diskspace.
 
 ## Resources
 
