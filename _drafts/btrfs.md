@@ -2,11 +2,20 @@
 layout: post
 title:  BTRFS
 author: jkedra
+date: 2016-04-30 00:00
 language: en
 tags: linux fs
+jquery: true
+jss: [wikipize]
 ---
 
 # BTRFS
+BTRFS indeed is a better filesystem, featuring
+[extent](we:Extent_%28file_systems%29) based file storage,
+[copy-on-write][cow1] (COW), easy snapshots and filesystem compression and
+deduplication.
+[It does not support](https://wiki.archlinux.org/index.php/Btrfs#Limitations)
+encryption, nor swap files on itself.
 
 ## Create
 
@@ -185,19 +194,23 @@ amount of diskspace.
 
 ## Resources
 
+1. [BTRFS wiki.kernel.org][wikikernel] - primary source of information on BTRFS.
 1. [How to manage BTRFS Storage Pools, Subvolumes and Snapshots][course1] - RedHat documentation on LVM CLI.
 2. [Incremental Backup][incrm]
 3. [Subvolumes and Snapshots][lwn] - an LWN article.
 4. [Snappper][snapper] - automatic snapshots.
 5. [Tuning Snapper][archlin] - ArchLinux Wiki.
+6. [ArchLinux on BTRFS][archbtrfs]
 
 [course1]: http://www.linux.com/learn/tutorials/767332-howto-manage-btrfs-storage-pools-subvolumes-and-snapshots-on-linux-part-1
+[archbtrfs]: https://wiki.archlinux.org/index.php/Btrfs#Copy-On-Write_.28CoW.29
 
+[wikikernel]: https://btrfs.wiki.kernel.org/index.php/Main_Page
 [incrm]: https://btrfs.wiki.kernel.org/index.php/Incremental_Backup
 [lwn]: https://lwn.net/Articles/579009/
 [snapper]: http://snapper.io/documentation.html
 [archlin]: https://wiki.archlinux.org/index.php/Snapper
 [ubuntu14kernel]: http://askubuntu.com/questions/690149/when-will-4-2-0-kernel-be-available-for-14-04-lts
-
+[cow1]: https://btrfs.wiki.kernel.org/index.php/SysadminGuide#Copy_on_Write_.28CoW.29
 
 

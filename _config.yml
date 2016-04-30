@@ -15,6 +15,7 @@ collections:
     output: true
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
-textile_ext: "textile,txtl,tl"
+#textile_ext: "textile,txtl,tl"
+
