@@ -10,12 +10,17 @@ jss: [wikipize]
 ---
 
 # BTRFS
+
 BTRFS indeed is a better filesystem, featuring
 [extent](we:Extent_%28file_systems%29) based file storage,
-[copy-on-write][cow1] (COW), easy snapshots and filesystem compression and
-deduplication.
-[It does not support](https://wiki.archlinux.org/index.php/Btrfs#Limitations)
-encryption, nor swap files on itself.
+[copy-on-write][cow1] (COW), easy snapshots and filesystem compression,
+deduplication and defragmentation. It supports in place upgrade of ext2/3/4
+to btrfs with an option to rollback.
+
+What [it does not support](https://wiki.archlinux.org/index.php/Btrfs#Limitations)
+is encryption, nor swap files.
+
+
 
 ## Create
 
@@ -30,7 +35,56 @@ encryption, nor swap files on itself.
     fs created label home on /dev/sdd1
 	nodesize 16384 leafsize 16384 sectorsize 4096 size 30.00GiB
 
-## Subvolumes testing
+## Migrate
+
+Btrfs supports in place migration from ext2/3/4 with an option to rollback.
+The original extfs image stays untouched after the migration, and it can be
+used to rollback the entire extfs-btrfs upgrade. This is offline upgrade.
+
+The migration is offline, so the filesystem needs to be unmounted first
+and cleaned by forcing fsck on it.
+
+    umount /dev/sdb1
+    fsck -f /dev/sdb1
+
+Only then the convertion may start. It takes quite a long time.
+
+    btrfs-convert /dev/sdb1
+    mount /dev/sdb1 /btrfs
+    btrfs subvolume list /btrfs
+    ID 256 gen 25 top level 5 path ext2_saved
+
+Directly after the conversion the btrfs can be mounted rw, the extra space
+is consumed by btrfs metadata only. The actual file data stays on extfs
+and changes are performed by making a differential COW to ext2 image.
+
+The ext2_saved subvolume contains a file named "image" which indeed is
+an image of extfs. It can be accessed (read-only) by mounting it through
+a loop device. When it is not required, it can be deleted:
+
+    btrfs subvolume delete /btrfs/ext2_saved
+
+When we are happy with the new btrfs it can be defragmented and balanced:
+
+    btrfs filesystem defrag -r /btrfs
+    btrfs balance start /btrfs
+
+[Conversion process explained][wiki-convert1]
+
+
+## Subvolumes and Snapshots
+
+Btrfs subvolume has its hierarchy and relations between other subvolumes.
+A subvolume in btrfs can be accessed from the parent subvolume (as a
+subdirectory) or as a separate mounted filesystem. A btrfs filesystem
+consists of one or more subvolumes, the default one's id is 5 (alias 0).
+
+A btrfs snapshot is also a kind of subvolume sharing its data with
+the parent subvolume and possibly other snapshots.The snaphost can be writable
+but due to its nature, the subsequent changes on it are visible in the snapshot
+itself and not in its source snapshot
+
+
 
     [root@oel7 ~]# btrfs subvolume create /home/sub1
     Create subvolume '/home/sub1'
@@ -39,6 +93,10 @@ encryption, nor swap files on itself.
     [root@oel7 ~]# btrfs subvolume list /home
     ID 258 gen 14 top level 5 path sub1
     ID 259 gen 15 top level 5 path sub2
+
+### External Articles on Subvolumes
+
+1. [Subvolumes and Snapshots][lwn-sub1] in LWN
 
 ## Snapper
 
@@ -195,22 +253,27 @@ amount of diskspace.
 ## Resources
 
 1. [BTRFS wiki.kernel.org][wikikernel] - primary source of information on BTRFS.
-1. [How to manage BTRFS Storage Pools, Subvolumes and Snapshots][course1] - RedHat documentation on LVM CLI.
-2. [Incremental Backup][incrm]
-3. [Subvolumes and Snapshots][lwn] - an LWN article.
-4. [Snappper][snapper] - automatic snapshots.
-5. [Tuning Snapper][archlin] - ArchLinux Wiki.
-6. [ArchLinux on BTRFS][archbtrfs]
+2. [How to manage BTRFS Storage Pools, Subvolumes and Snapshots][course1] - RedHat documentation on LVM CLI.
+3. [Incremental Backup][incrm]
+4. [Subvolumes and Snapshots][lwn-sub1] - an LWN article.
+5. [Snappper][snapper] - automatic snapshots.
+6. [Tuning Snapper][archlin] - ArchLinux Wiki.
+7. [ArchLinux on BTRFS][archbtrfs]
+8. [BTRFS in Oracle Enterprise Liinux][oel6]
+9. [BTRFS features][ora1], Oracle's summary.
+
 
 [course1]: http://www.linux.com/learn/tutorials/767332-howto-manage-btrfs-storage-pools-subvolumes-and-snapshots-on-linux-part-1
 [archbtrfs]: https://wiki.archlinux.org/index.php/Btrfs#Copy-On-Write_.28CoW.29
 
 [wikikernel]: https://btrfs.wiki.kernel.org/index.php/Main_Page
 [incrm]: https://btrfs.wiki.kernel.org/index.php/Incremental_Backup
-[lwn]: https://lwn.net/Articles/579009/
+[lwn-sub1]: https://lwn.net/Articles/579009/
 [snapper]: http://snapper.io/documentation.html
 [archlin]: https://wiki.archlinux.org/index.php/Snapper
 [ubuntu14kernel]: http://askubuntu.com/questions/690149/when-will-4-2-0-kernel-be-available-for-14-04-lts
 [cow1]: https://btrfs.wiki.kernel.org/index.php/SysadminGuide#Copy_on_Write_.28CoW.29
-
+[oel6]: https://docs.oracle.com/cd/E37670_01/E37355/html/ol_btrfs.html
+[ora1]: http://www.oracle.com/technetwork/server-storage/linux/technologies/btrfs-overview-1898045.html
+[wiki-convert1]: https://btrfs.wiki.kernel.org/index.php/Conversion_from_Ext3
 
