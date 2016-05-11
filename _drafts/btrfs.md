@@ -13,9 +13,10 @@ jss: [wikipize]
 
 BTRFS indeed is a better filesystem, featuring
 [extent](we:Extent_%28file_systems%29) based file storage,
-[copy-on-write][cow1] (COW), easy snapshots and filesystem compression,
-deduplication and defragmentation. It supports in place upgrade of ext2/3/4
-to btrfs with an option to rollback.
+[copy-on-write][cow1] (COW), easy [snapshots][wiki-snapshots] and filesystem
+compression, deduplication and defragmentation. It supports in place upgrade
+of ext2/3/4 to btrfs with an option to rollback.
+It can even [rebalance][wiki-balancing] itself.
 
 What [it does not support](https://wiki.archlinux.org/index.php/Btrfs#Limitations)
 is encryption, nor swap files.
@@ -64,7 +65,8 @@ a loop device. When it is not required, it can be deleted:
 
     btrfs subvolume delete /btrfs/ext2_saved
 
-When we are happy with the new btrfs it can be defragmented and balanced:
+When we are happy with the new btrfs it can be defragmented and
+[balanced][wiki-balancing]:
 
     btrfs filesystem defrag -r /btrfs
     btrfs balance start /btrfs
@@ -79,11 +81,10 @@ A subvolume in btrfs can be accessed from the parent subvolume (as a
 subdirectory) or as a separate mounted filesystem. A btrfs filesystem
 consists of one or more subvolumes, the default one's id is 5 (alias 0).
 
-A btrfs snapshot is also a kind of subvolume sharing its data with
-the parent subvolume and possibly other snapshots.The snaphost can be writable
-but due to its nature, the subsequent changes on it are visible in the snapshot
-itself and not in its source snapshot
-
+A btrfs [snapshot][wiki-snapshots] is also a kind of subvolume sharing its data
+with the parent subvolume and possibly other snapshots.The snaphost can be
+writable but due to its nature, the subsequent changes on it are visible in the
+snapshot itself and not in its source snapshot
 
 
     [root@oel7 ~]# btrfs subvolume create /home/sub1
@@ -276,4 +277,5 @@ amount of diskspace.
 [oel6]: https://docs.oracle.com/cd/E37670_01/E37355/html/ol_btrfs.html
 [ora1]: http://www.oracle.com/technetwork/server-storage/linux/technologies/btrfs-overview-1898045.html
 [wiki-convert1]: https://btrfs.wiki.kernel.org/index.php/Conversion_from_Ext3
-
+[wiki-balancing]: https://btrfs.wiki.kernel.org/index.php/SysadminGuide#Balancing
+[wiki-snapshots]: https://btrfs.wiki.kernel.org/index.php/SysadminGuide#Snapshots
