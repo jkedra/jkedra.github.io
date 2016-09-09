@@ -73,7 +73,7 @@ Some day I discovered [Flask](flask.pocoo.org/) and its
 And this was a great template system for the web.
 
 Later on, when I found [Jekyll] and its template system -- [Liquid],
-I came to me, they (Liquid-Jinja) are similar in syntax.
+it came to me, they (Liquid-Jinja) are similar in syntax.
 
 Posts in Polish:
 
