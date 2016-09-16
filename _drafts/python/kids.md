@@ -17,11 +17,18 @@ Their recommended a book is [Python for Kids][PFK].
 [Python]: we:Python_(programming_language)
 [PFK]: https://www.nostarch.com/pythonforkids
 
-## Python for Kids
+## Book: Python for Kids
 Nice book, starts nicely, attracts by tempting kids into a game programming.
 But after a slow start the pace speeds up, is difficult to follow and
 once again leads the kid to a conclusion "_I do not understand,
 I cannot understand, it is all black magic._". Good start, poor finish.
+
+## Online Resources
+At [pythonprogramming.net][pp], there is game-development
+and an "Introduction to Python Programming". This is something to explore
+and get useful ideas from there.
+
+[pp]: https://pythonprogramming.net
 
 ## GCD
 [Greatest Common Divisor][GCD] is what attracts Witek currently.
