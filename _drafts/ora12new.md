@@ -22,7 +22,11 @@ Internally it is still a dedicated sequence coupled with an identity column.
 
 ### Links
 1. [Oracle Base](oracle-base)
+2. Deploying Oracle 12c [on RedHat 6](deploy12cRH6)
+   and [on RedHat 7](deploy12cRH7)
 
 [oracle-base]: https://oracle-base.com/articles/12c/identity-columns-in-oracle-12cr1
+[deploy12cRH6]: https://access.redhat.com/sites/default/files/attachments/deploying-oracle-12c-on-rhel6_1.2_1.pdf
+[deploy12cRH7]: https://access.redhat.com/sites/default/files/attachments/deploying_oracle_rac_12c_rhel7_v1.1_0.pdf
 
 
