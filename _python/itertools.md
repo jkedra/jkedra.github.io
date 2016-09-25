@@ -5,6 +5,7 @@ author: jkedra
 language: en
 jquery: true
 jss: [wikipize]
+comments: true
 ---
 
 ## Python Adventure
