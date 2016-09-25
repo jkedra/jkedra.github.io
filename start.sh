@@ -5,7 +5,9 @@
 bundle update
 #bundle exec jekyll serve --drafts --watch
 
-bundle exec jekyll serve --drafts --incremental --watch
+bundle exec jekyll serve --drafts --incremental --watch \
+    --config _config.yml,_config127.yml
+
 
 #http://localhost:4000
 

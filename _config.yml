@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Testing blog about IT, bikes, motobikes, electronics and so on.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jurek.kedra.org" # the base hostname & protocol for your site
+disqus: "testblog322"
 twitter_username: jurked
 github_username:  jkedra
 
