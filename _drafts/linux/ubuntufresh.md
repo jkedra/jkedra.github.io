@@ -23,7 +23,6 @@ such trivial as the rest of process.
 Here are subject which may need more attention:
 
 ## Post Install
-
 1. Existing SSH DSA keys does not work any longer because OpenSSH
    thinks [it is not safe][1dsa]. Either migrate to RSA or force
    OpenSSH to accept it: `PubKeyAcceptedKeyTypes ssh-dss`.
@@ -34,6 +33,36 @@ Here are subject which may need more attention:
 [2dvd]: https://help.ubuntu.com/16.04/ubuntu-help/video-dvd-restricted.html
 
 ## Packages Installed Later
+
+### SQL Developer
+1. [Download SQL Developer for "Other" platform][sqldev].
+2. Install `sqldeveloper-package` by `apt get install sqldeveloper-package`.
+2. `man make-sqldeveloper-package`
+   and later `make-sqldeveloper-package downloaded.zip`.
+
+[sd4]: https://community.oracle.com/docs/DOC-888316
+[sqldev]: http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
+
+### Desktop Icons
+
+    cd /usr/share/applications/
+    sudo vim sqldeveloper.desktop
+
+add this lines:
+
+    [Desktop Entry]
+    Exec=sqldeveloper
+    Terminal=false
+    StartupNotify=true
+    Categories=GNOME;Oracle;
+    Type=Application
+    Icon=/opt/sqldeveloper/icon.png
+    Name=Oracle SQL Developer
+
+then type:
+
+    sudo update-desktop-database
+
 
 ## Problems
 
