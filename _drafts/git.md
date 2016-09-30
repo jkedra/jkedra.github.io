@@ -1,21 +1,22 @@
 ---
 layout: post
 title:  "About GIT"
-date:   2015-07-02 14:20:50
 author: jkedra
 categories: tools
 tags: git
+jquery: true
+jss: [wikipize]
 ---
 
-It all started with git. I am familiar with cvs and svn
-but git beats them all and it is the first
-[vcs](https://en.wikipedia.org/wiki/VCS) I started to
-use for my own projects.
+It all started with git. I was familiar a little with cvs and svn
+but git beats them all and it is the first [VCS](we:Version_Control)
+I started to use for my own projects.
 
-1. https://github.com/styleguide
 
-## Git Extensions and reads
-* https://github.com/sitaramc/gitolite/
+## Documentation
+1. [Branch Naming Best Practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices) - StackOverFlow.
+2. [Gitolite](https://github.com/sitaramc/gitolite/) - remote access and
+   privilege system for git repositories, used by kernel.org.
 
 # Git HowTo
 * [How to Undo Almost Anything with GIT](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)

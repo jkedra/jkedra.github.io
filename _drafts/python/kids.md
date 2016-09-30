@@ -7,6 +7,7 @@ tags: kids
 
 jquery: true
 js: wikipize
+comments: true
 ---
 
 My son Witek, is eleven and its [Python] they start to teach him
@@ -59,10 +60,9 @@ he is tempted by vim's beautiful simplicity and its speed.
 [Idle] cannot make it, vim can do it out of the box by setting
 a ruller (`set ruler`), but this shows only cursor location.
 
-There are modules for vim (in neobunle and pathogen) do write in Python,
+There are modules for vim (in neobundle and pathogen) do write in Python,
 lint it, highlight syntax and the line numbering is a minimal feauture.
 Find them, put them here.
-
 
 ### Windows
 Vim windows split work area into to multiple ones.
@@ -72,6 +72,10 @@ Each window can view the same file on different ones.
 Switching windows is easy with <kbd>CTRL</kbd>-<kbd>W</kbd> and
 <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd> combination.
 However one may find function keys shortcuts more convenient.
+
+### Tab Pages
+In vim `:help tabpage`. 
+Closing all tabas with `:qa`
 
 [vim]:          we:Vim_(text_editor)
 [screen]:       we:GNU_Screen
