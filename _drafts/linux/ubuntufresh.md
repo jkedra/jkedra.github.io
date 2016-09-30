@@ -23,7 +23,15 @@ such trivial as the rest of process.
 Here are subject which may need more attention:
 
 ## Post Install
-https://superuser.com/questions/1016989/ssh-dsa-keys-no-longer-work-for-password-less-authentication?lq=1
+
+1. Existing SSH DSA keys does not work any longer because OpenSSH
+   thinks [it is not safe][1dsa]. Either migrate to RSA or force
+   OpenSSH to accept it: `PubKeyAcceptedKeyTypes ssh-dss`.
+2. DVD player does not work out of the box because of licensing
+   problems. Follow [this instruction][2dvd] to enable it.
+
+[1dsa]: https://superuser.com/questions/1016989/ssh-dsa-keys-no-longer-work-for-password-less-authentication?lq=1
+[2dvd]: https://help.ubuntu.com/16.04/ubuntu-help/video-dvd-restricted.html
 
 ## Packages Installed Later
 
