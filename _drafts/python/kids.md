@@ -24,14 +24,31 @@ But after a slow start the pace speeds up, is difficult to follow and
 once again leads the kid to a conclusion "_I do not understand,
 I cannot understand, it is all black magic._". Good start, poor finish.
 
-## Online Resources
-At [pythonprogramming.net][pp], there is game-development
+## PyGame
+At [pythonprogramming.net][pp], there is game-development course
 and an "Introduction to Python Programming". This is something to explore
 and get useful ideas from there.
 
 [pp]: https://pythonprogramming.net
 
-## GCD
+## Computer Graphics
+Definitions (RGB, transparency, gamma, alpha channel),
+tools (Pinta, Gimp, MS Paint).
+
+### RGB
+Explain what RGB is, how blend colors. Find some color picker on the
+net to visualize it.
+
+### Resources
+Everyone knows [images.google.com](images.google.com), but there are
+miriads of other resources. [Pygame][pygame] lists a lot of them
+in _resoures_ section. Some of them worth to mention:
+1. [MuseScore](musescore.com)
+2. [Morguefile](morguefile.com) - stock photos, good backgrounds.
+
+## Algorithms
+
+### GCD
 [Greatest Common Divisor][GCD] is what attracts Witek currently.
 Weird, I never thought [algorithms](we:algorithm) attracted him.
 Indeed it is not an algorithm itself but a challenge. I realized
@@ -88,3 +105,5 @@ Closing all tabas with `:qa`
 
 [vimcast]: http://vimcast.org
 
+
+[pygame]:   www.pygame.org
