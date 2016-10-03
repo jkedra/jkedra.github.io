@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Visual Blocks
+title:  Vim: Blocks and Marks
 author: jkedra
 language: en
 
@@ -10,6 +10,8 @@ js: wikipize
 categories: vim
 tags: blockwise
 ---
+
+# Visual Blocks
 
 Selecting and moving rectangual areas of text is an activity
 I do quite often. Until I discovered it in [vim], I used
@@ -45,9 +47,14 @@ C   |v_b_C| Like using "c", but the selection is extended until the end of the l
 r   |v_b_r| Every screen char in the highlighted region is replaced with the same char
 ----|-----|---------------------------------------------------------------------------
 
+## Mark Motions
+
+    '[ ']
+
 ### References
 1. help visual.txt
 2. help blockwise-operators
+3. help mark-motions
 
 [vim]:		we:Vim_(text_editor)
 [screen]:	we:GNU_Screen 
