@@ -37,11 +37,15 @@ Here are subject which may need more attention:
 ### SQL Developer
 1. [Download SQL Developer for "Other" platform][sqldev].
 2. Install `sqldeveloper-package` by `apt get install sqldeveloper-package`.
-2. `man make-sqldeveloper-package`
+3. `man make-sqldeveloper-package`
    and later `make-sqldeveloper-package downloaded.zip`.
 
 [sd4]: https://community.oracle.com/docs/DOC-888316
 [sqldev]: http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
+
+### Oracle Database
+1. [Oracle Instant Client](https://help.ubuntu.com/community/Oracle%20Instant%20Client)
+2. [Oracle 12c Database Install](http://tutorialforlinux.com/2016/03/31/how-to-install-oracle-12c-database-on-ubuntu-16-04-xenial-64bit-easy-guide/)
 
 ### Desktop Icons
 
