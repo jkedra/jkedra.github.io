@@ -11,7 +11,13 @@
 
   {% if page.css %}
     {% for ln in page.css %}
+    {% assign lnprefix = ln | truncate: 4, '' %}
+    {% if lnprefix == "http" %}
+  <link rel="stylesheet" href="{{ ln }}">
+    {% else %}
   <link rel="stylesheet" href="/static/{{ ln }}.css">
+    {% endif %}
+  
     {% endfor %}
   {% endif %}
 
