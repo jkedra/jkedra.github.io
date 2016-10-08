@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Vim: Blocks and Marks
+title:  Vim Blocks and Marks
 author: jkedra
 language: en
 

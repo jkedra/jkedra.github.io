@@ -11,8 +11,10 @@ too much and left me with a statement it is just a "syntactic sugar" which did
 not answer my question on how decorators work. So I put it aside for later. I
 recall this fact recently and browsed Internet on the subject of python's
 decorators.
-And what I found is an excellent post ["Python Decorators in 12 Steps"][12steps].
-It gave me a solid understanding what decorators are exactly
+
+And what I found is an excellent post
+["Python Decorators in 12 Steps"][12steps].
+It gave me a solid understanding what decorators are exactly.
 
 [sf]:		http://simeonfranklin.com/
 [eckel]:	http://bruceeckel.github.io/
