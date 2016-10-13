@@ -16,5 +16,5 @@ already available. Here is a list of Ubuntu/Linux graphics software:
 3. [Pinta] - simple image editor, Paint like (`apt install pinta`)
 
 [gimp]: https://www.gimp.org/
-[inkscape]: htts://inkscape.org/
+[inkscape]: https://inkscape.org/
 [pinta]: https://pinta=project.com/
