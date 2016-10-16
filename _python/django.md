@@ -45,6 +45,7 @@ tags: django
 * [select2][Select2] is jQuery replacement for select boxes.
     Nicely integrated with django.
 * [Django Debug Toolbar][debug-toolbar]: a must!
+* [Django Book](http://djangobook.com/)
 
 
 [djbreadcrumbs]: https://django-bootstrap-breadcrumbs.readthedocs.org/en/latest/
