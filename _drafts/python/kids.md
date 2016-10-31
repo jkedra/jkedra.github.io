@@ -18,6 +18,11 @@ Their recommended a book is [Python for Kids][PFK].
 [Python]: we:Python_(programming_language)
 [PFK]: https://www.nostarch.com/pythonforkids
 
+# Interactive
+
+    $ python3
+    >>> dir()
+
 ## Book: Python for Kids
 Nice book, starts nicely, attracts by tempting kids into a game programming.
 But after a slow start the pace speeds up, is difficult to follow and
