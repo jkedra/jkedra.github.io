@@ -50,12 +50,12 @@ to był dobry wybór dla nowicjusza. Pojedzie nie tylko po asfalcie ale
 jako tako i po drogach ziemnych. Zawieszenie jednak niskie więc 
 bardzo uważałem bo motor nie mój.
 Już byłem pewien, że XJ600 to nie będzie mój wybór - celowałem bardziej
-w endurowate turystyki: Yamaha TDJ 850/900, w miarę uniwersalny ale
+w endurowate turystyki: [Yamaha TDM](gp:) 850/900, w miarę uniwersalny ale
 duża pojemność nie wydawała się właściwa dla zielonego kierowcy.
-Honda Transalp, niby wszystko OK ale jakoś taka malutka, cieniutka.
-Africa Twin zbyt ekstrawagancka. Jednocylindrowe Yamahy Tenere
-jakoś podejrzane i za bardzo endurowate.
-Idealnym wyborem wydawało się Suzuki V-Strom 650,
+[Honda Transalp](gp:), niby wszystko OK ale jakoś taka malutka, cieniutka.
+[Africa Twin](gp:) zbyt ekstrawagancka. Jednocylindrowa [Yamaha Tenere](gp:)
+jakoś podejrzana i za bardzo endurowata.
+Idealnym wyborem wydawało się [Suzuki V-Strom](gp:) 650,
 ale to ciągle nowy model dość wysoka cena mnie odstraszała. W końcu
 chodziło o pierwszy motocykl - spodziewałem się, że obiję i przytrę
 go wielokrotnie.
