@@ -4,21 +4,25 @@ title:  "Motocykl"
 date:   2015-03-27 16:00:00
 author: jkedra
 language: pl
+jquery: true
+comments: false
+jss: [wikipize]
 categories: moto
 ---
-Gdy w kwietniu 2014 spotkałem się z Łukaszem, przyjechał na Yamaha Virago 500.
-Typowy błyszczący chopper. Nigdy wcześniej nie jeździłem motocyklem.
-Gdy przewiozłem się jego Virago od razu zrozumiałem, że utrafiłem w pewien
-niezagospodarowany obszar mojego życia.
+Gdy w kwietniu 2014 spotkałem się z Łukaszem, przyjechał na
+[Yamaha Virago 500](gp:). Typowy błyszczący chopper.
+Nigdy wcześniej nie jeździłem motocyklem. Gdy przewiozłem się jego
+Virago od razu zrozumiałem, że utrafiłem w pewien niezagospodarowany
+obszar mojego życia.
 
 Zanim zacząłem jeździć na kursie, oglądałem wszelkie możliwe motocykle
 na allegro. Mój rocznik wybiera raczej choppery:
-Yamaha Virago, Suzuki Intruder. Jak na tym jeździć po zakrętach?
-Jaką pozycję przybrać na takim motocyklu? 
-Bardziej mnie ciągnęło w kierunku typów
-turystycznych. Wyglądało, że w moim zasięgu będzie tania Yamaha XJ600,
-także XJ900 wyglądała ponętnie ze względu na wał kardana. Tego typu
-maszyny jednak są zbyt mało elastyczne, ograniczone wyłącznie do
+[Yamaha Virago](gp:), [Suzuki Intruder](gp:).
+Jak na tym jeździć po zakrętach? Jaką pozycję przybrać na takim motocyklu? 
+Bardziej mnie ciągnęło w kierunku typów turystycznych.
+Wyglądało, że w moim zasięgu będzie tania [Yamaha XJ600 Diversion](w:),
+także [XJ900](gp:Yamaha+XJ900) wyglądała ponętnie ze względu na wał kardana.
+Tego typu maszyny jednak są zbyt mało elastyczne, ograniczone wyłącznie do
 jazdy po asfalcie. A ja lubię las i bezdroża.  
 
 Zapisałem się do [najlepszej szkoły motocyklowej w Krakowie][msm]
@@ -26,7 +30,7 @@ i w trakcie 30 godzin nużącego kręcenia ósemek i slalomów
 na placu manewrowym -- w upale, smrodzie asfaltu i benzyny,
 często też w deszczu -- zrozumiałem, że na motocyklu nie chcę jeździć prosto.
 Kurs dał mi też możliwość jazdy na wielu typach motocykli, zaliczyłem tam
-Suzuki GN125, jakąś 200, jakąś 300, jeździłem na [GS500]
+[Suzuki GN 125](gp:), jakąś 200, jakąś 300, jeździłem na [GS500]
 i w końcu Suzuki [Gladius][SVF650]. Nie zliczę ile razy położyłem tam
 motocykl, jak przyjarałem sprzęgła, hamulce i wytarłem opony.
 Każda godzina spędzona w szkole to konkretne oszczędności
