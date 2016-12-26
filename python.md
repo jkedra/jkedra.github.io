@@ -12,6 +12,7 @@ language: en
 * [itertools](itertools)
 * [Books](learningpython5ed)
 * [Quotes](quotes)
+* [Python and Oracle)(pyora)
 
 
 [stupid]: http://stupidpythonideas.blogspot.com/search/label/tutorial
