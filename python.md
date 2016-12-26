@@ -5,6 +5,7 @@ permalink: /python/
 language: en
 ---
 
+* [Bedtime Reading](bedtime)
 * [Stupid Python Ideas Blog][stupid] - tutorials
 * [Decorators](decorators)
 * [Django](django)
