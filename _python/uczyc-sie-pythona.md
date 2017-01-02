@@ -42,9 +42,12 @@ promocji (ja kupowałem to jeszcze za 150 zł), bardzo dobrze się czyta, ale
 trzeba mieć już przewałkowane i przećwiczone te 1000 stron z Marka Lutza.
 Bardzo dobrze się czyta, wciąga od pierwszego rozdziału.
 
-## inne rekomendacje
+## Literatura
 
-1. [Rekomendacje Świata Czytników](http://swiatczytnikow.pl/ksiazki-o-jezyku-python-o-40-taniej-promocja-i-nasze-rekomendacje/)
+1. [Rekomendacje Świata Czytników](http://swiatczytnikow.pl/ksiazki-o-jezyku-python-o-40-taniej-promocja-i-nasze-rekomendacje/) (pl)
+2. [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide) (en)
+2. [Python Books](https://wiki.python.org/moin/PythonBooks) (en)
+
 
 [1]: http://helion.pl/ksiazki/python-wprowadzenie-wydanie-iv-mark-lutz,pytho4.htm
 
