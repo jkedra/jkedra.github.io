@@ -11,6 +11,13 @@ jss: [wikipize]
 
 [Python Guide](https://docs.python-guide.org)
 
+## Python Standard Library
+
+1. Queue Classes
+    * [Synchronized Queue Class](https://docs.python.org/3.6/library/queue.html#queue.Queue)
+    * [Multiprocessing Queues](https://docs.python.org/3.6/library/multiprocessing.html#multiprocessing.Queue)
+2. [Contextlib - Utilities for with-statements contexts](https://docs.python.org/3/library/contextlib.html
+)
 ## What's New in Python series
 
 0. [What's new in Python](https://docs.python.org/3/whatsnew/index.html)

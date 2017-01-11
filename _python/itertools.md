@@ -58,8 +58,8 @@ There are really simple, infinite iterators like
 'A+B+C+A+B+C+A+B+C+A+B+C'
 {% endhighlight %}
 
-
-
+### Grouper
+Stupid Python Ideas - [How The Grouper Works][grouper]
 
 [DIP]:  http://diveintopython.net/
 [DIP3]: http://www.diveintopython3.net/
@@ -71,4 +71,5 @@ There are really simple, infinite iterators like
 [count()]: https://docs.python.org/3/library/itertools.html#itertools.count
 [repeat()]: https://docs.python.org/3/library/itertools.html#itertools.repeat
 [cycle()]: https://docs.python.org/3/library/itertools.html#itertools.cycle
+[grouper]: http://stupidpythonideas.blogspot.com/2013/08/how-grouper-works.html
 
