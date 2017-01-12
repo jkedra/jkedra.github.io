@@ -18,10 +18,14 @@ language: en
 
 ## Multiprocessing
 
-1. [Concurrent Execution](https://docs.python.org/3.6/library/concurrency.html) in Python 3.6
-    * [Synchronized Queue Class](https://docs.python.org/3.6/library/queue.html#queue.Queue)
+1. [Concurrent Execution][ce3] in Python 3
+    * [Synchronized Queue Class](https://docs.python.org/3/library/queue.html#queue.Queue)
 2. [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm) by Fredrik Lundh (effbot)
-3. [Concurrent Futures](https://docs.python.org/3/library/concurrent.futures.html) - Launching parallel tasks.
+3. [Concurrent Futures][futures3] - Launching parallel tasks.
+4. [Concurrent.futures vs Multiprocessing in Python 3][fvm] - StackOverflow.
 
 
 [stupid]: http://stupidpythonideas.blogspot.com/search/label/tutorial
+[ce3]: https://docs.python.org/3/library/concurrency.html 
+[fvm]: http://stackoverflow.com/questions/20776189/concurrent-futures-vs-multiprocessing-in-python-3
+[futures3]: http://stackoverflow.com/questions/20776189/concurrent-futures-vs-multiprocessing-in-python-3

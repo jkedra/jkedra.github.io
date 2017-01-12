@@ -9,15 +9,17 @@ jss: [wikipize]
 
 ## General Stuff
 
-[Python Guide](https://docs.python-guide.org)
+1. [Python Guide](https://docs.python-guide.org)
+2. [Awesome Python Libraries][5]
+3. [Top 10 Python Libraries of 2016][6]
 
 ## Python Standard Library
 
 1. Queue Classes
     * [Synchronized Queue Class](https://docs.python.org/3.6/library/queue.html#queue.Queue)
     * [Multiprocessing Queues](https://docs.python.org/3.6/library/multiprocessing.html#multiprocessing.Queue)
-2. [Contextlib - Utilities for with-statements contexts](https://docs.python.org/3/library/contextlib.html
-)
+2. [Contextlib - Utilities for with-statements contexts](https://docs.python.org/3/library/contextlib.html)
+
 ## What's New in Python series
 
 0. [What's new in Python](https://docs.python.org/3/whatsnew/index.html)
@@ -58,3 +60,6 @@ jss: [wikipize]
 [2]: https://serversforhackers.com/video/deploying-with-fabric
 [3]: https://fritshoogland.wordpress.com/2014/09/14/using-ansible-for-executing-oracle-dba-tasks/
 [4]: http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/
+[5]: https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md
+[6]: https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/
+
