@@ -80,6 +80,30 @@ td { background-color: SeaShell;
     } 
 }
 
+
+.shadow {
+    box-shadow: 5px 5px 3px #888888;
+}
+
+.circular {
+    @extend .shadow;
+
+    display: block;
+    overflow: hidden;
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.round {
+    @extend .circular;
+
+    line-height: 0;
+    margin: 0 auto;
+    padding: 8px;
+    background: #f4f4f4 none repeat scroll 0 0;
+}
+
 .clearb {
   clear: both;
 }
