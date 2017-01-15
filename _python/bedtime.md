@@ -33,6 +33,7 @@ jss: [wikipize]
 1. David Beazley
     * [Generators](http://www.dabeaz.com/generators/)
     * [Generators - The Final Frontier](http://pyvideo.org/pycon-us-2014/generators-the-final-frontier.html)
+    * Modules And Packages [slides][7] and [youtube][8].
 
 ## Libraries
 
@@ -62,4 +63,6 @@ jss: [wikipize]
 [4]: http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/
 [5]: https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md
 [6]: https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/
+[7]: http://www.dabeaz.com/modulepackage/ModulePackage.pdf
+[8]: https://www.youtube.com/watch?v=0oTh1CXRaQ0
 
