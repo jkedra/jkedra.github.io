@@ -56,6 +56,10 @@ jss: [wikipize]
 2. [Ansible Example 1][3]
 3. [Using Ansible to configure OEL7 with 12cR1 EE][4]
 
+## Development Environment
+1. [Full Stack Python](https://www.fullstackpython.com/development-environments.html)
+2. [DevEnv@HG2P](http://docs.python-guide.org/en/latest/dev/env/)
+3. [Definitive Guide to Setup My Python Workspace][9]
 
 [1]: https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 [2]: https://serversforhackers.com/video/deploying-with-fabric
@@ -65,4 +69,4 @@ jss: [wikipize]
 [6]: https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/
 [7]: http://www.dabeaz.com/modulepackage/ModulePackage.pdf
 [8]: https://www.youtube.com/watch?v=0oTh1CXRaQ0
-
+[9]: https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14#.c8p03tuvp
