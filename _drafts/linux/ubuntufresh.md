@@ -15,6 +15,7 @@ nice screen resolution, cool radiator, better keyboard, out-of-the-box
 working hardware keys, system suspend. Really nice.
 
 ## Base Install
+
 Base install is seamless. Boot from pendrive
 (press <kbd>F12</kbd> to choose it boot device) is as simple
 as the rest of process. Only partitioning related decision may be not
@@ -23,6 +24,7 @@ such trivial as the rest of process.
 Here are subject which may need more attention:
 
 ## Post Install
+
 1. Existing SSH DSA keys does not work any longer because OpenSSH
    thinks [it is not safe][1dsa]. Either migrate to RSA or force
    OpenSSH to accept it: `PubKeyAcceptedKeyTypes ssh-dss`.
@@ -35,6 +37,7 @@ Here are subject which may need more attention:
 ## Packages Installed Later
 
 ### SQL Developer
+
 1. [Download SQL Developer for "Other" platform][sqldev].
 2. Install `sqldeveloper-package` by `apt get install sqldeveloper-package`.
 3. `man make-sqldeveloper-package`
@@ -44,6 +47,7 @@ Here are subject which may need more attention:
 [sqldev]: http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
 
 ### Oracle Database
+
 1. [Oracle Instant Client](https://help.ubuntu.com/community/Oracle%20Instant%20Client)
 2. [Oracle 12c Database Install](http://tutorialforlinux.com/2016/03/31/how-to-install-oracle-12c-database-on-ubuntu-16-04-xenial-64bit-easy-guide/)
 
@@ -67,6 +71,9 @@ then type:
 
     sudo update-desktop-database
 
+### Other Software
+
+1. [Youtube Downloader](https://github.com/rg3/youtube-dl/)
 
 ## Problems
 
