@@ -1,0 +1,18 @@
+/* http://stackoverflow.com/questions/255170/markdown-and-image-alignment */
+
+img[alt$=">"] {
+  float:right;
+  margin-left: 20px;
+}
+
+img[alt$="<"] {
+  float:left;
+}
+
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
