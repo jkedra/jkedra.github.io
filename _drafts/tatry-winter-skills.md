@@ -22,6 +22,11 @@ language: pl
 1. [Zbiór polskich poradników z drytooling][2]
 2. [Szkoła Górska.pl][3]
 
+#### Książki i księgarnie
+
+1. [Księgania Wspinanie.pl](https://ksiegarnia.wspinanie.pl)
+2. [Myloview Góry][6] - fototapety z górami
+
 [skills]: https://www.youtube.com/playlist?list=PLrqtph4KNo5eR4rEAD698DJPL2kXoBGa0
 [boots]: https://www.youtube.com/watch?v=ulhbiKyn6vc
 [1]: http://drytooling.com.pl/serwis/art/patenty/7259-jak-ubrac-sie-zima-w-gory-na-trekking-wspinanie-skitury
@@ -29,3 +34,4 @@ language: pl
 [3]: http://www.szkola-gorska.pl/index.php/zima
 [4]: https://vimeo.com/131622160
 [5]: https://vimeo.com/38022554
+[6]: https://myloview.pl/fototapety/wg-kategorii/krajobrazy/gory/
