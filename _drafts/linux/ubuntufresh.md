@@ -50,6 +50,26 @@ Here are subject which may need more attention:
 
 1. [Oracle Instant Client](https://help.ubuntu.com/community/Oracle%20Instant%20Client)
 2. [Oracle 12c Database Install](http://tutorialforlinux.com/2016/03/31/how-to-install-oracle-12c-database-on-ubuntu-16-04-xenial-64bit-easy-guide/)
+3. [Install 11g at Ubuntu 12.04](https://makina-corpus.com/blog/metier/archives/howto-install-oracle-11g-ubuntu-linux-1204-precise-pangolin-64bits)
+4. [Install 11g at Ubuntu 16.04](http://tutorialforlinux.com/2016/03/29/how-to-install-oracle-11g-r2-database-on-ubuntu-16-04-xenial-lts-64bit-easy-guide-users-directories-set-up/)
+
+### Oracle Java
+
+Oracle's Java version has been prepared by webupdt8 and is available
+through their repository. There are good articles [1][1] and [2][2]
+on the subject.
+
+For your convenience I am quoting install steps here:
+
+    add-apt-repository ppa:webupd8team/java
+    apt update
+    apt install oracle-java8-installer
+    apt-get install oracle-java8-set-default
+    echo oracle-java8-installer shared/accepted-oracle-license-v1-1 \
+         select true | sudo /usr/bin/debconf-set-selections
+
+
+
 
 ### Desktop Icons
 
@@ -97,3 +117,8 @@ tested it yet.
 
 [Ubuntu Bugs]: https://bugs.launchpad.net/ubuntu/+source/network-manager/+bug/1589401
 [StackExchange]: http://askubuntu.com/questions/761180/wifi-doesnt-work-after-suspend-after-16-04-upgrade/761220#761220
+
+[1]: http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
+[2]: https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+
+
