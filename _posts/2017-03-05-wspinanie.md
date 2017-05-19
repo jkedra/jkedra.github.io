@@ -8,8 +8,8 @@ language: pl
 ## Pogoda Warunki
 
 1. [TOPR](http://pogoda.topr.pl)
-1. [Pogoda DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
-2. [Skitourowe](http://skitourowezakopane.pl/)
+2. [Pogoda DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
+3. [Skitourowe](http://skitourowezakopane.pl/)
 
 ## Topo
 
@@ -22,6 +22,10 @@ language: pl
 1. [wspinanie.pl](http://wspinanie.pl/)
 2. Ludowa [CAM only](/static/ludowa.html) and
    [full page.](http://www.cwf.pl/kamera-live)
+
+## Techniczne
+
+1. [Techniki zjazdu na linie][zjazd1]
 
 ## Żywność
 
@@ -36,3 +40,5 @@ language: pl
 1. [KKW](http://www.kw.krakow.pl/o-klubie/czlonkowskie/znizki.html)
 2. [Forteca](https://www.facebook.com/cwforteca/app/352601181451872/)
 
+
+[zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie?showall=1
