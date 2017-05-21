@@ -47,6 +47,14 @@ language: pl
 
 1. [Techniki zjazdu na linie][zjazd1]
 
+### Trasy
+
+#### Tatry
+
+1. [Letnie drogi kursowe w Tatrach][gran-tatr-let1] -
+    Damian Granowski.
+2. [Szlaki i drogi](http://szlakiidrogi.pl/) -
+    tutaj też dużo o letnich i zimowych drogach tatrzańskich.
 
 ### [Kontuzje](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
 
@@ -56,3 +64,4 @@ language: pl
 3. [Urazy palców](http://wspinanie.pl/2011/01/najsilniejsze-palce-na-swiecie/).
 
 [zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie?showall=1
+[gran-tatr-let1]: http://drytooling.com.pl/serwis/art/artykuly/6436-wybrane-drogi-kursowe-tatry-lato
