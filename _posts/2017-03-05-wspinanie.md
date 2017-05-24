@@ -44,7 +44,8 @@ language: pl
 ### [Kontuzje wspinaczkowe](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
 
 1. [Staw łokciowy](http://wspinanie.pl/2011/02/kontuzje-stawu-lokciowego/).
-1. [Zapalenie pochewki maziowej ścięgna](http://wspinanie.pl/2011/01/kontuzje-zapalenie-pochewki-maziowej-sciegna/).
-2. [Zerwanie troczka](http://wspinanie.pl/2011/03/abc-pierwszej-pomocy-zerwanie-troczka/).
-3. [Urazy palców](http://wspinanie.pl/2011/01/najsilniejsze-palce-na-swiecie/).
+2. [Zapalenie pochewki maziowej ścięgna](http://wspinanie.pl/2011/01/kontuzje-zapalenie-pochewki-maziowej-sciegna/).
+3. [Zerwanie troczka](http://wspinanie.pl/2011/03/abc-pierwszej-pomocy-zerwanie-troczka/).
+4. [Urazy palców](http://wspinanie.pl/2011/01/najsilniejsze-palce-na-swiecie/).
+5. [Chronić palce](http://wspinanie.pl/brytan/brytan-nr-14/paluszki-jak-je-chronic/)
 
