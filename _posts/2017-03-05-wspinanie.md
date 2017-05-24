@@ -8,8 +8,8 @@ language: pl
 ## Pogoda Warunki
 
 1. [TOPR](http://pogoda.topr.pl)
-1. [Pogoda DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
-2. [Skitourowe](http://skitourowezakopane.pl/)
+2. [Pogoda DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
+3. [Skitourowe](http://skitourowezakopane.pl/)
 
 ## Topo
 
@@ -39,9 +39,24 @@ language: pl
 1. [KKW](http://www.kw.krakow.pl/o-klubie/czlonkowskie/znizki.html)
 2. [Forteca](https://www.facebook.com/cwforteca/app/352601181451872/)
 
+
+
 ## WSPINACZKA
 
-### [Kontuzje wspinaczkowe](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
+### Techniczne
+
+1. [Techniki zjazdu na linie][zjazd1]
+
+### Trasy
+
+#### Tatry
+
+1. [Letnie drogi kursowe w Tatrach][gran-tatr-let1] -
+    Damian Granowski.
+2. [Szlaki i drogi](http://szlakiidrogi.pl/) -
+    tutaj też dużo o letnich i zimowych drogach tatrzańskich.
+
+### [Kontuzje](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
 
 1. [Staw łokciowy](http://wspinanie.pl/2011/02/kontuzje-stawu-lokciowego/).
 2. [Zapalenie pochewki maziowej ścięgna](http://wspinanie.pl/2011/01/kontuzje-zapalenie-pochewki-maziowej-sciegna/).
@@ -49,3 +64,5 @@ language: pl
 4. [Urazy palców](http://wspinanie.pl/2011/01/najsilniejsze-palce-na-swiecie/).
 5. [Chronić palce](http://wspinanie.pl/brytan/brytan-nr-14/paluszki-jak-je-chronic/)
 
+[zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie?showall=1
+[gran-tatr-let1]: http://drytooling.com.pl/serwis/art/artykuly/6436-wybrane-drogi-kursowe-tatry-lato
