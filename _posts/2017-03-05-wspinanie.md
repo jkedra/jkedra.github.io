@@ -46,6 +46,7 @@ language: pl
 ### Techniczne
 
 1. [Techniki zjazdu na linie][zjazd1]
+2. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki)
 
 ### Trasy
 
