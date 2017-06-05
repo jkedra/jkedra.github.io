@@ -31,7 +31,15 @@ language: pl
 
 ### Sklepy
 
+### Stacjonarne KRK
+
 1. [A5](http://a5.sklep.pl)
+2. [Alpintech](http://alpintech.pl/)
+2. [E-Pamir](http://e-pamir.pl/)
+
+### Wysyłkowe
+
+2. [8a](http://8a.pl)
 2. [montano](http://montano.pl)
 
 ### Zniżki
