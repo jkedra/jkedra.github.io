@@ -12,6 +12,7 @@ jss: [wikipize]
 1. [Python Guide](https://docs.python-guide.org)
 2. [Awesome Python Libraries][5]
 3. [Top 10 Python Libraries of 2016][6]
+4. [Ian Bicking](http://www.ianbicking.org/blog/)
 
 ## Python Standard Library
 
