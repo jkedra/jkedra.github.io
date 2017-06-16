@@ -60,7 +60,7 @@ language: pl
 Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 1. [Techniki zjazdu na linie][zjazd1]
-2. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki)
+2. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki), przeczytaj wcześniej [zestaw wspinaczkowy w Tatry][dt-set-tatry]
 3. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
 
 
@@ -72,6 +72,13 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
     Damian Granowski.
 2. [Szlaki i drogi](http://szlakiidrogi.pl/) -
     tutaj też dużo o letnich i zimowych drogach tatrzańskich.
+3. [Topo Tatry][dt-topo-tatry]
+
+### Skałki
+
+1. Pod Krakowem:
+  * [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
+  * [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
 
 ### Ćwiczenia
 
@@ -88,9 +95,11 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 ## Literatura
 
-1. [Klasyki za DryTooling](http://drytooling.com.pl/serwis/art/artykuly/7059-dobra-literatura-gorska)
+1. [Klasyki literatury za DryTooling](http://drytooling.com.pl/serwis/art/artykuly/7059-dobra-literatura-gorska)
 
 [zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie?showall=1
 [gran-tatr-let1]: http://drytooling.com.pl/serwis/art/artykuly/6436-wybrane-drogi-kursowe-tatry-lato
 [drytooling]: http://drytooling.com.pl/
 [dt-por-set]: http://drytooling.com.pl/serwis/art/artykuly/6924-zbior-poradnikow-wspinaczkowych
+[dt-set-tatry]: http://drytooling.com.pl/serwis/art/patenty/2289-zestaw-standardowy-do-wspinaczki-w-tatrach
+[dt-topo-tatry]: http://drytooling.com.pl/baza/topo/tatry
