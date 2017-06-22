@@ -1,12 +1,24 @@
 ---
 layout: post
-title:  NTLM proxy for Redhat
+title:  NTLM Proxy
 author: jkedra
 language: en
 
 jquery: true
 js: wikipize
 ---
+
+My employeer uses a web proxy with NTLM authentication. I had my
+proxy password stored in multiple locations and with periodical
+password change I had to go carefully over the password locations
+list to change them all. When I skipped just a one, it locked
+my account within a few bad password attempts.
+
+Can I have a single point of authentication please? It is exactly
+what I need here. CNTLM is the answer.
+
+
+## CNTLM config
 
 Modify `/etc/cntlm.conf`:
 
@@ -65,7 +77,17 @@ Once the configuration is settled it is high time to test it:
     cntlm[14432]: Changing uid:gid to 495:490 - Success
 
 
-## TODO: Autostart after reboot
+## System Specific
+
+### Ubuntu 16.04
+
+I think it starts automatically in Ubuntu.
+
+### Redhat
+
+There is a package with CNTLM in RHEL 6.4 but without autostart enabled.
+It needs to be activated manually.
+
 
     [root@test1 oracle]# rpm -ql cntlm-0.92.3-1
     /etc/cntlm.conf
@@ -80,5 +102,25 @@ Once the configuration is settled it is high time to test it:
     /usr/share/man/man1/cntlm.1.gz
     [root@test1 oracle]# 
 
+    # /etc/init.d/cntlmd restart
+    Shutting down CNTLM Authentication Proxy: [ OK ]
+    Starting CNTLM Authentication Proxy: [ OK ]
+
+    # chkconfig cntlmd on
+
+Now setup the environment:
+
+And the following line in /etc/yum.conf file as shown below.
+
+    proxy=http://127.0.0.1:3128
+
+Add in /etc/profile so that it will be enabled on every boot:
+
+    export http_proxy=http://127.0.0.1:3128/
+    export https_proxy=http://127.0.0.1:3128/
+
 ## TODO: Configure Squid
 
+## Resources
+
+1. [Centos 6.4 behind a proxy](https://www.unixmen.com/update-centos-6-4-behind-a-proxy/)
