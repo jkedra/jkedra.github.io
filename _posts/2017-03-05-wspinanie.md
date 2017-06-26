@@ -11,7 +11,7 @@ language: pl
 2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
 3. [Skitourowe](http://skitourowezakopane.pl/)
 
-## Topo
+## Topo Skałki
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
 2. [Topo Jura Północna](http://topojura.dz.pl/)
@@ -41,8 +41,9 @@ language: pl
 
 ### Wysyłkowe
 
-2. [8a](http://8a.pl)
-2. [montano](http://montano.pl)
+1. [8a](http://8a.pl)
+2. [Alpinlife](http://www.alpinlife.pl/)
+3. [montano](http://montano.pl)
 
 ### Zniżki
 
@@ -62,6 +63,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 1. [Techniki zjazdu na linie][zjazd1]
 2. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki), przeczytaj wcześniej [zestaw wspinaczkowy w Tatry][dt-set-tatry]
 3. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
+4. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
 
 
 ### Trasy
@@ -97,7 +99,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 1. [Klasyki literatury za DryTooling](http://drytooling.com.pl/serwis/art/artykuly/7059-dobra-literatura-gorska)
 
-[zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie?showall=1
+[zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie
 [gran-tatr-let1]: http://drytooling.com.pl/serwis/art/artykuly/6436-wybrane-drogi-kursowe-tatry-lato
 [drytooling]: http://drytooling.com.pl/
 [dt-por-set]: http://drytooling.com.pl/serwis/art/artykuly/6924-zbior-poradnikow-wspinaczkowych
