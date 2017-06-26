@@ -37,7 +37,7 @@ In my case PassNTLMv2 did not work and I had to remove it
 from the configuration.
 
 There is a command to create encrypted passwords `cntlm -H`.
-But I found it not working good:
+But I found it not working well:
 
     [root@test1 ~]# cntlm -H
     Password: 
@@ -53,10 +53,10 @@ But I found it not working good:
 
     Wrong credentials, invalid URL or proxy doesn't support NTLM nor BASIC.
 
-The other command is just `cntlm -M with some URL`, which when the config
-is proper one, spits out with the hashed passwords configuration/profile.
-This is exactly what you need to append into your configuration
-(instead of what `cntlm -H` creates). Note it also alter the `Auth` parameter:
+The other command is just `cntlm -M with some URL`, which prompts for a
+password, tests the config on given url, then spits out with the hashed
+passwords configuration/profile.  This is exactly what you need to append to
+your configuration. Note it also alter the `Auth` parameter:
 
     [root@test1 ~]# cntlm -M http://www.onet.pl
     Password: 
