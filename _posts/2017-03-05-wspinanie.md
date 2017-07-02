@@ -39,7 +39,7 @@ language: pl
    [full page.](http://www.cwf.pl/kamera-live)
 3. [drytooling.com.pl](http://drytooling.com.pl): kopalnia informacji
    Damiana Granowskiego.
-4. [8a Academy][8a-academy]
+4. Artykuły z [8a Academy][8a-academy]:
    * [Piotr Sułowski][8a-piotr-sulowski]
    * [Damian Granowski][8a-damian-granowski]
 
@@ -90,6 +90,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 1. [Ćwiczenia kompensacyjne i uzupełniające](http://drytooling.com.pl/serwis/art/trening/2113-10-cwiczen-kompensacyjnych-i-uzupelniajacych)
 2. [Ćwiczenia z taśmą](http://drytooling.com.pl/serwis/art/trening/6725-cwiczenia-z-elastycznymi-tasmami) i [ćwiczenia z kółkami](http://drytooling.com.pl/serwis/art/trening/7352-trening-na-kolkach-gimnastycznych).
+3. [Rozgrzewka wspinaczkowa z 8a](http://8a.pl/8academy/optymalna-rozgrzewka-wspinaczkowa/)
 
 ### [Kontuzje](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
 
