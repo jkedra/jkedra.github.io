@@ -11,11 +11,26 @@ language: pl
 2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
 3. [Skitourowe](http://skitourowezakopane.pl/)
 
-## Topo Skałki
+## Trasy/Topo
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
 2. [Topo Jura Północna](http://topojura.dz.pl/)
 3. [Topo Podkrakowskie 1](http://climbing.ovh.org/index.html)
+4. [Rejony wspinaczkowe za 8a][8a-rejony].
+
+### Tatry
+
+1. [Letnie drogi kursowe w Tatrach][gran-tatr-let1] -
+    Damian Granowski.
+2. [Szlaki i drogi](http://szlakiidrogi.pl/) -
+    tutaj też dużo o letnich i zimowych drogach tatrzańskich.
+3. [DryTooling Topo][dt-topo-tatry].
+4. [7 tatrzańskich klasyków wspinaczkowych][8a-topo-tatry] - Damian Granowski.
+
+### Skałki KRK
+
+1. [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
+2. [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
 
 ## Zasoby
 
@@ -24,10 +39,15 @@ language: pl
    [full page.](http://www.cwf.pl/kamera-live)
 3. [drytooling.com.pl](http://drytooling.com.pl): kopalnia informacji
    Damiana Granowskiego.
+4. [8a Academy][8a-academy]
+   * [Piotr Sułowski][8a-piotr-sulowski]
+   * [Damian Granowski][8a-damian-granowski]
 
 ## Żywność
 
 1. [Lyo](https://lyofood.pl/) - polska żywność liofilizowana 
+2. [Jedzenie w górach ](http://8a.pl/8academy/jedzenie-gorach-ilosc-zabrac-wyprawe/) -
+  Janusz Gołąb
 
 ## SPRZĘT
 
@@ -56,7 +76,7 @@ language: pl
 
 ### Techniczne
 
-[DryTooling][drytooling] zebrał
+Damian Granowski z [DryTooling][drytooling] zebrał
 [wszystkie swoje poradniki w jedną listę][dt-por-set].
 Poniżej tylko te, które są dla mnie szczególnie cenne.
 
@@ -65,22 +85,6 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 3. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
 4. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
 
-
-### Trasy
-
-#### Tatry
-
-1. [Letnie drogi kursowe w Tatrach][gran-tatr-let1] -
-    Damian Granowski.
-2. [Szlaki i drogi](http://szlakiidrogi.pl/) -
-    tutaj też dużo o letnich i zimowych drogach tatrzańskich.
-3. [Topo Tatry][dt-topo-tatry]
-
-### Skałki
-
-1. Pod Krakowem:
-  * [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
-  * [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
 
 ### Ćwiczenia
 
@@ -105,3 +109,10 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 [dt-por-set]: http://drytooling.com.pl/serwis/art/artykuly/6924-zbior-poradnikow-wspinaczkowych
 [dt-set-tatry]: http://drytooling.com.pl/serwis/art/patenty/2289-zestaw-standardowy-do-wspinaczki-w-tatrach
 [dt-topo-tatry]: http://drytooling.com.pl/baza/topo/tatry
+
+[8a-academy]: http://8a.pl/8academy/
+[8a-topo-tatry]: http://8a.pl/8academy/drogi-wspinaczkowe-w-tatrach/
+[8a-rejony]: http://8a.pl/8academy/kategorie/wspinaczka/rejony/
+[8a-piotr-sulowski]: http://8a.pl/8academy/author/piotr-sulowski/
+[8a-damian-granowski]: http://8a.pl/8academy/author/damian-granowski/
+
