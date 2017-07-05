@@ -88,6 +88,46 @@ searched in `known_hosts` during the connection phase.
        User jurek
        ProxyCommand corkscrew proxy.kedra.com 80 %h %p ~/.ssh/passwords
      
+#### Removing a particular host from known_hosts
+
+    ssh-keygen -R hostname
+
+Above solution [found here](https://askubuntu.com/questions/20865/is-it-possible-to-remove-a-particular-host-key-from-sshs-known-hosts-file).
+
+#### host key gets changed over and over
+
+In a situation when you are connecting a remote host which gets reinstalled
+and its host key gets regenerated, `ssh` drops a warning the remote host
+identification gets changed:
+
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @       WARNING: POSSIBLE DNS SPOOFING DETECTED!          @
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    The RSA host key for foo-bar.net has changed,
+    and the key for the corresponding IP address 127.0.0.1
+    is unchanged. This could either mean that
+    DNS SPOOFING is happening or the IP address for the host
+    and its host key have changed at the same time.
+    Offending key for IP in /home/user/.ssh/known_hosts:6
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+
+Sometimes it is actually expected. In such the case I can force
+ssh to avoid adding volatile key to the `ssh_keys`, replacing its
+location by `/dev/null`: `UserKnownHostsFile=/dev/null`, and
+allowing connections to hosts without maching host keys:
+`StrictHostKeyChecking=no`.
+
+     Host bastion
+       HostName 58.50.127.96
+       HostKeyAlias bastion
+       User jurek
+       ProxyCommand corkscrew proxy.kedra.com 80 %h %p ~/.ssh/passwords
+       UserKnownHostsFile=/dev/null
+       StrictHostKeyChecking=no
+
 
 
 ### links
@@ -99,7 +139,7 @@ searched in `known_hosts` during the connection phase.
 
 [Paramiko][paramiko] is Python implementation of SSHv2 protocol for
 both client and server. Supports parsing of regular OpenSSH config files,
-particular ssh_config and known_hosts. It is able to use
+in particular `ssh_config` and `known_hosts`. It is able to use
 [ProxyCommand][paramiko-proxycommand] ssh feature.
 
 [paramiko-proxycommand]: https://stackoverflow.com/questions/17681031/python-ssh-using-tor-proxy
