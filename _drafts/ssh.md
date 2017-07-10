@@ -87,7 +87,12 @@ searched in `known_hosts` during the connection phase.
        HostKeyAlias bastion
        User jurek
        ProxyCommand corkscrew proxy.kedra.com 80 %h %p ~/.ssh/passwords
-     
+
+The `corkcrew` command is actually behind scope of the task but for the note
+let me say it allows going through authenticated HTTP NTLM proxy.
+There are also other options like using `cntlm` transparent proxy for this
+purpose.
+
 #### Removing a particular host from known_hosts
 
     ssh-keygen -R hostname
@@ -128,12 +133,76 @@ allowing connections to hosts without maching host keys:
        UserKnownHostsFile=/dev/null
        StrictHostKeyChecking=no
 
+### multihops
+
+#### Sample setup
+
+    +---------+    +------------+    +---------+   +--------+
+    | laptop  |--->| HTTP proxy |--->| bastion |-->| target |
+    +---------+    | NTLM auth  |    |  host   |   |  host  |
+                   +------------+    +---------+   +--------+
+
+#### Dealing with HTTP proxy
+
+Going through the HTTP proxy needs a configuration which
+has been already mentioned:
+
+    Host bastion
+       HostName 58.50.127.96
+       HostKeyAlias bastion
+       User jurek
+       ProxyCommand corkscrew proxy.kedra.com 80 %h %p ~/.ssh/proxypass
+       UserKnownHostsFile=/dev/null
+       StrictHostKeyChecking=no
+       ServerAliveInterval 60
+
+The `corkscrew` allows going over NTLM authenticated HTTP proxy.
+Each time the target is bastion above configuration forces to call
+`corkscrew`, authenticate at HTTP proxy and reach bastion host through it.
+
+#### Easy Approach
+
+It is the most straightforward way, do ssh to first host,
+then continue connection to another:
+
+    ssh -t bastion ssh -i KEY.pem ec2-user@10.10.21.186
+
+Without pseudo-TTY allocated (`-t` option) you will not be able to have
+an interactive session. It is not required for single-shot commands but
+is a prerequisite for interactive ssh. Private key file `KEY.pem` which
+is required to access target EC2, needs to be copied to bastion first.
+
+Obviously it is not a great idea because it needs
+Above works with
 
 
-### links
+
+
+ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
+ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
+
+##### Links
+
+1. [SSH throush multiple hosts using ProxyCommand][multi1]
+2. [Transparent MultiHop][multi2]
+3. [ProxyCommand use for multiple hops][multi3]
+4. [ProxyCommand passing through one host][multi4]
+5. [SSH Agent Forwarding][multi5]
+
+[multi1]: https://serverfault.com/questions/368266/ssh-through-multiple-hosts-using-proxycommand
+[multi2]: http://sshmenu.sourceforge.net/articles/transparent-mulithop.html
+[multi3]: https://unix.stackexchange.com/questions/317491/proxycommand-use-for-multiple-hops-and-prompt-authentication
+[multi4]: https://www.cyberciti.biz/faq/linux-unix-ssh-proxycommand-passing-through-one-host-gateway-server/
+[multi5]: http://www.unixwiz.net/techtips/ssh-agent-forwarding.html
+
+### Other Links
+
+1. [OpenSSH Wiki][openssh-wiki]
+2. [Why OpenSSH deprecated DSA keys][sshdsadepr].
 
 [openssh-wiki]: https://en.wikibooks.org/wiki/OpenSSH
 [sshdsadepr]: http://security.stackexchange.com/questions/112802/why-openssh-deprecated-dsa-keys
+
 
 ## SSH + Python
 
