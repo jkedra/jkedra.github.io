@@ -103,6 +103,26 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 ## Literatura
 
 1. [Klasyki literatury za DryTooling](http://drytooling.com.pl/serwis/art/artykuly/7059-dobra-literatura-gorska)
+2. _Góry - wolność i przygoda_ (GWP) - mapa tej książki poniżej
+
+### (GWP)
+
+#### węzły
+
+1. węzły zaciskowe 135 (Prusika, Bachmanna, francuski - stopper, bloker)
+2. węzeł flagowy 134
+3. półwyblinka 137, wyblinka 133
+4. motyl alpejski 133
+5. skrajny tatrzański 133
+
+#### liny
+
+1. zwijanie liny, zwój górski i alpejski 127
+
+#### uprząż
+
+1. improwizowana uprząż biodrowa (139) - potrzebne 3m taśmy związanej w pętlę
+2. pas piersiowy (140) - taśma rurowa 3m szerokości 2.5cm
 
 [zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie
 [gran-tatr-let1]: http://drytooling.com.pl/serwis/art/artykuly/6436-wybrane-drogi-kursowe-tatry-lato
