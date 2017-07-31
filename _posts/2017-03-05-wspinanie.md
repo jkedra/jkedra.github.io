@@ -43,11 +43,12 @@ language: pl
    * [Piotr Sułowski][8a-piotr-sulowski]
    * [Damian Granowski][8a-damian-granowski]
 
-## Żywność
+## Żywność i Dieta
 
 1. [Lyo](https://lyofood.pl/) - polska żywność liofilizowana 
 2. [Jedzenie w górach ](http://8a.pl/8academy/jedzenie-gorach-ilosc-zabrac-wyprawe/) -
   Janusz Gołąb
+3. [Posiłek potreningowy](https://wspinacz.wordpress.com/2013/04/18/wazny-posilek-posilek-po-treningowy/)
 
 ## SPRZĘT
 
@@ -88,9 +89,10 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 ### Ćwiczenia
 
-1. [Ćwiczenia kompensacyjne i uzupełniające](http://drytooling.com.pl/serwis/art/trening/2113-10-cwiczen-kompensacyjnych-i-uzupelniajacych)
-2. [Ćwiczenia z taśmą](http://drytooling.com.pl/serwis/art/trening/6725-cwiczenia-z-elastycznymi-tasmami) i [ćwiczenia z kółkami](http://drytooling.com.pl/serwis/art/trening/7352-trening-na-kolkach-gimnastycznych).
-3. [Rozgrzewka wspinaczkowa z 8a](http://8a.pl/8academy/optymalna-rozgrzewka-wspinaczkowa/)
+1. [Mięsień czworoboczny](https://wspinacz.wordpress.com/2016/10/15/jak-i-po-co-trenowac-miesien-czworoboczny/)
+2. [Ćwiczenia kompensacyjne i uzupełniające](http://drytooling.com.pl/serwis/art/trening/2113-10-cwiczen-kompensacyjnych-i-uzupelniajacych)
+3. [Ćwiczenia z taśmą](http://drytooling.com.pl/serwis/art/trening/6725-cwiczenia-z-elastycznymi-tasmami) i [ćwiczenia z kółkami](http://drytooling.com.pl/serwis/art/trening/7352-trening-na-kolkach-gimnastycznych).
+4. [Rozgrzewka wspinaczkowa z 8a](http://8a.pl/8academy/optymalna-rozgrzewka-wspinaczkowa/)
 
 ### [Kontuzje](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
 
