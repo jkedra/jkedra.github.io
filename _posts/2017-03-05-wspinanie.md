@@ -43,12 +43,17 @@ language: pl
    * [Piotr Sułowski][8a-piotr-sulowski]
    * [Damian Granowski][8a-damian-granowski]
 
+### Blogi
+
+1. [Ruda z wyboru](http://www.rudazwyboru.pl/) - prawdziwa włóczęga tatrzańska.
+
 ## Żywność i Dieta
 
 1. [Lyo](https://lyofood.pl/) - polska żywność liofilizowana 
 2. [Jedzenie w górach ](http://8a.pl/8academy/jedzenie-gorach-ilosc-zabrac-wyprawe/) -
   Janusz Gołąb
 3. [Posiłek potreningowy](https://wspinacz.wordpress.com/2013/04/18/wazny-posilek-posilek-po-treningowy/)
+4. [Propozycje Rudej w Tatry](http://www.rudazwyboru.pl/2015/12/10-nawet-11-pomysow-na-szame-w-gorach.html)
 
 ## SPRZĘT
 
@@ -64,7 +69,8 @@ language: pl
 
 1. [8a](http://8a.pl)
 2. [Alpinlife](http://www.alpinlife.pl/)
-3. [montano](http://montano.pl)
+4. [skalnik](http://skalnik.pl/)
+3. [montano](http://montano.pl/)
 
 ### Zniżki
 
@@ -90,6 +96,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 ### Ćwiczenia
 
 1. [Mięsień czworoboczny](https://wspinacz.wordpress.com/2016/10/15/jak-i-po-co-trenowac-miesien-czworoboczny/)
+2. [Podciągnie na drążku](https://wspinacz.wordpress.com/2013/10/16/podciaganie-na-drazku/)
 2. [Ćwiczenia kompensacyjne i uzupełniające](http://drytooling.com.pl/serwis/art/trening/2113-10-cwiczen-kompensacyjnych-i-uzupelniajacych)
 3. [Ćwiczenia z taśmą](http://drytooling.com.pl/serwis/art/trening/6725-cwiczenia-z-elastycznymi-tasmami) i [ćwiczenia z kółkami](http://drytooling.com.pl/serwis/art/trening/7352-trening-na-kolkach-gimnastycznych).
 4. [Rozgrzewka wspinaczkowa z 8a](http://8a.pl/8academy/optymalna-rozgrzewka-wspinaczkowa/)
