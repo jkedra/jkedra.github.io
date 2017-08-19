@@ -38,7 +38,9 @@ language: pl
     * [SummitPost](http://www.summitpost.org/zabi-kon/501224)
     * WHP Część VII. *Żabia Przełęcz Wyżnia – Żabia Czuba*
     * Inne: [1](http://footsteps.cba.pl/zabi-kon-grania/)
-6. [Rudej od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
+6. Opisy Rudej:
+    * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
+    * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
 
 
 ## Pogoda Warunki
