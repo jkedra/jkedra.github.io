@@ -5,18 +5,10 @@ author: jkedra
 language: pl
 ---
 
-## Pogoda Warunki
+## Gdzie się wspinać?
 
-1. [TOPR](http://pogoda.topr.pl)
-2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
-3. [Skitourowe](http://skitourowezakopane.pl/)
-
-## Trasy/Topo
-
-1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
-2. [Topo Jura Północna](http://topojura.dz.pl/)
-3. [Topo Podkrakowskie 1](http://climbing.ovh.org/index.html)
-4. [Rejony wspinaczkowe za 8a][8a-rejony].
+1. [Rejony wspinaczkowe za 8a][8a-rejony].
+2. [Dalmacja](http://dalmatiaclimbing.com/)
 
 ### Tatry
 
@@ -26,11 +18,34 @@ language: pl
     tutaj też dużo o letnich i zimowych drogach tatrzańskich.
 3. [DryTooling Topo][dt-topo-tatry].
 4. [7 tatrzańskich klasyków wspinaczkowych][8a-topo-tatry] - Damian Granowski.
+5. [Zasady chodzenia po Słowackich Tatrach](http://www.gory.info/artyk.php?id=182)
 
 ### Skałki KRK
 
 1. [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
 2. [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
+
+## Trasy/Topo
+
+1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
+2. [Topo Jura Północna](http://topojura.dz.pl/)
+3. [Topo Podkrakowskie 1](http://climbing.ovh.org/index.html)
+4. [Topo UKA](http://topo.uka.pl/content/topo/morskie_oko/morskie_oko.php)
+5. Wschodnia grań Żabiego Konia
+    * [Pionowe Myśli](http://pionowemysli.pl/topotatry/zabi-kon-wschodnia-gran/)
+    * [Ale Lufa! #30](https://www.youtube.com/watch?v=ZBamuYEuJ30) i [od Rysów](https://www.youtube.com/watch?v=Cv7lHlp5CMQ).
+    * [Drytooling](https://www.youtube.com/watch?v=ZBamuYEuJ30)
+    * [SummitPost](http://www.summitpost.org/zabi-kon/501224)
+    * WHP Część VII. *Żabia Przełęcz Wyżnia – Żabia Czuba*
+    * Inne: [1](http://footsteps.cba.pl/zabi-kon-grania/)
+6. [Rudej od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
+
+
+## Pogoda Warunki
+
+1. [TOPR](http://pogoda.topr.pl)
+2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
+3. [Skitourowe](http://skitourowezakopane.pl/)
 
 ## Zasoby
 
@@ -46,6 +61,7 @@ language: pl
 ### Blogi
 
 1. [Ruda z wyboru](http://www.rudazwyboru.pl/) - prawdziwa włóczęga tatrzańska.
+1. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
 
 ## Żywność i Dieta
 
@@ -59,39 +75,51 @@ language: pl
 
 ### Sklepy
 
-### Stacjonarne KRK
+#### Stacjonarne KRK
 
 1. [A5](http://a5.sklep.pl)
 2. [Alpintech](http://alpintech.pl/)
 2. [E-Pamir](http://e-pamir.pl/)
 
-### Wysyłkowe
+#### Wysyłkowe
 
 1. [8a](http://8a.pl)
 2. [Alpinlife](http://www.alpinlife.pl/)
 4. [skalnik](http://skalnik.pl/)
 3. [montano](http://montano.pl/)
 
-### Zniżki
+#### Zniżki
 
 1. [KKW](http://www.kw.krakow.pl/o-klubie/czlonkowskie/znizki.html)
 2. [Forteca](https://www.facebook.com/cwforteca/app/352601181451872/)
 
+### Turystyka i Biwak
+
+#### Śpiwór
+
+1. [Cumulus Mysterious Traveller 500](http://cumulus.pl/pl/kategorie/spiwory/mysterious-traveller-500?gid=22&vid=6)
+2. [Deuter Orbit 5](http://taternik-sklep.pl/spiwor-deuter-orbit-5-375.html)
 
 
 ## WSPINACZKA
 
-### Techniczne
+### Techniczne, techniki, patenty
 
 Damian Granowski z [DryTooling][drytooling] zebrał
 [wszystkie swoje poradniki w jedną listę][dt-por-set].
 Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 1. [Techniki zjazdu na linie][zjazd1]
+2. [Zwijanie liny](http://drytooling.com.pl/serwis/art/patenty/7308-jak-zwijac-line-wspinaczkowa)
 2. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki), przeczytaj wcześniej [zestaw wspinaczkowy w Tatry][dt-set-tatry]
 3. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
 4. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
 
+### Taternictwo
+
+#### Łączność
+
+1. [PMR Midland G18](http://www.alan.pl/radiokomunikacja/produkt/680/radio_pmr_midland_g18_ip67_accu_li_ion)
 
 ### Ćwiczenia
 
