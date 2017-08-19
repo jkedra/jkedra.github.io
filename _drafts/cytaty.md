@@ -12,6 +12,10 @@ tags:
 categories: 
 ---
 
+## Polacy
+
+[https://pl.wikiquote.org/wiki/Polacy](https://pl.wikiquote.org/wiki/Polacy)
+
 ## Pycha
 
 *1 Kor 1, 27-29; Łk 1, 52*
