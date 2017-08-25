@@ -59,6 +59,7 @@ language: pl
 4. Artykuły z [8a Academy][8a-academy]:
    * [Piotr Sułowski][8a-piotr-sulowski]
    * [Damian Granowski][8a-damian-granowski]
+5. [Summiter](http://summiter.pl/)
 
 ### Blogi
 
