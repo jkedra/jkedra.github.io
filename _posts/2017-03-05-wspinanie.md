@@ -9,6 +9,7 @@ language: pl
 
 1. [Rejony wspinaczkowe za 8a][8a-rejony].
 2. [Dalmacja](http://dalmatiaclimbing.com/)
+3. [Paklenica](http://www.paklenica-croatia.com/)
 
 ### Tatry
 
