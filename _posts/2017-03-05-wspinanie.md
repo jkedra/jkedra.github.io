@@ -32,10 +32,10 @@ language: pl
 2. [Topo Jura Północna](http://topojura.dz.pl/)
 3. [Topo Podkrakowskie 1](http://climbing.ovh.org/index.html)
 4. [Topo UKA](http://topo.uka.pl/content/topo/morskie_oko/morskie_oko.php)
-5. Wschodnia grań Żabiego Konia
+5. Wschodnia grań Żabiego Konia i Żabi Koń
     * [Pionowe Myśli](http://pionowemysli.pl/topotatry/zabi-kon-wschodnia-gran/)
     * [Ale Lufa! #30](https://www.youtube.com/watch?v=ZBamuYEuJ30) i [od Rysów](https://www.youtube.com/watch?v=Cv7lHlp5CMQ).
-    * [Drytooling](https://www.youtube.com/watch?v=ZBamuYEuJ30)
+    * [Drytooling](http://drytooling.com.pl/baza/gory/6442-zabi-kon)
     * [SummitPost](http://www.summitpost.org/zabi-kon/501224)
     * WHP Część VII. *Żabia Przełęcz Wyżnia – Żabia Czuba*
     * Inne: [1](http://footsteps.cba.pl/zabi-kon-grania/)
