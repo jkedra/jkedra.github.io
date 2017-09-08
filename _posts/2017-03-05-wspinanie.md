@@ -20,6 +20,9 @@ language: pl
 3. [DryTooling Topo][dt-topo-tatry].
 4. [7 tatrzańskich klasyków wspinaczkowych][8a-topo-tatry] - Damian Granowski.
 5. [Zasady chodzenia po Słowackich Tatrach](http://www.gory.info/artyk.php?id=182)
+6. Taternicki Niezbędnik
+   * [Jakie są formacje skalne w górach i skałach][dt-formacje]
+   * [Legenda do topo][dt-topo-legenda]
 
 ### Skałki KRK
 
@@ -178,3 +181,5 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 [8a-piotr-sulowski]: http://8a.pl/8academy/author/piotr-sulowski/
 [8a-damian-granowski]: http://8a.pl/8academy/author/damian-granowski/
 
+[dt-formacje]: http://drytooling.com.pl/serwis/art/artykuly/988-formacje-skalne-w-skalkach-gorach
+[dt-topo-legenda]: http://drytooling.com.pl/serwis/art/artykuly/6435-schemat-drogi-topo-wspinaczkowe
