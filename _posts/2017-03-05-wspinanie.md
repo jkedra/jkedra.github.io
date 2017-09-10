@@ -54,7 +54,8 @@ language: pl
 
 1. [TOPR](http://pogoda.topr.pl)
 2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
-3. [Skitourowe](http://skitourowezakopane.pl/)
+3. [MeteoBlue KRK](https://www.meteoblue.com/pl/pogoda/prognoza/multimodel/krak%C3%B3w_polska_3094802?fcstlength=144)
+4. [Skitourowe](http://skitourowezakopane.pl/)
 
 ## Zasoby
 
