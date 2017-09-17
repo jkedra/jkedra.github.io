@@ -18,6 +18,8 @@ categories:
 
 ## Pycha
 
+---
+
 *1 Kor 1, 27-29; Łk 1, 52*
 
 Bóg wybrał to, co słabe w oczach świata, † aby poniżyć mocnych;
@@ -25,6 +27,8 @@ wybrał to, co nie jest szlachetnie urodzone według świata i wzgardzone,
 i to, co nie jest,
 by to, co jest, unicestwić. *
 Tak by się żadne stworzenie nie chełpiło wobec Niego.
+
+---
 
 *Sdz 7.1-8*
 
@@ -36,22 +40,22 @@ się boi i drży, niech zawróci ku górze Gilead i chroni się".
 
 ## Góry
 
+---
+
 To, co rzuca się w oczy podczas lektury klasyki literatury górskiej, to
 wszechobecność śmierci. Jeśli spojrzysz na strony podsumowań w Mountain
-Magazine: pierwsze przejście tego i tego, drugie powtórzenie tamtego. I
-gdziekolwiek to by nie było: w Tien Szanie, w Nepalu, Karakorum, ludzie po
-prostu padają jak muchy. I to samo dzieje się w książkach: w zasadzie śmierć
-jest wspominana jako jeden z elementów w chronologii wyprawy: Ten i ten zginął,
-tamten nie wrócił.
+Magazine: [...] ludzie po prostu padają jak muchy. I to samo dzieje się w
+książkach: w zasadzie śmierć jest wspominana jako jeden z elementów w
+chronologii wyprawy: Ten i ten zginął, tamten nie wrócił.
 
 Nie było to coś, co by mnie do wspinania mogło zniechęcić albo zachęcić. Kiedy
-pisałem "Grę z Duchami" tematem był ten właśnie paradoks: wspinanie jest czymś,
-co kochasz, pasją (nie jest sportem - nie jest jak golf czy piłka nożna - jest
-czymś innym); a jednocześnie zabija ci jednego przyjaciela rocznie. Gdyby gra w
-golfa zabijała ci co roku po jednym kumplu, pewnie wyrzuciłbyś kije. Bardzo
-ważnym było dla mnie napisanie o tym, bo zawsze dziwiło mnie, że w środowisku
-milczy się na ten temat. Jakby był to jakiś sekret, tabu. Dla mnie natomiast to
-jest esencją alpinizmu. Pomimo ryzyka śmierci ludzie po prostu idą w góry.
+pisałem _"Grę z Duchami"_ tematem był ten właśnie paradoks: wspinanie jest
+czymś, co kochasz, pasją (nie jest sportem - nie jest jak golf czy piłka nożna
+- jest czymś innym); a jednocześnie zabija ci jednego przyjaciela rocznie.
+ Gdyby gra w golfa zabijała ci co roku po jednym kumplu, pewnie wyrzuciłbyś
+kije. [...] zawsze dziwiło mnie, że w środowisku milczy się na ten temat. Jakby
+był to jakiś sekret, tabu. Dla mnie natomiast to jest esencją alpinizmu. Pomimo
+ryzyka śmierci ludzie po prostu idą w góry.
 
 [...] choćbyś nie wiem jak tłumaczył, większość ludzi i tak nie zrozumie
 odpowiedzi, bo nie ma takich doświadczeń - to jak paragraf 22 - ponieważ wielu
@@ -75,6 +79,42 @@ po twojej myśli.
 
 *Joe Simpson* [off.sport.pl](http://off.sport.pl/off/1,111379,10857487,Joe_Simpson__Nie_jestem_juz_wspinaczem.html),
 także [wikiquote](https://pl.wikiquote.org/wiki/Joe_Simpson).
+
+---
+
+Paradoksalnie, realne zagrożenie śmiercią jest w dużym stopniu afirmacją życia.
+Nie jest to coś, czego poszukujesz, czego pragniesz, niemniej jednak jest
+potrzebne. Stając twarzą w twarz ze śmiercią, wspinacz dołoży wszelkich starań,
+żeby utrzymać się przy życiu i, jeśli mu się to uda, będzie powracał, żeby
+na kolejnych górach odtańczyć taki sam niesamowity taniec ze śmiercią na
+samiutkiej granicy życia. Wyruszając w góry i podejmując ryzyko, sami
+stwarzamy prawdopodobieństwo śmierci, wcale nie mając przy tym ochoty stracić
+życia. To wydaje się absurdalne. I jest absurdalne do momentu, dopóki nie
+podejdzie się za blisko do owej granicy. Dopiero wtedy rozumiemy, dlaczego
+tam poszliśmy i zauważamy, że przez to życie zyskało na wartości,
+że upewniliśmy się co to znaczy żyć poznawszy przedsmak śmierci.
+Dowodzono, że wspinanie się na góry, stąpanie na czubkach palców wzdłuż
+cienkiej granicy między życiem a śmiercią stanowi sposób na zajrzenie
+w nieznane.
+
+W swojej książce _"Wielkie błękitne marzenie"_ Robert Reid napisał:
+
+> Na niezwykłym boisku dla swojego sportu wspinacze uczą się tego,
+> co ludy pierwotne wiedzą instynktownie - że góry są siedzibą śmierci
+> i że podróżowanie po miejscach wysoko położonych nie jest zwykłym
+> narażaniem się na śmierć, lecz ryzykiem poznania jej.
+
+[...] podkreśla, że śmierć dlatego jest tak istotna dla wspinacza,
+ponieważ umożliwia zrozumienie, czym naprawdę jest życie. Wspinanie
+przygotowuje na śmierć, prowadzi ku krawędzi innego świata, do którego
+można zajrzeć bez strachu. W świecie miejskim do naszych największych
+i najgłębszych lęków należy strach przed śmiercią, jednak w świecie natury,
+do którego należą góry, przezwyciężenie tego uczucia jest możliwe [...].
+Bez zagrożenia śmiercią wielu wspinaczy spakowałoby swoje czekany i buty,
+i wróciłoby do domu.
+
+**Joe Simpson** _"Gra z duchami"_.
+
 
 ## Zasoby
 
