@@ -50,12 +50,12 @@ chronologii wyprawy: Ten i ten zginął, tamten nie wrócił.
 
 Nie było to coś, co by mnie do wspinania mogło zniechęcić albo zachęcić. Kiedy
 pisałem _"Grę z Duchami"_ tematem był ten właśnie paradoks: wspinanie jest
-czymś, co kochasz, pasją (nie jest sportem - nie jest jak golf czy piłka nożna
-- jest czymś innym); a jednocześnie zabija ci jednego przyjaciela rocznie.
- Gdyby gra w golfa zabijała ci co roku po jednym kumplu, pewnie wyrzuciłbyś
-kije. [...] zawsze dziwiło mnie, że w środowisku milczy się na ten temat. Jakby
-był to jakiś sekret, tabu. Dla mnie natomiast to jest esencją alpinizmu. Pomimo
-ryzyka śmierci ludzie po prostu idą w góry.
+czymś, co kochasz, pasją (nie jest sportem - nie jest jak golf czy
+piłka nożna - jest czymś innym); a jednocześnie zabija ci jednego przyjaciela
+rocznie. Gdyby gra w golfa zabijała ci co roku po jednym kumplu, pewnie
+wyrzuciłbyś kije. [...] zawsze dziwiło mnie, że w środowisku milczy się na ten
+temat. Jakby był to jakiś sekret, tabu. Dla mnie natomiast to jest esencją
+alpinizmu. Pomimo ryzyka śmierci ludzie po prostu idą w góry.
 
 [...] choćbyś nie wiem jak tłumaczył, większość ludzi i tak nie zrozumie
 odpowiedzi, bo nie ma takich doświadczeń - to jak paragraf 22 - ponieważ wielu
