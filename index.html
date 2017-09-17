@@ -15,7 +15,7 @@ regenerate: true
            ({{ post.language | capitalize }})
         </span>
         <h2>
-          {% assign is_draft = (post.path | truncate: 6, "") %}
+          {% assign is_draft = post.path | truncate: 6, "" %}
           {% if is_draft == "_draft" %} {% assign class_post_link = "post-link-draft" %}
           {% else %} {% assign class_post_link = "post-link" %}
           {% endif %}

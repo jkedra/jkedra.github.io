@@ -39,6 +39,6 @@ on this blog blost:
 ["The Definitive Guide to Setup My Python Workspace"][defguide].
 
 [rbenv]: http://rbenv.org/
-[pyenv]: https://github.com/pyenv/pyenv
+[pyenv]: https://github.com/pyenv/
 [pyenv-installer]: https://github.com/yyuu/pyenv-installer
 [defguide]: https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14#.c8p03tuvp
