@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  NTLM Proxy
+title:  CNTLM
 author: jkedra
 language: en
 
@@ -8,14 +8,13 @@ jquery: true
 js: wikipize
 ---
 
-My employeer uses a web proxy with NTLM authentication. I had my
-proxy password stored in multiple locations and with periodical
-password change I had to go carefully over the password locations
-list to change them all. When I skipped just a one, it locked
-my account within a few bad password attempts.
+My employeer uses a web proxy with NTLM authentication. I had my proxy password
+stored in multiple locations and with periodical password change I had to go
+carefully over the password locations list to change them all. When I skipped
+just a one, it locked my account within a few bad password attempts.
 
-Can I have a single point of authentication please? It is exactly
-what I need here. CNTLM is the answer.
+Can I have a single point of authentication please? It is exactly what I need
+here. CNTLM is the answer.
 
 
 ## CNTLM config

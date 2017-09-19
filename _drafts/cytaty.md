@@ -85,33 +85,32 @@ także [wikiquote](https://pl.wikiquote.org/wiki/Joe_Simpson).
 Paradoksalnie, realne zagrożenie śmiercią jest w dużym stopniu afirmacją życia.
 Nie jest to coś, czego poszukujesz, czego pragniesz, niemniej jednak jest
 potrzebne. Stając twarzą w twarz ze śmiercią, wspinacz dołoży wszelkich starań,
-żeby utrzymać się przy życiu i, jeśli mu się to uda, będzie powracał, żeby
-na kolejnych górach odtańczyć taki sam niesamowity taniec ze śmiercią na
-samiutkiej granicy życia. Wyruszając w góry i podejmując ryzyko, sami
-stwarzamy prawdopodobieństwo śmierci, wcale nie mając przy tym ochoty stracić
-życia. To wydaje się absurdalne. I jest absurdalne do momentu, dopóki nie
-podejdzie się za blisko do owej granicy. Dopiero wtedy rozumiemy, dlaczego
-tam poszliśmy i zauważamy, że przez to życie zyskało na wartości,
-że upewniliśmy się co to znaczy żyć poznawszy przedsmak śmierci.
-Dowodzono, że wspinanie się na góry, stąpanie na czubkach palców wzdłuż
-cienkiej granicy między życiem a śmiercią stanowi sposób na zajrzenie
-w nieznane.
+żeby utrzymać się przy życiu i, jeśli mu się to uda, będzie powracał [...]
+
+Wyruszając w góry i podejmując ryzyko, sami stwarzamy prawdopodobieństwo
+śmierci, wcale nie mając przy tym ochoty stracić życia. To wydaje się
+absurdalne. I jest absurdalne do momentu, dopóki nie podejdzie się za blisko do
+owej granicy. Dopiero wtedy rozumiemy, dlaczego tam poszliśmy i zauważamy, że
+przez to życie zyskało na wartości, że upewniliśmy się co to znaczy żyć
+poznawszy przedsmak śmierci. Dowodzono, że wspinanie się na góry, stąpanie na
+czubkach palców wzdłuż cienkiej granicy między życiem a śmiercią stanowi sposób
+na zajrzenie w nieznane.
 
 W swojej książce _"Wielkie błękitne marzenie"_ Robert Reid napisał:
 
-> Na niezwykłym boisku dla swojego sportu wspinacze uczą się tego,
-> co ludy pierwotne wiedzą instynktownie - że góry są siedzibą śmierci
-> i że podróżowanie po miejscach wysoko położonych nie jest zwykłym
-> narażaniem się na śmierć, lecz ryzykiem poznania jej.
+> wspinacze uczą się tego, co ludy pierwotne wiedzą instynktownie - że 
+> góry są siedzibą śmierci i że podróżowanie po miejscach wysoko położonych
+> nie jest zwykłym narażaniem się na śmierć, lecz ryzykiem poznania jej.
 
 [...] podkreśla, że śmierć dlatego jest tak istotna dla wspinacza,
 ponieważ umożliwia zrozumienie, czym naprawdę jest życie. Wspinanie
 przygotowuje na śmierć, prowadzi ku krawędzi innego świata, do którego
-można zajrzeć bez strachu. W świecie miejskim do naszych największych
-i najgłębszych lęków należy strach przed śmiercią, jednak w świecie natury,
-do którego należą góry, przezwyciężenie tego uczucia jest możliwe [...].
-Bez zagrożenia śmiercią wielu wspinaczy spakowałoby swoje czekany i buty,
-i wróciłoby do domu.
+można zajrzeć bez strachu.
+
+W świecie miejskim do naszych największych i najgłębszych lęków należy strach
+przed śmiercią, jednak w świecie natury, do którego należą góry,
+przezwyciężenie tego uczucia jest możliwe [...].  Bez zagrożenia śmiercią wielu
+wspinaczy spakowałoby swoje czekany i buty, i wróciłoby do domu.
 
 **Joe Simpson** _"Gra z duchami"_.
 

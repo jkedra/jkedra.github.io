@@ -120,7 +120,7 @@ identification gets changed:
     IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
 
 Sometimes it is actually expected. In such the case I can force
-ssh to avoid adding volatile key to the `ssh_keys`, replacing its
+ssh to avoid adding a volatile key to the `ssh_keys`, replacing its
 location by `/dev/null`: `UserKnownHostsFile=/dev/null`, and
 allowing connections to hosts without maching host keys:
 `StrictHostKeyChecking=no`.
@@ -167,19 +167,21 @@ then continue connection to another:
 
     ssh -t bastion ssh -i KEY.pem ec2-user@10.10.21.186
 
-Without pseudo-TTY allocated (`-t` option) you will not be able to have
-an interactive session. It is not required for single-shot commands but
-is a prerequisite for interactive ssh. Private key file `KEY.pem` which
-is required to access target EC2, needs to be copied to bastion first.
+Without a pseudo-TTY allocated (`-t` option) you will not be able to enter an
+interactive ssh session. The pseudo-TTY is not required for a single-run, no
+keyboard input command (like `ssh bastion ls`) but is a prerequisite for
+interactive ssh.
 
-Obviously it is not a great idea because it needs
-Above works with
+Because the second ssh runs at the bastion, the private key file `KEY.pem`, required to access target EC2, needs to be copied to the bastion before.
 
+#### Sophisticated Way
 
+The _Easy Approach_ is enough for ad-hoc connections but also tiresome for
+daily operations. For a regular access through multi-hops I would ideally
+have a simple version of ssh with an alias host.
 
-
-ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
-ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
+    ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
+    ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
 
 ##### Links
 
