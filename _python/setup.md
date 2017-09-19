@@ -38,6 +38,16 @@ There is in-depth analysis of pyenv/virtualenv/virtualenvwrapper configuration
 on this blog blost:
 ["The Definitive Guide to Setup My Python Workspace"][defguide].
 
+#### updating pyenv
+
+Pyenv does not update itself, the list of available python versions is
+the same until pyenv is updated. Pyenv can be updated anytime using git.
+
+    $ cd $(pyenv root)
+    $ git pull
+    $ pyenv install -l
+
+
 [rbenv]: http://rbenv.org/
 [pyenv]: https://github.com/pyenv/
 [pyenv-installer]: https://github.com/yyuu/pyenv-installer
