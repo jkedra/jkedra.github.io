@@ -7,10 +7,6 @@ language: pl
 
 ## Gdzie się wspinać?
 
-1. [Rejony wspinaczkowe za 8a][8a-rejony].
-2. [Dalmacja](http://dalmatiaclimbing.com/)
-3. [Paklenica](http://www.paklenica-croatia.com/)
-
 ### Tatry
 
 1. [Letnie drogi kursowe w Tatrach][gran-tatr-let1] -
@@ -28,6 +24,13 @@ language: pl
 
 1. [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
 2. [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
+
+### Inne
+
+1. [Rejony wspinaczkowe za 8a][8a-rejony].
+2. [Dalmacja](http://dalmatiaclimbing.com/)
+3. [Paklenica](http://www.paklenica-croatia.com/)
+
 
 ## Trasy/Topo
 
