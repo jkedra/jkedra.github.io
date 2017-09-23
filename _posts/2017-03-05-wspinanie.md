@@ -3,6 +3,10 @@ layout: post
 title:  Wspinanie
 author: jkedra
 language: pl
+
+jquery: true
+jss: [wikipize]
+
 ---
 
 ## Gdzie się wspinać?
@@ -19,6 +23,7 @@ language: pl
 6. Taternicki Niezbędnik
    * [Jakie są formacje skalne w górach i skałach][dt-formacje]
    * [Legenda do topo][dt-topo-legenda]
+   * [Glossary of climbing terms](we:)
 
 ### Skałki KRK
 
