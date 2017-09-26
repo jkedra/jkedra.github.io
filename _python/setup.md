@@ -3,6 +3,9 @@ layout: post
 title:  Setup Python
 author: jkedra
 language: en
+
+jquery: true
+jss: [wikipize]
 ---
 
 ## Challenges
@@ -18,21 +21,37 @@ language: en
 versions. Integrates with virtualenv. Here is a full procedure
 to install Python 3.6 for UBuntu and RHEL:
 
+
+#### pre-requisites
+
+`pyenv` downloads and compiles Python. There is a list of dependencies
+which are required in the system before using `pyenv` to compile the Python
+installation. Most of packages have been listed below but if somthing is
+missing you can [find it on Google](g:pyenv_common_build_problems).
+
+    # RHEL
+    yum install -y zlib-dev openssl-devel sqlite-devel bzip2-devel \
+        readline-devel curl git
+
+    # or
+    dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite \
+        sqlite-devel openssl-devel xz xz-devel
+
+    # UBuntu
+    apt install -y make build-essential libssl-dev zlib1g-dev \
+        libreadline-dev libsqlite3-dev sqlite3 \
+        libncurses5-dev libncursesw5-dev \
+        xz-utils tk-dev bzip2 libbz2-dev libz-dev  \
+        curl wget llvm git
+
     # install then follow onscreen instructions to modify
     # rc files
     curl -L  https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
 
-    # RHEL
-    yum install -y zlib-dev openssl-devel sqlite-devel bzip2-devel \
-        readline-devel
-
-    # UBuntu
-    apt install libsqlite3-dev sqlite3 bzip2 libbz2-dev 
-
     pyenv install -l
-    pyenv install 3.6.1
+    pyenv install 3.6.2
 
-If something goes wrong, uninstall `pyenv uninstall 3.6.1` correct and retry.
+If something goes wrong, uninstall `pyenv uninstall 3.6.2` correct and retry.
 
 There is in-depth analysis of pyenv/virtualenv/virtualenvwrapper configuration
 on this blog blost:
