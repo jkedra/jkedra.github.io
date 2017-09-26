@@ -27,7 +27,7 @@ to install Python 3.6 for UBuntu and RHEL:
 `pyenv` downloads and compiles Python. There is a list of dependencies
 which are required in the system before using `pyenv` to compile the Python
 installation. Most of packages have been listed below but if somthing is
-missing you can [find it on Google](g:pyenv_common_build_problems).
+missing you can [find it on Google](g:pyenv+common+build+problems).
 
     # RHEL
     yum install -y zlib-dev openssl-devel sqlite-devel bzip2-devel \
