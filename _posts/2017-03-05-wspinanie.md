@@ -118,6 +118,7 @@ jss: [wikipize]
 
 1. [Cumulus Mysterious Traveller 500](http://cumulus.pl/pl/kategorie/spiwory/mysterious-traveller-500?gid=22&vid=6)
 2. [Deuter Orbit 5](http://taternik-sklep.pl/spiwor-deuter-orbit-5-375.html)
+3. [Forclaz 0 Helium](http://www.rudazwyboru.pl/2017/09/spiwor-na-gorskie-lato-forclaz-0-helium.html)
 
 
 ## WSPINACZKA
