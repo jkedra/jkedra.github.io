@@ -56,7 +56,7 @@ jss: [wikipize]
 7. Opisy Rudej:
     * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
     * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
-
+8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
 
 ## Pogoda Warunki
 
