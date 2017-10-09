@@ -14,6 +14,7 @@ jss: [wikipize]
 3. [Top 10 Python Libraries of 2016][6]
 4. [Ian Bicking](http://www.ianbicking.org/blog/)
 5. [Medium Python Tag](https://medium.com/tag/python/latest)
+6. [Python Tips](http://book.pythontips.com/en/latest/)
 
 ## Python Standard Library
 
