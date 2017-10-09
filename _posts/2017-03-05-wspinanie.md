@@ -53,6 +53,9 @@ jss: [wikipize]
 6. MSW
     * [Droga Surdela DT](http://drytooling.com.pl/baza/topo/tatry/6396-surdel-mieguszowiecki-szczyt-wielki)
     * [MSW Szlaki i Drogi](http://szlakiidrogi.pl/mieguszowiecki-szczyt-wielki-sciana-wschodnia-jedna-sciana-trzy-drogi/)
+    * [GigaTopo](http://gigapan.com/gigapans/188664)
+    * [Droga po Głazach](wp:)
+    * [Summit](http://www.summitpost.org/droga-po-g-azach/167276)
 7. Opisy Rudej:
     * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
     * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
