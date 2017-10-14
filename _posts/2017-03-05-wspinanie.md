@@ -24,6 +24,7 @@ jss: [wikipize]
    * [Jakie są formacje skalne w górach i skałach][dt-formacje]
    * [Legenda do topo][dt-topo-legenda]
    * [Glossary of climbing terms](we:)
+   * [Słownik angielski](http://drytooling.com.pl/serwis/art/artykuly/1341-slownik-wspinaczkowy-ang-pol)
 
 ### Jura
 
@@ -137,11 +138,19 @@ Damian Granowski z [DryTooling][drytooling] zebrał
 [wszystkie swoje poradniki w jedną listę][dt-por-set].
 Poniżej tylko te, które są dla mnie szczególnie cenne.
 
-1. [Techniki zjazdu na linie][zjazd1]
+1. Techniki zjazdu na linie
+    * [Zjazdy wyczerpująco opisane przez DG][zjazd1]
+    * [zjazd Z](http://www.vdiffclimbing.com/increase-friction-abseil/)(ang.)
 2. [Zwijanie liny](http://drytooling.com.pl/serwis/art/patenty/7308-jak-zwijac-line-wspinaczkowa)
-2. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki), przeczytaj wcześniej [zestaw wspinaczkowy w Tatry][dt-set-tatry]
-3. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
-4. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
+3. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki), przeczytaj wcześniej [zestaw wspinaczkowy w Tatry][dt-set-tatry]
+4. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
+5. Zablokowanie liny przy asekuracji:
+    * [klasyczny sposób kursowy](https://www.youtube.com/watch?time_continue=218&v=bQtjrog18xY)
+    * [inny sposób na węzeł zabezpieczający](http://www.vdiffclimbing.com/tieoff-belay/), opisany też [tutaj](https://www.ukclimbing.com/articles/page.php?id=3295).
+6. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
+7. [Asekuracja lotna](we:Simul_climbing), skracanie liny:
+    * [Piotr Sztaba](https://www.youtube.com/watch?v=WCnfDwQdVgU)
+    * [vdiffclimbing.com](http://www.vdiffclimbing.com/simul-climbing/)
 
 ### Taternictwo
 
