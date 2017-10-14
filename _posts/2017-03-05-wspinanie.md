@@ -25,10 +25,11 @@ jss: [wikipize]
    * [Legenda do topo][dt-topo-legenda]
    * [Glossary of climbing terms](we:)
 
-### Skałki KRK
+### Jura
 
 1. [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
 2. [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
+3. [8a: Dziesięć dróg Jury Południowej][8a-10-drog-jury-s]
 
 ### Inne
 
@@ -57,6 +58,7 @@ jss: [wikipize]
     * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
     * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
 8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
+9. [Mapa lesných a pozemných komunikácií SR](https://gis.nlcsk.org/lc/)
 
 ## Pogoda Warunki
 
@@ -120,6 +122,9 @@ jss: [wikipize]
 2. [Deuter Orbit 5](http://taternik-sklep.pl/spiwor-deuter-orbit-5-375.html)
 3. [Forclaz 0 Helium](http://www.rudazwyboru.pl/2017/09/spiwor-na-gorskie-lato-forclaz-0-helium.html)
 
+### Sprzęt wspinaczkowy
+
+1. [DMM Climbing - Knowledge](http://dmmclimbing.com/knowledge/)
 
 ## WSPINACZKA
 
@@ -161,6 +166,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 1. [Klasyki literatury za DryTooling](http://drytooling.com.pl/serwis/art/artykuly/7059-dobra-literatura-gorska)
 2. _Góry - wolność i przygoda_ (GWP) - mapa tej książki poniżej
+3. [Wspinaczka. Asekuracja i autoratownictwo](http://lubimyczytac.pl/ksiazka/3981627/wspinaczka-asekuracja-i-autoratownictwo), David J.Fasulo
 
 ### (GWP)
 
@@ -193,6 +199,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 [8a-rejony]: http://8a.pl/8academy/kategorie/wspinaczka/rejony/
 [8a-piotr-sulowski]: http://8a.pl/8academy/author/piotr-sulowski/
 [8a-damian-granowski]: http://8a.pl/8academy/author/damian-granowski/
+[8a-10-drog-jury-s]: http://8a.pl/8academy/dziesiec-drog-jury-poludniowej/
 
 [dt-formacje]: http://drytooling.com.pl/serwis/art/artykuly/988-formacje-skalne-w-skalkach-gorach
 [dt-topo-legenda]: http://drytooling.com.pl/serwis/art/artykuly/6435-schemat-drogi-topo-wspinaczkowe
