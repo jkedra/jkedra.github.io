@@ -13,7 +13,6 @@ categories: tools
 
 ## SSH
 
-
 ### ssh-copy-id
 
 For adding SSH keys to remote system use command `ssh-copy-id` which
@@ -133,16 +132,25 @@ allowing connections to hosts without maching host keys:
        UserKnownHostsFile=/dev/null
        StrictHostKeyChecking=no
 
-### multihops
+## Multihops
 
-#### Sample setup
+Multihops allows to manage limitations of the network. Usually it happens
+because the only points connecting the external world with our network
+are HTTP proxy or bastion hosts, so direct SSH connection to a host outside
+the internal network is not possible.
+
+However SSH tools are smart enough to overcome restrictions mentioned.
+Keep reading.
+
+
+### Scenario 1: HTTP proxy + bastion host
 
     +---------+    +------------+    +---------+   +--------+
     | laptop  |--->| HTTP proxy |--->| bastion |-->| target |
     +---------+    | NTLM auth  |    |  host   |   |  host  |
                    +------------+    +---------+   +--------+
 
-#### Dealing with HTTP proxy
+#### Dealing with HTTP proxy first
 
 Going through the HTTP proxy needs a configuration which
 has been already mentioned:
@@ -172,7 +180,8 @@ interactive ssh session. The pseudo-TTY is not required for a single-run, no
 keyboard input command (like `ssh bastion ls`) but is a prerequisite for
 interactive ssh.
 
-Because the second ssh runs at the bastion, the private key file `KEY.pem`, required to access target EC2, needs to be copied to the bastion before.
+Because the second ssh runs at the bastion, the private key file `KEY.pem`,
+required to access target EC2, needs to be copied to the bastion before.
 
 #### Sophisticated Way
 
@@ -183,7 +192,43 @@ have a simple version of ssh with an alias host.
     ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
     ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
 
-##### Links
+### Scenario 2: Connect a Database available from 2nd host
+
+Assume we have Oracle database which we want do connect. To reach it we have to
+connect from our home node (`home`) to a jump host first (`jump`), then from
+the `jump` to our an application host (`app`) and only then we can reach the
+database which run at our database server (`oradb`).
+
+#### Oracle Oddities
+
+So you see it looks complicated. We have two nodes between us and the database
+we are interested in. And there is even more - this is Oracle RAC database,
+so you cannot just use SCAN address but you need to get actual hostname of the
+RAC node (VIP or host-ip). If you use SCAN, it redirects you to another host (VIP)
+which you usually have not covered by the redirection. So find the VIP or
+hostname of a node (check it in v$instance) and redirect there instead.
+If you use a singleton as a service, make sure it runs at the node you've chosen.
+Or use uniform instead - usuall this kind of the service exists at every node.
+
+#### Facing the challenge
+
+Port 9999 here is just an example, you may use another not occupied TCP port.
+The command below runs at `home` and opens port 9999 at localhost interface
+as the tunel entry, then ito connects to `jump` host and attach the other
+end of the tunel to the localhost interface, port 9999.
+
+It makes no sense until something listens on port 9999 of localhost interface
+at `jump` host. Nothing does so far. This is why - once again - another ssh
+runs at the `jump` host, attaches a new, second tunel entry to port 9999 of
+localhost (effectively connecting both tunels together), then the second ssh
+connects the `app` host and redirects the end of the second tunel to port
+1521 of the remote host `oradb`. An oracle server is expecting to listen there.
+
+The chain of tunels describe above is represented by the following command:
+
+    ssh -tL 9999:localhost:9999 jump ssh -L 9999:oradb:1521 app
+
+#### Links
 
 1. [SSH throush multiple hosts using ProxyCommand][multi1]
 2. [Transparent MultiHop][multi2]
@@ -197,7 +242,7 @@ have a simple version of ssh with an alias host.
 [multi4]: https://www.cyberciti.biz/faq/linux-unix-ssh-proxycommand-passing-through-one-host-gateway-server/
 [multi5]: http://www.unixwiz.net/techtips/ssh-agent-forwarding.html
 
-### Other Links
+#### Other Links
 
 1. [OpenSSH Wiki][openssh-wiki]
 2. [Why OpenSSH deprecated DSA keys][sshdsadepr].
