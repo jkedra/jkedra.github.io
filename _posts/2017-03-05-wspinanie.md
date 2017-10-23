@@ -52,21 +52,25 @@ jss: [wikipize]
     * [SummitPost](http://www.summitpost.org/zabi-kon/501224)
     * WHP Część VII. *Żabia Przełęcz Wyżnia – Żabia Czuba*
     * Inne: [1](http://footsteps.cba.pl/zabi-kon-grania/)
-6. MSW
+6. MSW [summitpost](http://www.summitpost.org/mi-guszowiecki-szczyt-wielki-ve-k-mengusovsk-t-t/151773)
     * [Droga Surdela DT](http://drytooling.com.pl/baza/topo/tatry/6396-surdel-mieguszowiecki-szczyt-wielki)
     * [MSW Szlaki i Drogi](http://szlakiidrogi.pl/mieguszowiecki-szczyt-wielki-sciana-wschodnia-jedna-sciana-trzy-drogi/)
     * [GigaTopo](http://gigapan.com/gigapans/188664)
     * [Droga po Głazach](w:)
     * [Summit](http://www.summitpost.org/droga-po-g-azach/167276)
+    * [Galerie Cubryńskie, Hińczowa Przełęcz, MSW, Droga po Głazach, Przełącz pod Chłopkiem](http://www.tatrygory.pl/galerie/msw/index.htm) - galeria zdjęć.
+    * [MSW via Galerie Cubryńske](http://www.summitpost.org/via-galerie-cubry-skie/167280) - summitpost.
 7. Opisy Rudej:
     * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
     * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
 8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
 9. [Mapa lesných a pozemných komunikácií SR](https://gis.nlcsk.org/lc/)
+10. [Zipi Tatry](http://zipi-tatry.eu)
 
 ## Pogoda Warunki
 
 1. [TOPR](http://pogoda.topr.pl)
+2. [Mountain-Forecast.com](https://www.mountain-forecast.com/subranges/tatras/locations) - pogoda dla Tatry
 2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
 3. [MeteoBlue KRK](https://www.meteoblue.com/pl/pogoda/prognoza/multimodel/krak%C3%B3w_polska_3094802?fcstlength=144)
 4. [Skitourowe](http://skitourowezakopane.pl/)
@@ -148,6 +152,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
     * [klasyczny sposób kursowy](https://www.youtube.com/watch?time_continue=218&v=bQtjrog18xY)
     * [inny sposób na węzeł zabezpieczający](http://www.vdiffclimbing.com/tieoff-belay/), opisany też [tutaj](https://www.ukclimbing.com/articles/page.php?id=3295).
 6. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
+7. [Węzły wspinaczkowe](https://wspinanie.pl/2004/04/kluczka-prusik-wyblinka-gordyjski-prosty-czyli-wezly-stosowane-we-wspinaczce-czesc-ii/)
 7. [Asekuracja lotna](we:Simul_climbing), skracanie liny:
     * [Piotr Sztaba](https://www.youtube.com/watch?v=WCnfDwQdVgU)
     * [vdiffclimbing.com](http://www.vdiffclimbing.com/simul-climbing/)
