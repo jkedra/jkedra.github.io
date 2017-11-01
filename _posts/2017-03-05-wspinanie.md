@@ -122,6 +122,10 @@ jss: [wikipize]
 1. [KKW](http://www.kw.krakow.pl/o-klubie/czlonkowskie/znizki.html)
 2. [Forteca](https://www.facebook.com/cwforteca/app/352601181451872/)
 
+### Serwis
+
+1. [M5](http://m5.krakow.pl/cennik.html) - podklejanie butów wspinaczkowych.
+
 ### Turystyka i Biwak
 
 #### Śpiwór
@@ -145,8 +149,12 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 1. Techniki zjazdu na linie
     * [Zjazdy wyczerpująco opisane przez DG][zjazd1]
     * [zjazd Z](http://www.vdiffclimbing.com/increase-friction-abseil/)(ang.)
-2. [Zwijanie liny](http://drytooling.com.pl/serwis/art/patenty/7308-jak-zwijac-line-wspinaczkowa)
-3. [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki), przeczytaj wcześniej [zestaw wspinaczkowy w Tatry][dt-set-tatry]
+2. Patenty DG:
+    * [Zwijanie liny](http://drytooling.com.pl/serwis/art/patenty/7308-jak-zwijac-line-wspinaczkowa)
+    * [Jak nosić sprzęt na uprzeży](http://drytooling.com.pl/serwis/art/patenty/2357-noszenie-sprzetu-wspinaczkowego-na-uprzezy).
+3. Zestawy standardowe:
+    * [Zestaw sprzętu wspinaczkowego TRAD](http://drytooling.com.pl/serwis/art/szpej/7361-zestaw-sprzetu-wspinaczkowego-trad-w-skalki),
+    * [zestaw wspinaczkowy w Tatry][dt-set-tatry]
 4. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
 5. Zablokowanie liny przy asekuracji:
     * [klasyczny sposób kursowy](https://www.youtube.com/watch?time_continue=218&v=bQtjrog18xY)
