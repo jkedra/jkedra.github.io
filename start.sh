@@ -2,6 +2,10 @@
 # http://jekyllrb.com/docs/github-pages/
 # https://help.github.com/articles/using-jekyll-with-pages/#installing-jekyll
 # gem install bundler
+
+if [ $(hostname)=='Ubuntu16a' ]; then
+    export https_proxy=http://127.0.0.1:3128/
+fi
 bundle update
 #bundle exec jekyll serve --drafts --watch
 
