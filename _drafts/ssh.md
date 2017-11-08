@@ -208,14 +208,14 @@ RAC node (VIP or host-ip). If you use SCAN, it redirects you to another host (VI
 which you usually have not covered by the redirection. So find the VIP or
 hostname of a node (check it in v$instance) and redirect there instead.
 If you use a singleton as a service, make sure it runs at the node you've chosen.
-Or use uniform instead - usuall this kind of the service exists at every node.
+Or use uniform instead - usually this kind of the service exists at every node.
 
 #### Facing the challenge
 
-Port 9999 here is just an example, you may use another not occupied TCP port.
-The command below runs at `home` and opens port 9999 at localhost interface
-as the tunel entry, then ito connects to `jump` host and attach the other
-end of the tunel to the localhost interface, port 9999.
+Port 9999 used in the example here is just an example, you may use another not
+occupied TCP port. The command below runs at `home` and opens port 9999 at
+localhost interface as the tunel entry, then it connects to `jump` host and
+attaches the other end of the tunel to the localhost interface, port 9999.
 
 It makes no sense until something listens on port 9999 of localhost interface
 at `jump` host. Nothing does so far. This is why - once again - another ssh
@@ -235,19 +235,23 @@ The chain of tunels describe above is represented by the following command:
 3. [ProxyCommand use for multiple hops][multi3]
 4. [ProxyCommand passing through one host][multi4]
 5. [SSH Agent Forwarding][multi5]
+6. [scp files via intermediate host][scp1]
 
 [multi1]: https://serverfault.com/questions/368266/ssh-through-multiple-hosts-using-proxycommand
 [multi2]: http://sshmenu.sourceforge.net/articles/transparent-mulithop.html
 [multi3]: https://unix.stackexchange.com/questions/317491/proxycommand-use-for-multiple-hops-and-prompt-authentication
 [multi4]: https://www.cyberciti.biz/faq/linux-unix-ssh-proxycommand-passing-through-one-host-gateway-server/
 [multi5]: http://www.unixwiz.net/techtips/ssh-agent-forwarding.html
+[scp1]: https://superuser.com/questions/276533/scp-files-via-intermediate-host/
 
 #### Other Links
 
-1. [OpenSSH Wiki][openssh-wiki]
+1. [OpenSSH Wiki][openssh-wiki], particularly
+   [a chapter on Proxies and Jump Hosts][proxies_jumphosts].
 2. [Why OpenSSH deprecated DSA keys][sshdsadepr].
 
 [openssh-wiki]: https://en.wikibooks.org/wiki/OpenSSH
+[proxies_jumphosts]: https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts
 [sshdsadepr]: http://security.stackexchange.com/questions/112802/why-openssh-deprecated-dsa-keys
 
 
