@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 {% if page.language %}<html lang="{{ page.language }}">{% else %}<html>{% endif %}
-  <!--headstart-->{% capture incldhead %}{% include head.html %}{% endcapture %}
-  {{ incldhead | strip_newlines | replace:'  <',"  <" }}
+  <!--headstart-->
+  {% include head.html %}
   <!--headend-->
   <body>
 

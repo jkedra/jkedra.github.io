@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 language: en
-jss: [moment]
+jss: [moment.min]
 ---
 
 My name is Jurek,

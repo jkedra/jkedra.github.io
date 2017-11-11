@@ -2,55 +2,60 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
+  <title>
+  {%- if page.title -%}
+     {{ page.title }}
+  {%- else -%}
+     {{ site.title }}
+  {%- endif -%}
+  </title>
+  <meta name="description" content="
+    {%- if page.excerpt -%}
+       {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+    {%- else %}
+       {{ site.description }}
+    {%- endif -%}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
-  {% if page.css %}
-    {% for ln in page.css %}
-    {% assign lnprefix = ln | truncate: 4, '' %}
-    {% if lnprefix == "http" %}
+  {% if page.css -%}
+    {%- for ln in page.css -%}
+    {%- assign lnprefix = ln | truncate: 4, '' -%}
+      {%- if lnprefix == "http" -%}
   <link rel="stylesheet" href="{{ ln }}">
-    {% else %}
+      {%- else -%}
   <link rel="stylesheet" href="/static/{{ ln }}.css">
-    {% endif %}
-  
-    {% endfor %}
-  {% endif %}
+      {%- endif %}
+    {%- endfor %}
+  {%- endif %}
 
-  {% if page.scss %}
-    {% for ln in page.scss %}
+  {%- if page.scss %}
+    {%- for ln in page.scss %}
   <link rel="stylesheet" href="/css/{{ ln }}.css">
-    {% endfor %}
-  {% endif %}
-
+    {%- endfor %}
+  {%- endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  {% if page.jquery %}
+  {%- if page.jquery %}
   <script src="{{ "/static/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/static/pilcrow.js" | prepend: site.baseurl }}" defer></script>
-  {% endif %}
+  {%- endif %}
 
-  {% if page.jss %}
-    {% for ln in page.jss %}
-    {% assign jsarr = ln | split:" " %} 
+  {%- if page.jss %}
+    {%- for ln in page.jss %}
+    {%- assign jsarr = ln | split:" " %} 
   <script src="/static/{{ jsarr[0] }}.js"{% for flag in jsarr offset:1 %} {{ flag }}{% endfor %}></script>
-    {% endfor %}
-  {% endif %}
+    {%- endfor %}
+  {%- endif -%}
 
-  {% if page.js %}
-    {% for ln in page.js %}
-    {% assign jsarr = ln | split:" " %} 
+  {%- if page.js -%}
+    {%- for ln in page.js -%}
+    {%- assign jsarr = ln | split:" " %} 
   <script src="/static/{{ jsarr[0] }}.js"{% for flag in jsarr offset:1 %} {{ flag }}{% endfor %}></script>
-    {% endfor %}
-  {% endif %}
+    {% endfor -%}
+  {% endif -%}
 
-  {% if page.gmaps %}
+  {%- if page.gmaps %}
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBS83qv6_UGD5glfsguqS0c6Xqt_7kbKv0&language=pl&region=PL&callback=mapsApiCallback" async defer></script>
-  {% endif %}
+  {% endif -%}
 
 </head>
