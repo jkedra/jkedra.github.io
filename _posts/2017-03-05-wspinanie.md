@@ -60,6 +60,8 @@ jss: [wikipize]
     * [Summit](http://www.summitpost.org/droga-po-g-azach/167276)
     * [Galerie Cubryńskie, Hińczowa Przełęcz, MSW, Droga po Głazach, Przełącz pod Chłopkiem](http://www.tatrygory.pl/galerie/msw/index.htm) - galeria zdjęć.
     * [MSW via Galerie Cubryńske](http://www.summitpost.org/via-galerie-cubry-skie/167280) - summitpost.
+7. Hińczowa Przełęcz
+    * [Hińczowa Przełęcz Wprost](http://szlakiidrogi.pl/hinczowa-przelecz-wprost-ii/)
 7. Opisy Rudej:
     * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
     * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)

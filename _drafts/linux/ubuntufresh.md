@@ -94,6 +94,7 @@ then type:
 ### Other Software
 
 1. [Youtube Downloader](https://github.com/rg3/youtube-dl/)
+2. [42 Best Linux Graphics Software](http://www.linuxlinks.com/article/20160228044751101/GraphicsSoftware.html)
 
 ## Problems
 
