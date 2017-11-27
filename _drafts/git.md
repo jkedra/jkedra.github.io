@@ -21,3 +21,6 @@ I started to use for my own projects.
 # Git HowTo
 * [How to Undo Almost Anything with GIT](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
+# Articles
+
+1. [Stay Away From Rebase](http://geekblog.oneandoneis2.org/index.php/2013/04/30/please-stay-away-from-rebase#c6964) - on rebase, when to avoid, when appropriate. Interesting article.
