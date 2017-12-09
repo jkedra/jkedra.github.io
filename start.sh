@@ -3,7 +3,8 @@
 # https://help.github.com/articles/using-jekyll-with-pages/#installing-jekyll
 # gem install bundler
 
-if [ $(hostname)=='Ubuntu16a' ]; then
+if [ $(hostname) == 'Ubuntu16a' ]; then
+    echo Hello Ubuntu16a
     export https_proxy=http://127.0.0.1:3128/
 fi
 bundle update

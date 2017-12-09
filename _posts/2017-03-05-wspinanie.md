@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: plpost
 title:  Wspinanie
 author: jkedra
 language: pl
 
 jquery: true
-jss: [wikipize]
+jss: [wikipize, moment-with-locales.min]
+tags: climbing
 
 ---
 
