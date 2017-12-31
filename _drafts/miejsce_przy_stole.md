@@ -16,9 +16,13 @@ css: [html5]
 _"[Miejsce przy stole](a:Miejsce przy stole Wilczkowski)"_,
 Andrzej Wilczkowski (1982) 
 
+[1](https://www.goryonline.com/andrzej-wilczkowski,12190,i.html)
+[2](gp:Andrzej Wilczkowski)
+
 ## Opis
 
-To tatrzańskie wspomnienia Andrzeja "Wilka" Wilczkowskiego.
+To tatrzańskie wspomnienia
+[Andrzeja "Wilka" Wilczkowskiego](w:Andrzej Wilczkowski).
 Opisy ludzi, wspinaczek, akcji ratunkowych, klimatu tamtych czasów.
 Nie mogłem się wprost oderwać od lektury. Opisuje to co sam nieco znam
 z ograniczonego doświadczenia. I nie chodzi mi tylko o teren - Tatry -
@@ -39,7 +43,41 @@ lub wręcz stracili tam życie.
 
 ## Wybrane fragmenty
 
-str. 171-172
+### str. 96
+
+W 1951 roku zacząłem po raz pierwszy szkolić młodzież taternicką.
+Ileż razy od tej pory zaobserwowałem nieomal identyczne w swoich
+objawach zjawisko. Przychodzi taki na pierwszy kurs powęszyć, czy mu się
+nada, ot, przymierzyć się. I widać, jak go zaczyna brać.
+
+Oczy zapalają się fanatycznym blaskiem, w rozmowy wkrada się monotematyka;
+soboty, niedziele w skałkach, popołudnia nad przygotowaniem sprzętu, książkami,
+przewodnikami, mapami. Nawiedzony!
+  Nawiedzony? Bzdura! Chyba nie. Kilka razy oglądałem już film Jurka Surdela
+z Lhotse. Spójrzcie na reprezentatywną dla całego filmu postać.
+Krok do góry i oddychanie, ba, całe manewry w oddychaniu, oczy na wierzchu,
+broda zlepiona w niechlujne lodowe sople, z piersi wydobywają się rzężenia,
+skowyty, świsty - nieomal widać jak latają całe pęcherzyki płucne.
+Panie Boże - za co?
+
+Ano właśnie. Nie znajdzie się chyba na świecie tak morderczej pracy
+zawodowej wykonywanej za pieniądze. A więc czy Roman Kordys nie miał racji
+twierdząc, że alpinizm rodzi się z biologicznej potrzeby wysilania się do
+ostatka? Wywleka przy tym i Witkiewicza, i Schopenhauera, którego tu
+przytaszczę. "Trudzić się i walczyć z oporem jest potrzebą człowieka,
+jak kreta - grzebanie. Przezwyciężanie przeszkód jest rozkoszą
+istnienia - walka z nimi i zwycięstwo uszczęśliwia".
+
+### str. 115
+
+Najpoważniejsi ludzie tracą rozsądek tam, gdzie chodzi o góry.
+Chciałbym, żeby mnie dobrze rozumiano. Nie pochwalam ani nie rozgrzeszam
+człowieka, który zaczyna od dróg nadzwyczaj trudnych i który chodzi
+z liną nie nadającą się do użycia, ale w jego mrożących krew w żyłach
+poczynaniach uwidacznia się to, co pędziło i pędzi wszystkich nas w góry.
+Uczucie, które zabija zdrowy rozsądek.
+
+### str. 171-172
 
 oddaję głos Jaworowskiemu:
 
@@ -65,7 +103,7 @@ czuć od razu dalsze podwyższenie się skali. Idzie się płaskim, pionowym
 zacięciem, w którym Staś zdolal wbić dwa bardzo złe haki. Zacięcie kończy się,
 a wraz z nim pionowo zwisająca lina, która oddała mi nie lada usługi. Lina
 teraz idzie poziomo w prawo, cztery metry do najbliższego haka. Na szczęście,
-po zwolnieniu z kilku karabinków jej tarcie zmniejszylo się tak, że Staś mógł
+po zwolnieniu z kilku karabinków jej tarcie zmniejszyło się tak, że Staś mógł
 mi ściągnąć prawidłowo linę.
 
 Około pół godziny stoję w niewygodnej pozycji rozkroczonej, bez żadnego pewnego
@@ -73,7 +111,7 @@ oparcia na ręce i nogi, i staram się wyjść na pochyły piarżysty gzymsik, k
 idzie trawers. Cale nieszczęście leży w tym, że gzymsik trzęsie się i nie wolno
 mi go użyć jako uchwytu odciągającego. Jedynie można go obciążać w dół. Pęk
 haków na brzuchu, drugi na plecach, spory plecak czynią mię bardzo niezdarnym.
-Stopy położylem płasko na dwóch pionowych ścianach zacięcia, stoję w szerokim
+Stopy położyłem płasko na dwóch pionowych ścianach zacięcia, stoję w szerokim
 rozkroku. Mięśnie nóg już od kwadransa drżą. Ręce nie wytrzymają długo - może
 pięć minut, może mniej. Lina wydaje się słaba, nieprzyzwoicie cienka, i idzie
 daleko w bok, przewijając się przez ostry jak żyletka bloczek. Pod nogami widać
