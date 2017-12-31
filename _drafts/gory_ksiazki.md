@@ -9,6 +9,7 @@ jquery: true
 jss: [wikipize]
 
 tags: góry książki
+css: [html5]
 ---
 
 # Do Przeczytania
@@ -41,3 +42,6 @@ Recenzje przeczytanych książek.
 * _"Góry - wolność i przygoda"_
 * _"W Skale - zasady alpinizmu"_, Wacław Sonelski (1990)
 * _"Wspinaczka w skale"_, Craig Luebben (2006)
+* _"[Miejsce przy stole](/miejsce_przy_stole)"_, Andrzej Wilczkowski (1982)
+
+
