@@ -33,7 +33,14 @@ function googlize(extra, entry) {
    }
    
    return("https://www.google.com/search?q="+entry+extra);
+}
 
+function allegrize(extra, entry) {
+	log("ALLEGRIZE");
+	// a:xxx - search on allegro
+	// https://allegro.pl/listing?string=l%C3%B3d%20i%20miskt
+
+	return("https://allegro.pl/listing?string="+entry);
 }
 
 function ize() {
@@ -46,11 +53,13 @@ function ize() {
 	  //
       //  w:xxx  - polish wiki
       //  we:xxx - english wiki
+	  //
+      //  a:xxx  - allegro
       //
       // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
       // http://www.rexegg.com/regex-conditionals.html
       // optionally enclosed in ()
-      var results = /^([gw])(\w)*:(.*)/.exec( href )
+      var results = /^([gwa])(\w)*:(.*)/.exec( href )
       if(results != null) {
 		var typize = results[1]; // link type w or g
         var extra  = results[2]; // google service, add extra tags to search string
@@ -69,6 +78,8 @@ function ize() {
           case "w":
             targetLink = wikipize(extra, entry).replace(/\s+/g, '_');
             break;
+	      case "a":
+			targetLink = allegrize(extra, entry).replace(/\s+/g, '+');
         }
 
         log("HREF=" + href + " => " + targetLink);
