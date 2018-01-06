@@ -69,6 +69,8 @@ tags: climbing
 8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
 9. [Mapa lesných a pozemných komunikácií SR](https://gis.nlcsk.org/lc/)
 10. [Zipi Tatry](http://zipi-tatry.eu)
+11. [Fotograficzne mapy szlaków tatrzańskich](https://photos.google.com/share/AF1QipOES-QkYrvn0Wf_3D6-0xlRV_4TfGAiJ_qMUWyjrYLb8kV1PppKOH9jpRtynwzNBw?key=Y3NGbC1xNmlKYTBvY3RpSUYzdEYxd0Exc1Jna0ZR)
+12. [Panoramy damomar.eu](http://dagomar.eu)
 
 ## Pogoda Warunki
 
