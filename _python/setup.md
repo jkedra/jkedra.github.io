@@ -26,7 +26,7 @@ to install Python 3.6 for UBuntu and RHEL:
 
 `pyenv` downloads and compiles Python. There is a list of dependencies
 which are required in the system before using `pyenv` to compile the Python
-installation. Most of packages have been listed below but if somthing is
+installation. Most of packages have been listed below but if something is
 missing you can [find it on Google](g:pyenv+common+build+problems).
 
     # RHEL
@@ -49,9 +49,12 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
     curl -L  https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
 
     pyenv install -l
-    pyenv install 3.6.2
+    pyenv install 3.6.4
+    pyenv version
+    pyenv global 3.6.4 system
+    pyenv version
 
-If something goes wrong, uninstall `pyenv uninstall 3.6.2` correct and retry.
+If something goes wrong, uninstall `pyenv uninstall 3.6.4` correct and retry.
 
 There is in-depth analysis of pyenv/virtualenv/virtualenvwrapper configuration
 on this blog blost:
