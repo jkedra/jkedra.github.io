@@ -176,6 +176,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 7. [Asekuracja lotna](we:Simul_climbing), skracanie liny:
     * [Piotr Sztaba](https://www.youtube.com/watch?v=WCnfDwQdVgU)
     * [vdiffclimbing.com](http://www.vdiffclimbing.com/simul-climbing/)
+8. [Porady dla początkujących](http://kursyskalkowe.pl/porady-wspinaczkowe-dla-poczatkujacych) - Damian Granowski
 
 ### Taternictwo
 

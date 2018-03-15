@@ -16,30 +16,33 @@ css: [html5]
 _"[Miejsce przy stole](a:Miejsce przy stole Wilczkowski)"_,
 Andrzej Wilczkowski (1982) 
 
-[1](https://www.goryonline.com/andrzej-wilczkowski,12190,i.html)
-[2](gp:Andrzej Wilczkowski)
-
 ## Opis
+
+Lektura z cyklu polecanych młodym taternikom przez starą kadrę. Kupiłem gdzieś za
+grosze (coś około 10 zł) stare wydanie na [Allegro](a:Miejsce przy stole Wilczkowski),
+aczkolwiek potrafi to chodzić w absurdalnych cenach 10x większych.
 
 To tatrzańskie wspomnienia
 [Andrzeja "Wilka" Wilczkowskiego](w:Andrzej Wilczkowski).
 Opisy ludzi, wspinaczek, akcji ratunkowych, klimatu tamtych czasów.
-Nie mogłem się wprost oderwać od lektury. Opisuje to co sam nieco znam
-z ograniczonego doświadczenia. I nie chodzi mi tylko o teren - Tatry -
-ale również o wspinaczkę wysokogórską.
+Nie mogłem się wprost oderwać od lektury. Pozwala delektować się tym co sam - jako
+tatrzański neofita - znam z mojego ograniczonego doświadczenia.
+I nie chodzi mi tylko o teren - Tatry - ale również o wspinaczkę wysokogórską.
 
 Sięgnięcie do tej książki pozwala mi przeżywać na powrót moje własne dwie drogi
-na Zamarłej Turni (zwłasza jej trawers).
+na Zamarłej Turni (zwłaszcza jej trawers).
 
 Akcje ratunkowe, ale i same drogi są pełne nazwisk ludzi. Opowiadania Wilka
 zaspokajają więc ten niedosyt jaki został mi po lekturach Żuławskiego i
 Długosza. Wspomnienia Wilczkowskiego pozwalają na poznanie takich tytanów
 taternictwa jak choćby Paryski czy Groński.
 
-Tego typu lektura pompuje kontekst w moje tatrzańskie wycieczki.
-Patrzę tu, widzę nie tylko górę ale i ludzi, którzy z nią się zmagali
-lub wręcz stracili tam życie. 
+_"Miejsce przy stole"_ pompuje kontekst w moje tatrzańskie wycieczki.
+Odtąd spoglądając, widzę nie tylko samą górę ale i ludzi, którzy z nią się zmagali
+lub stracili tam życie. 
 
+Czytało się szybko, trudno było się od niej oderwać. Nie narzekałem na przesyt choć
+serwuje dużo nazwisk, faktów i miejsc.
 
 ## Wybrane fragmenty
 
@@ -156,4 +159,10 @@ Idziemy dalej"
 
 Tak to Zbyszek opisał przejście ścianki problemowej. Całość opowiadania,
 drukowana w "Wierchach" z 1952 roku.
+
+## Linki
+
+[1](https://www.goryonline.com/andrzej-wilczkowski,12190,i.html)
+[2](gp:Andrzej Wilczkowski)
+
 
