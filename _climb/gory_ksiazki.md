@@ -8,7 +8,8 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: góry książki
+tags: góry książki climb
+categories: climb
 css: [html5]
 ---
 

@@ -7,7 +7,16 @@ language: pl
 
 Tematy wspinaczkowe.
 
-## posty wspinaczkowe
+{% for item in site.climb %}
+<ul class="post-list">
+  <li>
+    <span class="post-meta">{{ item.date | date: "%d.%m.%Y" }}</span>
+    <h2>
+       <a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+    </h2> {{ item.description }}
+  </li>
+</ul>
+{% endfor %}
 
 {% assign category="climb" %}
   <ul class="post-list">
