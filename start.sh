@@ -13,7 +13,8 @@ bundle update
 # Settings in later files override settings in earlier files.
 bundle exec jekyll serve --drafts --incremental --watch \
     --config _config.yml,_config127.yml \
-    --future --unpublished
+    --future --unpublished \
+    --livereload --open-url
 
 #http://localhost:4000
 
