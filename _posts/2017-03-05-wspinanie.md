@@ -40,7 +40,7 @@ tags: climbing
 3. [Paklenica](http://www.paklenica-croatia.com/)
 
 
-## Trasy/Topo
+## Drogi/Topo
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
 2. [Topo Jura Północna](http://topojura.dz.pl/)
@@ -71,6 +71,12 @@ tags: climbing
 10. [Zipi Tatry](http://zipi-tatry.eu)
 11. [Fotograficzne mapy szlaków tatrzańskich](https://photos.google.com/share/AF1QipOES-QkYrvn0Wf_3D6-0xlRV_4TfGAiJ_qMUWyjrYLb8kV1PppKOH9jpRtynwzNBw?key=Y3NGbC1xNmlKYTBvY3RpSUYzdEYxd0Exc1Jna0ZR)
 12. [Panoramy damomar.eu](http://dagomar.eu)
+
+
+## Wspinanie Zimowe
+
+1. [Lodospady na drytooling.com.pl](http://drytooling.com.pl/baza/topo/lodospady)
+2. [Lodospady.pl](http://lodospady.pl)
 
 ## Pogoda Warunki
 
@@ -162,7 +168,7 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
     * [zestaw wspinaczkowy w Tatry][dt-set-tatry]
 4. [Przewiązywanie liny przez ring stanowiskowy](http://drytooling.com.pl/serwis/art/patenty/2432-przewiazywanie-liny-przez-ring-zjazdowy)
 5. Zablokowanie liny przy asekuracji:
-    * [klasyczny sposób kursowy](https://www.youtube.com/watch?time_continue=218&v=bQtjrog18xY)
+    * [klasyczny sposób kursowy](https://www.youtube.com/watch?v=bQtjrog18xY)
     * [inny sposób na węzeł zabezpieczający](http://www.vdiffclimbing.com/tieoff-belay/), opisany też [tutaj](https://www.ukclimbing.com/articles/page.php?id=3295).
 6. [Checklista outdoorowa](http://drytooling.com.pl/serwis/art/patenty/7264-checklista-sprzetu-na-trekking-wspinanie?showall=&start=1)
 7. [Węzły wspinaczkowe](https://wspinanie.pl/2004/04/kluczka-prusik-wyblinka-gordyjski-prosty-czyli-wezly-stosowane-we-wspinaczce-czesc-ii/)
