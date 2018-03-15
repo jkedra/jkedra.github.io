@@ -98,7 +98,7 @@ się.
 
 Teraz na mnie kolej: obciążam się licznymi kilogramami zapasowych haków i
 ciężkim plecakiem, zakładam pętlę Prusika na unieruchomionej linie dla
-autoasekuracji i w górę. Rozpoczyna się nazwyczaj trudno, a po kilku metrach
+autoasekuracji i w górę. Rozpoczyna się nadzwyczaj trudno, a po kilku metrach
 czuć od razu dalsze podwyższenie się skali. Idzie się płaskim, pionowym
 zacięciem, w którym Staś zdolal wbić dwa bardzo złe haki. Zacięcie kończy się,
 a wraz z nim pionowo zwisająca lina, która oddała mi nie lada usługi. Lina
