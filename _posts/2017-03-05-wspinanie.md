@@ -63,14 +63,18 @@ tags: climbing
     * [MSW via Galerie Cubryńske](http://www.summitpost.org/via-galerie-cubry-skie/167280) - summitpost.
 7. Hińczowa Przełęcz
     * [Hińczowa Przełęcz Wprost](http://szlakiidrogi.pl/hinczowa-przelecz-wprost-ii/)
-7. Opisy Rudej:
-    * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
-    * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
 8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
 9. [Mapa lesných a pozemných komunikácií SR](https://gis.nlcsk.org/lc/)
 10. [Zipi Tatry](http://zipi-tatry.eu)
 11. [Fotograficzne mapy szlaków tatrzańskich](https://photos.google.com/share/AF1QipOES-QkYrvn0Wf_3D6-0xlRV_4TfGAiJ_qMUWyjrYLb8kV1PppKOH9jpRtynwzNBw?key=Y3NGbC1xNmlKYTBvY3RpSUYzdEYxd0Exc1Jna0ZR)
 12. [Panoramy damomar.eu](http://dagomar.eu)
+
+### Trekking
+
+1. Opisy Rudej:
+    * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
+    * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
+2. [Orla Perć](http://podroze.onet.pl/aktywnie/orla-perc-opis-i-zdjecia-szlaku-trasa-szczyty-przelecze-trudnosci/2qwxw6) - nie taki znowu trekking, zdjęcia Orelej Perci
 
 
 ## Wspinanie Zimowe
