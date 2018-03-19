@@ -32,17 +32,15 @@ dla początkujących taterników, cz. II: podręczniki"_
    Adam Dobrowolski, Tadeusz Nowicki (1957)
 3. _"[Alpinizm](a:Alpinizm Popko)"_, Maciej Popko (1974)
 4. _"[Podręcznik wspinaczki](a:Podręcznki wspinaczki Fyffe)"_, Allen Fyffe, Iain Peter (1999)
-5. _"[Wspinaczka - Lód i mikst](a:)"_, Will Gadd (2004)
 6. _"[Wspinaczka, asekuracja i autoratownictwo](a:)"_, David Fasulo (2004).
 7. _"[Wspinaczka. Praktyczny podręcznik](a:)"_, John Long (2012).
 
 # Przeczytane
 
-Recenzje przeczytanych książek.
-
-* _"Góry - wolność i przygoda"_
+* _"Góry - wolność i przygoda"_, (1960-2010)
+* _"Komin Pokutników"_, (1964)
 * _"W Skale - zasady alpinizmu"_, Wacław Sonelski (1990)
 * _"Wspinaczka w skale"_, Craig Luebben (2006)
+* _"Wołanie w górach"_, Michał Jagiełło (2006)
 * _"[Miejsce przy stole](/miejsce_przy_stole)"_, Andrzej Wilczkowski (1982)
-
-
+* _"[Wspinaczka - Lód i mikst](/lod_i_mikst)"_, Will Gadd (2004)
