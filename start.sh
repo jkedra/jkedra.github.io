@@ -15,6 +15,7 @@ bundle exec jekyll serve --drafts --incremental --watch \
     --config _config.yml,_config127.yml \
     --future --unpublished \
     --livereload --open-url
+    -o --livereload
 
 #http://localhost:4000
 

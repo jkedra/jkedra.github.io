@@ -18,7 +18,8 @@ _"[Wspinaczka - lód i mikst](a:Lód i Mikst Will Gadd)"_,
 
 Oryginał, _"[Ice & Mixed Climbing](https://www.amazon.com/Ice-Mixed-Climbing-Technique-Mountaineers/dp/089886769X)"_
 
-![book]({{"/img/ice_mixed_climbing.jpg" | absolute_url}})
+![książka]({{"/img/wspinaczka-lod-i-mikst.jpg" | absolute_url}}){:class="img-responsive"}
+![book]({{"/img/ice_mixed_climbing.jpg" | absolute_url}}){:class="img-responsive"}
 
 Podczas drytoolingu na Zakrzówku ciągle powracał temat lodospadów.
 Ten był, tamten się wybierał. Wspinanie lodowe w stereotypie, który
@@ -34,9 +35,9 @@ wołają za to zawrotne sumy. Zanim jeszcze ją wypożyczyłem z krakowskiego KW
 znalazłem ją też za w miarę rozsądną cenę na Kindle (chyba niewiele więcej
 niż $10). Da się czytać, dobrze to mieć zawsze do dyspozycji.
 
-![książka]({{"/img/wspinaczka-lod-i-mikst.jpg" | absolute_url}})
 
-Polska książka jest bardzo dobrze i kompetentnie przetłumaczona.
+Żeby było jasne - żaden ze mnie wspinacz lodowy, piszę z perspektywy
+kompletnego laika. Uczyłem się ten wspinaczki bazując na teorii z tej książki.
 
 ## Rozdziały
 
@@ -44,25 +45,25 @@ Pierwszy rozdział traktuje o sprzęcie. Nic odkrywczego o ile miało się
 wcześniej kontakt z drytoolingiem. Drugi rozdział jest od ubraniu i radzeniu
 sobie podczas długich sesji na stanowisku asekuracyjnym. To, że nie są to
 rzeczy oczywiste, zrozumiałem już po pierwszej sesji na Zakrzówku w warunkach
-poniżej zera, podczas gdy mocno wiało. W górach to normalna sprawa.
-Will podkreśla szczególnie rolę odpowiedniego nawodnienia i unikania
-przepocenia.
+poniżej zera, podczas gdy mocno wiało. W górach to normalna sprawa.  Will
+podkreśla szczególnie rolę odpowiedniego nawodnienia i unikania przepocenia.
 
-Trzeci rozdział to elementarz poruszania się w lodzie. Podstawowe info na
-temat formacji lodowych, skala trudności lodowych, taktyka atakowania
-dróg. Poruszanie się w rakach i zasady używania dziabek. Jak machać
-dziabką tak, żeby sobie nie zrobić krzywdy, a z drugiej strony skutecznie
-ją wykorzystywać do wspinaczki. To pierwszy rozdział, który bardzo
-uważnie przeczytałem i do którego szybko wróciłem gdy tylko przetestowałem
-wiedzę praktycznie.
+Trzeci rozdział to elementarz poruszania się w lodzie. Podstawowe info na temat
+formacji lodowych, skala trudności lodowych, taktyka atakowania dróg.
+Poruszanie się w rakach i zasady używania dziabek. Jak machać dziabką tak, żeby
+sobie nie zrobić krzywdy, a z drugiej strony skutecznie ją wykorzystywać do
+wspinaczki. To pierwszy rozdział, który bardzo uważnie przeczytałem i do
+którego szybko wróciłem gdy tylko przetestowałem wiedzę praktycznie.
 
-Czwarty rodział - jak się nie zabić, solidna dawka na temat bezpieczeństwa.
-Budowa punktów asekuracyjnych, asekuracja i prowadzenie. To jest powód
-dla którego należy zapoznać się z teorią przed praktyką. Informacje jak
-działa śruba lodowa, jak skutecznie ją wkręcić, jak zrobić to bezpiecznie
-i z najmniejszym wysiłkiem. Jak skutecznie asekurować i nie zginąć od
-tego co sypie się na asekurującego z góry. Jak prowadzić.
+W kolejnych, czwartym i piątem rozdziale  solidna dawka na temat bezpieczeństwa -
+słowem jak nie dać się zabić. Dla mnie wiele cennych informacji o bezpiecznym
+i optymalnym osadzaniu śrub lodowych. Sprawy potencjalnie ratujące życie.
+Podobnie o asekuracji - jak nie zginąć albo nie dać się poranić temu co sypie
+się na asekurującego z góry. Słowem, rzeczy bez których można się wspinać, ale
+które warto wiedzieć. Will poświęcił cały piąty rozdział sprawom wycofu i
+zjazdom.
 
+## Moje doświadczenia
 
 Po przeczytaniu podstawowych rozdziałów poszedłem w lód z doświadczonym
 kolegą. Pierwsze kroki w sensownym lodzie (_Ukryty Lód_) pamiętam jako bardzo
@@ -83,16 +84,6 @@ Kolejne wyjazdy na lód były czystą przyjemnością.
 
 Polecam korzystanie z wędki w początkowym stadium - pozwala skupić się na
 technice, zamiast walczyć o życie.
-
-Wracając do samej książki. Elementarz jest bardzo przydatny ale autor
-omawia też inne, nietechniczne sprawy wspinania lodowego. Na przykład
-jak nie zmarznąć (jak się ubrać i żywić się), jak mądrze gospodarować
-swoją siłą, jak planować podejście pod lód. Ważne są też informacje
-o charakterze lodu, zmienności warunków, sytuacjach potencjalnie
-niebezpiecznych ze względu na tymczasowość struktur lodowych.
-
-W dalszej sekcji jest też wiele wspinaniu drytoolowym. 
-Ciekawe są też informacje o planowaniu treningu.
 
 Czy można z tej książki nauczyć się samemu wspinać w lodzie?
 Drytoolowo uczyłem się wspinać u Damiana Granowskiego, dostałem od niego
