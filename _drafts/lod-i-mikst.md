@@ -10,7 +10,7 @@ jss: [wikipize]
 
 tags: góry książki
 permalink: lod_i_mikst
-css: [html5]
+css: [html5, img]
 ---
 
 _"[Wspinaczka - lód i mikst](a:Lód i Mikst Will Gadd)"_,
@@ -19,9 +19,9 @@ _"[Wspinaczka - lód i mikst](a:Lód i Mikst Will Gadd)"_,
 
 Oryginał, _"[Ice & Mixed Climbing](https://www.amazon.com/Ice-Mixed-Climbing-Technique-Mountaineers/dp/089886769X)"_
 
-![książka]({{"/img/wspinaczka-lod-i-mikst.jpg" | absolute_url}}){:class="img-responsive"}
+![książka >]({{"/img/wspinaczka-lod-i-mikst.jpg" | absolute_url}}){:class="img-responsive"}
 
-![book]({{"/img/ice_mixed_climbing.jpg" | absolute_url}}){:class="figure"}
+![book >]({{"/img/ice_mixed_climbing.jpg" | absolute_url}}){:class="figure"}
 
 Podczas drytoolingu na Zakrzówku ciągle powracał temat lodospadów.
 Ów był, tamten się wybierał. Wspinanie lodowe w stereotypie, który
@@ -88,7 +88,7 @@ jest jakaś z życia wzięta historyjka.
 
 ## Moje doświadczenia
 
-![hit]({{"/img/willgadd_icehit.jpg" | absolute_url}}){:class="image-left"}
+![hit >]({{"/img/willgadd_icehit.jpg" | absolute_url}})
 
 Po przeczytaniu podstawowych rozdziałów poszedłem w lód z doświadczonym
 kolegą. Pierwsze kroki postawiłem na [Adin úsmev][adin], który jest łatwym
