@@ -189,6 +189,37 @@ The _Easy Approach_ is enough for ad-hoc connections but also tiresome for
 daily operations. For a regular access through multi-hops I would ideally
 have a simple version of ssh with an alias host.
 
+#### Magic Proxy
+
+You have seen the `ProxyCommand` already. From the documentation:
+_Specifies the command to use to connect to the server. [...]
+The command can be basically anything, and should read from its standard
+input and write to its standard output.  It should eventually connect an
+sshd server running on some machine. [...]
+any occurrence of ‘%h’ will be substituted by the host name to connect,
+‘%p’ by the port, and ‘%r’_
+
+Lets analyze an example:
+
+    ssh  -o 'ProxyCommand ssh -xaq hophost nc %h 22' ec2-user@target
+
+The ssh uses another ssh to connect to `hophost` host first
+(`ssh -xaq hophost`). The inner ssh runs `nc target 22` which means
+all standard input is redirected to port 22 of `target`. And it does the
+trick. The outer ssh continues the protocol on the standard input/output 
+(effectively ignoring the `target`, using the username only) and proceeds with the
+authentication. So in our example we could actually run it this way, and still
+have it working:
+
+    ssh -o 'ProxyCommand ssh -xaq hophost nc target 22' ec2-user@
+
+:x
+
+What is worth of noting - the authentication key does not need
+to be located at the `bastion` host. Netcat (nc) just opens the connection but
+it is the outer ssh which does the authentication. The outer ssh runs at the
+initial, first node, not the bastion one.
+
     ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
     ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
 
@@ -202,13 +233,14 @@ database which run at our database server (`oradb`).
 #### Oracle Oddities
 
 So you see it looks complicated. We have two nodes between us and the database
-we are interested in. And there is even more - this is Oracle RAC database,
-so you cannot just use SCAN address but you need to get actual hostname of the
-RAC node (VIP or host-ip). If you use SCAN, it redirects you to another host (VIP)
-which you usually have not covered by the redirection. So find the VIP or
-hostname of a node (check it in v$instance) and redirect there instead.
-If you use a singleton as a service, make sure it runs at the node you've chosen.
-Or use uniform instead - usually this kind of the service exists at every node.
+we are interested in. And there is even more - this is [Oracle RAC](we:)
+database, so you cannot just use [SCAN](g:Oracle SCAN) address but you need to
+get actual hostname of the RAC node ([VIP](we:Virtual IP) or host-ip). If you
+use SCAN, it redirects you to another host (VIP) which you usually have not
+covered by the redirection. So find the VIP or hostname of a node (check it in
+v$instance) and redirect there instead.  If you use a singleton as a service,
+make sure it runs at the node you've chosen.  Or use uniform instead - usually
+this kind of the service exists at every node.
 
 #### Facing the challenge
 
