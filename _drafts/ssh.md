@@ -189,36 +189,58 @@ The _Easy Approach_ is enough for ad-hoc connections but also tiresome for
 daily operations. For a regular access through multi-hops I would ideally
 have a simple version of ssh with an alias host.
 
-#### Magic Proxy
+#### ProxyCommand Magic
 
-You have seen the `ProxyCommand` already. From the documentation:
+You have seen the `ProxyCommand` already with the `corkscrew` command. 
+From the documentation:
 _Specifies the command to use to connect to the server. [...]
 The command can be basically anything, and should read from its standard
 input and write to its standard output.  It should eventually connect an
 sshd server running on some machine. [...]
 any occurrence of ‘%h’ will be substituted by the host name to connect,
-‘%p’ by the port, and ‘%r’_
+‘%p’ by the port, and ‘%r’ by remote user name_
 
 Lets analyze an example:
 
+    (1)                   (2)
     ssh  -o 'ProxyCommand ssh -xaq hophost nc %h 22' ec2-user@target
 
-The ssh uses another ssh to connect to `hophost` host first
-(`ssh -xaq hophost`). The inner ssh runs `nc target 22` which means
-all standard input is redirected to port 22 of `target`. And it does the
-trick. The outer ssh continues the protocol on the standard input/output 
-(effectively ignoring the `target`, using the username only) and proceeds with the
-authentication. So in our example we could actually run it this way, and still
-have it working:
+The ssh (1) uses another, inner ssh (2) to connect to `hophost` host first
+(`ssh -xaq hophost`). The inner ssh (2) runs `nc target 22` which connects
+to the `target:22` and now all standard input/output are now redirected to
+port 22 of the `target`. And it does the trick.
+The outer ssh (1) performs the SSH protocol over the standard input/output 
+instead of TCP/IP (effectively ignoring the `target`, using the username only)
+and proceeds with the authentication.
+Lets prove it and run it without a hostname, providing the `target` directly
+to `nc` instead:
 
     ssh -o 'ProxyCommand ssh -xaq hophost nc target 22' ec2-user@
 
-:x
+You will find it working. What is worthy of note - the authentication key
+does not need nor can be located at the `hophost` host.
+It is the netcat (nc) which opens the connection and it is the outer ssh (1)
+which does the authentication. The outer ssh runs at its own node, not at the
+`hosthost` one.
 
-What is worth of noting - the authentication key does not need
-to be located at the `bastion` host. Netcat (nc) just opens the connection but
-it is the outer ssh which does the authentication. The outer ssh runs at the
-initial, first node, not the bastion one.
+Instead of using the netcat, the latest versions of ssh have its own solution
+of forwarding the standard i/o to given port. It is `-W host:port` flag.
+So here is the counterpart of the netcat version:
+
+    ssh -o 'ProxyCommand ssh -W %h:22 hophost' ec2-user@target
+
+Looks simpler. In a similar way the authentication throuth an NTLM proxy works.
+You have the `corkscrew` option for that purpose.
+
+Now how to set it up in a nice way? With the first scenario you have already put
+a magic proxy in the user `~/.ssh/config` file. Whenever you ssh to bastion,
+it runs the proxy corkscrew, authenticates through your HTTP NTLM proxy and
+setup SSH connection over it. It just matches the hostname (after the `Host`
+directive you may use multiple names or even matching patterns).
+
+Because you are free to setup another `~/.ssh/config` at the bastion host,
+this way you may create forwards anywhere you want automatically.
+
 
     ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
     ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
@@ -268,6 +290,7 @@ The chain of tunels describe above is represented by the following command:
 4. [ProxyCommand passing through one host][multi4]
 5. [SSH Agent Forwarding][multi5]
 6. [scp files via intermediate host][scp1]
+7. [Generating random numbers in bash][rand]
 
 [multi1]: https://serverfault.com/questions/368266/ssh-through-multiple-hosts-using-proxycommand
 [multi2]: http://sshmenu.sourceforge.net/articles/transparent-mulithop.html
@@ -275,6 +298,7 @@ The chain of tunels describe above is represented by the following command:
 [multi4]: https://www.cyberciti.biz/faq/linux-unix-ssh-proxycommand-passing-through-one-host-gateway-server/
 [multi5]: http://www.unixwiz.net/techtips/ssh-agent-forwarding.html
 [scp1]: https://superuser.com/questions/276533/scp-files-via-intermediate-host/
+[rand]: https://blog.eduonix.com/shell-scripting/generating-random-numbers-in-linux-shell-scripting/
 
 #### Other Links
 
