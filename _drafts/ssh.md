@@ -22,7 +22,7 @@ automates a procedure of adding a key to remote `.ssh/authroized_keys` file.
 
 Regular ssh uses direct TTY access to make sure the password is entered
 by an interactive keyboard input. Sshpass runs ssh in a dedicated tty,
-folling it into thinking it is getting the password in interactive way.
+foolling it into thinking it is getting the password in interactive way.
 
     sshpass -pMy.Password ssh bastion
 
@@ -225,7 +225,7 @@ which does the authentication. The outer ssh runs at its own node, not at the
 
 Instead of using the netcat, the latest versions of ssh have its own solution
 of forwarding the standard i/o to given port. It is `-W host:port` flag.
-So here is the counterpart of the netcat version:
+So here is a counterpart of the netcat version:
 
     ssh -o 'ProxyCommand ssh -W %h:22 hophost' ec2-user@target
 
@@ -237,50 +237,79 @@ a magic proxy in the user `~/.ssh/config` file. Whenever you ssh to bastion,
 it runs the proxy corkscrew, authenticates through your HTTP NTLM proxy and
 setup SSH connection over it. It just matches the hostname (after the `Host`
 directive you may use multiple names or even matching patterns).
+I specified the `ProxyCommand` above with the `-o` flag. But the more
+appropriate place to specify it is the `~/.ssh/config` file.
 
 Because you are free to setup another `~/.ssh/config` at the bastion host,
-this way you may create forwards anywhere you want automatically.
-
-
-    ssh -i XXAWS.pem -o 'ProxyCommand ssh -x -a -q bastion nc %h 22' ec2-user@10.10.21.186
-    ssh -i XXAWS.pem -o 'ProxyCommand ssh -W %h:22 bastion' ec2-user@10.10.21.186
+and the next one, and another... this way you may involve multiple proxies
+to work your way to the target node automatically. So instead of
+specifing a chain of ssh, you can ssh1 directly to aws target node, ssh1
+based on its config will run a proxy ssh2 which connects to bastion first.
+The ssh2 to bastion will be handled by another rule which uses its own
+proxy (`corkscrew` or `nc`) to skip over HTTP proxy and get connected to
+bastion. The ssh1 will work over this connection to the target host.
 
 ### Scenario 2: Connect a Database available from 2nd host
 
-Assume we have Oracle database which we want do connect. To reach it we have to
-connect from our home node (`home`) to a jump host first (`jump`), then from
-the `jump` to our an application host (`app`) and only then we can reach the
-database which run at our database server (`oradb`).
+Real life scenario: Multi-tier networks with a few connecting points.  I have
+[Oracle RAC](we:) database which I want connect to, but since I cannot connect
+to it directly, I have to SSH from my home node (`home`) to a jump host first
+(`jump`), then from the `jump` to an application host (`app`) and only then I
+can reach the database which runs at its database server (`oradb`).
+
+                                              +-------------+------+
+    +-------+    +---------+    +---------+   |       SCAN1 | VIP1 |
+    | home  |--->|   jump  |--->|  app    |-->| oradb SCAN2 +------+
+    |       |    | :22 ssh |    | :22 ssh |   | :1521 SCAN3 | VIP2 |
+    +-------+    +---------+    +---------+   +------------ +------+
+                                              
 
 #### Oracle Oddities
 
-So you see it looks complicated. We have two nodes between us and the database
-we are interested in. And there is even more - this is [Oracle RAC](we:)
-database, so you cannot just use [SCAN](g:Oracle SCAN) address but you need to
-get actual hostname of the RAC node ([VIP](we:Virtual IP) or host-ip). If you
-use SCAN, it redirects you to another host (VIP) which you usually have not
-covered by the redirection. So find the VIP or hostname of a node (check it in
-v$instance) and redirect there instead.  If you use a singleton as a service,
-make sure it runs at the node you've chosen.  Or use uniform instead - usually
-this kind of the service exists at every node.
+We have two nodes between us and the database we are interested in.  So it
+already look complicated. But it is even more complex because of the RAC's
+configuration which is a nightmare.  First the RAC usually exposes
+[SCAN](g:Oracle SCAN) [round-robin DNS](we:) address. SCAN makes the hacker's
+life complicated. SCAN is a kind of dispatcher which takes the incoming
+traffic and redirects it further to another Virtual IP ([VIP](we:Virtual IP).
+And there can be a few of them depending on the cluster size. What a headache!
+How overcome it?
+
+My solution? Skip the SCAN completly. Use the VIP only. Connect
+to VIP directly. Test it first. Forward a single VIP, skip the SCAN.
+
+How to find the VIP and the proper VIP? Yes, not all of them might work.
+Getting the VIP is tricky and boring - it is SCAN role to give you a proper
+VIP. But in real life of a developer once you pick a proper one it rarely
+changes. Ask your DBA to help you. Ask him to be smart because some VIP are not
+appropriate for singleton services. If you can - use uniform services instead
+(which usually are exposed on all VIPs).
 
 #### Facing the challenge
 
 Port 9999 used in the example here is just an example, you may use another not
-occupied TCP port. The command below runs at `home` and opens port 9999 at
-localhost interface as the tunel entry, then it connects to `jump` host and
-attaches the other end of the tunel to the localhost interface, port 9999.
+occupied TCP port or even [randomly][rand] picking one. The command below runs
+at `home` and opens port 9999 at localhost interface as the tunel entry, then
+it connects to `jump` host and attaches the other end of the tunel to jump's
+localhost interface, port 9999.
 
 It makes no sense until something listens on port 9999 of localhost interface
 at `jump` host. Nothing does so far. This is why - once again - another ssh
 runs at the `jump` host, attaches a new, second tunel entry to port 9999 of
 localhost (effectively connecting both tunels together), then the second ssh
-connects the `app` host and redirects the end of the second tunel to port
-1521 of the remote host `oradb`. An oracle server is expecting to listen there.
+connects the `app` host and redirects the end of the second tunel out of the
+`app` reaching directly to port 1521 of the remote host `oradb`'s VIP. An
+oracle server is expecting to listen there.
 
-The chain of tunels describe above is represented by the following command:
+The chain of tunels described above is represented by the following command:
 
-    ssh -tL 9999:localhost:9999 jump ssh -L 9999:oradb:1521 app
+    ssh -tL 9999:localhost:9999 jump ssh -L 9999:oradb-vip1:1521 app
+
+Now connecting to the target database is a simple as issuing:
+
+    sqlplus scott/tiger@//localhost:9999/service_name
+
+Voila! It will work.
 
 #### Links
 
