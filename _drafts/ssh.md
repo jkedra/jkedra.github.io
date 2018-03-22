@@ -189,7 +189,7 @@ The _Easy Approach_ is enough for ad-hoc connections but also tiresome for
 daily operations. For a regular access through multi-hops I would ideally
 have a simple version of ssh with an alias host.
 
-#### ProxyCommand Magic
+##### ProxyCommand Magic
 
 You have seen the `ProxyCommand` already with the `corkscrew` command. 
 From the documentation:
@@ -248,6 +248,42 @@ based on its config will run a proxy ssh2 which connects to bastion first.
 The ssh2 to bastion will be handled by another rule which uses its own
 proxy (`corkscrew` or `nc`) to skip over HTTP proxy and get connected to
 bastion. The ssh1 will work over this connection to the target host.
+
+#### Complete solution
+
+Contents of `~/config/.ssh`:
+
+    Host bastion
+       HostName 52.54.127.96
+       HostKeyAlias bastion
+       User mybastionuser
+       ProxyCommand corkscrew proxy.kedra.com 80 %h %p ~/.ssh/proxyauth
+       UserKnownHostsFile=/dev/null
+       StrictHostKeyChecking=no
+       AddKeysToAgent=yes
+       ServerAliveInterval 60
+
+    Host awstarget
+       HostName 10.10.35.17
+       HostKeyAlias awstarget
+       User ec2-user
+       ProxyCommand ssh -W %h:%p bastion
+       UserKnownHostsFile=/dev/null
+       StrictHostKeyChecking=no
+       AddKeysToAgent=yes
+
+So when I do `ssh bastion` it automatically connects to it using `corkscrew` over
+HTTP proxy. And when I connect to `awstarget`
+
+Final test:
+
+    jurek@ub16a|2106(master)$ ssh -i myAWSkey.pem awstarget
+    Warning: Permanently added 'bastion' (ECDSA) to the list of known hosts.
+    Last failed login: Thu Mar 22 12:29:05 EDT 2018 from ip-10-110-50-197.ec2.internal on ssh:notty
+    There were 2 failed login attempts since the last successful login.
+    Last login: Thu Mar 22 12:25:02 2018 from ip-10-110-50-197.ec2.internal
+    [ec2-user@ip-10-10-35-17 ~]$
+
 
 ### Scenario 2: Connect a Database available from 2nd host
 
