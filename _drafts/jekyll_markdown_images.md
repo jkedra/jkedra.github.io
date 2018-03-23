@@ -12,6 +12,8 @@ tags: javascript css jquery
 Examples from [Stack Overflow][1].
 Also examples from post [Lód i Mikst](/_lod_i_mikst)
 and [Czerwone Wierchy](/trips/2017/01/29/tatry.html).
+And [another post][2] on the image alignment.
 
 
 [1]: https://stackoverflow.com/questions/19075023/flow-text-around-an-image-in-github-markdown
+[2]: http://stackoverflow.com/questions/255170/markdown-and-image-alignment

@@ -60,6 +60,28 @@ img {
   float: right;
 }
 
+.image-left-30 {
+  display: block;
+  margin-left: $spacing-unit;
+  margin-right: auto;
+  float: right;
+  width: -webkit-calc(#{$content-width} / 3);
+  width:         calc(#{$content-width} / 3);
+}
+
+.image-left-50 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  width: -webkit-calc(#{$content-width} / 2);
+  width:         calc(#{$content-width} / 2);
+}
+
+
+
+
+
 /**
  * Figures
  */
