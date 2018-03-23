@@ -43,7 +43,7 @@ Uczę wspinaczki lodowej bazując na teorii z tej książki.
 _Polskie wydanie musiałem oddać, więc czasem użyję angielskiej nazwy
 zamiast zgadywać jakie tłumaczenie użyto w polskim przekładzie._
 
-## Rozdziały
+## Treść
 
 Pierwszy rozdział traktuje o sprzęcie. Nic odkrywczego o ile miało się
 wcześniej kontakt z drytoolingiem. Drugi rozdział jest od ubraniu i radzeniu
@@ -65,7 +65,18 @@ i optymalnym osadzaniu śrub lodowych. Sprawy potencjalnie ratujące życie.
 Podobnie o asekuracji - jak nie zginąć albo nie dać się poranić temu co sypie
 się na asekurującego z góry. Słowem, rzeczy bez których można się wspinać, ale
 które warto wiedzieć. Will poświęcił też cały piąty rozdział sprawom wycofu i
-zjazdom.
+zjazdom. Czy ja w ogóle powinienem słuchać rad człowieka, który wyznaje
+zasadę:
+
+<blockquote>
+"Never fall while leading ice."
+</blockquote>
+
+... i który - jak sam przyznaje - nigdy nie odpadł na śrubie lodowej?
+Żeby nie było zbyt teoretycznie, jest kilka przykładów grubszych incydentów
+z życia wziętych, które wymknęły się zasadzie nieodpadania.
+
+
 
 Następne trzy rozdziały to zaawansowane techniki wspinania w lodzie
 i w mikscie. Nie moja liga więc tylko je przeglądnąłem. Na nich kończą
@@ -81,28 +92,36 @@ poświęcony lawinom. Sporo miejsca zajmują sprawy zachowania się w sytuacjach
 awaryjnych: wypadek, pomoc w wypadkach, pierwsza pomoc,
 odmrożenia i hipotermia.
 
+Ostatni, jedenasty rozdział jest o treningu skrojonym pod wspinaczkę zimową.
+Jak ćwiczyć, co ćwiczyć, gdzie ćwiczyć, kiedy i jak często. Z obrazkami.
+Całkiem wnikliwie, całkiem długi rozdział. Wiadomo, że wspinać zimowo
+nie można przez cały czas więc Will ma propozycje ćwiczeń na cały rok.
+
+
 ## Ogólne uwagi
 
-Żeby nie było za bardzo teoretycznie, zwykle pod koniec rozdziału
-jest jakaś z życia wzięta historyjka.
+Styl jest dość ciężki. Will zdecydowanie jest bardziej wspinaczem
+niż gawędziarzem. Poucza z autorytetem. No literatura piękna to nie jest.
+Język zrozumiały i zwięzły. Jest OK.
 
 ## Moje doświadczenia
 
-![hit >]({{"/img/willgadd_icehit.jpg" | absolute_url}})
+![hit]({{"/img/willgadd_icehit.jpg" | absolute_url}}){: .image-left-30}
 
 Po przeczytaniu podstawowych rozdziałów poszedłem w lód z doświadczonym
 kolegą. Pierwsze kroki postawiłem na [Adin úsmev][adin], który jest łatwym
 lodospadem, w sam raz na pierwszy raz. Zaraz za nami szedł przewodnik z
-zakrwawionym klientem. Odłamek lodu przywalił mu w twarz i niegroźnie
-rozciął mu skórę. Pewnie to nie jest reguła, ale jedną z rad jakie daje
-Will Gadd jest branie lodu na kask, zamiast intuicyjnego uchylania się na bok
+zakrwawionym klientem. Odłamek lodu uderzył go już na samym poczatkuu w twarz
+i niegroźnie rozciął skórę. Jedną z rad jakie daje Will Gadd jest branie
+spadającego lodu na kask, zamiast intuicyjnego uchylania się na bok
 (bo to niewiele pomaga).
 
-w sensownym lodzie (_Ukryty Lód_) pamiętam jako bardzo
-wysiłkowe. Pomimo komfortu _na drugiego_, już po paru ruchach byłem 
-kompletnie wyczerpany. Nie ufałem wbijanym dziabkom, nie ufałem rakom, wisiałem
-na przybloku. Wszystkie te podstawowe błędy robione na podstawach drytoola
-i opisywane przez Willa Gadda. Drogę jakoś przeżyłem.
+Kolejne wspinananie tego dnia to _Ukryty Lód_, który dał mi się we znaki,
+wspinanie wysiłkowe. Pomimo komfortu _na drugiego_, już po paru ruchach byłem 
+kompletnie wyczerpany. Nie ufałem wbijanym dziabkom ani rakom, wisiałem
+na przybloku. Wszystkie te podstawowe błędy omawia sie na podstawach drytoola
+i są opisywane przez Willa Gadda. Teoria gdzieś tam była z tyłu głowy
+ale konfrontacja z rzeczywistością okazała się porażką.
 
 Po powrocie do książki wróciłem jeszcze raz do pierwszych rozdziałów z
 elementarną wiedzą. Tym razem dokładnie zapamiętałem jak należy wbijać
@@ -111,25 +130,22 @@ dobierać punkty zaczepienia dziabki przed przyblokiem. To wszystko jest
 w książce. Elementarz wspinania lodowego wraz ze zdjęciami.
 
 <blockquote>
-Jednak teoria teorią, ale to praktyka pozwala robić postępy.
+Teoria rzecz ważna, ale to praktyka pozwala tutaj robić postępy.
 Dopiero za trzecim razem poczułem się na lodzie w miarę swobodnie.
-Kolejne wyjazdy na lód były czystą przyjemnością.
+Od tego punktu kolejne wyjazdy były czystą przyjemnością.
 </blockquote>
 
-Polecam korzystanie z wędki w początkowym stadium - pozwala skupić się na
-technice, zamiast walczyć o życie.
+Czy można z tej książki nauczyć się samemu wspinać w lodzie? Drytoolowo
+uczyłem się wspinać u Damiana Granowskiego, dostałem od niego teorię, praktykę,
+zachętę i dzięki temu dałem radę przezwyciężyć strach i obawę przed
+prowadzeniem. Potem metry, wiele metrów drogi z doświadczonymi kolegami.
+Mówi się, że wspinać w lodzie jest łatwiej niż w drytoolu. Pewnie tak,
+ale asekuracja jest gorasza. Poza tym praktyka i obczajenie tej zmienności
+charakteru lodu jest bardzo potrzebna. Więc metry i jeszcze raz metry.
 
-Czy można z tej książki nauczyć się samemu wspinać w lodzie?
-Drytoolowo uczyłem się wspinać u Damiana Granowskiego, dostałem od niego
-teorię, praktykę, zachętę i dzięki temu dałem razdę przezwyciężyć strach i obawę
-przed prowadzeniem drogi. Potem metry, wiele metrów drogi z doświadczonymi
-kolegami. Mówi się, że w lodzie jest łatwiej, ale praktyka i obczajenie tej
-zmienności charakteru lodu jest bardzo potrzebna. 
-Więc metry i jeszcze raz metry.
-
-Jednak książka Willa Gadda daje ci więcej szans na starcie. Większe
-prawdopodobieństwo, że nie stchórzysz, że się nie zniechęcisz, że sobie nic
-nie zrobisz złego, że przeżyjesz.
+Więc pomimo, iż to praktyka jest ważniejsza, książka Willa Gadda daje
+więcej szans na starcie. Większe prawdopodobieństwo, że nie stchórzysz,
+że się nie zniechęcisz, że sobie nic nie zrobisz złego.
 
 [adin]: http://drytooling.com.pl/baza/topo/lodospady/biala-woda/533-adin-usmev
 [1](https://www.goryonline.com/andrzej-wilczkowski,12190,i.html)
