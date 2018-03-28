@@ -11,14 +11,18 @@ tags: ssh
 categories: tools
 ---
 
-## SSH
+I have collected some interesting and not such obvious SSH features
+in the post below. Some are simple, another complex - but all of them
+were useful in my daily practice. Enjoy!
 
-### ssh-copy-id
+## Hints
+
+#### ssh-copy-id
 
 For adding SSH keys to remote system use command `ssh-copy-id` which
 automates a procedure of adding a key to remote `.ssh/authroized_keys` file.
 
-### sshpass
+#### sshpass
 
 Regular ssh uses direct TTY access to make sure the password is entered
 by an interactive keyboard input. Sshpass runs ssh in a dedicated tty,
@@ -59,14 +63,14 @@ But with `HashKnownHosts` default to `yes` I have this instead:
     r1plg1u9SeO6YzKfzBQYjHTUpP0RYJg7FBGZhR7DRns/1Gse/GqIrse/nWiTGG94cQ/eyC++/joCJhRP
     wdvHyml+ucZ3kg/USsIg7BbLs2GUHKC0LiQTo1w==
 
-So now I need to explicitely say I do not need hashing known
+Because of it I needed explicitely say I do not need hashing known
 hosts:
 
     HashKnownHosts No
 
 #### HostKeyAlias
 
-The `HostKeyAlias` also applies to known_hosts. When there is no matching DNS
+The `HostKeyAlias` also applies to `known_hosts`. When there is no matching DNS
 record, I am aliasing hosts using `Host` directive and `HostName` to refer
 to real host name or IP address like below:
 
@@ -98,7 +102,7 @@ purpose.
 
 Above solution [found here](https://askubuntu.com/questions/20865/is-it-possible-to-remove-a-particular-host-key-from-sshs-known-hosts-file).
 
-#### host key gets changed over and over
+#### Host key gets changed over and over
 
 In a situation when you are connecting a remote host which gets reinstalled
 and its host key gets regenerated, `ssh` drops a warning the remote host
@@ -134,10 +138,13 @@ allowing connections to hosts without maching host keys:
 
 ## Multihops
 
-Multihops allows to manage limitations of the network. Usually it happens
+Subjects mentioned so far were just small useful tricks. Using SSH with
+multihops can be a big thing.
+
+Multihop allows to manage limitations of the network. Usually it happens
 because the only points connecting the external world with our network
 are HTTP proxy or bastion hosts, so direct SSH connection to a host outside
-the internal network is not possible.
+of the internal network is not possible.
 
 However SSH tools are smart enough to overcome restrictions mentioned.
 Keep reading.
@@ -149,6 +156,10 @@ Keep reading.
     | laptop  |--->| HTTP proxy |--->| bastion |-->| target |
     +---------+    | NTLM auth  |    |  host   |   |  host  |
                    +------------+    +---------+   +--------+
+
+Scenario like above occurs when I try to connect from an internal
+network, through NTLM authenticated HTTP proxy to AWS target
+host which is behind some bastion host.
 
 #### Dealing with HTTP proxy first
 
@@ -164,30 +175,34 @@ has been already mentioned:
        StrictHostKeyChecking=no
        ServerAliveInterval 60
 
-The `corkscrew` allows going over NTLM authenticated HTTP proxy.
-Each time the target is bastion above configuration forces to call
-`corkscrew`, authenticate at HTTP proxy and reach bastion host through it.
+The `corkscrew` allows going over NTLM authenticated HTTP proxy.  Each time the
+target is bastion, above configuration applies automatically and calls
+`corkscrew`, authenticates at HTTP proxy and reaches the bastion host through
+it.
 
 #### Easy Approach
 
 It is the most straightforward way, do ssh to first host,
-then continue connection to another:
+then continue connection to another in just one line:
 
-    ssh -t bastion ssh -i KEY.pem ec2-user@10.10.21.186
+    ssh -t bastion ssh -i KEY.pem ec2-user@target
 
 Without a pseudo-TTY allocated (`-t` option) you will not be able to enter an
 interactive ssh session. The pseudo-TTY is not required for a single-run, no
-keyboard input command (like `ssh bastion ls`) but is a prerequisite for
+keyboard input command (like `ssh bastion ls`) but is a prerequisite for an
 interactive ssh.
 
 Because the second ssh runs at the bastion, the private key file `KEY.pem`,
 required to access target EC2, needs to be copied to the bastion before.
 
+With the changes in `~/.ssh/config` I am able to reach the `target` with
+one liner ssh.
+
 #### Sophisticated Way
 
 The _Easy Approach_ is enough for ad-hoc connections but also tiresome for
 daily operations. For a regular access through multi-hops I would ideally
-have a simple version of ssh with an alias host.
+had a simple version of ssh with an alias host.
 
 ##### ProxyCommand Magic
 
@@ -200,7 +215,7 @@ sshd server running on some machine. [...]
 any occurrence of ‘%h’ will be substituted by the host name to connect,
 ‘%p’ by the port, and ‘%r’ by remote user name_
 
-Lets analyze an example:
+Let's analyze an example:
 
     (1)                   (2)
     ssh  -o 'ProxyCommand ssh -xaq hophost nc %h 22' ec2-user@target
@@ -221,7 +236,7 @@ You will find it working. What is worthy of note - the authentication key
 does not need nor can be located at the `hophost` host.
 It is the netcat (nc) which opens the connection and it is the outer ssh (1)
 which does the authentication. The outer ssh runs at its own node, not at the
-`hosthost` one.
+`hophost` one.
 
 Instead of using the netcat, the latest versions of ssh have its own solution
 of forwarding the standard i/o to given port. It is `-W host:port` flag.
@@ -249,7 +264,7 @@ The ssh2 to bastion will be handled by another rule which uses its own
 proxy (`corkscrew` or `nc`) to skip over HTTP proxy and get connected to
 bastion. The ssh1 will work over this connection to the target host.
 
-#### Complete solution
+#### Complete multihop solution
 
 Contents of `~/config/.ssh`:
 
@@ -272,8 +287,11 @@ Contents of `~/config/.ssh`:
        StrictHostKeyChecking=no
        AddKeysToAgent=yes
 
-So when I do `ssh bastion` it automatically connects to it using `corkscrew` over
-HTTP proxy. And when I connect to `awstarget`
+When I invoke `ssh bastion`, it automatically connects to it using `corkscrew`
+over HTTP proxy. This is straightforward and I had it working already. However
+when I call `ssh awstarget` it chaines proxycommand with `ssh bastion` first
+(which uses `corkscrew` and so on). This is great - a simple and clean ssh
+call.
 
 Final test:
 
@@ -287,11 +305,13 @@ Final test:
 
 ### Scenario 2: Connect a Database available from 2nd host
 
-Real life scenario: Multi-tier networks with a few connecting points.  I have
-[Oracle RAC](we:) database which I want connect to, but since I cannot connect
-to it directly, I have to SSH from my home node (`home`) to a jump host first
-(`jump`), then from the `jump` to an application host (`app`) and only then I
-can reach the database which runs at its database server (`oradb`).
+Another real life scenario: Multi-tier networks with a few connecting points.
+I have [Oracle RAC](we:) database which I want connect to, but since I cannot
+connect to it directly, I have to SSH from my home node (`home`) to a jump host
+first (`jump`), then from the `jump` to an application host (`app`) and only
+then I can reach the database which runs at its database server (`oradb`). It
+is not an AWS example but it could be similar. No HTTP proxy here. It is all
+about tunneling a port at localhost to another port at remote node.
 
                                               +-------------+------+
     +-------+    +---------+    +---------+   |       SCAN1 | VIP1 |
@@ -302,14 +322,14 @@ can reach the database which runs at its database server (`oradb`).
 
 #### Oracle Oddities
 
-We have two nodes between us and the database we are interested in.  So it
-already look complicated. But it is even more complex because of the RAC's
-configuration which is a nightmare.  First the RAC usually exposes
-[SCAN](g:Oracle SCAN) [round-robin DNS](we:) address. SCAN makes the hacker's
-life complicated. SCAN is a kind of dispatcher which takes the incoming
-traffic and redirects it further to another Virtual IP ([VIP](we:Virtual IP).
-And there can be a few of them depending on the cluster size. What a headache!
-How overcome it?
+We have two nodes between us and the database we are interested in. It already
+looks complicated. But it is even more complex because of the RAC's
+configuration which is a nightmare. First, the RAC usually exposes
+[SCAN](g:Oracle SCAN) [round-robin DNS](we:) address. SCAN makes hacker's life
+complicated. SCAN is a kind of dispatcher which takes the incoming traffic and
+redirects it further to another Virtual IP ([VIP](we:Virtual IP)).  And there
+can be a few of them depending on the cluster size. What a headache!  How
+overcome it?
 
 My solution? Skip the SCAN completly. Use the VIP only. Connect
 to VIP directly. Test it first. Forward a single VIP, skip the SCAN.
@@ -317,9 +337,9 @@ to VIP directly. Test it first. Forward a single VIP, skip the SCAN.
 How to find the VIP and the proper VIP? Yes, not all of them might work.
 Getting the VIP is tricky and boring - it is SCAN role to give you a proper
 VIP. But in real life of a developer once you pick a proper one it rarely
-changes. Ask your DBA to help you. Ask him to be smart because some VIP are not
-appropriate for singleton services. If you can - use uniform services instead
-(which usually are exposed on all VIPs).
+changes. Ask your DBA to help you. Ask him to be smart because some VIPs are
+not appropriate for singleton services. Use uniform services instead (which
+usually are exposed on all VIPs) when you can.
 
 #### Facing the challenge
 
@@ -332,7 +352,7 @@ localhost interface, port 9999.
 It makes no sense until something listens on port 9999 of localhost interface
 at `jump` host. Nothing does so far. This is why - once again - another ssh
 runs at the `jump` host, attaches a new, second tunel entry to port 9999 of
-localhost (effectively connecting both tunels together), then the second ssh
+localhost (effectively gluing both tunels together), then the second ssh
 connects the `app` host and redirects the end of the second tunel out of the
 `app` reaching directly to port 1521 of the remote host `oradb`'s VIP. An
 oracle server is expecting to listen there.
