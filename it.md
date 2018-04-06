@@ -12,9 +12,10 @@ This page groups posts which are related to:
 
 ## IT posts
 
-{% assign category="www" %}
+{% assign sectioncategories = "www it" | split: " " %}
   <ul class="post-list">
     {% for post in site.posts %}
+    {% for category in sectioncategories %}
     {% if post.categories contains category %}
       <li>
         <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
@@ -24,6 +25,6 @@ This page groups posts which are related to:
         </h2>
       </li>
     {% endif %}
+    {% endfor %} 
     {% endfor %}
- 
   </ul>

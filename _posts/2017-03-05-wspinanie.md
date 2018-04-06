@@ -63,6 +63,11 @@ tags: climbing
     * [MSW via Galerie Cubryńske](http://www.summitpost.org/via-galerie-cubry-skie/167280) - summitpost.
 7. Hińczowa Przełęcz
     * [Hińczowa Przełęcz Wprost](http://szlakiidrogi.pl/hinczowa-przelecz-wprost-ii/)
+8. Wielki Młynarzowy Żleb
+    * [Drytooling)(http://drytooling.com.pl/baza/topo/lodospady/biala-woda/5928-wielki-mlynarzowy-zleb)
+    * [Zipi](http://zipi-tatry.eu/16/0402MlynarzowyZleb/index.html)
+    * [KWK](https://www.kw.krakow.pl/sww-kw-krakow/porady/gorskie/541-wielki-mlynarzowy-zleb.html)
+    * [Sakwa](http://sakwa.agh.edu.pl/2018/04/04/wielki-mlynarzowy-zleb-zjazd-z-mlynarza/)
 8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
 9. [Mapa lesných a pozemných komunikácií SR](https://gis.nlcsk.org/lc/)
 10. [Zipi Tatry](http://zipi-tatry.eu)
@@ -90,6 +95,7 @@ tags: climbing
 2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
 3. [MeteoBlue KRK](https://www.meteoblue.com/pl/pogoda/prognoza/multimodel/krak%C3%B3w_polska_3094802?fcstlength=144)
 4. [Skitourowe](http://skitourowezakopane.pl/)
+5. [Warunki w Tatrach Sakwa](http://sakwa.agh.edu.pl/lista-przejsc/warunki-w-tatrach/)
 
 ## Zasoby
 
