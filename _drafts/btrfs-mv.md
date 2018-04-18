@@ -12,14 +12,62 @@ comments: true
 # Scenario
 
 In [my first BTRFS post][btrfs1] I described most of its basic features
-and focused on creating and maintaning snapshots. Now I want to perform
-some administrative tasks - replace one SSD drive by a larger one.
+and focused on creating and maintaining snapshots. After using BTRFS
+for a time, a time came to replace existing 120GB SSD drive with a larger
+one. My laptop has one M2 factor SSD disk and another 2'' hard drive.
+The new M2 SSD is 250GB but I cannot have both SSD in the hardware
+since there is only one M2 slot.
+
+I made a few bad decisions before I came to a proper procedure:
+
+#### 1<sup>st</sup>
+
+Initially I thought the good enough way would be to release some space at hard
+drive, create a partition there to hold a copy of the SSD disk.  Then add this
+partition as another device as a mirror to the existing BTRFS volume. Then
+split the mirror, remove the old 120GB SSD and leave the system booting from
+the disk drive mirror. Then add 250G SSD, replacing the old 120GB one. It
+sounded like a good plan. But don't do this at home kids. That is large risk
+when you do it first time.  And for a while I thought I was left without any
+system left.  Yes, of course, I did not take a backup.
+
+Instead of failing a drive I converted the RAID1 to a single profile device
+(differs from RAID0).  Luckily I was able to restore the system when I inserted
+the original disk back to it. Don't go this way.
+
+#### 2<sup>nd</sup>
+
+This time at least I started with backup. I knew about `btrfs-send` and
+`btrfs-received` but only a little. So I started making the backup
+with `tar`. It always works but is not a great tool for a filesystem
+dump like btrfs. Anyway, at least it is better than nothing.
+
+Reading about moving data from one BTRFS to another I stumbled on these
+send/receive commands to do the job. They seemed to me to binary copy BTRFS
+snapshots pretty well. So I adjusted the 1<sup>st</sup> procedure to
+include now the send/receive commands.
+
+It did the trick actually. I copied data from the 120GB SSD to the hard
+disk partition. Swaped 120/250GB SSD disks a few times before I decided
+I am satisfied with the system on the hard drive and finally booted
+without the original 120GB SSD. Then I repeated the whole procedure
+again to move the daa from the hard drive to the larger SSD.
+
+I forgot about a few things. I forgot to copy subvolumes I created
+to exclude snapper snapshosts. This is why I had to reinsert the old SSD
+and copy the missing stuff.
+
+There was no 3<sup>rd</sup> scenario. Actually this one worked but was
+not the best optimal one. The best optimal would be to copy all stuff
+to an external usb drive using `btrfs-send`, replace the disks,
+boot from an independent Linux on an usb drive, and using `btrfs-receive`
+rebuild the system on the 250GB SSD. Next time maybe.
 
 ## Configuration
 
-My laptop has a hard disk drive of 320GB and another SSD one which
-is only 120GB in size. Benefits of SSD are so huge that actually work
-only with this one. The spinning disk is currently used only to store
+My laptop has a hard disk drive of 320GB and another M2 SSD which
+is only 120GB in size. Benefits of SSD are so huge that actually I work
+only with the SSD. The hard disk is currently used only to store
 archive data and things I couldn't affort keeping on SSD.
 
 SSD (sdb) and hard disk (sda) layouts are as below:
@@ -49,12 +97,15 @@ Now let's inspect subvolume configuration.
     ID 1761 gen 291551 top level 257 path .snapshot
     [...]
 
-There are also multiple snapshots as created by snapper and
-some coming from docker.
+There are also multiple snapshots created by snapper which I don't care
+for and some coming from docker. Those docker were apparently used
+by some images I kept. Once the images were deleted, the corresponding
+snapshots disappeared automatically.
 
 ## Safety Backup
 
-Start with read-only snapshots for stable image creation:
+The BTRFS send/receive commands work only on readonly snaphots.
+So I had to create the snapshots first:
 
     btrfs subvolume snapshot -r / /root_ro 
     btrfs subvolume snapshot -r /home /home/home_ro
@@ -80,9 +131,9 @@ mounting do `/mnt/backup`:
                  (rw,realtime,space_cache,subvolid=257,subvol=/@/var/lib/docker/plugins)
     /dev/sda4 on /mnt/backup type btrfs (rw,realtime,space_cache,subvolid=5,subvol=/)
 
-Docker mountpoint disappears once docker service is stopped.
-It does not seem to be any docker subvolume present once I have deleted
-all docker images.
+Docker mountpoint disappears once the docker service is stopped.  It does not
+seem to be any other docker subvolume present once I have deleted all docker
+images.
 
 Now lets clone root and home subvolumes to target disk:
 
@@ -96,6 +147,7 @@ Now lets clone root and home subvolumes to target disk:
     12,4GiB 0:07:30 [28,2MiB/s] [28,2MiB/s]
 
 `pv` is a tool to progress monitoring while copying data through a pipe.
+
 Now rename newly created subvolumes to more convenient names.
 It can be done simply through usual `mv` command:
 
@@ -103,9 +155,8 @@ It can be done simply through usual `mv` command:
     # mv home_ro @home
     # mv root_ro @
 
-Subvolumes above were created as read-only snapshots. They
-are readonly indeed, check it yourself and convert to
-readwrite subvolumes:
+Subvolumes above were created as read-only snapshots. I am checking their
+status and converting to read-write subvolumes:
 
     # btrfs property get -ts /mnt/backup/@
     ro=true
@@ -115,7 +166,7 @@ readwrite subvolumes:
     # btrfs property set -ts /mnt/backup/@home ro false
 
 
-We also need to copy boot from sdb1 to sda1. I just created
+I also need to copy `/boot` from sdb1 to sda1. I just created
 a new ext2 filesystem at sda1, and created a copy of `/boot`
 currently mounted from sdb1 to sdb1 using tar (or `cp -p`).
 
@@ -144,6 +195,15 @@ GRUB:
 https://dug.net.pl/tekst/77/przywracanie_grub2_za_pomoca_chroot/
 https://zeldor.biz/2010/12/install-grub-from-chroot/
 
+#### Boot issues
+
+The partition table at the 250GB appeared to be GPT type which I 
+did not discovered until all was ready and copied. GRUB won't install
+on the disk like that until it has a dedicated BIOS boot partition.
+I addressed the problem by dropping the sdb1 partition and creating
+two of them instead. One for the BIOS boot and another - reduced in size -
+for the original purpose. Luckily it was the `/boot` so it was easily
+reconstructed.
 
 ## Resources
 
