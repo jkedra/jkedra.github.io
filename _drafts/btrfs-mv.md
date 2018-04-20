@@ -104,7 +104,7 @@ snapshots disappeared automatically.
 
 ## Safety Backup
 
-The BTRFS send/receive commands work only on readonly snaphots.
+The BTRFS send/receive commands work on readonly snaphots only.
 So I had to create the snapshots first:
 
     btrfs subvolume snapshot -r / /root_ro 
@@ -195,11 +195,11 @@ GRUB:
 https://dug.net.pl/tekst/77/przywracanie_grub2_za_pomoca_chroot/
 https://zeldor.biz/2010/12/install-grub-from-chroot/
 
-#### Boot issues
+#### Boot Issues
 
 The partition table at the 250GB appeared to be GPT type which I 
-did not discovered until all was ready and copied. GRUB won't install
-on the disk like that until it has a dedicated BIOS boot partition.
+did not discovered until all was copied and ready. GRUB cannot install
+on the disk like that until it has a [dedicated BIOS Boot Partition][grub-gpt].
 I addressed the problem by dropping the sdb1 partition and creating
 two of them instead. One for the BIOS boot and another - reduced in size -
 for the original purpose. Luckily it was the `/boot` so it was easily
@@ -218,6 +218,7 @@ reconstructed.
 9. [BTRFS features][ora1], Oracle's summary.
 10. [Fixing BTRFS full problems][fixing-full-problems]
 11. [Moving BTRFS subvolume to another disk][mov-subv]
+12. [Installing GRUB on GPT][grub-gpt]
 
 
 [btrfs1]: /2016/09/07/btrfs.html
@@ -238,3 +239,4 @@ reconstructed.
 [wiki-snapshots]: https://btrfs.wiki.kernel.org/index.php/SysadminGuide#Snapshots
 [fixing-full-problems]: http://marc.merlins.org/perso/btrfs/post_2014-05-04_Fixing-Btrfs-Filesystem-Full-Problems.html
 [mov-subv]: http://c0rp.kz/moving-root-btrfs-subvolume-to-another-disk/
+[grub-gpt]: https://www.gnu.org/software/grub/manual/grub/html_node/BIOS-installation.html#BIOS-installation
