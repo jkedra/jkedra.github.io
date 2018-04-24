@@ -166,13 +166,14 @@ status and converting to read-write subvolumes:
     # btrfs property set -ts /mnt/backup/@home ro false
 
 
-I also need to copy `/boot` from sdb1 to sda1. I just created
-a new ext2 filesystem at sda1, and created a copy of `/boot`
-currently mounted from sdb1 to sdb1 using tar (or `cp -p`).
+I also need to copy `/boot` from sdb1 to sda1 - so I just created
+a new ext2 filesystem at sda1, then created a copy of `/boot`
+(currently mounted from sdb1) to sdb1 using tar (or `cp -p`).
 
 ## Preparing the New System
 
-Good reading on [GRUB](we:).
+At this poing I have the full copy of the system. The only missing
+part is to configure the new `/etc/fstab` and reinstall [GRUB](we:).
 
     # cd /mnt
     # umount /mnt/backup
@@ -182,18 +183,19 @@ Good reading on [GRUB](we:).
     # for i in dev dev/pts sys proc run; do mount --bind /$i /mnt/root/$i; done
     # chroot /mnt/root
 
-Now edit `/etc/fstab`
+Now at /mnt/root I have the new system, time to edit `/etc/fstab` adjusting
+device names to the new SSD disk. Once done, the only thing to do is to
+reinstall GRUB with this commands:
 
     # update-grub
     # grub-install --recheck /dev/sda
     # exit
-    # cd /mnt
+
+Umount, reboot and see if it works:
+
+    # cd /
     # umount -R /mnt/root
     # reboot
-
-GRUB:
-https://dug.net.pl/tekst/77/przywracanie_grub2_za_pomoca_chroot/
-https://zeldor.biz/2010/12/install-grub-from-chroot/
 
 #### Boot Issues
 
@@ -219,6 +221,9 @@ reconstructed.
 10. [Fixing BTRFS full problems][fixing-full-problems]
 11. [Moving BTRFS subvolume to another disk][mov-subv]
 12. [Installing GRUB on GPT][grub-gpt]
+13. [Przywracanie GRUB z chroot](https://dug.net.pl/tekst/77/przywracanie_grub2_za_pomoca_chroot/) (PL)
+14. [Install GRUB from chroot](https://zeldor.biz/2010/12/install-grub-from-chroot/)
+
 
 
 [btrfs1]: /2016/09/07/btrfs.html
