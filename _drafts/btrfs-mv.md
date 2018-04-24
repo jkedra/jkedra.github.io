@@ -223,7 +223,7 @@ reconstructed.
 12. [Installing GRUB on GPT][grub-gpt]
 13. [Przywracanie GRUB z chroot](https://dug.net.pl/tekst/77/przywracanie_grub2_za_pomoca_chroot/) (PL)
 14. [Install GRUB from chroot](https://zeldor.biz/2010/12/install-grub-from-chroot/)
-
+15. [Grub boot problems][grub-noboot]
 
 
 [btrfs1]: /2016/09/07/btrfs.html
@@ -245,3 +245,4 @@ reconstructed.
 [fixing-full-problems]: http://marc.merlins.org/perso/btrfs/post_2014-05-04_Fixing-Btrfs-Filesystem-Full-Problems.html
 [mov-subv]: http://c0rp.kz/moving-root-btrfs-subvolume-to-another-disk/
 [grub-gpt]: https://www.gnu.org/software/grub/manual/grub/html_node/BIOS-installation.html#BIOS-installation
+[grub-noboot]: https://askubuntu.com/questions/493826/grub-rescue-problem-after-deleting-ubuntu-partition
