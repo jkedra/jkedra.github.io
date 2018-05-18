@@ -10,6 +10,15 @@ tags: climbing
 
 ---
 
+## Jak się wspinać?
+
+Techniki wspinaczkowe.
+
+### Rysy
+
+1. [Karolina Ośka o wspinaniu w rysach](http://8a.pl/8academy/wspinanie-w-rysach-trudne-poczatki/)
+2. Wspinanie w przerysach: [Levittation - How to Climb Offwidth Cracks](https://vimeo.com/46589051)
+
 ## Gdzie się wspinać?
 
 ### Tatry
