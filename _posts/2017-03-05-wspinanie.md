@@ -31,7 +31,8 @@ tags: climbing
 
 1. [Sportowe klasyki](http://winterclimb.com/hydepark/item/26-the-best-climbing-routes-near-of-cracow)
 2. [Przyjazne TRADy](http://winterclimb.com/hydepark/item/28-tradowe-klasyki-pod-krakowem)
-3. [8a: Dziesięć dróg Jury Południowej][8a-10-drog-jury-s]
+3. [Ciekawe wielowyciągówki](http://winterclimb.com/hydepark/item/73-ciekawe-wielowyciagowki-jura-sokoly)
+4. [8a: Dziesięć dróg Jury Południowej][8a-10-drog-jury-s]
 
 ### Inne
 
