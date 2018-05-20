@@ -176,11 +176,12 @@ Techniki wspinaczkowe.
 
 Damian Granowski z [DryTooling][drytooling] zebrał
 [wszystkie swoje poradniki w jedną listę][dt-por-set].
-Poniżej tylko te, które są dla mnie szczególnie cenne.
+Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 
 1. Techniki zjazdu na linie
     * [Zjazdy wyczerpująco opisane przez DG][zjazd1]
     * [zjazd Z](http://www.vdiffclimbing.com/increase-friction-abseil/)(ang.)
+    * [Sztuka zjazdów - Jan Kurczera](https://wspinanie.pl/2015/10/sztuka-zjazdow-czyli-jak-zjechac-aby-dojechac/)
 2. Patenty DG:
     * [Zwijanie liny](http://drytooling.com.pl/serwis/art/patenty/7308-jak-zwijac-line-wspinaczkowa)
     * [Jak nosić sprzęt na uprzeży](http://drytooling.com.pl/serwis/art/patenty/2357-noszenie-sprzetu-wspinaczkowego-na-uprzezy).
