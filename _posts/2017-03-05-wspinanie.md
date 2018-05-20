@@ -204,13 +204,14 @@ Poniżej tylko te, które są dla mnie szczególnie cenne.
 
 1. [PMR Midland G18](http://www.alan.pl/radiokomunikacja/produkt/680/radio_pmr_midland_g18_ip67_accu_li_ion)
 
-### Ćwiczenia
+## Trening
 
 1. [Mięsień czworoboczny](https://wspinacz.wordpress.com/2016/10/15/jak-i-po-co-trenowac-miesien-czworoboczny/)
 2. [Podciągnie na drążku](https://wspinacz.wordpress.com/2013/10/16/podciaganie-na-drazku/)
 2. [Ćwiczenia kompensacyjne i uzupełniające](http://drytooling.com.pl/serwis/art/trening/2113-10-cwiczen-kompensacyjnych-i-uzupelniajacych)
 3. [Ćwiczenia z taśmą](http://drytooling.com.pl/serwis/art/trening/6725-cwiczenia-z-elastycznymi-tasmami) i [ćwiczenia z kółkami](http://drytooling.com.pl/serwis/art/trening/7352-trening-na-kolkach-gimnastycznych).
 4. [Rozgrzewka wspinaczkowa z 8a](http://8a.pl/8academy/optymalna-rozgrzewka-wspinaczkowa/)
+5. [Trening po czterdziestce](https://wspinaczka.edu.pl/2017/01/trening-po-czterdziestce.html)
 
 ### [Kontuzje](http://wspinanie.pl/tag/abc-pierwszej-pomocy-przy-kontuzjach/)
 
