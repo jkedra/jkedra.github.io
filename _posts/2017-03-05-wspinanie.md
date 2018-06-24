@@ -12,7 +12,7 @@ tags: climbing
 
 ## Jak się wspinać?
 
-Techniki wspinaczkowe.
+1. [Akademia Wspinania Mazda](https://www.youtube.com/playlist?list=PLH6Xn84AZqUn5KAnDvmHUUiSdOJqHTwvt) - seria filmów na Youtube o wspinaniu.
 
 ### Rysy
 
@@ -247,6 +247,10 @@ Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 1. improwizowana uprząż biodrowa (139) - potrzebne 3m taśmy związanej w pętlę
 2. pas piersiowy (140) - taśma rurowa 3m szerokości 2.5cm
 
+## YouTube Inne
+
+1. [Ale Lufa!][alelufa] - to już kultowa pozycja.
+
 [zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie
 [gran-tatr-let1]: http://drytooling.com.pl/serwis/art/artykuly/6436-wybrane-drogi-kursowe-tatry-lato
 [drytooling]: http://drytooling.com.pl/
@@ -263,3 +267,6 @@ Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 
 [dt-formacje]: http://drytooling.com.pl/serwis/art/artykuly/988-formacje-skalne-w-skalkach-gorach
 [dt-topo-legenda]: http://drytooling.com.pl/serwis/art/artykuly/6435-schemat-drogi-topo-wspinaczkowe
+
+[alelufa]: https://www.youtube.com/channel/UCxqeZD7wBkRhpMAgh_uhqyw
+
