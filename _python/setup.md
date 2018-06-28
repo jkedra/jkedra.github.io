@@ -17,7 +17,7 @@ jss: [wikipize]
 
 ### PyEnv
 
-[PyEnv](pyenv), similar to [rbenv][rbenv], allows to use multiple Python
+[PyEnv][pyenv], similar to [rbenv][rbenv], allows to use multiple Python
 versions. Integrates with virtualenv. Here is a full procedure
 to install Python 3.6 for UBuntu and RHEL:
 
@@ -31,7 +31,7 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
 
     # RHEL
     yum install -y zlib-dev openssl-devel sqlite-devel bzip2-devel \
-        readline-devel curl git
+        readline-devel libffi-devel tk-devel curl git
 
     # or
     dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite \
@@ -39,7 +39,8 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
 
     # UBuntu
     apt install -y make build-essential libssl-dev zlib1g-dev \
-        libreadline-dev libsqlite3-dev sqlite3 \
+        libreadline-dev tk-dev \
+        libsqlite3-dev sqlite3 \
         libncurses5-dev libncursesw5-dev \
         xz-utils tk-dev bzip2 libbz2-dev libz-dev  \
         curl wget llvm git
