@@ -6,18 +6,15 @@ language: pl
 
 jquery: true
 jss: [wikipize, moment-with-locales.min]
-tags: climbing
+tags: climbing góry
+categories: climb
 
 ---
 
-## Jak się wspinać?
+## Ubezpieczenia
 
-1. [Akademia Wspinania Mazda](https://www.youtube.com/playlist?list=PLH6Xn84AZqUn5KAnDvmHUUiSdOJqHTwvt) - seria filmów na Youtube o wspinaniu.
-
-### Rysy
-
-1. [Karolina Ośka o wspinaniu w rysach](http://8a.pl/8academy/wspinanie-w-rysach-trudne-poczatki/)
-2. Wspinanie w przerysach: [Levittation - How to Climb Offwidth Cracks](https://vimeo.com/46589051)
+1. [Szlaki bez granic](https://szlakibezgranic.pl)
+2. [Bezpieczny Powrót](https://bezpiecznypowrot.pl/)
 
 ## Gdzie się wspinać?
 
@@ -35,6 +32,8 @@ tags: climbing
    * [Legenda do topo][dt-topo-legenda]
    * [Glossary of climbing terms](we:)
    * [Słownik angielski](http://drytooling.com.pl/serwis/art/artykuly/1341-slownik-wspinaczkowy-ang-pol)
+7. Gdzie spać:
+    * [Szałasika 2018](http://pza.org.pl/news/news-pza/baza-tatrzanska-pza-lato-2018)
 
 ### Jura
 
@@ -122,7 +121,8 @@ tags: climbing
 ### Blogi
 
 1. [Ruda z wyboru](http://www.rudazwyboru.pl/) - prawdziwa włóczęga tatrzańska.
-1. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
+2. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
+3. [Taternik.eu](http://taternik.eu/)
 
 ## Żywność i Dieta
 
@@ -172,6 +172,16 @@ tags: climbing
 
 ## WSPINACZKA
 
+### Jak się wspinać?
+
+1. [Akademia Wspinania Mazda](https://www.youtube.com/playlist?list=PLH6Xn84AZqUn5KAnDvmHUUiSdOJqHTwvt) - seria filmów na Youtube o wspinaniu.
+
+### Wspinanie w rysach
+
+1. [Karolina Ośka o wspinaniu w rysach](http://8a.pl/8academy/wspinanie-w-rysach-trudne-poczatki/)
+2. Wspinanie w przerysach: [Levittation - How to Climb Offwidth Cracks](https://vimeo.com/46589051)
+
+
 ### Techniczne, techniki, patenty
 
 Damian Granowski z [DryTooling][drytooling] zebrał
@@ -204,6 +214,7 @@ Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 #### Łączność
 
 1. [PMR Midland G18](http://www.alan.pl/radiokomunikacja/produkt/680/radio_pmr_midland_g18_ip67_accu_li_ion)
+2. Motorla T82 Extreme
 
 ## Trening
 

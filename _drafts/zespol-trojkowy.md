@@ -19,7 +19,7 @@ Pierwszy prowadzi kolejny wyciąg.
 
 Drugi i trzeci wpinają się w punkt centralny pod pierwszym.
 i tylko z jednej strony, przeciwnej niż ta w którą znowu pójdzie pierwszy.
-Nie powinno doprowadzać się do sytuacji w której pierwsz.
+Nie powinno doprowadzać się do sytuacji w której pierwszy
 jest pomiędzy drugim i trzecim na linie.
 
 Drugi powinien być asekurującym na linie.

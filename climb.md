@@ -3,6 +3,7 @@ layout: page
 title: WspinPL
 permalink: /climb/
 language: pl
+regenerate: true
 ---
 
 Tematy wspinaczkowe.
