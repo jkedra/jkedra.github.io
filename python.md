@@ -25,6 +25,12 @@ language: en
 3. [Concurrent Futures][futures3] - Launching parallel tasks.
 4. [Concurrent.futures vs Multiprocessing in Python 3][fvm] - StackOverflow.
 
+## Others
+
+1. Packaging:
+    * [Kenneth Reitz Guide](http://docs.python-guide.org/en/latest/shipping/packaging/)
+    * [Python Packaging Guide](https://python-packaging-user-guide.readthedocs.io/)
+
 
 [stupid]: http://stupidpythonideas.blogspot.com/search/label/tutorial
 [ce3]: https://docs.python.org/3/library/concurrency.html 
