@@ -62,18 +62,9 @@ categories: climb
     * [SummitPost](http://www.summitpost.org/zabi-kon/501224)
     * WHP Część VII. *Żabia Przełęcz Wyżnia – Żabia Czuba*
     * Inne: [1](http://footsteps.cba.pl/zabi-kon-grania/)
-6. MSW [summitpost](http://www.summitpost.org/mi-guszowiecki-szczyt-wielki-ve-k-mengusovsk-t-t/151773)
-    * [Droga Surdela DT](http://drytooling.com.pl/baza/topo/tatry/6396-surdel-mieguszowiecki-szczyt-wielki)
-    * [MSW Szlaki i Drogi](http://szlakiidrogi.pl/mieguszowiecki-szczyt-wielki-sciana-wschodnia-jedna-sciana-trzy-drogi/)
-    * [GigaTopo](http://gigapan.com/gigapans/188664)
-    * [Droga po Głazach](w:)
-    * [Summit](http://www.summitpost.org/droga-po-g-azach/167276)
-    * [Galerie Cubryńskie, Hińczowa Przełęcz, MSW, Droga po Głazach, Przełącz pod Chłopkiem](http://www.tatrygory.pl/galerie/msw/index.htm) - galeria zdjęć.
-    * [MSW via Galerie Cubryńske](http://www.summitpost.org/via-galerie-cubry-skie/167280) - summitpost.
-7. Hińczowa Przełęcz
-    * [Hińczowa Przełęcz Wprost](http://szlakiidrogi.pl/hinczowa-przelecz-wprost-ii/)
+6. [Mięguszowiecki Szczyt Wielki](/climb/msw.html)
 8. Wielki Młynarzowy Żleb
-    * [Drytooling)(http://drytooling.com.pl/baza/topo/lodospady/biala-woda/5928-wielki-mlynarzowy-zleb)
+    * [Drytooling](http://drytooling.com.pl/baza/topo/lodospady/biala-woda/5928-wielki-mlynarzowy-zleb)
     * [Zipi](http://zipi-tatry.eu/16/0402MlynarzowyZleb/index.html)
     * [KWK](https://www.kw.krakow.pl/sww-kw-krakow/porady/gorskie/541-wielki-mlynarzowy-zleb.html)
     * [Sakwa](http://sakwa.agh.edu.pl/2018/04/04/wielki-mlynarzowy-zleb-zjazd-z-mlynarza/)
