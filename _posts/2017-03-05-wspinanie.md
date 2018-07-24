@@ -18,22 +18,8 @@ categories: climb
 
 ## Gdzie się wspinać?
 
-### Tatry
-
-1. [Letnie drogi kursowe w Tatrach][gran-tatr-let1] -
-    Damian Granowski.
-2. [Szlaki i drogi](http://szlakiidrogi.pl/) -
-    tutaj też dużo o letnich i zimowych drogach tatrzańskich.
-3. [DryTooling Topo][dt-topo-tatry].
-4. [7 tatrzańskich klasyków wspinaczkowych][8a-topo-tatry] - Damian Granowski.
-5. [Zasady chodzenia po Słowackich Tatrach](http://www.gory.info/artyk.php?id=182)
-6. Taternicki Niezbędnik
-   * [Jakie są formacje skalne w górach i skałach][dt-formacje]
-   * [Legenda do topo][dt-topo-legenda]
-   * [Glossary of climbing terms](we:)
-   * [Słownik angielski](http://drytooling.com.pl/serwis/art/artykuly/1341-slownik-wspinaczkowy-ang-pol)
-7. Gdzie spać:
-    * [Szałasika 2018](http://pza.org.pl/news/news-pza/baza-tatrzanska-pza-lato-2018)
+1. [Tatry](/climb/tatry.html)
+2. [Inne góry](/climb/inne-gory.html)
 
 ### Jura
 
@@ -42,60 +28,16 @@ categories: climb
 3. [Ciekawe wielowyciągówki](http://winterclimb.com/hydepark/item/73-ciekawe-wielowyciagowki-jura-sokoly)
 4. [8a: Dziesięć dróg Jury Południowej][8a-10-drog-jury-s]
 
-### Inne
-
-1. [Rejony wspinaczkowe za 8a][8a-rejony].
-2. [Dalmacja](http://dalmatiaclimbing.com/)
-3. [Paklenica](http://www.paklenica-croatia.com/)
-
 
 ## Drogi/Topo
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
 2. [Topo Jura Północna](http://topojura.dz.pl/)
 3. [Topo Podkrakowskie 1](http://climbing.ovh.org/index.html)
-4. [Topo UKA](http://topo.uka.pl/content/topo/morskie_oko/morskie_oko.php)
-5. Wschodnia grań Żabiego Konia i Żabi Koń
-    * [Pionowe Myśli](http://pionowemysli.pl/topotatry/zabi-kon-wschodnia-gran/)
-    * [Ale Lufa! #30](https://www.youtube.com/watch?v=ZBamuYEuJ30) i [od Rysów](https://www.youtube.com/watch?v=Cv7lHlp5CMQ).
-    * [Drytooling](http://drytooling.com.pl/baza/gory/6442-zabi-kon)
-    * [SummitPost](http://www.summitpost.org/zabi-kon/501224)
-    * WHP Część VII. *Żabia Przełęcz Wyżnia – Żabia Czuba*
-    * Inne: [1](http://footsteps.cba.pl/zabi-kon-grania/)
-6. [Mięguszowiecki Szczyt Wielki](/climb/msw.html)
-8. Wielki Młynarzowy Żleb
-    * [Drytooling](http://drytooling.com.pl/baza/topo/lodospady/biala-woda/5928-wielki-mlynarzowy-zleb)
-    * [Zipi](http://zipi-tatry.eu/16/0402MlynarzowyZleb/index.html)
-    * [KWK](https://www.kw.krakow.pl/sww-kw-krakow/porady/gorskie/541-wielki-mlynarzowy-zleb.html)
-    * [Sakwa](http://sakwa.agh.edu.pl/2018/04/04/wielki-mlynarzowy-zleb-zjazd-z-mlynarza/)
-8. [Topo](http://szlakiidrogi.pl/pobierz/) ze [Szlaki i Drogi](http://szlakiidrogi.pl/pobierz/).
-9. [Mapa lesných a pozemných komunikácií SR](https://gis.nlcsk.org/lc/)
-10. [Zipi Tatry](http://zipi-tatry.eu)
-11. [Fotograficzne mapy szlaków tatrzańskich](https://photos.google.com/share/AF1QipOES-QkYrvn0Wf_3D6-0xlRV_4TfGAiJ_qMUWyjrYLb8kV1PppKOH9jpRtynwzNBw?key=Y3NGbC1xNmlKYTBvY3RpSUYzdEYxd0Exc1Jna0ZR)
-12. [Panoramy damomar.eu](http://dagomar.eu)
-
-### Trekking
-
-1. Opisy Rudej:
-    * [od Liliowego po Wrota](http://www.rudazwyboru.pl/2016/09/uff-off-czyli-upalny-offroad-od.html)
-    * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
-2. [Orla Perć](http://podroze.onet.pl/aktywnie/orla-perc-opis-i-zdjecia-szlaku-trasa-szczyty-przelecze-trudnosci/2qwxw6) - nie taki znowu trekking, zdjęcia Orelej Perci
-
-
-## Wspinanie Zimowe
-
-1. [Lodospady na drytooling.com.pl](http://drytooling.com.pl/baza/topo/lodospady)
-2. [Lodospady.pl](http://lodospady.pl)
-3. [KW Kraków, lodospady w dolinie Jaworowej](http://www.kw.krakow.pl/sww-kw-krakow/porady/topo/459-lodospady-to-nie-tylko-cisowki-w-dolinie-bialej-wody.html)
 
 ## Pogoda Warunki
 
-1. [TOPR](http://pogoda.topr.pl)
-2. [Mountain-Forecast.com](https://www.mountain-forecast.com/subranges/tatras/locations) - pogoda dla Tatry
-2. [Zasoby Pogodowe Serwisu DryTooling](http://drytooling.com.pl/pogoda-w-gorach)
 3. [MeteoBlue KRK](https://www.meteoblue.com/pl/pogoda/prognoza/multimodel/krak%C3%B3w_polska_3094802?fcstlength=144)
-4. [Skitourowe](http://skitourowezakopane.pl/)
-5. [Warunki w Tatrach Sakwa](http://sakwa.agh.edu.pl/lista-przejsc/warunki-w-tatrach/)
 
 ## Zasoby
 
