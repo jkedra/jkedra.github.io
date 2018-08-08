@@ -3,7 +3,7 @@ layout: post
 title:  "Lód i mikst"
 author: jkedra
 language: pl
-date: 2018-03-21 
+date: 2018-08-08
 
 jquery: true
 jss: [wikipize]
@@ -115,7 +115,7 @@ i niegroźnie rozciął skórę. Jedną z rad jakie daje Will Gadd jest branie
 spadającego lodu na kask, zamiast intuicyjnego uchylania się na bok
 (bo to niewiele pomaga).
 
-Kolejne wspinananie tego dnia to _Ukryty Lód_, który wtedy zupełnie mnie
+Kolejne wspinanie tego dnia to _Ukryty Lód_, który wtedy zupełnie mnie
 wykończył, brak techniniki = wspinanie wysiłkowe. Pomimo komfortu _na
 drugiego_, już po paru ruchach byłem kompletnie wyczerpany. Nie ufałem wbijanym
 dziabkom ani rakom, wisiałem na przybloku. Wszystkie te podstawowe błędy omawia
@@ -138,13 +138,13 @@ Od tego momentu kolejne wyjazdy zaczynały stawać się czystą przyjemnością.
 
 Czy można z tej książki nauczyć się samemu wspinać w lodzie? No samemu to
 nie. Doświadczony partner to podstawa. Druga sprawa to jakiś background.
-Coś tam wcześniej wspinałem się drytoolowo z instruktorem, od którego
-teorię, praktykę, zachętę i pewność siebie (albo zaufanie) by
-przezwyciężyć strach i obawę przed prowadzeniem.
+Coś tam wcześniej wspinałem się drytoolowo pod okiem instruktorem, od którego
+zyskałem teorię i praktykę, ale także zachętę i pewność siebie (albo zaufanie)
+by przezwyciężyć strach i obawę przed prowadzeniem.
 
 Mówi się, że wspinać w lodzie jest łatwiej niż w drytoolu. Pewnie tak, ale
-asekuracja jest dużo gorsza. Poza tym praktyka i obczajenie tej zmienności
-charakteru lodu jest bardzo potrzebna. Więc osobiste doświadczenie jest
+asekuracja jest dużo gorsza. Poza tym praktyka i poznanie tej zmienności
+charakteru lodu są bardzo potrzebna. Więc to osobiste doświadczenie jest
 najważniejsze.
 
 Pomimo, iż to praktyka jest ważniejsza, książka Willa Gadda daje więcej szans
@@ -154,10 +154,20 @@ ważne jest, ale przecież można też czerpać pełnymi garściami od kogoś,
 kto już to wszystko przeszedł, przeżył i jeszcze jest w tym co robi,
 bardzo dobry.
 
+<blockquote>
+Książki o wspinaczce, pomimo iż z natury teoretyczne, pozwalają
+bardzo tanio uniknąć błędów i kosztownych, praktycznych - doświadczeń.
+</blockquote>
+
+Dlatego chętnie czytam wszystko co wpadnie mi w ręce. To przeważnie
+znacznie tańsze niż uczestnictwo w kursach. Nie znaczy to, że deprecjonuję
+wagę kursu - zaznaczam tylko, że wiedza teoretyczna jest znacznie tańsza.
+
 
 [adin]: http://drytooling.com.pl/baza/topo/lodospady/biala-woda/533-adin-usmev
 
+## Linki
 
-<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet"> 
-<font face="Pacifico">TODO:</font> tutaj pójdą jakieś linki do filmów z Willem Gaddem i do jego
-strony może.
+1. Will Gadd: [strona domowa](http://willgadd.com/),
+   [drytooling.com.pl](http://drytooling.com.pl/baza/ludzie/1103-will-gadd),
+   [Wikipedia](we:Will_Gadd)
