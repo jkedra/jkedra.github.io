@@ -29,8 +29,9 @@ Nie mogłem się wprost oderwać od lektury. Pozwala delektować się tym co sam
 tatrzański neofita - znam z mojego ograniczonego doświadczenia.
 I nie chodzi mi tylko o teren - Tatry - ale również o wspinaczkę wysokogórską.
 
-Sięgnięcie do tej książki pozwala mi przeżywać na powrót moje własne dwie drogi
-na Zamarłej Turni (zwłaszcza jej trawers).
+Sięgnięcie do tej książki pozwala mi przeżywać na powrót moje pierwsze własne
+dwie drogi na Zamarłej Turni, a sam przechodząc Grań Mięguszowieckich Szczytów
+rozpoznaję miejsca w których biwakowała grupa Wilczkowskiego.
 
 Akcje ratunkowe, ale i same drogi są pełne nazwisk ludzi. Opowiadania Wilka
 zaspokajają więc ten niedosyt jaki został mi po lekturach Żuławskiego i
@@ -68,8 +69,10 @@ zawodowej wykonywanej za pieniądze. A więc czy Roman Kordys nie miał racji
 twierdząc, że alpinizm rodzi się z biologicznej potrzeby wysilania się do
 ostatka? Wywleka przy tym i Witkiewicza, i Schopenhauera, którego tu
 przytaszczę. "Trudzić się i walczyć z oporem jest potrzebą człowieka,
-jak kreta - grzebanie. Przezwyciężanie przeszkód jest rozkoszą
-istnienia - walka z nimi i zwycięstwo uszczęśliwia".
+jak kreta - grzebanie. 
+<blockquote>Przezwyciężanie przeszkód jest rozkoszą
+istnienia - walka z nimi i zwycięstwo - uszczęśliwia".
+</blockquote>
 
 ### str. 115
 
@@ -103,7 +106,7 @@ Teraz na mnie kolej: obciążam się licznymi kilogramami zapasowych haków i
 ciężkim plecakiem, zakładam pętlę Prusika na unieruchomionej linie dla
 autoasekuracji i w górę. Rozpoczyna się nadzwyczaj trudno, a po kilku metrach
 czuć od razu dalsze podwyższenie się skali. Idzie się płaskim, pionowym
-zacięciem, w którym Staś zdolal wbić dwa bardzo złe haki. Zacięcie kończy się,
+zacięciem, w którym Staś zdołał wbić dwa bardzo złe haki. Zacięcie kończy się,
 a wraz z nim pionowo zwisająca lina, która oddała mi nie lada usługi. Lina
 teraz idzie poziomo w prawo, cztery metry do najbliższego haka. Na szczęście,
 po zwolnieniu z kilku karabinków jej tarcie zmniejszyło się tak, że Staś mógł
@@ -111,7 +114,7 @@ mi ściągnąć prawidłowo linę.
 
 Około pół godziny stoję w niewygodnej pozycji rozkroczonej, bez żadnego pewnego
 oparcia na ręce i nogi, i staram się wyjść na pochyły piarżysty gzymsik, którym
-idzie trawers. Cale nieszczęście leży w tym, że gzymsik trzęsie się i nie wolno
+idzie trawers. Całe nieszczęście leży w tym, że gzymsik trzęsie się i nie wolno
 mi go użyć jako uchwytu odciągającego. Jedynie można go obciążać w dół. Pęk
 haków na brzuchu, drugi na plecach, spory plecak czynią mię bardzo niezdarnym.
 Stopy położyłem płasko na dwóch pionowych ścianach zacięcia, stoję w szerokim
