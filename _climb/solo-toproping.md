@@ -29,7 +29,7 @@ ubezpieczająca).
 TRS zaciekawiło mnie gdy zobaczyłem Andrzeja Marcisza, robiącego po raz
 któryś z kolei _Prawą Babę Jagę_. Na szybko wyjście, zjazd, powtórz 10x.
 Któregoś bezsennego ranka wziąłem linę, GriGri i zrobiłem to samo.
-10x _Prawa Baba Jaga_ i do pracy. Bakcl chwycił.
+10x _Prawa Baba Jaga_ i do pracy. Bakcyl chwycił.
 
 Samo GriGri wydało mi się bardziej bezpieczne niż Ascension, którego
 używał Marcisz. Być może miał jeszcze jakiś backup ale nie widziałem.
