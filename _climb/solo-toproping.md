@@ -25,11 +25,42 @@ To co pozytywnie wyróżnia TRS jest też jego wadą. Odpada społeczny
 aspekt wspinaczki, bezpieczeństwo może być gorsze niż w przypadku gdy
 asekuruje druga osoba, wspinaczka jest nieco trudniejsza (przeszkadza lina
 ubezpieczająca).
-przeszkadza.
 
-# Bezpieczeństwo
+TRS zaciekawiło mnie gdy zobaczyłem Andrzeja Marcisza, robiącego po raz
+któryś z kolei _Prawą Babę Jagę_. Na szybko wyjście, zjazd, powtórz 10x.
+Któregoś bezsennego ranka wziąłem linę, GriGri i zrobiłem to samo.
+10x _Prawa Baba Jaga_ i do pracy. Bakcl chwycił.
 
-1. Brak możliwości wzajmnego sprawdzenia się partnerów.
+Samo GriGri wydało mi się bardziej bezpieczne niż Ascension, którego
+używał Marcisz. Być może miał jeszcze jakiś backup ale nie widziałem.
+Teoretycznie możnaby asekurować się tylko GriGri, robiąc węzły na
+linie pod sobą jako backup. Jest to jednak uciążliwe. Z samego GriGri
+trzeba też wybierać górny luz. Jeżeli lina jest mocno obciążona na dole,
+luz sam się zredukuje, jednak konstrukcja GriGri nieco to utrudnia.
+Jest potrzebna niewielka modyfikacja samego GriGri, żeby to ułatwić.
+
+Wcześniej byłem na mikrokursie z krakowskiego KW, gdzie omawiano kwestie
+autoasekuracji na TR, niewiele z tego zapamiętałem. Wiedząc jednak
+czego mam szukać, szybko znalazłem w internecie odpowiednie zasoby, z których
+najpewniejsze wydawało mi się opracowanie Petzla.
+
+Po skompletowaniu sprzętu i ustawieniu konfiguracji wg Petzla wspinaczka
+stała się bardziej komfortowa i z pewnością bezpieczniejsza.
+GriGri nadal używam jako najszybszej opcji do zjazdów na pojedynczej linie.
+
+Solując z TR zrobiłem wiele metrów na Babie Jadze, traktując to bardziej
+jako trening, nie wspinaczkę. Odpadłem przy tym 2, może 3 razy i to zwykle
+wtedy gdy wstawiałem się w nową, trudniejszą drogę. Zawsze bezpiecznie
+zostało to wyłapane. Częściej za to "biorę bloka".
+
+# Bezpieczeństwo w TRS
+
+TRS może być mniej bezpieczne niż czujny partner. Z podkreśleniem
+na czujny. 
+
+1. Brak możliwości wzajmnego sprawdzenia się partnerów. Raz dobrze
+   ustawiony system TRS w zasadzie jest bezpieczny jak ten z asekurującym
+   partnerem.
 2. Wspinaczka odbywa się zwykle samotnie i nikt nie będzie w stanie
    pomóc jeżeli coś pójdzie źle.
 
@@ -40,20 +71,36 @@ przeszkadza.
 #### Sprzęt
 
 Dwa urządzenia autoblokujące. Jedno zaciskowe drugie typu małpa.
-Petzl sugeruje dwa urządzenia zaciskowe jako podstawowe urządzenia
+Petzl sugeruje dwa urządzenia zaciskowe jako podstawowe urządzenie
 asekurujące: Microcender albo Rescucender. Microcender został wycofany
 i nie można go już nabyć w oficjalnej dystrybucji. Rescucender jest
-bardziej masywny, ma przemysłowe wymiary.
+bardziej masywny i ma przemysłowe wymiary.
 
-Petzl czym wyraźnie odradza popularnego Shunta bez podawania przyczyn, trudno
-powiedzieć dlaczego. Sugerowany backup Backup to urządzeia typu
-Ascension (małpa) lub wygodniejsza i bardziej kompaktowa rolka MicroTraxion.
+Petzl wyraźnie odradza popularnego Shunta bez podawania przyczyn - trudno
+powiedzieć dlaczego. W sieci widziałem w kilku miejscach TRS właśnie z użyciem
+tańszego i mniej masywnego Shunta.
+
+Sugerowany backup to urządzenia typu Ascension (małpa)
+lub wygodniejsza i bardziej kompaktowa rolka MicroTraxion.
 
 Lina powinna być dość gruba (10mm) i najlepiej statyczna.
+Grubość liny ma znaczenie, Rescucender niechętnie się blokuje na cieńszych.
+
+Urządzenie zaciskowe zasadniczo nie powinno niszczyć liny,
+jednak Ascension i MicroTraxion mają agresywny języczek zaciskowy najeżony
+kolcami, który wbija się w linę i podczas mocniejszego szarpnięcia może
+zerwać oplot z liny.
 
 #### Używanie
 
-Linę przymocowuje się na sztywno w górnym punkcie na skale (top rope)
+Linę przymocowuje się na sztywno w górnym stanowisku (TR).
+
+Na Zakrzówku, na Babie Jadze, zwykle zjeżdżam (bardziej schodzę)
+mając linę przyczepioną do poręczy (ósemka) i w samym stanowisku
+wkładam zakręcany karabinek, a linę mocuję wyblinką.
+
+Drugi (dolny) koniec liny musi być obciążony żeby lina była na tyle
+napięta, że umożliwia swobodne przesuwanie się asekuracji.
 
 ### Podwójna lina
 
