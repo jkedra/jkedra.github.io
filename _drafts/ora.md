@@ -10,5 +10,6 @@ language: en
 1. [Kevin Closson's Blog](https://kevinclosson.net/)
 2. [Flashdba - Chris Buckel](https://flashdba.com)
 
-# Oracle Licensing
-1. 
+# SQL Security
+
+1. [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) - great resource on SQL Security.
