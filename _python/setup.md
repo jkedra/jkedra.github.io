@@ -70,8 +70,20 @@ the same until pyenv is updated. Pyenv can be updated anytime using git.
     $ git pull
     $ pyenv install -l
 
+### Distribution Specific Ways
+
+#### RHEL 7
+
+Redhat supports the most recent Python version in its
+Redhat Software Collection repository (rhscl and optional-rpms repo)
+and also supports having and using multiple versions of Python.
+However it is done on Redhat's specific way using `scl` command.
+More on the subject can be found on
+[this blog post][python-scl-rh].
 
 [rbenv]: http://rbenv.org/
 [pyenv]: https://github.com/pyenv/
 [pyenv-installer]: https://github.com/yyuu/pyenv-installer
 [defguide]: https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14#.c8p03tuvp
+[python-scl-rh]: https://developers.redhat.com/blog/2018/08/13/install-python3-rhel/
+
