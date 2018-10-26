@@ -2,7 +2,6 @@
 layout: post
 title:  "Bash"
 author: jkedra
-date: 2018-08-30 20:00
 language: pl
 
 jquery: true
@@ -12,6 +11,8 @@ tags: bash
 categories: tools
 ---
 
-[Process Substitution](http://tldp.org/LDP/abs/html/process-sub.html)
+1. [Advanced Bash Scripting Guide](http://tldp.org/LDP/abs/html/)
+    * [Process Substitution](http://tldp.org/LDP/abs/html/process-sub.html)
+2. [GetOpts Tutorial](http://wiki.bash-hackers.org/howto/getopts_tutorial)
 
 
