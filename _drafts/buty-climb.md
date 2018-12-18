@@ -27,7 +27,10 @@ nr 41.5 i przymierzyłem przed zakupem w sklepie. Trochę ciasno ale wziąłem.
 Zodiaki nie rozbiły się zbytnio w użyciu ale i tak, podczas wspinaczki
 czuję, że mogłby być nieco ciaśniejsze. Tutaj jednak poszedłem na kompromis
 z aktywnościami trekingowymi, to nie jest komfortowe obuwie to biegania
-po asfalcie.
+po asfalcie. Także na podejściu potrafią nieźle skatować nogę - ostatecznie
+więc oceniam je jako nieco przyciasne.
+
+Plany na przyszłość? Spróbować La Sportiva Boulder albo TX4.
 
 ### Zimowe twarde
 
@@ -50,8 +53,8 @@ Są zbyt szerokie na moją pięte, wyraźnie za duże na długość.
 Kombinowałem na wiele sposobów. Dokładałem wkładki, zakładałem podwójne
 skarpety. Wspinać jeszcze się daje, ale chodzenie w tych butach to katorga.
 Niby byłem w stanie przejść trasę Palenica, Zawrat, Kuźnice ale te buty
-to zabójcy dla moich nóg. Mam je jeszcze cały czas, ale nie widzę żebyśmy
-byli w stanie współpracować.
+to zabójcy dla moich nóg. Trzymałem je jeszcze później jakiś czas, ale
+w końcu sprzedałem niewiele więcej niż za połowę ceny.
 
 #### Za małe
 
@@ -63,6 +66,19 @@ O dziwo to właśnie rano okazały się jeszcze mniej wygodne. O ile kostka
 idealnie jest trzymana to wydają mi się bardzo wąskie z przodu. A Nepal Evo
 to są z tych szerszych butów La Sportivy.
 
-Czekam na numer 42.5.
+Skalnik błyskawicznie wysłał 42.5 i to jest to co mi siadło prawie idealnie na
+nogę, przy założeniu, że noszę je z pojedynczymi skarpetkami. W środku
+wystarczające na szerokość, długość może budzić obawy, ale przy drytoolingu
+nie stanowi to problemu. Nie testowane na lodzie.
+
+Podobnie jak poprzednie Scarpy okazały się nieco za szerokie w górnej
+części buta poniżej łydki, aczkolwiek nie aż tak szerokie jak Scarpy.
+Mam dość wąską nogę w tym miejscu. Szczęśliwie Evo mają dodatkowe opcjonalne
+języki. Po ich dołożeniu obwód buta w tym miejscu okazał się wystarczająco
+komfortowy. Przy okazji ociepliły jeszcze buta.
+
+Ciepłota: ?
+
+
 
 [1]: https://www.ukclimbing.com/forums/gear/la_sportiva_nepal_evo_gtx_size_question-438191

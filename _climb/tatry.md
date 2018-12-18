@@ -28,9 +28,10 @@ Wspinaczka i trekking w Tatrach.
 
 ## Wspinanie Zimowe
 
-1. [Lodospady na drytooling.com.pl](http://drytooling.com.pl/baza/topo/lodospady)
-2. [Lodospady.pl](http://lodospady.pl)
-3. [KW Kraków, lodospady w dolinie Jaworowej](http://www.kw.krakow.pl/sww-kw-krakow/porady/topo/459-lodospady-to-nie-tylko-cisowki-w-dolinie-bialej-wody.html)
+1. [Droga Klisia](http://pionowemysli.pl/topotatry/prog-kotla-koscielcowego-droga-klisia/#)
+2. [Lodospady na drytooling.com.pl](http://drytooling.com.pl/baza/topo/lodospady)
+3. [Lodospady.pl](http://lodospady.pl)
+4. [KW Kraków, lodospady w dolinie Jaworowej](http://www.kw.krakow.pl/sww-kw-krakow/porady/topo/459-lodospady-to-nie-tylko-cisowki-w-dolinie-bialej-wody.html)
 
 ## Topo
 
