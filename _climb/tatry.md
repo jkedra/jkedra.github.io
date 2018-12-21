@@ -84,8 +84,9 @@ Wspinaczka i trekking w Tatrach.
 
 # Blogi
 
-1. [Ruda z wyboru](http://www.rudazwyboru.pl/) - prawdziwa włóczęga tatrzańska.
-4. [Propozycje Rudej w Tatry](http://www.rudazwyboru.pl/2015/12/10-nawet-11-pomysow-na-szame-w-gorach.html)
+1. [Wertykalnie](https://wertykalnie.wordpress.com)
+1. [Ruda z wyboru](http://www.rudazwyboru.pl/)
+    * [Propozycje Rudej w Tatry](http://www.rudazwyboru.pl/2015/12/10-nawet-11-pomysow-na-szame-w-gorach.html)
 2. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
 3. [Taternik.eu](http://taternik.eu/)
 
@@ -99,7 +100,7 @@ Wspinaczka i trekking w Tatrach.
 
 # YouTube Inne
 
-1. [Ale Lufa!][alelufa] - to już kultowa pozycja.
+1. [Ale Lufa!][alelufa]
 2. [Taternik.eu](https://www.youtube.com/user/MrPawelt)
 
 # Ubezpieczenia

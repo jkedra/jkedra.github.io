@@ -44,3 +44,7 @@ dla początkujących taterników, cz. II: podręczniki"_
 * _"Wołanie w górach"_, Michał Jagiełło (2006)
 * _"[Miejsce przy stole](/miejsce_przy_stole)"_, Andrzej Wilczkowski (1982)
 * _"[Wspinaczka - Lód i mikst](/lod_i_mikst)"_, Will Gadd (2004)
+* _"[Dotknięcie pustki](a:)"_, Joe Simpson
+* _"[Gra z duchami](a:)"_, Joe Simpson
+* _"[Zew Ciszy](a:)"_, Joe Simpson
+* _"[Biały Pająk](a:)"_, Harrer Heinrich
