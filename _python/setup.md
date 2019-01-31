@@ -22,7 +22,7 @@ versions. Integrates with virtualenv. Here is a full procedure
 to install Python 3.6 for UBuntu and RHEL:
 
 
-#### pre-requisites
+#### Pre-Requisites
 
 `pyenv` downloads and compiles Python. There is a list of dependencies
 which are required in the system before using `pyenv` to compile the Python
@@ -49,19 +49,41 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
     # rc files
     curl -L  https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
 
+#### Installing Python with pyenv
+
     pyenv install -l
     pyenv install 3.6.4
+    pyenv install 3.7.2
     pyenv version
-    pyenv global 3.6.4 system
+    pyenv global 3.6.4 3.7.2 system
     pyenv version
 
 If something goes wrong, uninstall `pyenv uninstall 3.6.4` correct and retry.
+
+Always install virtualenv within the new python version you have created.
+You will need virtualenv later:
+
+    pip install virtualenv
+    pyenv activate 3.7.2
+    pip install virtualenv
+
+#### Creating Own VirtualEnv with pyenv
+
+Assume I want to open a new project named `rdspump` to work with python 3.7.2:
+
+    pyenv virtualenv 3.7.2 rdspump
+    pyenv activate rdspump
+    pip install cx_Oracle
+
+
+    
+
 
 There is in-depth analysis of pyenv/virtualenv/virtualenvwrapper configuration
 on this blog blost:
 ["The Definitive Guide to Setup My Python Workspace"][defguide].
 
-#### updating pyenv
+#### Updating pyenv
 
 Pyenv does not update itself, the list of available python versions is
 the same until pyenv is updated. Pyenv can be updated anytime using git.

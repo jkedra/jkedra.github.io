@@ -12,10 +12,10 @@ tags: js
 categories: lang
 ---
 
-1. [JavaScript](:we) on Wiki
-2. [JavaScript Syntax](:we) on Wiki
+1. [JavaScript](we:) on Wiki
+2. [JavaScript syntax](we:) on Wiki
     * [Scoping and hoisting][1]
-3. [List of JavaScript libraries](:we) on Wiki
+3. [List of JavaScript libraries](we:) on Wiki
 
 [1]: https://en.wikipedia.org/wiki/JavaScript_syntax#Scoping_and_hoisting
 
