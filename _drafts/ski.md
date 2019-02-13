@@ -28,7 +28,7 @@ categories: ski
 
 1. REI
     * [Skiing Expert Advice][rei-ski-expert] - (en)
-    * [Ski and Snowboard Tuning][[rei-ski-snowboard-tune] - (en)
+    * [Ski and Snowboard Tuning][rei-ski-snowboard-tune] - (en)
 2. [Warren Smith Series][WarrenSmith] - (en)
     * [Ski Techniques][WSSkiTechs] - (en)
 
@@ -38,8 +38,15 @@ categories: ski
 [rei-ski-snowboard-tune]: https://www.youtube.com/watch?v=vZ-MIMtlL68&list=PL7tqTAgUK4UztCj5NCrXFCH7nQDXsdYDZ
 
 
-# Skituring
+# Skituring i poza trasą
 
+## YouTube
+
+1. [FreeSkiing Warren Smith][fs-ws]
+
+[fs-ws]: https://www.youtube.com/watch?v=NeGX_cuwy5o
+
+## Linki
 1. [Zawartość plecaka][zawartosc-plecaka] wg Michała Semowa
 2. [Skialp.sk][skialp-sk]
 
