@@ -2,8 +2,9 @@
 layout: post
 title:  "Ubuntu@T530"
 author: jkedra
+date: 2019-02-22 11:00:00
 language: en
-tags: linux
+tags: linux ubuntu
 ---
 
 Well, I had already a dedicated Ubuntu machine. But it was second/third hand
@@ -113,7 +114,7 @@ For know I just extracted a couple of useful commands from
 2. `systemctl restart network-manager.service`
 
 Also there might be a workaround at [StackExchange], but I have not
-tested it yet.
+tested it yet. _Later update: It has been fixed._
 
 
 [Ubuntu Bugs]: https://bugs.launchpad.net/ubuntu/+source/network-manager/+bug/1589401
