@@ -9,10 +9,13 @@ language: en
 ## ROWS LIMITING
 
 I heard a lot of complains about lack of rows limiting clause in Oracle.
-DB2 had it, MySQL had, Postgres but not Oracle. While the Top-n query is
-easy achieve using native ROWNUM Oracle's clause, implementing pagination
-was relatively challenging task.
+DB2 had it, MySQL had, Postgres but not Oracle. While the Top-n query was
+easy to achieve using native ROWNUM Oracle's clause and ROW_NUMBER() OVER()
+analytic functions, it was not intuitive as it is now.
+
 Oracle's expert - Tom Kyte - wrote a couple of articles on the subject.
+
+https://oracle-base.com/articles/12c/row-limiting-clause-for-top-n-queries-12cr1
 
 ## IDENTITY or AUTO-INCREMENT COLUMN
 
