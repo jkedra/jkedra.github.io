@@ -132,5 +132,7 @@ file from an Oracle directory.
 [1]: http://www.dba-oracle.com/t_grid_rac_events_in_Oracle.htm
 [2]: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.Oracle.CommonDBATasks.Database.html
 [3]: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.Oracle.CommonDBATasks.Misc.html#Appendix.Oracle.CommonDBATasks.ReadingFiles
+[4]: https://www.oradba.ch/tag/xdbgdirext/
+[FindingTraceFiles]: https://docs.oracle.com/cd/B28359_01/server.111/b28310/diag006.htm#ADMIN12484
 
 

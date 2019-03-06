@@ -3,7 +3,7 @@ layout: post
 title:  Django
 author: jkedra
 lang: en
-tags: django
+tags: django flask
 ---
 
 # Tutorial
@@ -36,10 +36,17 @@ tags: django
 3. Run `manage.py migrate` to apply those changes to the database.
 
 # Testing
+
 * [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
 
 
+# Flask
+
+* [File uploads in Flask](http://flask.pocoo.org/docs/0.12/patterns/fileuploads/)
+* [Flask Uploads](https://pythonhosted.org/Flask-Uploads/)
+
 # Resources
+
 * [django and AWS S3](https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/)
 * [Django Breadcrumbs][djbreadcrumbs]
 * [select2][Select2] is jQuery replacement for select boxes.
