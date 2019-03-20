@@ -33,6 +33,13 @@ Wspinaczka i trekking w Tatrach.
 3. [Lodospady.pl](http://lodospady.pl)
 4. [KW Kraków, lodospady w dolinie Jaworowej](http://www.kw.krakow.pl/sww-kw-krakow/porady/topo/459-lodospady-to-nie-tylko-cisowki-w-dolinie-bialej-wody.html)
 
+### Wysoka
+
+#### Stanisławski
+
+1. [SuperTopo](http://supertopo.pl/2016/02/stanislawski-na-wysokiej/)
+2. [Maciek Ostrowski](http://maciekostrowski.blogspot.com/2016/01/stanislawski-na-wysokiej.html)
+3. [DryTooling](https://drytooling.com.pl/baza/topo/tatry/6583-droga-stanislawskiego-wysoka)
 ## Topo
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
