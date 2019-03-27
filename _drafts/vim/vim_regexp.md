@@ -20,7 +20,8 @@ categories: vim
 
 # Replace
 
-[SQL*Plus](we:) problem:
+#### [SQL*Plus](we:) problem:
+
 
 Replace all `FSE` but not `&FSE` strings (not these starting with `&` sign) by
 `&FSE.` (with ending dot). Interactive (`c` in flags) and for all line
@@ -33,6 +34,18 @@ occurences (`g` in flags).
 
 {% endraw %}
 {% endhighlight %}
+
+#### Replace 2
+
+Enclose `ssXXX.sql` lines with RUNNING \n COMPLETED\n:
+
+{% highlight vim %}
+{% raw %}
+'<,'>s/\v(ss.+sql)/PROMPT RUNNING SCRIPT: \1^M@@\1^MPROMPT SCRIPT COMPLETED: \1^M/
+{% endraw %}
+{% endhighlight %}
+
+
 
 
 ### References
