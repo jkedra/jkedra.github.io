@@ -16,6 +16,7 @@ language: en
 * [Quotes](quotes)
 * [Python and Oracle](pyora)
 * [Setup Python](setup).
+* [Packaging Python](packaging)
 
 ## Multiprocessing
 
@@ -26,11 +27,6 @@ language: en
 4. [Concurrent.futures vs Multiprocessing in Python 3][fvm] - StackOverflow.
 
 ## Others
-
-1. Packaging:
-    * [Kenneth Reitz Guide](http://docs.python-guide.org/en/latest/shipping/packaging/)
-    * [Python Packaging Guide](https://python-packaging-user-guide.readthedocs.io/)
-
 
 [stupid]: http://stupidpythonideas.blogspot.com/search/label/tutorial
 [ce3]: https://docs.python.org/3/library/concurrency.html 
