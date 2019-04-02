@@ -76,9 +76,6 @@ Assume I want to open a new project named `rdspump` to work with python 3.7.2:
     pip install cx_Oracle
 
 
-    
-
-
 There is in-depth analysis of pyenv/virtualenv/virtualenvwrapper configuration
 on this blog blost:
 ["The Definitive Guide to Setup My Python Workspace"][defguide].
@@ -91,6 +88,10 @@ the same until pyenv is updated. Pyenv can be updated anytime using git.
     $ cd $(pyenv root)
     $ git pull
     $ pyenv install -l
+
+#### More on pyenv
+
+1. [pyenv cheetsheet][pyenv-cs]
 
 ### Distribution Specific Ways
 
@@ -106,6 +107,6 @@ More on the subject can be found on
 [rbenv]: http://rbenv.org/
 [pyenv]: https://github.com/pyenv/
 [pyenv-installer]: https://github.com/yyuu/pyenv-installer
+[pyenv-cs]: https://github.com/malexer/cheatsheets/blob/master/pyenv.md
 [defguide]: https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14#.c8p03tuvp
 [python-scl-rh]: https://developers.redhat.com/blog/2018/08/13/install-python3-rhel/
-
