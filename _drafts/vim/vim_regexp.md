@@ -8,6 +8,7 @@ jquery: true
 js: wikipize
 
 categories: vim
+tags: vim regexp
 ---
 
 # Remove all lines but matching one
@@ -37,7 +38,10 @@ occurences (`g` in flags).
 
 #### Replace 2
 
-Enclose `ssXXX.sql` lines with RUNNING \n COMPLETED\n:
+In this example we have a list of SQL scripts filenames, a single per line.
+We want to print out a script name each time the script starts and signal
+when it has ended.  Enclosing `ssXXX.sql` lines with RUNNING\n COMPLETED\n
+would be it:
 
 {% highlight vim %}
 {% raw %}
