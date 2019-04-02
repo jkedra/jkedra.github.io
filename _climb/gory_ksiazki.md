@@ -48,3 +48,4 @@ dla początkujących taterników, cz. II: podręczniki"_
 * _"[Gra z duchami](a:)"_, Joe Simpson
 * _"[Zew Ciszy](a:)"_, Joe Simpson
 * _"[Biały Pająk](a:)"_, Harrer Heinrich
+* _"[Beyond the Mountain](m:Beyond+the+Mountain+Steve+House)"_, Steve House (2009)

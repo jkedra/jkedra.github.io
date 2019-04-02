@@ -43,6 +43,12 @@ function allegrize(extra, entry) {
 	return("https://allegro.pl/listing?string="+entry);
 }
 
+function amazonize(extra, entry) {
+    log("AMAZONIZE");
+    // https://www.amazon.com/s?k=beyound+the+mountain+steve+house
+    return("https://www.amazon.com/s?k="+entry);
+}
+
 function ize() {
   log("IZE");
   $("a").each(
@@ -56,13 +62,17 @@ function ize() {
 	  //
       //  a:xxx  - allegro
       //
+      //  m:xxx  - amazon us search
+      //
       // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
       // http://www.rexegg.com/regex-conditionals.html
       // optionally enclosed in ()
-      var results = /^([gwa])(\w)*:(.*)/.exec( href )
+      var results = /^([gwam])(\w?):(.*)/.exec( href )
       if(results != null) {
-		var typize = results[1]; // link type w or g
-        var extra  = results[2]; // google service, add extra tags to search string
+		var typize = results[1]; // link type (allowed types above)
+        var extra  = results[2]; // extra tags for search service
+                                 // eg wiki language or google images
+                                 // (optional letter)
         var entry  = results[3]; // search tag
 
         // if empty link, use <A>TEXT</A>
@@ -80,6 +90,10 @@ function ize() {
             break;
 	      case "a":
 			targetLink = allegrize(extra, entry).replace(/\s+/g, '+');
+            break;
+          case "m":
+            targetLink = amazonize(extra, entry).replace(/\s+/g, '+');
+            break;
         }
 
         log("HREF=" + href + " => " + targetLink);
