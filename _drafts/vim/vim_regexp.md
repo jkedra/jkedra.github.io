@@ -53,10 +53,14 @@ would be it:
 
 
 ### References
+
 1. `help regexp`
 2. `help magic`
 3. `help /multi`
 4. `help /\@!`
+5. [vim wikipedia][vim]
+6. [vim stackexchange][stackexchange]
 
 [vim]:		we:Vim_(text_editor)
+[stackexchange]: https://vi.stackexchange.com/
 
