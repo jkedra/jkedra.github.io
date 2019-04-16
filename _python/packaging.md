@@ -6,6 +6,26 @@ lang: en
 tags: python modules packaging
 ---
 
+Every Python scripts which is more complex than a single file or depends on
+external libraries will not be trivial to install by an end user.
+
+More complex installation is also boring and tiresome, particularly
+if it has a number of dependencies, needs multiple steps and
+has to be repeated a few times.
+
+Ideally if dependencies were resolved automatically, even better if
+there was a centralized repository with it and its dependencies.
+
+
+
+Preparing a package and distributing any Python's utility requires
+an extra effort but it pays off quickly by the easiness of
+the package installation.
+
+For a developer it is better when
+
+
+
 1. SetupTools:
     * [Building and Distributing Packages with SetupTools][setuptools2]
     * [PPU Packaking and distributing projects][setuptoolsPPU]
