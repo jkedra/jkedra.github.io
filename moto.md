@@ -21,7 +21,7 @@ Ta strona grupuje polskie posty na temat motocykli.
    mnóstwo przepięknych zdjęć.
 
 [pdp]: http://pozytywniedoprzodu.blogspot.com
-[mh]: http://motohoryzont.com/
+[mh]: https://cargocollective.com/MOTOHORYZONT
 
 
 ### Ciekawe wyprawy
