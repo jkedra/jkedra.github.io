@@ -31,7 +31,9 @@ Wspinaczka i trekking w Tatrach.
 1. [Droga Klisia](http://pionowemysli.pl/topotatry/prog-kotla-koscielcowego-droga-klisia/#)
 2. [Lodospady na drytooling.com.pl](http://drytooling.com.pl/baza/topo/lodospady)
 3. [Lodospady.pl](http://lodospady.pl)
-4. [KW Kraków, lodospady w dolinie Jaworowej](http://www.kw.krakow.pl/sww-kw-krakow/porady/topo/459-lodospady-to-nie-tylko-cisowki-w-dolinie-bialej-wody.html)
+4. [Porady zimowe Janka Kuczery](https://wspinanie.pl/2011/11/porady-zimowe-cz-1-sprzet/)
+5. [KW Kraków, lodospady w dolinie Jaworowej](http://www.kw.krakow.pl/sww-kw-krakow/porady/topo/459-lodospady-to-nie-tylko-cisowki-w-dolinie-bialej-wody.html)
+6. [Jak się wspinać zimą](https://8a.pl/8academy/jak-wspinac-sie-zima/) - Karolina Ośka
 
 ### [Wysoka](https://drytooling.com.pl/baza/gory/5849-wysoka-tatry)
 
@@ -40,6 +42,7 @@ Wspinaczka i trekking w Tatrach.
 1. [SuperTopo](http://supertopo.pl/2016/02/stanislawski-na-wysokiej/)
 2. [Maciek Ostrowski](http://maciekostrowski.blogspot.com/2016/01/stanislawski-na-wysokiej.html)
 3. [DryTooling](https://drytooling.com.pl/baza/topo/tatry/6583-droga-stanislawskiego-wysoka)
+
 ## Topo
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
@@ -79,6 +82,9 @@ Wspinaczka i trekking w Tatrach.
     * [Świnica](http://www.rudazwyboru.pl/2016/12/swinica-opis-szlaku.html)
 2. [Orla Perć](http://podroze.onet.pl/aktywnie/orla-perc-opis-i-zdjecia-szlaku-trasa-szczyty-przelecze-trudnosci/2qwxw6) - ładne zdjęcia Orlej Perci
 
+# Koleby
+
+Taternik 4 1931 strona 91.
 
 # Pogoda Warunki
 
@@ -92,10 +98,10 @@ Wspinaczka i trekking w Tatrach.
 # Blogi
 
 1. [Wertykalnie](https://wertykalnie.wordpress.com)
-1. [Ruda z wyboru](http://www.rudazwyboru.pl/)
+2. [Ruda z wyboru](http://www.rudazwyboru.pl/)
     * [Propozycje Rudej w Tatry](http://www.rudazwyboru.pl/2015/12/10-nawet-11-pomysow-na-szame-w-gorach.html)
-2. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
-3. [Taternik.eu](http://taternik.eu/)
+3. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
+4. [Taternik.eu](http://taternik.eu/)
 
 ## Żywność i Dieta
 
