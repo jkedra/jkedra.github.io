@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Ruby"
-date:   2015-06-26 15:00:00
 author: jkedra
 language: en
-categories: tools
 ---
 
 ## Environment and Installation

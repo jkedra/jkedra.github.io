@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "About GIT"
+title:  "GIT"
 author: jkedra
-categories: tools
 tags: git
 jquery: true
 language: en

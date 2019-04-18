@@ -2,6 +2,7 @@
 layout: page
 title: IT
 permalink: /it/
+regenerate: true
 language: en
 ---
 This page groups posts which are related to:
@@ -10,7 +11,21 @@ This page groups posts which are related to:
 2. Oracle (database)
 3. Programming
 
-## IT posts
+# Tools
+
+{% for item in site.tools %}
+<ul class="post-list">
+  <li>
+    <span class="post-meta">{{ item.date | date: "%d.%m.%Y" }}</span>
+    <h2>
+       <a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+    </h2> {{ item.description }}
+  </li>
+</ul>
+{% endfor %}
+
+
+# Other IT posts
 
 {% assign sectioncategories = "www it tools" | split: " " %}
   <ul class="post-list">
