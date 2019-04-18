@@ -16,6 +16,8 @@ collections:
     output: true
   climb:
     output: true
+  outdoor:
+    output: true
   tools:
     output: true
 
