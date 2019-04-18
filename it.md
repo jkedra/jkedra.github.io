@@ -12,7 +12,7 @@ This page groups posts which are related to:
 
 ## IT posts
 
-{% assign sectioncategories = "www it" | split: " " %}
+{% assign sectioncategories = "www it tools" | split: " " %}
   <ul class="post-list">
     {% for post in site.posts %}
     {% for category in sectioncategories %}
