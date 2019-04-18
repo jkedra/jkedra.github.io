@@ -14,7 +14,20 @@ Wycieczki turystyczne, jak się do nich przygotowuję.
 
 ## Lato
 
-### Ubranie.
+Ciepło, wilgotno, obfitość zapachów, odpoczynek na miękkiej trawie,
+epickie zachody słońca. Tak mi się kojarzy lato w Tatrach. Plecaki mogą
+być mniejsze i lżejsze.
+
+Z drugiej strony deszcz, rzeczy typowa dla lata.
+
+### Letnie ubranie
+
+Dobrze dobrane ubranie zapewnia dobre samopoczucie, komfort termiczny,
+odprowadzanie potu. Lepiąca się do pleców koszula, mokre spodnie,
+za ciepłe, nieprzewiewne i uciskające buty - to wszystko potrafi ogołocić
+z przyjemności każdy wypad.
+
+Nieprzemakalność butów ma większe znaczenie niż zimie.
 
 #### Buty
 
@@ -28,19 +41,63 @@ Oczywiście buty muszą być odpowiednie. Zwykłe szmaciaki szybko się
 rozwalą. Nawet półbutom przyda się porządniejszy otok i bardziej
 pancerna konstrukcja.
 
-Początkowo zacząłem używać butów z Decathlonu. Po pierwsze to ekonomiczne,
-a po drugie pozwala lepiej zdefiniować przyszłe oczekiwania.
-Miałem ze trzy pary butów z Decathlonu używanych w górach. Pierwsze
-były ultra lekkie, miękkie, z elastyczną podeszwą.
-
-[Buty turystyczne SH500](https://www.decathlon.pl/buty-zimowe-forclaz-500-damskie-id_8344574.html)
-Niesamowicie ciepłe, waga 450g.
-
-[Buty trekkingowe Trek 900 Forclaz](https://www.decathlon.pl/buty-trek-900-mskie-id_8398954.html), tylko całe numery.
-
 Z jednym zastrzeżeniem - trzeba przetestować jak buty trzymają się na
-granicie. Vibram trzyma się super o ile nie jest mokro
-   
+granicie. Vibram trzyma się super o ile nie jest mokro.
+
+W sklepach outdorowych jest szeroki wybór tzw. _podejściówek_.
+Nie są tanie ale warto się przyjrzeć standarowi jaki wyznaczają.
+Niekoniecznie muszą być akurat najlepsze dla turystyki, są też kosztowne
+i podeszwa zużywa się szybko.  
+
+Chodząc trzeba zwrócić uwagę różnice w przyczepności pomiędzy wypolerowanymi
+wapieniami szlaków Tatr Zachodnich (Czerwone Wierchy, Giewont, szlak na
+Halę Gąsienicową przez Jaworzynkę), a granitami Tatry Wysokich. Granit
+trzyma zaskakująco mocno nawet gdy jest mokry. Wapień ze swoją tendencją
+do wyślizgania potrafi być ekstremalnie śliski.
+
+Skoro już piszę o butach to na końcu wspomnę o odciskach. Nie zrywać ich!
+Nie da się wtedy chodzić i leczy się to długo.
+Najlepiej mieć ze sobą [plastry Compeed na odciski](g:). Czasem można je kupić
+w schroniskach. Nie dość, że zabezpieczają sam odcisk to jeszcze ochraniają
+skórę pod dalszym działaniem niedopasowanego obuwia.
+
+#### Kurtka
+
+Mam kilka par butów z gore, ale dotychczas nie kupiłem dla siebie kurtki
+goretexowej. W zimie, w ujemnych temperaturach Gore nie sprawdza się bo
+oddana przez ciało woda zamarza wewnątrz kurtki zatykając kanaliki Gore.
+W zimie rzadko pada deszcz.
+
+W lecie naprawdę rzadko chodzę przy padającym deszczu. Podczas ulewy
+tak naprawdę sprawdza się duża pałatka (ochraniająca też stopy),
+tania kurtka z Decathlonu (przeciwdeszczowa, 40 zł) albo parasol (!).
+Goretexowa kurtka to fajny gadżet ale przy swojej kosmicznej cenie nie ochroni
+ani nóg ani butów.
+
+Jeżeli jest zimno warto kupić sobie tanią i lekką kurtkę puchową. Nie będzie
+zajmować wiele miejsca, nie waży zbyt dużo. Wady - nie można dopuścić do
+jej zamoczenia, trudno to uprać (najlepiej w ogóle nie prać), materiał jest
+bardzo delikatny (łatwo przedziurawić). Mimo wszystko zakochałem się
+w puchówkach.  Od dwóch lat intensywnie eksploatuję
+[tą kurtkę](https://www.decathlon.pl/?q=kurtka+trekkingowa+PUCHOWA+TREK+500).
+
+#### Polar
+
+Jeżeli jest za zimno na samą koszulę, ubieram stretchowy polar
+(Montano Cortina z kapturem).
+
+#### Bielizna
+
+Tylko termoaktywna. Bawełna nie sprawdza się przy intensywnym wysiłku
+ze względu na jej skłonność do zatrzymywania wody w sobie. Tanie koszule
+i t-shirty kupuję w Decathlonie.
+
+#### Spodnie
+
+Ok znow Decathlon. Ale raczej z tych cieplejszych
+[alpism simond](https://www.decathlon.pl/?q=spodnie+alpinism+simond#product_8495260).
+Bardzo dobre jakościowo spodnie robi nowotarskie [Montano](www.montano.pl), np
+Extreme II, ale ceny mają z księżyca. 
 
 ## Zima
 
@@ -95,6 +152,8 @@ np. raki w oblodzeniu albo okulary przeciwsłoneczne.
 
 ### Ubranie
 
+#### Buty
+
 W tej sekcji wspomniałbym o butach z twardą podeszwą. Owszem, lekkie elastyczne
 butki to fajna sprawa i lekka noga. Ale wtedy dużo częściej musisz używać
 raków. Powiedzmy sobie jasno - nie cierpię chodzić w rakach, nie lubię
@@ -105,6 +164,33 @@ postawienia nogi. Można też dużo sprawniej nałożyć automatyczne raki.
 Wolę mniejsze niż większe rozmiary. Pięta w bucie nie może się przesuwać
 bo po 2 godzinach skutkuje to odciskiem. Skarpetki nie za grube, stopa
 nie może się przegrzewać (odciski!).
+
+
+Początkowo zacząłem używać butów z Decathlonu. Po pierwsze to ekonomiczne,
+a po drugie pozwala lepiej zdefiniować przyszłe oczekiwania.
+Miałem ze trzy pary butów z Decathlonu używanych w górach. Pierwsze
+były ultra lekkie, miękkie, z elastyczną podeszwą.
+Potem kupiłem twarde [Trek 900 Forclaz](https://www.decathlon.pl/buty-trek-900-mskie-id_8398954.html).
+
+Obecnie w zimie chodzę w La Sportiva Nepal Evo, ale to już overkill do turystki
+zimowej. Używam ich głównie do wspinaczki lodowej ale są tak wygodne, że
+chętnie chodzę w nich na dłuższe piesze wycieczki.
+
+Przykład lekkich miękkich butów zimowych:
+
+* [Buty turystyczne SH500](https://www.decathlon.pl/buty-zimowe-forclaz-500-damskie-id_8344574.html) - Niesamowicie ciepłe, waga 450g.
+
+
+#### Inne
+
+Kurtki puchowe:
+
+* [Trek 500](https://www.decathlon.pl/?q=kurtka+trekkingowa+PUCHOWA+TREK+500) -
+    lekka kurtka raczej na jesień i wiosnę.
+* [Alpinistyczna kurtka Simond](https://www.decathlon.pl/kurtka-puchowa-alpinism-light-niebieska-id_8510080.html) - raczej overkill dla turystyki.
+
+Warto rzucić okiem na
+[odzież alpinistyczną Simond](https://www.decathlon.pl/C-893203-odziez-alpinistyczna) (w Decathlonie).
 
 ### Posiłki
 
