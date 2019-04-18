@@ -197,6 +197,10 @@ Warto rzucić okiem na
 1. Kabanosy i sucha kiełbasa. Lekkie, ale dość ciężkostrawne.
 2. Łatwa i szybka glukoza czyli mała cola/pepsi.
 3. Łatwa lekka glukoza czyli czekolada.
+4. Płatki owsiane (kalorie) wymieszane z kaszkami ryżowymi Bobovita lub
+    podobnymi (na mleku). Ewentualnie kaszkę można zastąpić mlekiem w proszku.
+    Do smaku jakieś rodzynki, suszone jabłka. Zmieszać. W schronisku zalać
+    wrzątkiem. Smaczne, bardzo pożywne.
 4. Picie, w schronisku tani wrzątek, wystarczy sok, cukier, herbata
    w torebkach, kawa instant.
 
