@@ -157,7 +157,7 @@ np. raki w oblodzeniu albo okulary przeciwsłoneczne.
 W tej sekcji wspomniałbym o butach z twardą podeszwą. Owszem, lekkie elastyczne
 butki to fajna sprawa i lekka noga. Ale wtedy dużo częściej musisz używać
 raków. Powiedzmy sobie jasno - nie cierpię chodzić w rakach, nie lubię
-szamotaniny z paskowymi i koszykowyi rakami. Wolę buty sztywne,
+szamotaniny z paskowymi i koszykowymi rakami. Wolę buty sztywne,
 z twardą podeszwą. Kopnięcie takim butem zwykle wystarczy do pewnego
 postawienia nogi. Można też dużo sprawniej nałożyć automatyczne raki.
 
