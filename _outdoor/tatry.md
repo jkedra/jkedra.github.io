@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Co brać w Tatry
+title:  Turystyka w Tatrach
 author: jkedra
-categories: trips
+tags: tatry
 comments: true
 language: pl
 jquery: true
@@ -65,7 +65,7 @@ W zimie jest cicho, pogoda jest stabilniejsza, deszcz nie zmoczy.
     a potem żałowałem. Patrz czekan.
 9. Karta 3+ uprawnia do darmowego wejścia TPN. Karta Alpenverein (zniżki).
 
-Dobra, jeżeli chodzisz zawsze po ubitych ścieżkach i wycofasz się przy
+Jeżeli chodzisz zawsze po ubitych ścieżkach i wiesz, że wycofasz się przy
 każdej trudności to rzeczywiście wystarczą ci małe raczki, pewnie nie
 skorzystasz z czekana, dużych raków i nie będziesz potrzebować stuptutów.
 Ale jeżeli trudności cię motywują do ich przekraczania, nie wyściubiaj nosa
