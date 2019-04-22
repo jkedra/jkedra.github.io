@@ -21,15 +21,15 @@ ruch i lepsza pogoda (np. wcześnie rano gdy jest jeszcze chłodno).
 TRS pozwala też na bardziej intensywny trening bez przerw na asekurację
 partnera. Efektywnie robi się znacznie więcej metrów w tym samym czasie.
 
-To co pozytywnie wyróżnia TRS jest też jego wadą. Odpada społeczny
-aspekt wspinaczki, bezpieczeństwo może być gorsze niż w przypadku gdy
-asekuruje druga osoba, wspinaczka jest nieco trudniejsza (przeszkadza lina
-ubezpieczająca).
+To co pozytywnie wyróżnia TRS jest też jego wadą. Odpada społeczny aspekt
+wspinaczki, bezpieczeństwo może być gorsze w porównaniu do przypadku gdy
+asekuruje druga osoba. W TRS wspinaczka jest nieco trudniejsza (przeszkadza
+lina ubezpieczająca).
 
-TRS zaciekawiło mnie gdy zobaczyłem Andrzeja Marcisza, robiącego po raz
-któryś z kolei _Prawą Babę Jagę_. Na szybko wyjście, zjazd, powtórz 10x.
-Któregoś bezsennego ranka wziąłem linę, GriGri i zrobiłem to samo.
-10x _Prawa Baba Jaga_ i do pracy. Bakcyl chwycił.
+TRS zaciekawiło mnie gdy zobaczyłem Andrzeja Marcisza, robiącego raz po raz
+_Prawą Babę Jagę_. Na szybko wyjście, zjazd, powtórz 10x.  Któregoś bezsennego
+ranka wziąłem linę, GriGri i zrobiłem to samo.  10x _Prawa Baba Jaga_ i do
+pracy. Bakcyl chwycił.
 
 Samo GriGri wydało mi się bardziej bezpieczne niż Ascension, którego
 używał Marcisz. Być może miał jeszcze jakiś backup ale nie widziałem.
@@ -42,7 +42,7 @@ Jest potrzebna niewielka modyfikacja samego GriGri, żeby to ułatwić.
 Wcześniej byłem na mikrokursie z krakowskiego KW, gdzie omawiano kwestie
 autoasekuracji na TR, niewiele z tego zapamiętałem. Wiedząc jednak
 czego mam szukać, szybko znalazłem w internecie odpowiednie zasoby, z których
-najpewniejsze wydawało mi się opracowanie Petzla.
+najpewniejsze wydawało mi się [opracowanie Petzla][petzl-guide].
 
 Po skompletowaniu sprzętu i ustawieniu konfiguracji wg Petzla wspinaczka
 stała się bardziej komfortowa i z pewnością bezpieczniejsza.
@@ -95,9 +95,10 @@ zerwać oplot z liny.
 
 Linę przymocowuje się na sztywno w górnym stanowisku (TR).
 
-Na Zakrzówku, na Babie Jadze, zwykle zjeżdżam (bardziej schodzę)
-mając linę przyczepioną do poręczy (ósemka) i w samym stanowisku
-wkładam zakręcany karabinek, a linę mocuję wyblinką.
+Na Zakrzówku, na Babie Jadze, zwykle zjeżdżam klasycznie (bardziej schodzę)
+na podwójnej linie z poręczy nad urwiskiem. W samym stanowisku wkładam dwa
+zakręcane karabinki lub ekspresy, a linę mocuję na [uszy królika][bunnyears]
+(podwójna ósemka).
 
 Drugi (dolny) koniec liny musi być obciążony żeby lina była na tyle
 napięta, że umożliwia swobodne przesuwanie się asekuracji.
@@ -120,3 +121,4 @@ asekurujące działają na różnych linach.
 [going-solo]: http://people.bath.ac.uk/dac33/high/12GoingSolo.htm
 [rope-soloing-101]: https://andy-kirkpatrick.com/articles/view/rope_soloing_101_part_1
 [gear-top-rope]: https://www.mountainproject.com/forum/topic/114808343/gear-for-top-rope-climbing
+[bunnyears]: http://k2warszawa.weebly.com/podwojna_osemka_uszy_krolika.html
