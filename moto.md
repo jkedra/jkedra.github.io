@@ -2,6 +2,7 @@
 layout: page
 title: MotoPL
 permalink: /moto/
+regenerate: true
 language: pl
 ---
 Ta strona grupuje polskie posty na temat motocykli.
