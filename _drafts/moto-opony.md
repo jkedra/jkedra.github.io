@@ -10,6 +10,16 @@ jss: [wikipize]
 categories: moto
 ---
 
+Czas zmienić opony. Bieżnik zjechany, guma już niemłoda. Stanąłem
+zupełnie bezradnie przed szerokim wyborem opon dla Hondy Transalp,
+jakim zarzuciło mnie [Oponeo](http://oponeo.pl/).
+
+Świadomy wybór opon do motocykla touringowego okazał się dla nieoczekiwanie
+złożonym zadaniem. Dla samochodu wystarczy popatrzeć na europejskie oznaczenia
+określające ekonomiczność, głośność i przyczepność, żeby mieć już względnie
+dobre pojęcie o zakupie. Przy motocyklu dochodzi jeszcze aspekt "terenowości"
+bieżnika.
+
 ## Opony do wyboru
 
 | Firma     | Model           | afalt/offroad |
@@ -47,7 +57,23 @@ trawersach (nawet na sucho).
 
 ### Heidenau K60
 
-Tutaj widzę dwa modele, jeden to po prostu [K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60), a druga [K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
+![K60]({{ site.url }}/img/k60_1.jpg)
+
+Opona popularna wśród ADV, określana jako 50/50.
+
+Tutaj widzę dwa modele, jeden to po prostu [K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60), a druga [K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout). Jedyną różnicą jaką znalazłem to K60 jestdętkowa, Scout bezdętkowa.
+
+Kolejna ciekawostka: Dla K60 jest wybór między wersją zimową M+S, a typowo
+letnią.
+
+![K60]({{ site.url }}/img/k60_2.jpg)
+
+### Continental TCK 80 Twinduro
+
+![Twinduro]({{ site.url }}/img/tkc80.jpg)
+
+Także popularna, rekomendowana do cięższego ADV z przewagą off-road.
+Na asfalcie szybkie zużycie.
 
 
 ### Linki
