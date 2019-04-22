@@ -30,6 +30,9 @@ Ta strona grupuje polskie posty na temat motocykli.
   [tutaj ta sama relacja na TCP](http://forum.transalpclub.pl/viewtopic.php?f=42&t=18063).
 2. [Theth opisany przez Qtera](http://forum.transalpclub.pl/viewtopic.php?f=42&t=19295),
    dużo obrazków, wiele detali na temat pętli Theth.
+3. [Long Way Round](https://www.youtube.com/watch?v=WYC6Ux5FaAo&list=PLiWx0MbkXTL_eneIUnYibJtgxUM-Jh-Dt) -
+    wyprawa Ewan'a McGregor'a i Charley'a Boormana przez Europę, Azję i 
+    Północną Amerykę.
 
 ## Trasy
 
