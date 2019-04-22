@@ -1,19 +1,14 @@
 ---
 layout: page
-title: IT
-permalink: /it/
+title: Outdoor
+permalink: /outdoor/
+language: pl
 regenerate: true
-language: en
 ---
-This page groups posts which are related to:
 
-1. SysAdm - system administration
-2. Oracle (database)
-3. Programming
+Outdoor: Tatry, Motor, Rower, Wspinaczka
 
-# Tools
-
-{% for item in site.tools %}
+{% for item in site.outdoor %}
 <ul class="post-list">
   <li>
     <span class="post-meta">{{ item.date | date: "%d.%m.%Y" }}</span>
@@ -24,13 +19,9 @@ This page groups posts which are related to:
 </ul>
 {% endfor %}
 
-
-# Other IT posts
-
-{% assign sectioncategories = "www it tools" | split: " " %}
+{% assign category="outdoor" %}
   <ul class="post-list">
     {% for post in site.posts %}
-    {% for category in sectioncategories %}
     {% if post.categories contains category %}
       <li>
         <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
@@ -40,6 +31,6 @@ This page groups posts which are related to:
         </h2>
       </li>
     {% endif %}
-    {% endfor %} 
     {% endfor %}
+ 
   </ul>
