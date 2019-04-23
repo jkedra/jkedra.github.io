@@ -1,27 +1,73 @@
 ---
 layout: post
 title:  "Jekyll's Markdown"
-date:   2018-03-30
+date:   2019-04-23
 author: jkedra
-categories: www
 language: en
-categories: wwww
-tags: javascript css jquery
+categories: www
+tags: javascript css jquery jekyll markdown
 ---
 
-# Images
+page.categories: {{ page.categories }}
+
+page.tags: {{ page.tags | join:', ' }}
+
+
+## Images
 
 Examples from [Stack Overflow][1].
 Also examples from post [Lód i Mikst](/_lod_i_mikst)
 and [Czerwone Wierchy](/trips/2017/01/29/tatry.html).
 And [another post][2] on the image alignment.
 
-# Tables
+
+### nice trick with markdown images
+On order, right, left, centered:
+
+First include this CSS:
+
+{% highlight css %}
+{% raw %}
+
+img[alt$=">"] {
+  float: right;
+  margin-left: 20px;
+}
+
+img[alt$="<"] {
+  float: left;
+  margin-right: 20px;
+}
+
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
+{% endraw %}
+{% endhighlight %}
+
+
+then in HTML:
+
+{% highlight markdown %}
+{% raw %}
+
+    ![Image alt >]({{ site.url }}/img/image.jpg)
+    ![Image alt <]({{ site.url }}/img/image.jpg)
+    ![Image alt <>]({{ site.url }}/img/image.jpg)
+
+{% endraw %}
+{% endhighlight %}
+
+## Tables
 
 [Tables1][4].
 
 
-# Themes
+## Themes
 
 [Documentation Theme][3].
 
