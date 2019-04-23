@@ -6,6 +6,7 @@ author: jkedra
 language: pl
 jquery: true
 comments: true
+css: [css-snip1, css]
 jss: [wikipize]
 categories: moto
 ---
@@ -61,7 +62,27 @@ trawersach (nawet na sucho).
 
 Opona popularna wśród ADV, określana jako 50/50.
 
-Tutaj widzę dwa modele, jeden to po prostu [K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60), a druga [K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout). Jedyną różnicą jaką znalazłem to K60 jestdętkowa, Scout bezdętkowa.
+
+<p class="note"><b>Znalezione w sieci:</b>
+<i>
+Opony z bieżnikiem K60 Scout są przeznaczone do wyjazdów wyprawowych,wykonane z
+twardszych mieszanek gumowych co powoduje zwiększenie przebiegu opony oraz
+zwiększa odporność na uszkodzenia bieżnika podczas długich przejazdów drogami
+szutrowymi. Bieżnik K60 Scout jest zmodernizowanym bieżnikiem K60, klocki
+bieżnika, na czole opony są połączone co powoduje usztywnienie rzeźby bieżnika
+(mniejsze "pływanie")  podczas jazdy drogami utwardzonymi (asfalt,beton) oraz
+zmniejsza zużycie bieżnika, solidne klocki na barku opony pomagają podczas
+jazdy miękkimi drogami, gdy opona jest zatopiona w podłożu, przenoszą napęd i
+hamowanie nie tylko czołem opony ale również bokiem opony. Bieżnik K60 Scout
+jest przeznaczony w 50% na drogi asfaltowe i 50% na drogi polne, szutrowe.
+</i>
+</p>
+
+Tutaj widzę dwa modele, jeden to po prostu
+[K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60), a druga
+[K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
+Jedyną różnicą jaką znalazłem to K60 jest dętkowa, Scout bezdętkowa.
+Zaś z powyższego widać, że mają nieco inny bieżnik.
 
 Kolejna ciekawostka: Dla K60 jest wybór między wersją zimową M+S, a typowo
 letnią.
