@@ -1,0 +1,24 @@
+
+/* ========= tables ========== */
+
+
+table.tags {
+    padding 0px;
+    border-style: none none none none;
+    line-height: 1;
+}
+
+table.tags > tbody > tr > td {
+    border-style: none none none none;
+    padding: 1px;
+   }
+
+table.tags tr > td:first-child {
+     /* color: DarkSlateGrey; */
+     text-align: right;
+   }
+
+table.tags tr > td {
+    font-size: 12px;
+    border-style: none none none none;
+}
