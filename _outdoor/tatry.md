@@ -149,6 +149,7 @@ np. raki w oblodzeniu albo okulary przeciwsłoneczne.
     * plastry normalne na skaleczenia (ostra skała)
     * opaska elastyczna na skręconą kostkę
 6. Zapasowa latarka. Gdy planujemy nocne akcje i gdy jest wyjątkowo zimno.
+7. Ogrzewacze chemiczne.
 
 ### Ubranie
 
