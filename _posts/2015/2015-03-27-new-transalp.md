@@ -8,6 +8,7 @@ jquery: true
 comments: false
 jss: [wikipize]
 categories: moto
+tags: moto
 ---
 Gdy w kwietniu 2014 spotkałem się z Łukaszem, przyjechał na
 [Yamaha Virago 500](gp:). Typowy błyszczący chopper.

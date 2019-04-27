@@ -5,11 +5,11 @@ function log(str) {
 }
 
 function wikipize(lang, entry) {
- log("WIKIPIZE");
+ log("WIKIPIZE lang:"+lang+":");
   //  w:xxx  - polish wiki
   //  we:xxx - english wiki
   switch(lang) {
-    case undefined:
+    case (undefined || ""):
       lang = "pl"; break;
     case "e":
       lang = "en"; break;

@@ -11,35 +11,49 @@ jss: [wikipize]
 categories: moto
 ---
 
-Czas zmienić opony. Bieżnik zjechany, guma już niemłoda. Stanąłem
-zupełnie bezradnie przed szerokim wyborem opon dla Hondy Transalp,
-jakim zarzuciło mnie [Oponeo](http://oponeo.pl/).
+Czas zmienić opony. Bieżnik zjechany, guma już niemłoda. Stanąłem zupełnie
+bezradnie przed szerokim wyborem opon dla Hondy Transalp, jakim zarzuciło mnie
+[Oponeo](http://oponeo.pl/). Transalp lekkim (200kg) przedstawicielem
+[turystycznego enduro](w:turystyczne enduro), dlatego w tym segmencie poszukuję
+opon.
 
-Świadomy wybór opon do motocykla touringowego okazał się dla nieoczekiwanie
+Świadomy wybór opon do takiego turystycznego enduro okazał się dla nieoczekiwanie
 złożonym zadaniem. Dla samochodu wystarczy popatrzeć na europejskie oznaczenia
 określające ekonomiczność, głośność i przyczepność, żeby mieć już względnie
 dobre pojęcie o zakupie. Przy motocyklu dochodzi jeszcze aspekt "terenowości"
 bieżnika.
 
-## Opony do wyboru
+Nawet gdy dookoła mnie same asfalty i rozsądnie byłoby kupić oponę na tego typu
+nawierzchnię to jednak bardziej terenowa opona jednak zostawia mi możliwość
+zjechania w teren. Dlatego jednak mój ostateczny wybór zbudowany jest na chęciach,
+zamiast na faktach. 
 
-| Firma     | Model           |asfalt/offroad |
-|-----------+-----------------+---------------|
-|Continental|ContiEscape      |               |
-|Continental|TKC-80 Twinduro  |   /most       |
-|Dunlop     |TrailSmart       | 90/10         |
-|Heidenau   |K60              | 50/50         |
-|Heidenau   |K69              |   /most       |
-|Metzeler   |Karoo            | 10/90         |
-|Metzeler   |Enduro 3 Sahara  | 10/90         |
-|Metzeler   |Tourance         | 60/40         |
-|Michelin   |Anakee 3         | 90/10         |
-|Michelin   |T66              |               |
-|Michelin   |Sirac            | universal     |
-|Mitas      |E10              | 10/90         |
-|Mitas      |E07              | 50/50         |
-|Pirelli    |Scorpion MT90 A/T| 90/10         |
+Opona, którą kupię musi więc być kompromisem. Na polskim [forum Transalpa][forum]
+ludzie piszą o swoich doświadczeniach, na Youtube znalazłem conajmniej kilka
+złożonych review i porównań. Autorzy zarzekają się, że nie są sponsorowani przez
+producentów. Na podstawie tych informacji zebrałem poniższą listę:
 
+## Opony
+
+| Firma     | Model                                |asfalt/offroad |
+|-----------+--------------------------------------+---------------|
+|Continental|ContiEscape                           |               |
+|Continental|[TKC80] Twinduro                      | 40/60         |
+|           |TKC70                                 | 80/20         |
+|Dunlop     |TrailSmart                            | 90/10         |
+|Heidenau   |[K60]                                 | 60/40         |
+|Heidenau   |K69                                   |   offroad     |
+|Metzeler   |Karoo                                 | 10/90         |
+|Metzeler   |Enduro 3 Sahara                       | 10/90         |
+|Metzeler   |[Tourance]                            | 95/5          |
+|Michelin   |[Anakee 3](#anakee3)                  | 90/10         |
+|Michelin   |T66                                   |               |
+|Michelin   |Sirac                                 | universal     |
+|Mitas      |E10                                   | 10/90         |
+|Mitas      |[E07]                                 | 50/50         |
+|Pirelli    |Scorpion MT90 A/T                     | 90/10         |
+
+{: #tourance }
 ### Metzeler Tourance
 
 [Metzeler Tourance][tourance] to pierwsze opony z jakimi miałem do czynienia.
@@ -57,14 +71,21 @@ trawersach (nawet na sucho).
 
 1. [tył](https://www.oponeo.pl/dane-opony-motocyklowej/michelin-sirac-120-90-17-64-t-tyl-tt)
 
+{: #k60 }
 ### Heidenau K60
+
+K60 jest oponą niemieckiego producenta Heidenau.
 
 ![K60]({{ site.url }}/img/k60_1.jpg)
 
-Opona popularna wśród ADV, określana jako 50/50.
+Popularna wśród ADV, określana jako 50/50-60/40.
+Są dwa typy tej opony: 
+[K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60) i
+[K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
+Jedyną różnicą jaką znalazłem gdzieś na sieci to, że K60 jest dętkowa, Scout bezdętkowa.
 
-
-<p class="note"><b>Znalezione w sieci:</b>
+{: .note }
+<b>Znalezione w sieci:</b>
 <i>
 Opony z bieżnikiem K60 Scout są przeznaczone do wyjazdów wyprawowych,wykonane z
 twardszych mieszanek gumowych co powoduje zwiększenie przebiegu opony oraz
@@ -77,34 +98,72 @@ jazdy miękkimi drogami, gdy opona jest zatopiona w podłożu, przenoszą napęd
 hamowanie nie tylko czołem opony ale również bokiem opony. Bieżnik K60 Scout
 jest przeznaczony w 50% na drogi asfaltowe i 50% na drogi polne, szutrowe.
 </i>
-</p>
 
-Tutaj widzę dwa modele, jeden to po prostu
-[K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60), a druga
-[K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
-Jedyną różnicą jaką znalazłem to K60 jest dętkowa, Scout bezdętkowa.
-Zaś z powyższego widać, że mają nieco inny bieżnik.
-
-Kolejna ciekawostka: Dla K60 jest wybór między wersją zimową M+S, a typowo
-letnią.
+Z powyższego możnaby wnioskować, że mają nieco inny bieżnik.
+Dla K60 mamy wybór między wersją zimową (inny skład mieszanki), a letnią.
+Zdaje się, że oba modele mają oznaczenie M+S (mud + snow).
 
 ![K60]({{ site.url }}/img/k60_2.jpg)
 
+Przynajmniej w jednym miejscu słyszałem skargę, że K60 nie trzyma super
+na mokrym podłożu (asfalt). 
+
+Tutaj szczegółowy [review K60 na Youtube](https://www.youtube.com/watch?v=P9iV6sk9Yck).
+
+{: #e07}
+### Mitas E07
+
+[Ten film o Mitas E07](https://www.youtube.com/watch?v=TL4aY3RjXjA)
+porównuje ją z kilkoma innymi oponami terenowymi.
+I tak w porównaniu do [K60] wskazuje na wyższość E07 w terenie, choć przyznaje, że
+K60 lepiej jeździ po autostradzie. K60 ma też nieco większy przebieg (tył) niż
+E07 (10.000 vs 8.000 mil).
+
+W terenie ustępuje [TKC80], ale E07 ma przynajmniej dwa razy większy przebieg.
+E07 jest dość głośna i brzmi jak spadająca bomba z bombowca.
+
+![E07]({{ site.url }}/img/e07.jpg)
+
+Wersja Dakar ma znacznie grubsze ścianki boczne co bardzo utrudnia jej serwis
+w terenie (trudno zmienić oponę).
+
+Ostatni ciekawy czynnik przy doborze opon to kraj producenta.
+Mitas jest firmą czeską. Heidenau (K60) jest niemiecka.
+
+{: #tkc80}
 ### Continental TCK 80 Twinduro
 
 ![Twinduro]({{ site.url }}/img/tkc80.jpg)
 
 Także popularna, rekomendowana do cięższego ADV z przewagą off-road.
-Na asfalcie szybkie zużycie.
+Na asfalcie szybsze zużycie ze względu na bardziej agresywny kształt bieżnika.
+Kostki tracą ostrość krawędzi. Różne opinie wskazują na dużo lepsze zachowanie
+się TKC80 w terenie w porównaniu do najpopularniejszych [K60] i [E07].
+
+{: #anakee3 }
+### Michelin Anakee 3
+
+Opona raczej turystyczna, typu 90 asfalt, 10 teren. Także dość popularna wśród
+kierowców Transalpa.
 
 
 ### Linki
 
 1. [How to Choose the Best Adventure Motorcycle Tires](https://www.youtube.com/watch?v=9ebaHJ5jPs4)
-2. [Best Adventure and Dual Sport Tires](https://www.youtube.com/watch?v=HvN913Zv6SM)
-3. [Best Adventure Motorcycle Tire - Mitas E-07](https://www.youtube.com/watch?v=YnEcI3F_pqE)
+2. FortNine
+    * [Best Adventure and Dual Sport Tires 2016](https://www.youtube.com/watch?v=HvN913Zv6SM)
+    * [Best Adventure and Dual Sport Tires 2017](https://www.youtube.com/watch?v=N_2y9LSxbvQ)
+    * [Best Adventure Motorcycle Tire - Mitas E-07](https://www.youtube.com/watch?v=YnEcI3F_pqE)
+    * [Best Touring Motorcycle Tires 2017](https://www.youtube.com/watch?v=w1leVfe5EGg)
+3. [Mitas E07 Review](https://www.youtube.com/watch?v=TL4aY3RjXjA) -
+   trochę porównania [E07] z [K60].
+4. [K60 review](https://www.youtube.com/watch?v=P9iV6sk9Yck).
 
 
 [tourance]:  http://www.oponeo.pl/model-opony-motocyklowej/metzeler-tourance
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
-
+[forum]: http://forum.transalpclub.pl/
+[K60]: #k60
+[E07]: #e07
+[TKC80]: #tkc80
+[Tourance]: #tourance
