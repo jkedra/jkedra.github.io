@@ -23,7 +23,7 @@ bieżnika.
 
 ## Opony do wyboru
 
-| Firma     | Model           | afalt/offroad |
+| Firma     | Model           |asfalt/offroad |
 |-----------+-----------------+---------------|
 |Continental|ContiEscape      |               |
 |Continental|TKC-80 Twinduro  |   /most       |
@@ -36,7 +36,8 @@ bieżnika.
 |Michelin   |Anakee 3         | 90/10         |
 |Michelin   |T66              |               |
 |Michelin   |Sirac            | universal     |
-|Mitas      |E10              |   /most       |
+|Mitas      |E10              | 10/90         |
+|Mitas      |E07              | 50/50         |
 |Pirelli    |Scorpion MT90 A/T| 90/10         |
 
 ### Metzeler Tourance
@@ -101,6 +102,7 @@ Na asfalcie szybkie zużycie.
 
 1. [How to Choose the Best Adventure Motorcycle Tires](https://www.youtube.com/watch?v=9ebaHJ5jPs4)
 2. [Best Adventure and Dual Sport Tires](https://www.youtube.com/watch?v=HvN913Zv6SM)
+3. [Best Adventure Motorcycle Tire - Mitas E-07](https://www.youtube.com/watch?v=YnEcI3F_pqE)
 
 
 [tourance]:  http://www.oponeo.pl/model-opony-motocyklowej/metzeler-tourance
