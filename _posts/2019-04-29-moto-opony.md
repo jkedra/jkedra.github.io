@@ -63,7 +63,7 @@ swoje wnioski z nadzieją, że będą użyteczne nie tylko dla mnie.
 Bieżnik dość uniwersalny, wyraźna kostka, dość dobrze na suchym offroad.  Na
 mokro w terenie bez rewelacji. Poślizgi w trawie i na stromych trawersach
 (nawet na sucho). Nierozgrzane wyraźnie ślizgają się na asfalcie gdy na
-zewnątrz temperatura spada poniżej 10C. Na zakręcie potrafi wtedy wyjechać tył,
+zewnątrz temperatura spada poniżej 10℃. Na zakręcie potrafi wtedy wyjechać tył,
 a przy ostrym hamowaniu ślizga się przód.  Nie jestem z nich zadowolony. Być
 może wiek opon ma tutaj znaczenie - te negatywne obserwacje były już po pięciu
 latach od daty produkcji.
