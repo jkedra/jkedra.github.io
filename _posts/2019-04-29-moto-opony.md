@@ -31,7 +31,7 @@ zamiast na faktach.
 Opona, którą kupię musi więc być kompromisem. Na polskim [forum Transalpa][forum]
 ludzie piszą o swoich doświadczeniach, na Youtube znalazłem conajmniej kilka
 złożonych review i porównań. Autorzy zarzekają się, że nie są sponsorowani przez
-producentów. Na podstawie tych informacji zebrałem poniższą listę:
+producentów. Na podstawie tych informacji zrobiłem poniższą listę:
 
 ## Opony
 
