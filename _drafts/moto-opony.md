@@ -48,7 +48,7 @@ producentów. Na podstawie tych informacji zebrałem poniższą listę:
 |Metzeler   |[Tourance]                            | 95/5          |
 |Michelin   |[Anakee 3](#anakee3)                  | 90/10         |
 |Michelin   |T66                                   |               |
-|Michelin   |Sirac                                 | universal     |
+|Michelin   |[Sirac](#sirac)                       | 60/40         |
 |Mitas      |E10                                   | 10/90         |
 |Mitas      |[E07]                                 | 50/50         |
 |Pirelli    |Scorpion MT90 A/T                     | 90/10         |
@@ -67,9 +67,13 @@ trawersach (nawet na sucho).
 1. Przód: [Metzeler Tourance][tourance] 90/90-21 M/C 54S
 2. Tył: [Metzeler Tourance][tourance], 120/90-17 M/C 64S, rocznik 2011
 
+{: #sirac }
 ### Michelin SIRAC
 
-1. [tył](https://www.oponeo.pl/dane-opony-motocyklowej/michelin-sirac-120-90-17-64-t-tyl-tt)
+Bardzo podobna do [Metzeler Tourance](#tourance) ale z nieco wyraźniejszym bieżnkiem.
+Przede wszystkim na asfalt.
+
+1. [tył Oponeo](https://www.oponeo.pl/dane-opony-motocyklowej/michelin-sirac-120-90-17-64-t-tyl-tt)
 
 {: #k60 }
 ### Heidenau K60
@@ -105,8 +109,8 @@ Zdaje się, że oba modele mają oznaczenie M+S (mud + snow).
 
 ![K60]({{ site.url }}/img/k60_2.jpg)
 
-Przynajmniej w jednym miejscu słyszałem skargę, że K60 nie trzyma super
-na mokrym podłożu (asfalt). 
+Przynajmniej w jednym miejscu słyszałem skargę, że K60 nie trzyma już tak dobrze
+na mokrym asfalcie.
 
 Tutaj szczegółowy [review K60 na Youtube](https://www.youtube.com/watch?v=P9iV6sk9Yck).
 
@@ -137,14 +141,22 @@ Mitas jest firmą czeską. Heidenau (K60) jest niemiecka.
 
 Także popularna, rekomendowana do cięższego ADV z przewagą off-road.
 Na asfalcie szybsze zużycie ze względu na bardziej agresywny kształt bieżnika.
-Kostki tracą ostrość krawędzi. Różne opinie wskazują na dużo lepsze zachowanie
-się TKC80 w terenie w porównaniu do najpopularniejszych [K60] i [E07].
+Kostki tracą ostrość krawędzi. Wyraźna kostka bieżnika i szerokie odstępy
+dają dużo lepsze zachowanie się TKC80 w terenie w porównaniu do popularnych 50/50
+typu [K60] i [E07].
 
 {: #anakee3 }
 ### Michelin Anakee 3
 
 Opona raczej turystyczna, typu 90 asfalt, 10 teren. Także dość popularna wśród
-kierowców Transalpa.
+kierowców Transalpa. Idealna na asfalt, zbiera dobre recenzje na mokrej nawierzchni,
+przyzwoicie zachowuje się na utwardzonym off-road. Ze względu na minimalny bieżnik
+ciężko jest jej używać w błocie i w piasku.
+
+![Anakee 3]({{ site.url }}/img/anakee3.jpg)
+
+Z tego co pozbierałem zwracają pozytywne opinie dotyczące wchodzenia w zakręty
+z tą oponą.
 
 
 ### Linki
