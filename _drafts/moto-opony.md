@@ -53,25 +53,35 @@ producentów. Na podstawie tych informacji zebrałem poniższą listę:
 |Mitas      |[E07]                                 | 50/50         |
 |Pirelli    |Scorpion MT90 A/T                     | 90/10         |
 
+Niektórym z nich przyjrzałem się dokładniej, dlatego poniżej zebrałem
+swoje wnioski z nadzieją, że będą użyteczne nie tylko dla mnie.
+
 {: #tourance }
 ### Metzeler Tourance
 
 [Metzeler Tourance][tourance] to pierwsze opony z jakimi miałem do czynienia.
-Bieżnik dość uniwersalny, wyraźna kostka, dość dobrze na suchym offroad. 
-Na mokro w terenie bez rewelacji. Poślizgi w trawie i na stromych
-trawersach (nawet na sucho).
+Bieżnik dość uniwersalny, wyraźna kostka, dość dobrze na suchym offroad.  Na
+mokro w terenie bez rewelacji. Poślizgi w trawie i na stromych trawersach
+(nawet na sucho). Nierozgrzane wyraźnie ślizgają się na asfalcie gdy na
+zewnątrz temperatura spada poniżej 10C. Na zakręcie potrafi wtedy wyjechać tył,
+a przy ostrym hamowaniu ślizga się przód.  Nie jestem z nich zadowolony. Być
+może wiek opon ma tutaj znaczenie - te negatywne obserwacje były już po pięciu
+latach od daty produkcji.
 
+Oponeo:
 * [przód](https://www.oponeo.pl/dane-opony-motocyklowej/metzeler-tourance-90-90-21-54-s-przod-tt-m-c)
 * [tył](https://www.oponeo.pl/dane-opony-motocyklowej/metzeler-tourance-120-90-17-64-s-tyl-tt-m-c)
 
+Moje opony:
 1. Przód: [Metzeler Tourance][tourance] 90/90-21 M/C 54S
 2. Tył: [Metzeler Tourance][tourance], 120/90-17 M/C 64S, rocznik 2011
 
 {: #sirac }
 ### Michelin SIRAC
 
-Bardzo podobna do [Metzeler Tourance](#tourance) ale z nieco wyraźniejszym bieżnkiem.
-Przede wszystkim na asfalt.
+Bardzo podobna do [Metzeler Tourance](#tourance) ale z nieco wyraźniejszym
+bieżnkiem.  Przede wszystkim na asfalt. Zbytnie podobnieństwo z Tourance
+powoduje, że nie zainteresowałem się nią zbyt mocno.
 
 1. [tył Oponeo](https://www.oponeo.pl/dane-opony-motocyklowej/michelin-sirac-120-90-17-64-t-tyl-tt)
 
@@ -158,6 +168,13 @@ ciężko jest jej używać w błocie i w piasku.
 Z tego co pozbierałem zwracają pozytywne opinie dotyczące wchodzenia w zakręty
 z tą oponą.
 
+### Wybór
+
+Postawię na [K60](#k60) ze względu na dobre opinie, uniwersalne zastosowania
+(5/5) i jej trwałość.  Ze względu na cenę i patriotyzm lokalny później
+zainteresuję się też [E07](#e07). Gdybym wybierał się gdzieś dalej, pewnie
+sprawdziłbym [Anakee 3](#anakee3). Dla jazdy poza terenem sprawdziłbym
+połączenie [TKC-80](#tkc80) na przodzie z czymś mniej agresywnym na tyle.
 
 ### Linki
 
