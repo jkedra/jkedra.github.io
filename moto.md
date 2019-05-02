@@ -10,7 +10,9 @@ Ta strona grupuje polskie posty na temat motocykli.
 ## Zasoby
 
 ### Fora
+
 * [Forum Transalp Club](http://forum.transalpclub.pl)
+* [Honda Trail Bikies Forum](https://www.xrv.org.uk/forums/forum.php)
 
 ### Techniczne
 1. [Porównanie XL650 kontra XT660R](http://forum.transalpclub.pl/viewtopic.php?f=191&t=14314)
