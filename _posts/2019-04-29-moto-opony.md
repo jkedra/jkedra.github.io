@@ -60,13 +60,27 @@ swoje wnioski z nadzieją, że będą użyteczne nie tylko dla mnie.
 ### Metzeler Tourance
 
 [Metzeler Tourance][tourance] to pierwsze opony z jakimi miałem do czynienia.
-Bieżnik dość uniwersalny, wyraźna kostka, dość dobrze na suchym offroad.  Na
-mokro w terenie bez rewelacji. Poślizgi w trawie i na stromych trawersach
-(nawet na sucho). Nierozgrzane wyraźnie ślizgają się na asfalcie gdy na
-zewnątrz temperatura spada poniżej 10℃. Na zakręcie potrafi wtedy wyjechać tył,
-a przy ostrym hamowaniu ślizga się przód.  Nie jestem z nich zadowolony. Być
-może wiek opon ma tutaj znaczenie - te negatywne obserwacje były już po pięciu
-latach od daty produkcji.
+Bieżnik wygląda na dość uniwersalny, wyraźna kostka ale według tabeli to opony
+przeznaczone głównie na utwardzone nawierzchnie (95/5).
+
+#### off-road
+
+Poza trasą radzą sobie zaskakujaco dobrze pod warunkiem, że jest sucho i w miarę
+twardo. Poślizgi w trawie i na stromych ale niezwiązanych trawersach - nawet na sucho -
+to normalna sprawa.
+
+Na mokro w terenie to śmierć w oczach. Szybko zakopują się w błocie.
+
+#### utwardzone
+
+Nierozgrzane wyraźnie ślizgają się na asfalcie gdy na zewnątrz temperatura
+spada poniżej 10°C. Na zakręcie potrafi wtedy wyjechać tył, a przy ostrym
+hamowaniu ślizga się przód. Wchodząc w regularne zakręty bałem się na nich pochylić.
+
+Nie byłem z nich zadowolony. Być może wiek opon ma tutaj znaczenie - moje doświadczenia
+z nimi zacząłem gdy miały już dobrze ponad 4 lata. Przez ten czas zjadłem na nich
+prawie cały bieżnik. Ze względu na wiek powinienem zmienić je wcześniej.
+
 
 Oponeo:
 * [przód](https://www.oponeo.pl/dane-opony-motocyklowej/metzeler-tourance-90-90-21-54-s-przod-tt-m-c)
@@ -97,8 +111,7 @@ Są dwa typy tej opony:
 [K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60) i
 [K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
 
-Jedyną różnicą jaką znalazłem gdzieś na sieci to, że K60 jest dętkowa, a Scout bezdętkowa.
-Ale nawet nie okazało się prawdą bo Scout jest w wersji dętkowej.
+Nie znalazłem informacji jaka jest różnica między K60, a K60 Scout.
 
 {: .note }
 <b>Znalezione w sieci:</b>
@@ -115,7 +128,8 @@ hamowanie nie tylko czołem opony ale również bokiem opony. Bieżnik K60 Scout
 jest przeznaczony w 50% na drogi asfaltowe i 50% na drogi polne, szutrowe.
 </i>
 
-Z powyższego możnaby wnioskować, że mają nieco inny bieżnik.
+Z powyższego możnaby wnioskować, że mają nieco inny bieżnik. Nie jest to jednak
+prawdą - na mojej K60 Scout klocki na czole bieżnika nie są połączone.
 
 Dla K60 mamy wybór między wersją zimową (inny skład mieszanki), a letnią.
 Zdaje się, że oba modele mają oznaczenie M+S (mud + snow).
@@ -180,7 +194,7 @@ zainteresuję się też [E07](#e07). Gdybym wybierał się gdzieś dalej, pewnie
 sprawdziłbym [Anakee 3](#anakee3). Dla jazdy poza terenem sprawdziłbym
 połączenie [TKC-80](#tkc80) na przodzie z czymś mniej agresywnym na tyle.
 
-Moja wersja K60 z tyłu nie ma ciągłego bieżnika, takiego jaki widać
+Wersja K60 z tyłu którą posiadam nie ma ciągłego bieżnika, takiego jaki widać
 [na tym obrazku](#k60pasek). Nigdzie też w sklepach nie widziałem K60 z tym ciągłym
 bieżnikiem. Moje opony na Transalpie 650 prezentują się jak niżej.
 
@@ -192,7 +206,13 @@ bez porównania lepiej trzymają niż dotychczasowe stare Metzelery Tourance.
 
 ### Linki
 
-W większości materiały w języku angielskim.
+1. [Złapałem gumę]({{site.url}}{% post_url 2016/2016-01-29-flak %}) -
+   pierwsze przygody z flakiem.
+
+#### Youtube
+
+Obcojęzyczne filmy o oponach, o doświadczeniach z jazdy na drogach utwardzonych
+i w terenie.  Rankingi opon. Jak dobierać opony.
 
 1. [How to Choose the Best Adventure Motorcycle Tires](https://www.youtube.com/watch?v=9ebaHJ5jPs4)
 2. FortNine:
