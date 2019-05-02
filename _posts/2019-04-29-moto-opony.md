@@ -80,7 +80,7 @@ Moje opony:
 ### Michelin SIRAC
 
 Bardzo podobna do [Metzeler Tourance](#tourance) ale z nieco wyraźniejszym
-bieżnkiem.  Przede wszystkim na asfalt. Zbytnie podobnieństwo z Tourance
+bieżnkiem. Przede wszystkim na asfalt. Zbytnie podobnieństwo z Tourance
 powoduje, że nie zainteresowałem się nią zbyt mocno.
 
 1. [tył Oponeo](https://www.oponeo.pl/dane-opony-motocyklowej/michelin-sirac-120-90-17-64-t-tyl-tt)
@@ -92,11 +92,13 @@ K60 jest oponą niemieckiego producenta Heidenau.
 
 ![K60]({{ site.url }}/img/k60_1.jpg)
 
-Popularna wśród ADV, określana jako 50/50-60/40.
+Popularna wśród ADV, określana jako 60/40.
 Są dwa typy tej opony: 
 [K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60) i
 [K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
-Jedyną różnicą jaką znalazłem gdzieś na sieci to, że K60 jest dętkowa, Scout bezdętkowa.
+
+Jedyną różnicą jaką znalazłem gdzieś na sieci to, że K60 jest dętkowa, a Scout bezdętkowa.
+Ale nawet nie okazało się prawdą bo Scout jest w wersji dętkowej.
 
 {: .note }
 <b>Znalezione w sieci:</b>
@@ -114,9 +116,11 @@ jest przeznaczony w 50% na drogi asfaltowe i 50% na drogi polne, szutrowe.
 </i>
 
 Z powyższego możnaby wnioskować, że mają nieco inny bieżnik.
+
 Dla K60 mamy wybór między wersją zimową (inny skład mieszanki), a letnią.
 Zdaje się, że oba modele mają oznaczenie M+S (mud + snow).
 
+{: #k60pasek}
 ![K60]({{ site.url }}/img/k60_2.jpg)
 
 Przynajmniej w jednym miejscu słyszałem skargę, że K60 nie trzyma już tak dobrze
@@ -170,11 +174,21 @@ z tą oponą.
 
 ### Wybór
 
-Postawię na [K60](#k60) ze względu na dobre opinie, uniwersalne zastosowania
+Postawiłem na [K60](#k60) ze względu na dobre opinie, uniwersalne zastosowania
 (5/5) i jej trwałość.  Ze względu na cenę i patriotyzm lokalny później
 zainteresuję się też [E07](#e07). Gdybym wybierał się gdzieś dalej, pewnie
 sprawdziłbym [Anakee 3](#anakee3). Dla jazdy poza terenem sprawdziłbym
 połączenie [TKC-80](#tkc80) na przodzie z czymś mniej agresywnym na tyle.
+
+Moja wersja K60 z tyłu nie ma ciągłego bieżnika, takiego jaki widać
+[na tym obrazku](#k60pasek). Nigdzie też w sklepach nie widziałem K60 z tym ciągłym
+bieżnikiem. Moje opony na Transalpie 650 prezentują się jak niżej.
+
+![Moje K60]({{site.url}}/img/myk60.jpg)
+
+Jestem już po kilku jazdach, ma się na nich wrażenie jakby mniejszego poczucia
+równowagi - motocykl dużo szybciej się na nich pochyla. Na mokrej trawie i błocie
+bez porównania lepiej trzymają niż dotychczasowe stare Metzelery Tourance.
 
 ### Linki
 
