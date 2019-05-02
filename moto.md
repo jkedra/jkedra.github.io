@@ -56,6 +56,7 @@ Ta strona grupuje polskie posty na temat motocykli.
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
 
 
+{: #posty }
 ## Moje Posty Moto
 
 {% assign category="moto" %}
