@@ -22,7 +22,19 @@ woda z mydłem) na rant, żeby można było łatwiej ściągnąć oponę.
 Opony enduro mają jeszcze dodatkową łapę (trzymak opony),
 żeby niedopompowana opona nie przesuwała się na rancie.
 
-## Ściąganie
+## Ściąganie kół z motocykla.
+
+### Przód
+
+1. Trzeba podeprzeć silnik, żeby motocykl nie fiknął do przodu po zdemontowaniu
+   przedniego koła. Motocykl stoi stabilnie na centralnej stopce.
+2. Śrubokrętem odkręcić śrubkę mocującą przewód szybkościomierza.
+3. Będzie dużo prościej jeżeli okręcimy lewy i prawy zacisk hamulca od
+   lag amortyzatorów.
+4. Poluzować, ale nie odkręcać do końca cztery śruby (10mm) osi od lewej strony.
+5. Upewnić się, że motocykl jest podparty i kluczem 14 odkręcić z lewej strony
+   przednią oś i wyciągnąć ją.
+6. Podnieść za lagi do góry i uwolnić oś.
 
 ## Zakładanie
 
