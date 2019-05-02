@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Name"
+title:  "Template - Post Name"
 author: jkedra
 date: 2017-07-18 20:00
 language: pl
