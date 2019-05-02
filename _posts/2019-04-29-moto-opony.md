@@ -192,12 +192,15 @@ bez porównania lepiej trzymają niż dotychczasowe stare Metzelery Tourance.
 
 ### Linki
 
+W większości materiały w języku angielskim.
+
 1. [How to Choose the Best Adventure Motorcycle Tires](https://www.youtube.com/watch?v=9ebaHJ5jPs4)
-2. FortNine
+2. FortNine:
     * [Best Adventure and Dual Sport Tires 2016](https://www.youtube.com/watch?v=HvN913Zv6SM)
     * [Best Adventure and Dual Sport Tires 2017](https://www.youtube.com/watch?v=N_2y9LSxbvQ)
     * [Best Adventure Motorcycle Tire - Mitas E-07](https://www.youtube.com/watch?v=YnEcI3F_pqE)
     * [Best Touring Motorcycle Tires 2017](https://www.youtube.com/watch?v=w1leVfe5EGg)
+    * [How to choose the best motorcycle tire (best of 2019)](https://www.youtube.com/watch?v=7K9U7W_U9gA), rewelacyjny poradnik od podstaw.
 3. [Mitas E07 Review](https://www.youtube.com/watch?v=TL4aY3RjXjA) -
    trochę porównania [E07] z [K60].
 4. [K60 review](https://www.youtube.com/watch?v=P9iV6sk9Yck).
