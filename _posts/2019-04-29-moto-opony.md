@@ -33,6 +33,10 @@ ludzie piszą o swoich doświadczeniach, na Youtube znalazłem conajmniej kilka
 złożonych review i porównań. Autorzy zarzekają się, że nie są sponsorowani przez
 producentów. Na podstawie tych informacji zrobiłem poniższą listę:
 
+XL650V4 według dokumentacji może być wyposażony w opony 120/90 albo 130/80.
+Na angielskim forum XRV jest [informacja dlaczego prościej jest jeździć na
+węższej oponie 120/90](https://www.xrv.org.uk/forums/transalp/17236-tyres-again-130-120-a.html#post177273).
+
 ## Opony
 
 | Firma     | Model                                |asfalt/offroad |
