@@ -13,7 +13,7 @@ categories: moto
 
 Czas zmienić opony. Bieżnik zjechany, guma już niemłoda. Stanąłem zupełnie
 bezradnie przed szerokim wyborem opon dla Hondy Transalp, jakim zarzuciło mnie
-[Oponeo](http://oponeo.pl/). Transalp lekkim (200kg) przedstawicielem
+[Oponeo](http://oponeo.pl/). Transalp jest lekkim (200kg) przedstawicielem
 [turystycznego enduro](w:turystyczne enduro), dlatego w tym segmencie poszukuję
 opon.
 
