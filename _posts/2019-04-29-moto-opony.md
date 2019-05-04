@@ -39,6 +39,10 @@ węższej oponie 120/90](https://www.xrv.org.uk/forums/transalp/17236-tyres-agai
 
 ## Opony
 
+Poniższa tabelka pomimo iż jest tylko średnią opinii jakie znalazłem na sieci,
+może posłużyć do zorientowania się w jakie opony celować w zależności od
+osobistych preferencji stylu jazdy i terenu.
+
 | Firma     | Model                                |asfalt/offroad |
 |-----------+--------------------------------------+---------------|
 |Continental|ContiEscape                           |               |
@@ -134,6 +138,7 @@ jest przeznaczony w 50% na drogi asfaltowe i 50% na drogi polne, szutrowe.
 
 Z powyższego możnaby wnioskować, że mają nieco inny bieżnik. Nie jest to jednak
 prawdą - na mojej K60 Scout klocki na czole bieżnika nie są połączone.
+W sklepach, które odwiedziłem nie widziałem K60 z tym ciągłym bieżnikiem.
 
 Dla K60 mamy wybór między wersją zimową (inny skład mieszanki), a letnią.
 Zdaje się, że oba modele mają oznaczenie M+S (mud + snow).
@@ -198,15 +203,14 @@ zainteresuję się też [E07](#e07). Gdybym wybierał się gdzieś dalej, pewnie
 sprawdziłbym [Anakee 3](#anakee3). Dla jazdy poza terenem sprawdziłbym
 połączenie [TKC-80](#tkc80) na przodzie z czymś mniej agresywnym na tyle.
 
-Wersja K60 z tyłu którą posiadam nie ma ciągłego bieżnika, takiego jaki widać
-[na tym obrazku](#k60pasek). Nigdzie też w sklepach nie widziałem K60 z tym ciągłym
-bieżnikiem. Moje opony na Transalpie 650 prezentują się jak niżej.
+
+K60 na moim Transalpie 650 prezentują się jak niżej.
 
 ![Moje K60]({{site.url}}/img/myk60.jpg)
 
-Jestem już po kilku jazdach, ma się na nich wrażenie jakby mniejszego poczucia
+Po kilku jazdach, mam na nich wrażenie jakby mniejszego poczucia
 równowagi - motocykl dużo szybciej się na nich pochyla. Na mokrej trawie i błocie
-bez porównania lepiej trzymają niż dotychczasowe stare Metzelery Tourance.
+bez porównania lepiej trzymają niż dotychczasowe poprzednio używane Tourance.
 
 ### Linki
 
