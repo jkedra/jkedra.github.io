@@ -33,10 +33,17 @@ Opony enduro mają jeszcze dodatkową łapę (trzymak opony),
    lag amortyzatorów.
 4. Poluzować, ale nie odkręcać do końca cztery śruby (10mm) osi od lewej strony.
 5. Upewnić się, że motocykl jest podparty i kluczem 14 odkręcić z lewej strony
-   przednią oś i wyciągnąć ją.
-6. Podnieść za lagi do góry i uwolnić oś.
+   przednią oś i wyciągnąć ją. Z prawej i lewej strony usunąć dystanse.
+6. Podnieść za lagi do góry i uwolnić koło.
 
-## Zakładanie
+### Tył
+
+Ściągnięcie tylnego koła jest nieskoplikowane: Z motocyklem na centralnej stopce
+odkręcamy prawą nakrętkę (24) osi tylnej, po czym wpychamy koło tylne do przodu
+żeby ściąnąć łańcuch z zębatki i wyciągamy oś tylną w lewą stronę. Ściągamy dystanse
+z obu stron koła i odkładamy w bezpieczne miejsce. 
+
+## Zakładanie opon na koła
 
 W oponach Transalpa najtrudniej jest mi włożyć wentyl do jego dziury. Zwłaszcza
 gdy jest zimno i mam grubą 4mm dętkę crossową.
@@ -50,7 +57,7 @@ pojedynczej łyżki.
 
 Rant posmarować pastą, dużo łatwiej będzie włożyć oponę do środka bez łyżki.
 
-## Ogólne uwagi
+### Ogólne uwagi
 
 1. Najważniejsze - łyżka naprawdę może przedziurawić dętkę. Za pierwszym razem
    przedziurawiłem dwie dętki pod rząd zanim udało mi się to zrobić poprawnie.
@@ -62,7 +69,7 @@ Rant posmarować pastą, dużo łatwiej będzie włożyć oponę do środka bez 
    za pierwszym, pewnie i za drugim razem. Kup ich więcej i może nie celuj w najdroższe.
    Zaakceptuj straty to i do dzieła. Nauka kosztuje.
 
-## Potrzebne narzędzia i pomoce
+### Potrzebne narzędzia i pomoce dla serwisu opon
 
 1. Oczywiście łyżki, nie muszą wcale być długie, ważne żeby nie miały ostrych krawędzi.
 2. Pasta do opon, płyn do mycia naczyń, mydło z wodą.
@@ -70,6 +77,17 @@ Rant posmarować pastą, dużo łatwiej będzie włożyć oponę do środka bez 
 4. Szmata na której można położyć koło, żeby nie zniszczyć tarczy hamulcowej lub zębatki.
 5. Talk, mąka ziemniaczana.
 6. Rabakonda - jako ciekawostka, stojak do montażu opon moto.
+
+## Zakładanie kół na moto
+
+### Przód
+
+Momenty:
+
+1. oś przednia 64Nm
+2. 4 nakrętki z prawej strony do blokady osi przedniej, każda 12Nm
+3. oś tylna: 90Nm
+4. śruby mocujące zaciski hamulca: 12Nm
 
 
 [enduro1pl](https://www.youtube.com/watch?v=tOAs6IfbnsY)
