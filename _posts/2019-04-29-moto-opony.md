@@ -28,7 +28,7 @@ nawierzchnię to jednak bardziej terenowa opona jednak zostawia mi możliwość
 zjechania w teren. Dlatego jednak mój ostateczny wybór zbudowany jest na chęciach,
 zamiast na faktach. 
 
-Opona, którą kupię musi więc być kompromisem. Na polskim [forum Transalpa][forum]
+Opona, którą kupię musi więc być kompromisem. Na [TCP][tcp]
 ludzie piszą o swoich doświadczeniach, na Youtube znalazłem conajmniej kilka
 złożonych review i porównań. Autorzy zarzekają się, że nie są sponsorowani przez
 producentów. Na podstawie tych informacji zrobiłem poniższą listę:
@@ -51,10 +51,11 @@ osobistych preferencji stylu jazdy i terenu.
 |Dunlop     |TrailSmart                            | 90/10         |
 |Heidenau   |[K60]                                 | 60/40         |
 |Heidenau   |K69                                   |   offroad     |
+|Heidenau   |[K76]                                 | 90/10         |
 |Metzeler   |Karoo                                 | 10/90         |
 |Metzeler   |Enduro 3 Sahara                       | 10/90         |
 |Metzeler   |[Tourance]                            | 95/5          |
-|Michelin   |[Anakee 3](#anakee3)                  | 90/10         |
+|Michelin   |[Anakee 3](#anakee3)                  | 95/5          |
 |Michelin   |T66                                   |               |
 |Michelin   |[Sirac](#sirac)                       | 60/40         |
 |Mitas      |E10                                   | 10/90         |
@@ -69,15 +70,19 @@ swoje wnioski z nadzieją, że będą użyteczne nie tylko dla mnie.
 
 [Metzeler Tourance][tourance] to pierwsze opony z jakimi miałem do czynienia.
 Bieżnik wygląda na dość uniwersalny, wyraźna kostka ale według tabeli to opony
-przeznaczone głównie na utwardzone nawierzchnie (95/5).
+przeznaczone głównie na utwardzone nawierzchnie (90/10). 
+
+Tourance nie radzi sobie zupełnie na piachu i błocie.
 
 #### off-road
 
-Poza trasą radzą sobie zaskakujaco dobrze pod warunkiem, że jest sucho i w miarę
-twardo. Poślizgi w trawie i na stromych ale niezwiązanych trawersach - nawet na sucho -
-to normalna sprawa.
+Poza trasą radzą sobie zaskakujaco dobrze pod warunkiem, że jest sucho i w
+miarę twardo. Poślizgi w trawie i na stromych ale niezwiązanych trawersach -
+nawet na sucho - to normalna sprawa. Słowem - jeżeli już w teren - to z
+Tourance tylko w suchy.
 
 Na mokro w terenie to śmierć w oczach. Szybko zakopują się w błocie.
+I w piasku. Zawsze.
 
 #### utwardzone
 
@@ -85,10 +90,10 @@ Nierozgrzane wyraźnie ślizgają się na asfalcie gdy na zewnątrz temperatura
 spada poniżej 10°C. Na zakręcie potrafi wtedy wyjechać tył, a przy ostrym
 hamowaniu ślizga się przód. Wchodząc w regularne zakręty bałem się na nich pochylić.
 
-Nie byłem z nich zadowolony. Być może wiek opon ma tutaj znaczenie - moje doświadczenia
-z nimi zacząłem gdy miały już dobrze ponad 4 lata. Przez ten czas zjadłem na nich
-prawie cały bieżnik. Ze względu na wiek powinienem zmienić je wcześniej.
-
+Nie byłem z nich zadowolony. Być może wiek opon ma tutaj znaczenie - moje
+doświadczenia z nimi zacząłem gdy miały już dobrze ponad 4 lata. Przez ten czas
+zjadłem na nich prawie cały bieżnik. Ze względu na wiek powinienem zmienić je
+wcześniej.
 
 Oponeo:
 * [przód](https://www.oponeo.pl/dane-opony-motocyklowej/metzeler-tourance-90-90-21-54-s-przod-tt-m-c)
@@ -96,7 +101,15 @@ Oponeo:
 
 Moje opony:
 1. Przód: [Metzeler Tourance][tourance] 90/90-21 M/C 54S
-2. Tył: [Metzeler Tourance][tourance], 120/90-17 M/C 64S, rocznik 2011
+2. Tył: [Metzeler Tourance][tourance], 120/90-17 M/C 64S
+
+{: #k76 }
+### Heidenau K76
+
+_"Właściwości porównywalne do Metzeler Tourance, dobra trakcja na szutrze (nie
+lubi grubych szutrów i kamieni), słabo w piasku, kiepsko w błocie, cicha
+idealna na trasy asfaltowe nawet na mokrej nawierzchni dobrze trzyma. Wystarcza
+na stosunkowo długie przebiegi"._
 
 {: #sirac }
 ### Michelin SIRAC
@@ -110,11 +123,12 @@ powoduje, że nie zainteresowałem się nią zbyt mocno.
 {: #k60 }
 ### Heidenau K60
 
-K60 jest oponą niemieckiego producenta Heidenau.
+_Opona szosowa z opcją zjazdu z czarnego._ 
 
 ![K60]({{ site.url }}/img/k60_1.jpg)
 
-Popularna wśród ADV, określana jako 60/40.
+Popularna wśród ADV, określana jako 50/50 albo 60/40.
+
 Są dwa typy tej opony: 
 [K60](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60) i
 [K60 Scout](https://www.oponeo.pl/model-opony-motocyklowej/heidenau-k60-scout).
@@ -138,7 +152,9 @@ jest przeznaczony w 50% na drogi asfaltowe i 50% na drogi polne, szutrowe.
 
 Z powyższego możnaby wnioskować, że mają nieco inny bieżnik. Nie jest to jednak
 prawdą - na mojej K60 Scout klocki na czole bieżnika nie są połączone.
-W sklepach, które odwiedziłem nie widziałem K60 z tym ciągłym bieżnikiem.
+
+Na [TCP][tcp] znalazłem informacje, że K60 mają pasek dopiero dla rozmiarów
+140 i 160. Węższe profile są bez paska.
 
 Dla K60 mamy wybór między wersją zimową (inny skład mieszanki), a letnią.
 Zdaje się, że oba modele mają oznaczenie M+S (mud + snow).
@@ -150,6 +166,22 @@ Przynajmniej w jednym miejscu słyszałem skargę, że K60 nie trzyma już tak d
 na mokrym asfalcie.
 
 Tutaj szczegółowy [review K60 na Youtube](https://www.youtube.com/watch?v=P9iV6sk9Yck).
+
+Inne opinie:
+
+_Po skonczeniu mietków w poprzednim sezonie zmieniłem na komplet ScoutowK60 -
+obawiałem się jak zachowywać się będą na asfalcie w porównaniu do mietków i po
+zaledwie 6tys km mogę stwierdzić: - jedyna różnica którą zauważyłem to sposób
+reakcji na przeciwskręt - na mietkach moto schylał się płynnie, na K60 jest na
+początku większy opór który trzeba pokonać. Ale to niuanse - po tygodniu jazdy
+przyzwyczaiłem się bez stresu. Pokonywanie zakrętów? Na początku delikatnie z
+obawą (ojej bo to prawie kostka!) - ale to w głowie siedzi bo tak naprawdę
+zachowuje jak normalnej opona. Delikatne pętle bieszczadzkie, agrafki w Rumunii -
+przytarłem na nich buty i praktycznie zamknąłem oponkę. Aż zdziwiony byłem.
+Jedyna zauważalna róznica? Głośne ale to normalne przy takiej oponie. Teraz
+wybieram się w Alpy - myslałem co by nie wrócić do mietków - ale K60 są jeszcze
+w takim stanie że spokojnie dadzą radę.  Co do trwałości - to napewno tyle nie
+pociągną co mietki ale przecież to zupelnie inny typ gumy!_
 
 {: #e07}
 ### Mitas E07
@@ -219,9 +251,11 @@ bez porównania lepiej trzymają niż dotychczasowe poprzednio używane Tourance
 
 #### Youtube
 
-Obcojęzyczne filmy o oponach, o doświadczeniach z jazdy na drogach utwardzonych
-i w terenie.  Rankingi opon. Jak dobierać opony.
+Głównie obcojęzyczne filmy o doświadczeniach z jazdy na drogach
+utwardzonych i w terenie. Rankingi opon. Jak dobierać opony.
 
+1. [Opony do Transalpa TCP](http://forum.transalpclub.pl/viewtopic.php?f=27&t=21976)
+2. [Adventure tires – ‘my personal experiences’](https://rtwpaul.com/2018/01/21/tires/).
 1. [How to Choose the Best Adventure Motorcycle Tires](https://www.youtube.com/watch?v=9ebaHJ5jPs4)
 2. FortNine:
     * [Best Adventure and Dual Sport Tires 2016](https://www.youtube.com/watch?v=HvN913Zv6SM)
@@ -236,7 +270,7 @@ i w terenie.  Rankingi opon. Jak dobierać opony.
 
 [tourance]:  http://www.oponeo.pl/model-opony-motocyklowej/metzeler-tourance
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
-[forum]: http://forum.transalpclub.pl/
+[tcp]: http://forum.transalpclub.pl/
 [K60]: #k60
 [E07]: #e07
 [TKC80]: #tkc80

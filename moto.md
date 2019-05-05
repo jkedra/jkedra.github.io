@@ -5,7 +5,11 @@ permalink: /moto/
 regenerate: true
 language: pl
 ---
-Ta strona grupuje polskie posty na temat motocykli.
+
+<blockquote>
+Tam gdzie jest asfalt, nie ma nic ciekawego. A gdzie jest coś ciekawego?
+Tam gdzie nie ma asfaltu.
+</blockquote>
 
 ## Zasoby
 
