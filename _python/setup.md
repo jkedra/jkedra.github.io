@@ -100,9 +100,17 @@ the same until pyenv is updated. Pyenv can be updated anytime using git.
 Redhat supports the most recent Python version in its
 Redhat Software Collection repository (rhscl and optional-rpms repo)
 and also supports having and using multiple versions of Python.
-However it is done on Redhat's specific way using `scl` command.
+However it is done on Redhat's specific way using `scl` command (`scl_source`).
 More on the subject can be found on
 [this blog post][python-scl-rh].
+
+
+##### including in dot files
+
+Activating environment in `.bashrc` or `.bash_profile` files:
+
+    # Add RHSCL Python 3 to my login environment
+    source scl_source enable rh-python36
 
 [rbenv]: http://rbenv.org/
 [pyenv]: https://github.com/pyenv/
