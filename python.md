@@ -42,8 +42,8 @@ jss: [wikipize]
 1. [Pandas](#pandas)
 2. [Seaborn](#seaborn)
 3. [Bokeh](#bokeh)
-4. Pygal
-5. Plotly
+4. [Pygal](#pygal)
+5. [Plotly](#plotly)
 
 {: #pandas }
 *The Pandas* states for "panel data", a term for multidmensional structured data-set.
@@ -56,7 +56,7 @@ which integrates with Pandas. Seaborn is popular for making appealing statistica
 data graphs.
 
 {: #bokeh }
-It was developed by Anaconda's team with funding from [DARPA](we:). Open source project.
+*Bookeh* was developed by Anaconda's team with funding from [DARPA](we:). Open source project.
 An interactive library created for modern web browsers to visualise highly interactive
 plots and data applications. Bokeh's method can create any kind of graphical plot
 including dash boards and variety of charts. The graph looks much nicer and cleaner.
@@ -64,12 +64,12 @@ Bokeh method has a lot of customization option and functionality. Even though it
 it does not make sense to use for a simple bar visualisation.
 
 {: #pygal }
-It is a part of Python's library that exports vector chars in different shapes and styles.
+*Pygal* is a part of Python's library that exports vector chars in different shapes and styles.
 Options for visualizations are wide open and include pie chars, bar graphs, histograms,
 maps and on.
 
 {: #plotly }
-Aka Plot.ly because of its main platform online and interactive.
+Plotly aka Plot.ly because of its main platform online and interactive.
 Everything that is being created with the tool is posted on the web.
 Integrates well with Pandas.
 
