@@ -10,92 +10,32 @@ jss: [wikipize]
 
 ## Challenges
 
+Python allows to install only a single version of a library.
+If you want another version to be tested or used, you have
+to uninstall the old one. In global python environments it leads to
+requirements collisions. 
+
+Installing multiple versions of python itself can be confusing.
+Usually it is recommended to avoid using system wide python versions.
+They are usually well behind the mainstream. 
+
+Links:
+
 1. [How to install the latest Python 3.6 with UBuntu 16.04](http://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get#answer-865644)
 2. [Pip install throws TypeError](https://stackoverflow.com/questions/37495375/python-pip-install-throws-typeerror-unsupported-operand-types-for-retry)
-
-## Useful Tools
-
-### PyEnv
-
-[PyEnv][pyenv], similar to [rbenv][rbenv], allows to use multiple Python
-versions. Integrates with virtualenv. Here is a full procedure
-to install Python 3.6 for UBuntu and RHEL:
+3. [Kenneth Reitz explaining Python Dependency Management during PyCon 2018.](https://www.youtube.com/watch?v=GBQAKldqgZs)
 
 
-#### Pre-Requisites
+### PyEnv Way
 
-`pyenv` downloads and compiles Python. There is a list of dependencies
-which are required in the system before using `pyenv` to compile the Python
-installation. Most of packages have been listed below but if something is
-missing you can [find it on Google](g:pyenv+common+build+problems).
+**[PyEnv][pyenv]**, similar to [rbenv][rbenv], allows to use multiple Python
+versions simultenously. Integrates well with virtualenv. It is able to find
+the installed version of the tool and run it in a proper virtualenv.
+Really cool stuff.
 
-    # RHEL
-    yum install -y zlib-dev openssl-devel sqlite-devel bzip2-devel \
-        readline-devel libffi-devel tk-devel curl git
+Go here for [full procedure to install modern Python][pyenv] for UBuntu and RHEL.
 
-    # or
-    dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite \
-        sqlite-devel openssl-devel xz xz-devel
-
-    # UBuntu
-    apt install -y make build-essential libssl-dev zlib1g-dev \
-        libreadline-dev tk-dev \
-        libsqlite3-dev sqlite3 \
-        libncurses5-dev libncursesw5-dev \
-        xz-utils tk-dev bzip2 libbz2-dev libz-dev  \
-        curl wget llvm git
-
-    # install then follow onscreen instructions to modify
-    # rc files
-    curl -L  https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
-
-#### Installing Python with pyenv
-
-    pyenv install -l
-    pyenv install 3.6.4
-    pyenv install 3.7.2
-    pyenv version
-    pyenv global 3.6.4 3.7.2 system
-    pyenv version
-
-If something goes wrong, uninstall `pyenv uninstall 3.6.4` correct and retry.
-
-Always install virtualenv within the new python version you have created.
-You will need virtualenv later:
-
-    pip install virtualenv
-    pyenv activate 3.7.2
-    pip install virtualenv
-
-#### Creating Own VirtualEnv with pyenv
-
-Assume I want to open a new project named `rdspump` to work with python 3.7.2:
-
-    pyenv virtualenv 3.7.2 rdspump
-    pyenv activate rdspump
-    pip install cx_Oracle
-
-
-There is in-depth analysis of pyenv/virtualenv/virtualenvwrapper configuration
-on this blog blost:
-["The Definitive Guide to Setup My Python Workspace"][defguide].
-
-#### Updating pyenv
-
-Pyenv does not update itself, the list of available python versions is
-the same until pyenv is updated. Pyenv can be updated anytime using git.
-
-    $ cd $(pyenv root)
-    $ git pull
-    $ pyenv install -l
-
-#### More on pyenv
-
-1. [pyenv cheetsheet][pyenv-cs]
-
-### Distribution Specific Ways
-
-#### RHEL 7
+### RHEL 7 Specific
 
 Redhat supports the most recent Python version in its
 Redhat Software Collection repository (rhscl and optional-rpms repo)
@@ -105,7 +45,7 @@ More on the subject can be found on
 [this blog post][python-scl-rh].
 
 
-##### including in dot files
+#### including in dot files
 
 Activating environment in `.bashrc` or `.bash_profile` files:
 
@@ -113,8 +53,9 @@ Activating environment in `.bashrc` or `.bash_profile` files:
     source scl_source enable rh-python36
 
 [rbenv]: http://rbenv.org/
-[pyenv]: https://github.com/pyenv/
+[pyenv]: {{site.url}}{% link _python/pyenv.md %}
 [pyenv-installer]: https://github.com/yyuu/pyenv-installer
 [pyenv-cs]: https://github.com/malexer/cheatsheets/blob/master/pyenv.md
 [defguide]: https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14#.c8p03tuvp
 [python-scl-rh]: https://developers.redhat.com/blog/2018/08/13/install-python3-rhel/
+[pipenv]: https://www.youtube.com/watch?v=GBQAKldqgZs

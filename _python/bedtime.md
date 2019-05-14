@@ -30,6 +30,7 @@ jss: [wikipize]
 3. [Python 3 AsyncIO](https://pymotw.com/3/asyncio/)
 
 ## PyCon
+1. [PyCon 2018](https://www.youtube.com/results?search_query=PyCon+2018)
 1. [PyCon 2015 Videos](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
 
 ## Authors
