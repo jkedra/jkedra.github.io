@@ -40,4 +40,8 @@ naprawy).
 * klucz (nasadowy lub oczkowy) 10mm (4 śruby prawego jarzma osi przedniej)
 * klucz nasadowy (lub oczkowy z długim ramieniem) 17mm do osi przedniej
 
+## Regulacje lusterek i kierownicy
+
+* klucz 12 i 13 (lusterka)
+* klucz oczkowy 12 (regulacja kierownicy)
 
