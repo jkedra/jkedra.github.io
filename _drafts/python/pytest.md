@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pytest"
+title:  "Testing Python"
 author: jkedra
 #date: 2017-07-18 20:00
 language: pl
@@ -8,9 +8,11 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: python ipython testing
+tags: python ipython testing hypothesis pytest
 categories: tools
 ---
+
+[Unit testing](we:)
 
 ipyhon
 https://ipython.org/ipython-doc/3/interactive/tutorial.html
@@ -54,5 +56,29 @@ it finds a much smaller example that still causes the problem. It then saves
 that example for later, so that once it has found a problem with your code it
 will not forget it in the future.
 
+[hypothesis.readthedocs.io/](https://hypothesis.readthedocs.io/)
 
-[https://hypothesis.readthedocs.io/](https://hypothesis.readthedocs.io/)
+## Factory Boy
+
+Instead of building an exhaustive test setup with every possible combination of
+corner cases, factory_boy allows you to use objects customized for the current
+test, while only declaring the test-specific fields.
+
+It is similar to Hypothesis.
+
+* [factoryboy.readthedocs.io/](https://factoryboy.readthedocs.io/)
+* [Agile Database Integration Tests](https://medium.com/@vittorio.camisa/agile-database-integration-tests-with-python-sqlalchemy-and-factory-boy-6824e8fe33a1)
+
+
+## Contracts
+
+Provides a collection of decorators that makes it easy to write
+software using contracts. Contracts are declarative statements about
+what state a program must be in, to be considered correct at runtime.
+Contracts serve as a form of documentation and a way of formally
+specifying progra behaviour.
+
+* [Design by contract](we:)
+* [Python Contracts](https://github.com/deadpixi/contracts) - gitrepo
+
+
