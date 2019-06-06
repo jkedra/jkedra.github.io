@@ -15,3 +15,5 @@ https://blog.nintechnet.com/how-to-block-w00tw00t-at-isc-sans-dfind-and-other-we
 
 
 https://github.com/s3fs-fuse/s3fs-fuse
+
+Przeczytać więcej na temat [shimów](https://en.wikipedia.org/wiki/Shim_(computing))
