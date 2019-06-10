@@ -124,6 +124,7 @@ the same until pyenv is updated. Pyenv can be updated anytime using git.
 ### More on pyenv
 
 1. [pyenv cheetsheet][pyenv-cs]
+2. [pyenv realpython](https://realpython.com/intro-to-pyenv/)
 
 [rbenv]: http://rbenv.org/
 [pyenv]: https://github.com/pyenv/
