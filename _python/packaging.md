@@ -23,9 +23,10 @@ the package installation.
 
 1. SetupTools:
     * [Building and Distributing Packages with SetupTools][setuptools2]
-    * [PPU Packaking and distributing projects][setuptoolsPPU]
+    * [PPU Packaging and distributing projects][setuptoolsPPU]
 2. [Python Packaging Guide][ppg]
-3. [Kenneth Reitz Guide][krg]
+3. [Kenneth Reitz Packaging Guide][krpg]
+    * [Pipenv](https://docs.pipenv.org/en/latest/)
     * [Pipenv: The Future of Python Dependency Management, PyCon2018][pipenv2018]
 4. [pip-tools]
     * [Pin Your Packages](https://nvie.com/posts/pin-your-packages/)
@@ -46,7 +47,7 @@ the package installation.
 [setuptools2]: https://setuptools.readthedocs.io/en/latest/setuptools.html
 [setuptoolsPPU]: https://packaging.python.org/guides/distributing-packages-using-setuptools/
 [ppg]: https://python-packaging-user-guide.readthedocs.io/
-[krg]: http://docs.python-guide.org/en/latest/shipping/packaging/
+[krpg]: http://docs.python-guide.org/en/latest/shipping/packaging/
 [bm-pl]: https://github.com/BillMills/pythonPackageLesson/
 [hhg2pkg]: https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html
 [pipenv2018]: https://www.youtube.com/watch?v=GBQAKldqgZs

@@ -78,7 +78,13 @@ Integrates well with Pandas.
 #### Bokeh
 
 1. [Bookeh Project](https://bokeh.pydata.org/en/latest/)
-1. [Data Visualization with Bokeh in Python](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4) - Medium post
+2. [Data Visualization with Bokeh in Python](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4) - Medium post
+
+### Geo
+
+1. [Geo-Python 2018](https://geo-python.github.io/2018/)
+2. [Automated GIS-process](https://automating-gis-processes.github.io/2018/)
+3. [PyKML](https://pythonhosted.org/pykml/index.html)
 
 
 [stupid]: http://stupidpythonideas.blogspot.com/search/label/tutorial
