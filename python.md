@@ -12,7 +12,7 @@ jss: [wikipize]
 1. [tox automation project](https://tox.readthedocs.io/en/latest/) -
     standarize testing in Python
     * [tox docker](https://github.com/themattrix/docker-tox/blob/master/README.md)
-2. [pytest](https://docs.pytest.org/en/latest/)
+2. [pytest](pytest)
 3. [bump2version](https://github.com/c4urself/bump2version/blob/master/README.md)
 
 ## Front
