@@ -15,13 +15,16 @@ jss: [wikipize]
 2. [pytest](https://docs.pytest.org/en/latest/)
 3. [bump2version](https://github.com/c4urself/bump2version/blob/master/README.md)
 
+## Front
+
+1. [Django](django)
+2. [Flask](flask)
 
 ## Various
 
 * [Bedtime Reading](bedtime)
 * [Stupid Python Ideas Blog][stupid] - tutorials
 * [Decorators](decorators)
-* [Django](django)
 * [itertools](itertools)
 * [Books](learningpython5ed)
 * [Quotes](quotes)

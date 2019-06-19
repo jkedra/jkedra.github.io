@@ -3,7 +3,7 @@ layout: post
 title:  Django
 author: jkedra
 lang: en
-tags: django flask
+tags: django
 ---
 
 # Tutorial
@@ -38,12 +38,6 @@ tags: django flask
 # Testing
 
 * [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
-
-
-# Flask
-
-* [File uploads in Flask](http://flask.pocoo.org/docs/0.12/patterns/fileuploads/)
-* [Flask Uploads](https://pythonhosted.org/Flask-Uploads/)
 
 # Resources
 
