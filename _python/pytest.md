@@ -12,6 +12,12 @@ tags: python ipython testing hypothesis pytest
 categories: tools
 ---
 
+## Pytest
+
+[pytest](https://docs.pytest.org/en/latest/)
+
+## Other
+
 [Unit testing](we:)
 
 ipyhon
