@@ -44,7 +44,7 @@ pancerna konstrukcja.
 Z jednym zastrzeżeniem - trzeba przetestować jak buty trzymają się na
 granicie. Vibram trzyma się super o ile nie jest mokro.
 
-W sklepach outdorowych jest szeroki wybór tzw. _podejściówek_.
+W sklepach outdorowych jest szeroki wybór tzw. [_podejściówek_][6].
 Nie są tanie ale warto się przyjrzeć standarowi jaki wyznaczają.
 Niekoniecznie muszą być akurat najlepsze dla turystyki, są też kosztowne
 i podeszwa zużywa się szybko.  
@@ -58,7 +58,7 @@ do wyślizgania potrafi być ekstremalnie śliski.
 Skoro już piszę o butach to na końcu wspomnę o odciskach. Nie zrywać ich!
 Nie da się wtedy chodzić i leczy się to długo.
 Najlepiej mieć ze sobą [plastry Compeed na odciski](g:). Czasem można je kupić
-w schroniskach. Nie dość, że zabezpieczają sam odcisk to jeszcze ochraniają
+w schroniskach. Nie tylko zabezpieczają sam odcisk ale jeszcze ochraniają
 skórę pod dalszym działaniem niedopasowanego obuwia.
 
 #### Kurtka
@@ -69,8 +69,9 @@ oddana przez ciało woda zamarza wewnątrz kurtki zatykając kanaliki Gore.
 W zimie rzadko pada deszcz.
 
 W lecie naprawdę rzadko chodzę przy padającym deszczu. Podczas ulewy
-tak naprawdę sprawdza się duża pałatka (ochraniająca też stopy),
-tania kurtka z Decathlonu (przeciwdeszczowa, 40 zł) albo parasol (!).
+tak naprawdę sprawdza się [duża peleryna][7] (ochraniająca też stopy),
+[obszerne ponczo][9], [tania przeciwdeszczowa kurtka z Decathlonu][8]
+albo parasol (!).
 Goretexowa kurtka to fajny gadżet ale przy swojej kosmicznej cenie nie ochroni
 ani nóg ani butów.
 
@@ -84,7 +85,7 @@ w puchówkach.  Od dwóch lat intensywnie eksploatuję
 #### Polar
 
 Jeżeli jest za zimno na samą koszulę, ubieram stretchowy polar
-(Montano Cortina z kapturem).
+([Montano Cortina z kapturem][10]).
 
 #### Bielizna
 
@@ -95,7 +96,7 @@ i t-shirty kupuję w Decathlonie.
 #### Spodnie
 
 Ok znow Decathlon. Ale raczej z tych cieplejszych
-[alpism simond](https://www.decathlon.pl/?q=spodnie+alpinism+simond#product_8495260).
+[Alpinism Simond](https://www.decathlon.pl/?q=spodnie+alpinism+simond#product_8495260).
 Bardzo dobre jakościowo spodnie robi nowotarskie [Montano](www.montano.pl), np
 Extreme II, ale ceny mają z księżyca. 
 
@@ -252,10 +253,17 @@ Spytaj znajomego, lub poszukaj na FB.
 3. [Portal Górski][3]
 4. [Lawina pod Szpiglasową][4]
 5. [Panoramy Tatrzańskie][5]
+6. [forum.outdoor.org.pl][11]
 
 [1]: http://www.turystyka-gorska.pl/forum/index.php
 [2]: http://www.portalgorski.pl/blogi/post/zimowe-trasy-w-tatrach-wysokich-hala-gasienicowa
 [3]: http://portalgorski.pl
 [4]: http://tatromaniak.pl/aktualnosci/c/rocznica-tragedii-pod-szpiglasowa-przelecza-w-lawinie-zgineli-turysci-i-ratownicy-topr
 [5]: http://tatromaniak.pl/panoramy
+[6]: https://www.skalnik.pl/catalogsearch/result/?q=buty+podej%C5%9Bciowe
+[7]: https://www.decathlon.pl/?q=peleryna+arpenaz
+[8]: https://www.decathlon.pl/?q=kurtka+nh100+raincut
+[9]: https://www.decathlon.pl/?q=ponczo+trekkingowe
+[10]: http://montano.pl/pl/p/Bluza-Cortina-stretch-kaptur/70
+[11]: http://forum.outdoor.org.pl/
 

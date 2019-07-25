@@ -42,8 +42,6 @@ categories: climb
 ## Zasoby
 
 1. [wspinanie.pl](http://wspinanie.pl/)
-2. Ludowa [CAM only](/static/ludowa.html) and
-   [full page.](http://www.cwf.pl/kamera-live)
 3. [drytooling.com.pl](http://drytooling.com.pl): kopalnia informacji
    Damiana Granowskiego.
 4. Artykuły z [8a Academy][8a-academy]:
@@ -95,9 +93,14 @@ categories: climb
 
 #### Śpiwór
 
+
+
 1. [Cumulus Mysterious Traveller 500](http://cumulus.pl/pl/kategorie/spiwory/mysterious-traveller-500?gid=22&vid=6)
-2. [Deuter Orbit 5](http://taternik-sklep.pl/spiwor-deuter-orbit-5-375.html)
-3. [Forclaz 0 Helium](http://www.rudazwyboru.pl/2017/09/spiwor-na-gorskie-lato-forclaz-0-helium.html)
+2. [Cumulus Alaska 900-1300](https://forum.outdoor.org.pl/index.php?topic=2796.0) na [forum.outdoor.org.pl]
+3. [Śpiwory puchowe](https://forum.outdoor.org.pl/index.php?board=106.0)
+   z [forum.outdoor.org.pl]
+4. [Deuter Orbit 5](http://taternik-sklep.pl/spiwor-deuter-orbit-5-375.html)
+5. [Forclaz 0 Helium](http://www.rudazwyboru.pl/2017/09/spiwor-na-gorskie-lato-forclaz-0-helium.html)
 
 ### Sprzęt wspinaczkowy
 
@@ -213,4 +216,6 @@ Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 [dt-topo-legenda]: http://drytooling.com.pl/serwis/art/artykuly/6435-schemat-drogi-topo-wspinaczkowe
 
 [alelufa]: https://www.youtube.com/channel/UCxqeZD7wBkRhpMAgh_uhqyw
+[fo]: https://forum.outdoor.org.pl/
+[forum.outdoor.org.pl]: https://forum.outdoor.org.pl/
 
