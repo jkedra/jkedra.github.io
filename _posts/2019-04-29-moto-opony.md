@@ -115,7 +115,7 @@ na stosunkowo długie przebiegi"._
 ### Michelin SIRAC
 
 Bardzo podobna do [Metzeler Tourance](#tourance) ale z nieco wyraźniejszym
-bieżnkiem. Przede wszystkim na asfalt. Zbytnie podobnieństwo z Tourance
+bieżnikiem. Przede wszystkim na asfalt. Zbytnie podobnieństwo z Tourance
 powoduje, że nie zainteresowałem się nią zbyt mocno.
 
 1. [tył Oponeo](https://www.oponeo.pl/dane-opony-motocyklowej/michelin-sirac-120-90-17-64-t-tyl-tt)

@@ -15,8 +15,9 @@ Tam gdzie nie ma asfaltu.
 
 ### Fora
 
-* [Forum Transalp Club](http://forum.transalpclub.pl)
+* [Forum Transalp Club Polska][tcp]
 * [Honda Trail Bikies Forum](https://www.xrv.org.uk/forums/forum.php)
+* [Forum Africa Twin](http://africatwin.com.pl/)
 
 ### Techniczne
 1. [Porównanie XL650 kontra XT660R](http://forum.transalpclub.pl/viewtopic.php?f=191&t=14314)
@@ -52,11 +53,7 @@ Tam gdzie nie ma asfaltu.
 1. [Transfogarska & Transalpina][rumunia1]
 2. [Nordkapp](http://motohoryzont.com/na-NORDKAPP-motocyklem)
 
-## Źródła
-
-2. [Transalp Club Polska](http://forum.transalpclub.pl/)
-3. [Africa Twin Forum](http://africatwin.com.pl/)
-
+[tcp]:       http://forum.transalpclub.pl/
 [msm]:       http://szkola-motocyklowa.pl/
 [rumunia1]:  http://msm.malopolska.pl/?page=news&id=91
 [transalp]:  http://pl.wikipedia.org/wiki/Honda_Transalp#Honda_XL650V_Transalp "XL650V Transalp"
