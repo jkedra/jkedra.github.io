@@ -1,66 +1,73 @@
 ---
 layout: post
-title:  Buty w górach
+title:  Buty w skałach i górach
 author: jkedra
 categories: ubranie
 comments: true
 language: pl
 ---
 
-Dobór butów? Przez długi czas nie dobierałem uważnie obuwia - przeważnie
-kupowałem za duże buty, tak żeby było wygodnie. Za małe buty za duże ryzyko.
-Sprawa okazała się nieoczywista gdy pojeździłem na łyżwach, wtedy
-też po raz pierwszy odkryłem, że mam spore różnice w rozmiarze obu stóp.
+Długo nie przywiązywałem uwagi do doboru obuwia - przeważnie kupowałem za duże
+buty, ot tak żeby było wygodnie, żeby nie cisnęło. Przecież buty, w sensie
+odległości to wizualnie element odzieży położony najdalej, jednak w kategorii
+komfortu urastają do #1 podczas intensywnego używania nóg.
 
 ### Wspinaczkowe
 
-Moje pierwsze buty wspinaczkowe dobrałem niby ciasne. Jednak po roku używania
+Moje pierwsze buty wspinaczkowe dobrałem niby ciasno. Jednak po roku używania
 oraz jednej naprawie w M5 rozkłapały się tak obszernie, że można je nosić jak
 papucie. Teraz - pomimo iż sprawne - zupełnie nie nadają się na trudniejsze
-drogi. Używam ich tylko awaryjnie gdy mam zbyt obolałe nogi lub palce na
-obcisłe obuwie.
+drogi. Używam ich tylko awaryjnie gdy mam zbyt obolałe nogi i palce na
+normalne buty.
 
 Kolejna para była już naprawdę ciasna - rozmiar 41.5 i też się trochę rozbiła
-choć nie tak szybko i nie tak dużo. Drę teraz jakieś Ocuny - kupione bardzo
-ciasne, nie rozbiły się za dużo, naprawdę po włożeniu bolą palce, boli stopa
-ale po rozgrzaniu da się wytrzymać. To co jednak jest ich wadą jest też i
-zaletą. Są niesamowicie skuteczne gdy stawiam je na płytkich krawądkach. Dość
-twardy i wyraźny czubek buta. 
+choć nie tak szybko i nie tak dużo. Teraz mam już drugą z kolei parę [Ocunów
+Ozone](https://8a.pl/ocun-ozone-yellow-black), których wspinaczkowa rozmiarówka
+jest tak dobrana, że pasuje do regularnych butów. Czyli jeżeli mój codzienny
+rozmiar to 42.5 to idealne dla mnie Ozony również są w tym rozmiarze. Pierwsze
+bardzo ciasno dobrałem w stacjonarnym sklepie - gdy po roku się przetarły zamówiłem drugą parę wysyłkowo i było OK.
+
+Na moje standardy są bardzo ciasne i jakoś nie rozbijają się z czasem.
+Bezpośrednio po włożeniu bolą palce, boli stopa ale gdy się rozgrzeją i
+dostosowuje się stopa to da się wytrzymać. Z drugiej strony trzymają super na
+małych krawądkach. Dość twardy i wyraźny czubek buta. Nie miałem lepszych
+butów niż Ozone.
 
 Nie wyobrażam sobie sobie opcji zamawiania przez internet nieznanego mi obuwia
 wspinaczkowego. Trudno określić co dokładnie pasuje. Na pewno na początku
 trzeba swoje odcierpieć. I jeszcze długo później zanim się rozgrzeją.
 
-Konkluzja: Dobierać bardzo ciasno, im miększe tym ciaśniej, nie przesadzać
-z ciasnotą tych twardych. Do dzisiaj nie kupiłem zbyt ciasnych butów.
-Te naprawdę ciasne i twarde rozciągają się od ciepła nogi. Rozgrzewka lub
-pierwszy wyciąg mogą się okazać bolesne. W Tatry warto brać zapasowe rozbite
-kłapcie bo po całym dniu masakrowania palców może to być jedyna opcja
-wspinania.
+Konkluzja nie zaskakuje: Trzeba dobierać bardzo ciasno, im miększe buty tym
+można ciaśniej dobrać. Do dzisiaj nie kupiłem zbyt ciasnych butów. Te naprawdę
+ciasne i twarde rozciągają się od ciepła nogi. Rozgrzewka lub pierwszy wyciąg
+mogą się okazać bolesne. Jednak w Tatry - na długie wspinanie - biorę zapasowe
+luźniejsze buty, bo po całym dniu katowania palców rozbite kłapcie mogą być
+ratunkiem.
 
 ### Podejściówki
 
 Podejściówki, wiadomo - muszą być ciasne ale w miarę, tak żeby dało się w nich
 zrobić czasem nawet znacznie więcej niż dwadzieścia kilometrów dziennie. Moje
-podejściówki Scarpa Zodiac wymieniałem ze 3 razy. Pierwsze zamówiłem bodajże nr
-43 wysyłkowo i okazały się o wiele za duże. Kolejne jakie spróbowałem to by nr
-42 - o wiele lepiej, ale nadal miałem za dużo miejsca na palce i nie czułbym
-się w nich pewnie przy wspinaczce. W końcu w PolarSporcie zamówiłem nr 41.5 i
-przymierzyłem przed zakupem w sklepie. Trochę ciasno ale wziąłem. Zodiaki nie
-rozbiły się zbytnio w użyciu ale i tak, podczas wspinaczki czuję, że mogłby być
-nieco ciaśniejsze. Tutaj jednak poszedłem na kompromis z aktywnościami
-trekingowymi, to nie jest komfortowe obuwie to biegania po asfalcie. Także na
-podejściu potrafią nieźle skatować nogę - ostatecznie więc oceniam je jako
-nieco przyciasne.
+pierwsze i dotychczas jedyne podejściówki Scarpa Zodiac wymieniałem ze 3 razy.
+Pierwsze zamówiłem bodajże nr 43 wysyłkowo i okazały się o wiele za duże.
+Kolejne jakie spróbowałem nr 42 - o wiele lepiej, ale nadal miałem za
+dużo miejsca na palce i nie czułbym się w nich pewnie przy wspinaczce. W końcu
+w PolarSporcie zamówiłem nr 41.5 i przymierzyłem przed zakupem w sklepie.
+Trochę ciasno ale wziąłem. Zodiaki nie rozbiły się zbytnio w użyciu ale i tak,
+podczas wspinaczki czuję, że mogłby być nieco ciaśniejsze. Tutaj jednak
+poszedłem na kompromis z aktywnościami trekingowymi, to nie jest komfortowe
+obuwie to biegania po asfalcie. Także na podejściu potrafią nieźle skatować
+nogę - ostatecznie więc oceniam je jako nieco przyciasne.
 
 Plany na przyszłość? Spróbować La Sportiva Boulder albo TX4.
 
 Konkluzja: Choć bardzo kusi opcja wspinania się w podejściówkach, a w
-konsekwencji dobrania jak najmniejszeg rozmiaru - nie należy przesadzać.
-W tych butach powinnem być w stanie zrobić wiele kilometrów trekkingowo.
-Dobry pomysł na proste graniówki. Komfortowo przy drogach o trudności II,
-na III nie mam już takiego komfortu. Ale znam ludzi co bez problemu
-potrafą robić drogi o trudności V w podejściówkach.
+konsekwencji dobrania jak najmniejszeg rozmiaru - następnym razem nie będę
+dobierał butów podejściowych na wcisk. W tych butach powinnem być też w stanie
+zrobić wiele kilometrów trekkingowo. Podejściówki to dobry pomysł na proste
+graniówki. Są naprawdę wystarczające i przy tym wygodne przy drogach o
+trudności II (grań Rysy - MSC) na trunościach III nie mam już takiego komfortu.
+Ale znam ludzi co bez problemu używają ich na drogach o trudności V.
 
 ### Zimowe twarde
 
@@ -82,14 +89,15 @@ par butów i przynajmniej dwóch różnych producentów.
 
 #### Za duże
 
-Pierwsza przymiarka wg sugestii sprzedawcy - weź za duże bo podczas wspinaczki
-skatujesz sobie palce. Pewnie sporo w tym racji. Mój normalny rozmiar to pewnie
-42.5 ale chodzę tak w 42 (dość ciasno) jak i w 43 (luz), czasem nawet w 44 (za
-duże). Wziąłem Scarpa Mont Blanc rozmiar 44, dużo luzu z przodu, dużo luzu z
-tyłu. Miało być dobrze, ale już po pierwszej krótkiej wycieczcie po śniegu
-okazało się, że buty katują mi stopy i pięty. Jak ścisnę mocno to z przodu
-stopa jest masakrowana na boki i od góry. Jakbym nie ściskał i tak pięta ma za
-dużo luzu. Są zbyt szerokie na moją pięte, wyraźnie za duże na długość.
+Pierwsza przymiarkę zrobiłem wg sugestii sprzedawcy - _"weź za duże bo podczas
+wspinaczki skatujesz sobie palce"_. Pewnie sporo w tym racji. Mój normalny
+rozmiar to 42.5 ale chodzę tak w 42 (dość ciasno) jak i w 43 (luz), czasem
+nawet w 44 (za duże). Wziąłem Scarpa Mont Blanc rozmiar 44, dużo luzu z przodu,
+dużo luzu z tyłu. Miało być dobrze, ale już po pierwszej krótkiej wycieczcie po
+śniegu okazało się, że buty katują mi stopy i pięty. Jak ścisnę mocno to z
+przodu stopa jest miażdżona z boków i od góry. Ale jakbym mocno nie ściskał i
+tak pięta ma za dużo luzu. Są zbyt szerokie na moją pięte, wyraźnie za duże na
+długość.
 
 Kombinowałem na wiele sposobów. Dokładałem wkładki, zakładałem podwójne
 skarpety. Wspinać jeszcze się daje, ale chodzenie w tych butach to katorga.
@@ -117,7 +125,7 @@ kilku znajomych, którzy wspinają się zimowo.
 
 Kiedyś przy okazji kupowania podejściówek w PolarSporcie przymierzyłem nr 41.5
 i 42. Zapamiętałem, że 42 powinien być okay. Zwracało uwagę, że są dużo
-bardziej wygodniejsze od Scarpy i mają dość wąską cholewkę.
+bardziej wygodniejsze od Scarpy i mają dość wąską cholewkę co mi akurat pasuje.
 
 Pół roku później korzystając z oferty Skalnika - zamów za darmo,
 zwróć za darmo - zamówiłem w pierwszym podejściu numer 42, licząc się z tym,
@@ -144,6 +152,16 @@ będę miał więcej do powiedzenia.
 
 Niestety delikatnie obcierają. Skarpeta była dość cienka więc może
 zostało zbyt dużo luzu. Trasa nie za długa: Kuźnice - Kopa nad Karbem.
+
+### Stopy nieidealne
+
+Po raz pierwszy przyglądnąłem się stopom i obuwiu gdy sfrustrowany odkryłem, że
+jazda na łyżwach sprawia mi trudności. W rezultacie okazało się, że mam różnice
+w rozmiarze stóp (1 cm), a buty i łyżwy nie leżą na nich prostopadle do lodu
+(płaskostopie). Temat stał się rozwojowy przy doborze butów narciarskich bo tam
+zmuszony zostałem do zwrócenia uwagę na subtelności. I tak w wieku 44 lat
+zaprzyjaźniłem się z [podologiem](w:Podologia) i zacząłem regularnie stosować
+wkładki do butów.
 
 
 [1]: https://www.ukclimbing.com/forums/gear/la_sportiva_nepal_evo_gtx_size_question-438191
