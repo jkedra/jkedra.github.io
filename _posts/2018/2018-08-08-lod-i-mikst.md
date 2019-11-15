@@ -144,7 +144,7 @@ by przezwyciężyć strach i obawę przed prowadzeniem.
 
 Mówi się, że wspinać w lodzie jest łatwiej niż w drytoolu. Pewnie tak, ale
 asekuracja jest dużo gorsza. Poza tym praktyka i poznanie tej zmienności
-charakteru lodu są bardzo potrzebna. Więc to osobiste doświadczenie jest
+charakteru lodu są bardzo potrzebne. Więc to osobiste doświadczenie jest
 najważniejsze.
 
 Pomimo, iż to praktyka jest ważniejsza, książka Willa Gadda daje więcej szans
