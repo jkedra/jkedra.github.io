@@ -12,7 +12,22 @@ tags: climb
 css: [html5, img]
 ---
 
-Mięguszowiecki Szczyt Wielki (MSW)
+Mięguszowiecki Szczyt Czarny (MSC),
+Mięguszowiecki Szczyt Wielki (MSW),
+Cubryna
+
+## MSC i Kazalnica
+
+### Północno-wschodnia Grzęda MSC
+
+1. Cień Wielkiej Góry
+    * [climber.com.pl](http://www.climber.com.pl/?strona=post&id=319)
+2. Orzeł z Epiru
+    * [D.Granowski](https://drytooling.com.pl/baza/topo/tatry/5726-orzel-z-epiru-grzeda-msc)
+
+### Kazalnica
+
+[Kazalnica zimowo](http://www.nieznanetatry.pl/kazalnica-zimowo,327.html)
 
 ## MSW
 
