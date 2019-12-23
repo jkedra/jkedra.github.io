@@ -49,3 +49,4 @@ dla początkujących taterników, cz. II: podręczniki"_
 * _"[Zew Ciszy](a:)"_, Joe Simpson
 * _"[Biały Pająk](a:)"_, Harrer Heinrich
 * _"[Beyond the Mountain](m:Beyond+the+Mountain+Steve+House)"_, Steve House (2009)
+* _"[Cold Wars](m:Cold+Wars+Andy+KickPatrick)"_, Andy Kickpatrick (2011)
