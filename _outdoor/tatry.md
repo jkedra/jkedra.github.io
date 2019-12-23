@@ -63,17 +63,20 @@ skórę pod dalszym działaniem niedopasowanego obuwia.
 
 #### Kurtka
 
-Mam kilka par butów z gore, ale dotychczas nie kupiłem dla siebie kurtki
-goretexowej. W zimie, w ujemnych temperaturach Gore nie sprawdza się bo
-oddana przez ciało woda zamarza wewnątrz kurtki zatykając kanaliki Gore.
-W zimie rzadko pada deszcz.
+Mam kilka par butów z gore, ale dotychczas nie musiałem wyposażać się w
+goreteksowe kurtki. W zimie, w ujemnych temperaturach używanie gore
+ma niewiele sensu (polecam artykuł o [Vapour Barrier][12]) gdyż zwiększona
+oddychalność oznacza także większe wychłodzanie. W dodatku oddychalność
+materiału z goretexu będzie gorsza w temperaturze poniżej zera: Pot oddawany
+przez ciało zamarza na wewnętrznej warstwie kurtki blokując oddychanie
+materiału. W prawdziwej zimie deszcz nie pada, więc użwanie goretexu tak
+naprawdę będzie uzasadnione tylko podczas wspinaczki na płynących lodospadach. 
 
-W lecie naprawdę rzadko chodzę przy padającym deszczu. Podczas ulewy
-tak naprawdę sprawdza się [duża peleryna][7] (ochraniająca też stopy),
-[obszerne ponczo][9], [tania przeciwdeszczowa kurtka z Decathlonu][8]
-albo parasol (!).
-Goretexowa kurtka to fajny gadżet ale przy swojej kosmicznej cenie nie ochroni
-ani nóg ani butów.
+W lecie naprawdę rzadko chodzę przy padającym deszczu. Podczas ulewy dobrze się
+sprawuje [duża peleryna][7] (ochraniająca też stopy), [obszerne ponczo][9],
+[tania przeciwdeszczowa kurtka z Decathlonu][8] albo parasol (!). Goretexowa
+kurtka to fajny gadżet ale nawet przy swojej kosmicznej cenie nie ochroni ani
+nóg ani butów.
 
 Jeżeli jest zimno warto kupić sobie tanią i lekką kurtkę puchową. Nie będzie
 zajmować wiele miejsca, nie waży zbyt dużo. Wady - nie można dopuścić do
@@ -266,4 +269,5 @@ Spytaj znajomego, lub poszukaj na FB.
 [9]: https://www.decathlon.pl/?q=ponczo+trekkingowe
 [10]: http://montano.pl/pl/p/Bluza-Cortina-stretch-kaptur/70
 [11]: http://forum.outdoor.org.pl/
+[12]: http://just-hike.blogspot.com/2009/03/vapour-barrier.html
 

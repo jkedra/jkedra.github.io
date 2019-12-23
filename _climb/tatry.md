@@ -47,6 +47,7 @@ Wspinaczka i trekking w Tatrach.
 
 1. [Portal Górski](http://topo.portalgorski.pl/) - topo ze zdjęciami
 2. [Topo UKA](http://topo.uka.pl/content/topo/morskie_oko/morskie_oko.php)
+3. [Topo KW Warszawa](https://kw.warszawa.pl/topo)
 3. Wschodnia grań Żabiego Konia i Żabi Koń
     * [Pionowe Myśli](http://pionowemysli.pl/topotatry/zabi-kon-wschodnia-gran/)
     * [Ale Lufa! #30](https://www.youtube.com/watch?v=ZBamuYEuJ30) i [od Rysów](https://www.youtube.com/watch?v=Cv7lHlp5CMQ).
@@ -120,6 +121,7 @@ Taternik 4 1931 strona 91.
 
 1. [Szlaki bez granic](https://szlakibezgranic.pl)
 2. [Bezpieczny Powrót](https://bezpiecznypowrot.pl/)
+3. Alpenverein
 
 
 [zjazd1]: http://drytooling.com.pl/serwis/art/patenty/7025-poradnik-wspinaczkowy-zjazd-na-linie
