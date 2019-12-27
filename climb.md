@@ -6,6 +6,9 @@ language: pl
 regenerate: true
 ---
 
+
+> jak możesz to ci się nie chce, a jak ci się chce to już nie możesz
+
 Tematy wspinaczkowe.
 
 {% for item in site.climb %}
