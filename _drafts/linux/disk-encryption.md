@@ -6,8 +6,20 @@ author: jkedra
 language: en
 tags: linux
 ---
-
 LUKS: Linux Unified Key Setup
+
+
+badblocks -b 4096 -s -w -v /dev/sdf1
+apt-get install cryptsetup
+cryptsetup -y -v luksFormat /dev/sdf1
+cryptsetup -v status backup
+pv -tpreb /dev/zero | dd of=/dev/mapper/backup bs=128M
+mkfs.ext4 -L BACKUP /dev/mapper/backup
+
+cryptsetup luksDump /dev/sdf1
+cryptsetup luksOpen /dev/sdf1 backup
+mount /dev/mapper/backup /mnt
+
 
 ## Resources
 
