@@ -9,6 +9,7 @@ language: en
 # Links
 1. [Kevin Closson's Blog](https://kevinclosson.net/)
 2. [Flashdba - Chris Buckel](https://flashdba.com)
+3. [Useful Oracle RAC Commands)(https://valehagayev.wordpress.com/2016/04/16/useful-oracle-rac-commands/)
 
 # SQL Security
 
