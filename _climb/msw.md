@@ -50,3 +50,15 @@ Cubryna
 
 1. [Hińczowa Przełęcz Wprost](http://szlakiidrogi.pl/hinczowa-przelecz-wprost-ii/)
 
+### Facebook posty
+
+Poniższe teksty, które zaczerpnąłem z FB dotyczą najprostszych, ale
+też niestandardowych dróg *wejściowych* na MSW. Niestety nie zapisałem autorów
+czego bardzo, bardzo żałuję. Nie są sprawdzone więc ostrożnie z interpretacją.
+
+
+_Najłatwiejsza ORIENTACYJNIE moim zdaniem  jest droga taka: szlak pod Chłopka - Bandzioch - Biały Żlebek (do przejścia ale nie polecam - zjeżdżający gruz) - albo Czerwony Żlebek (nie byłem - sprawdzę w przyszłym roku) - potem filarem do góry (tutaj to raczej grzęda) do Białego Siodełka - potem Zachodem Janczewskiego - przed rynną Szulakiewicza wbijamy się na Mięguszowiecki Przechód i granią na szczyt (na grań można się wbić wcześniej IMHO ale ważne żeby już za Mięguszowiecką Turniczką - bo tam są strome uskoki). Trasa jest cały czas pod kontrolą. Trudności jak wszędzie - kilka czujnych miejsc jest!_
+
+
+_Polecam Czerwony Żlebek, Biały odradzam. Potwierdzam - orientacja wyjątkowo prosta, stopień trudności taki sam, jak pozostałych dróg turystycznych prowadzących na MSW, jedynka. Przez Siodełko w Filarze, wchodząc na nie albo z Bańdziocha albo Klimkową Ławką z Wielkiej Galerii Cubryńskiej szedłem na MSW kilkanaście razy, schodziłem też tamtędy z wierzchołka. To piękna, urozmaicona droga. Nie należy jedynie pomylić Zachodu Janczewskiego z Zachiodem Marusarza idącym wyżej, bo bedzie dwójka zamiast jedynki i nie wejść przypadkiem w Rynnę Wawrytki._
+
