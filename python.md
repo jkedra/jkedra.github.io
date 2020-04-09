@@ -19,6 +19,7 @@ jss: [wikipize]
 
 1. [Django](django)
 2. [Flask](flask)
+3. [Jinja2](jinja2)
 
 ## Various
 
