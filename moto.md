@@ -16,7 +16,7 @@ Tam gdzie nie ma asfaltu.
 ### Fora
 
 * [Forum Transalp Club Polska][tcp]
-* [Honda Trail Bikies Forum](https://www.xrv.org.uk/forums/forum.php)
+* [Honda Trail Bikies Forum](https://www.xrv.org.uk/forums/forum.php) and its [Transalp subforum](https://www.xrv.org.uk/forums/transalp.35/page-2).
 * [Forum Africa Twin](http://africatwin.com.pl/)
 
 ### Techniczne
