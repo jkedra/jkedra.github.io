@@ -17,16 +17,16 @@ bezradnie przed szerokim wyborem opon dla Hondy Transalp, jakim zarzuciło mnie
 [turystycznego enduro](w:turystyczne enduro), dlatego w tym segmencie poszukuję
 opon.
 
-Świadomy wybór opon do takiego turystycznego enduro okazał się dla nieoczekiwanie
-złożonym zadaniem. Dla samochodu wystarczy popatrzeć na europejskie oznaczenia
-określające ekonomiczność, głośność i przyczepność, żeby mieć już względnie
-dobre pojęcie o zakupie. Przy motocyklu dochodzi jeszcze aspekt "terenowości"
-bieżnika.
+Świadomy wybór opon do takiego turystycznego enduro okazał się dla
+nieoczekiwanie złożonym zadaniem. Dla samochodu wystarczy popatrzeć na
+europejskie oznaczenia określające ekonomiczność, głośność i przyczepność, żeby
+mieć już względnie dobre pojęcie o zakupie. Przy motocyklu dochodzi jeszcze
+aspekt "terenowości" bieżnika.
 
 Nawet gdy dookoła mnie same asfalty i rozsądnie byłoby kupić oponę na tego typu
 nawierzchnię to jednak bardziej terenowa opona jednak zostawia mi możliwość
-zjechania w teren. Dlatego jednak mój ostateczny wybór zbudowany jest na chęciach,
-zamiast na faktach. 
+zjechania w teren. Dlatego jednak mój ostateczny wybór zbudowany jest na
+chęciach, zamiast na faktach. 
 
 Opona, którą kupię musi więc być kompromisem. Na [TCP][tcp]
 ludzie piszą o swoich doświadczeniach, na Youtube znalazłem conajmniej kilka
@@ -88,12 +88,13 @@ I w piasku. Zawsze.
 
 Nierozgrzane wyraźnie ślizgają się na asfalcie gdy na zewnątrz temperatura
 spada poniżej 10°C. Na zakręcie potrafi wtedy wyjechać tył, a przy ostrym
-hamowaniu ślizga się przód. Wchodząc w regularne zakręty bałem się na nich pochylić.
+hamowaniu ślizga się przód. Wchodząc w regularne zakręty bałem się na nich
+pochylić.
 
 Nie byłem z nich zadowolony. Być może wiek opon ma tutaj znaczenie - moje
-doświadczenia z nimi zacząłem gdy miały już dobrze ponad 4 lata. Przez ten czas
-zjadłem na nich prawie cały bieżnik. Ze względu na wiek powinienem zmienić je
-wcześniej.
+doświadczenia z nimi zacząłem gdy miały już dobrze ponad 4 lata (kupiłem z
+motocyklem). Od tego czasu zjadłem na nich prawie cały bieżnik. Ze względu na
+wiek powinienem zmienić je wcześniej.
 
 Oponeo:
 * [przód](https://www.oponeo.pl/dane-opony-motocyklowej/metzeler-tourance-90-90-21-54-s-przod-tt-m-c)
@@ -187,10 +188,10 @@ pociągną co mietki ale przecież to zupelnie inny typ gumy!_
 ### Mitas E07
 
 [Ten film o Mitas E07](https://www.youtube.com/watch?v=TL4aY3RjXjA)
-porównuje ją z kilkoma innymi oponami terenowymi.
-I tak w porównaniu do [K60] wskazuje na wyższość E07 w terenie, choć przyznaje, że
-K60 lepiej jeździ po autostradzie. K60 ma też nieco większy przebieg (tył) niż
-E07 (10.000 vs 8.000 mil).
+porównuje ją z kilkoma innymi oponami terenowymi.  I tak w porównaniu do [K60]
+wskazuje na wyższość E07 w terenie, choć przyznaje, że K60 lepiej jeździ po
+autostradzie. K60 ma też nieco większy przebieg (tył) niż E07 (10.000 vs 8.000
+mil).
 
 W terenie ustępuje [TKC80], ale E07 ma przynajmniej dwa razy większy przebieg.
 E07 jest dość głośna i brzmi jak spadająca bomba z bombowca.
@@ -208,19 +209,19 @@ Mitas jest firmą czeską. Heidenau (K60) jest niemiecka.
 
 ![Twinduro]({{ site.url }}/img/tkc80.jpg)
 
-Także popularna, rekomendowana do cięższego ADV z przewagą off-road.
-Na asfalcie szybsze zużycie ze względu na bardziej agresywny kształt bieżnika.
-Kostki tracą ostrość krawędzi. Wyraźna kostka bieżnika i szerokie odstępy
-dają dużo lepsze zachowanie się TKC80 w terenie w porównaniu do popularnych 50/50
+Także popularna, rekomendowana do cięższego ADV z przewagą off-road.  Na
+asfalcie szybsze zużycie ze względu na bardziej agresywny kształt bieżnika.
+Kostki tracą ostrość krawędzi. Wyraźna kostka bieżnika i szerokie odstępy dają
+dużo lepsze zachowanie się TKC80 w terenie w porównaniu do popularnych 50/50
 typu [K60] i [E07].
 
 {: #anakee3 }
 ### Michelin Anakee 3
 
 Opona raczej turystyczna, typu 90 asfalt, 10 teren. Także dość popularna wśród
-kierowców Transalpa. Idealna na asfalt, zbiera dobre recenzje na mokrej nawierzchni,
-przyzwoicie zachowuje się na utwardzonym off-road. Ze względu na minimalny bieżnik
-ciężko jest jej używać w błocie i w piasku.
+kierowców Transalpa. Idealna na asfalt, zbiera dobre recenzje na mokrej
+nawierzchni, przyzwoicie zachowuje się na utwardzonym off-road. Ze względu na
+minimalny bieżnik ciężko jest jej używać w błocie i w piasku.
 
 ![Anakee 3]({{ site.url }}/img/anakee3.jpg)
 
@@ -248,6 +249,7 @@ bez porównania lepiej trzymają niż dotychczasowe poprzednio używane Tourance
 
 1. [Złapałem gumę]({{site.url}}{% post_url 2016/2016-01-29-flak %}) -
    pierwsze przygody z flakiem.
+2. [Wątek na africatwin.com.pl o K60/TKC/E09](http://africatwin.com.pl/showthread.php?t=18471)
 
 #### Youtube
 
