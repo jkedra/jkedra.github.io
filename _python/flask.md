@@ -3,7 +3,7 @@ layout: post
 title:  Flask
 author: jkedra
 lang: en
-tags: django flask
+tags: django flask jinja
 ---
 
 1. [File uploads in Flask](http://flask.pocoo.org/docs/0.12/patterns/fileuploads/)
@@ -27,3 +27,6 @@ Screencasts:
 * [Builiding CLI Applications with Click](https://www.youtube.com/watch?v=kNke39OZ2k0), it also nicely demonstrates how to create setup.py and install the
 resulting package in-place using `pip --editable .`.
 
+### Jinja2
+
+https://www.webforefront.com/django/usebuiltinjinjafilters.html
