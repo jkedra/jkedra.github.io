@@ -123,10 +123,10 @@ sie na podstawach drytoola i są opisywane przez Willa Gadda. Teoria gdzieś tam
 była z tyłu głowy ale konfrontacja z rzeczywistością okazała się porażką.
 
 Konfrontacja teorii z praktyką, 1:0 dla praktyki. Musiałem wrócić do pierwszych
-rozdziałów z elementarną wiedzą. Do głowy wbiłem sobie jak Will wbija dziabkę w
-lód wbijać dziabkę, jak stawać na nogach odciążając dziabki, unikać przybloków,
-dobierać punkty zaczepienia dziabki przed przyblokiem. Jak lepiej ustawić się
-podczas wkręcania śruby. To wszystko jest w książce. Elementarz wspinania
+rozdziałów z elementarną wiedzą. Jeszcze raz uważnie zapoznać się z tym jak
+wbijać w lód dziabkę, jak stawać na nogach odciążając ręce, jak unikać
+przybloków, dobierać punkty zaczepienia przed przyblokiem. Jak lepiej ustawić
+się podczas wkręcania śruby. To wszystko jest w książce. Elementarz wspinania
 lodowego wraz ze zdjęciami.
 
 <blockquote>
