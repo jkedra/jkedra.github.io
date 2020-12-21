@@ -1,11 +1,11 @@
-var DEBUG=false;
+const DEBUG=false;
 
 function log(str) {
 	if(DEBUG) console.log(str);
 }
 
 function wikipize(lang, entry) {
- log("WIKIPIZE lang:"+lang+":");
+ log(`WIKIPIZE lang:${lang}:`);
   //  w:xxx  - polish wiki
   //  we:xxx - english wiki
   switch(lang) {
@@ -18,7 +18,9 @@ function wikipize(lang, entry) {
   if(entry.length==0)
     entry = $(this).text();
 
-  return("https://"+lang+".wikipedia.org/wiki/"+entry);
+  const link = `https://${lang}.wikipedia.org/wiki/${entry}`
+    .replace(/\s+/g, '_');
+  return(link);
 }
 
 function googlize(extra, entry) {
@@ -32,21 +34,33 @@ function googlize(extra, entry) {
        extra = "&tbm=isch"; break;
    }
    
-   return("https://www.google.com/search?q="+entry+extra);
+   const link = ("https://www.google.com/search?q="+entry+extra)
+    .replace(/\s+/g, '+');
+   return(link);
 }
 
 function allegrize(extra, entry) {
 	log("ALLEGRIZE");
 	// a:xxx - search on allegro
 	// https://allegro.pl/listing?string=l%C3%B3d%20i%20miskt
-
-	return("https://allegro.pl/listing?string="+entry);
+  const link = ("https://allegro.pl/listing?string="+entry)
+    .replace(/\s+/g, '+');
+	return(link);
 }
 
 function amazonize(extra, entry) {
-    log("AMAZONIZE");
-    // https://www.amazon.com/s?k=beyound+the+mountain+steve+house
-    return("https://www.amazon.com/s?k="+entry);
+  log("AMAZONIZE");
+  // https://www.amazon.com/s?k=beyound+the+mountain+steve+house
+  const link = ("https://www.amazon.com/s?k="+entry)
+    .replace(/\s+/g, '+');
+  return(link);
+}
+
+// the required argument is youtube move alphanumeric descriptor
+// returns https://www.youtube.com/watch?v=l4Nn-y9ktd4
+function youtubize(extra, entry) {
+  log("YOUTUBIZE");
+  return(`https://www.youtube.com/watch?v=${entry}`)
 }
 
 function ize() {
@@ -54,22 +68,26 @@ function ize() {
   $("a").each(
     function() {
       var href = $(this).attr("href");
-      //  g:xxx  - search on google
-      //  gp:xxx - search on google pictures
-	  //
-      //  w:xxx  - polish wiki
-      //  we:xxx - english wiki
-	  //
-      //  a:xxx  - allegro
-      //
-      //  m:xxx  - amazon us search
-      //
-      // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
-      // http://www.rexegg.com/regex-conditionals.html
-      // optionally enclosed in ()
-      var results = /^([gwam])(\w?):(.*)/.exec( href )
+      /*
+       g:xxx  - search on google
+       gp:xxx - search on google pictures
+	 
+       w:xxx  - polish wiki
+       we:xxx - english wiki
+
+       a:xxx  - allegro
+      
+       m:xxx  - amazon us search
+      
+       y:xxx  - youtube search
+      
+       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
+       http://www.rexegg.com/regex-conditionals.html
+       optionally enclosed in ()
+      */
+      var results = /^([gwamy])(\w?):(.*)/.exec( href )
       if(results != null) {
-		var typize = results[1]; // link type (allowed types above)
+		    var typize = results[1]; // link type (allowed types above)
         var extra  = results[2]; // extra tags for search service
                                  // eg wiki language or google images
                                  // (optional letter)
@@ -81,22 +99,25 @@ function ize() {
 
         switch(typize) {
           case undefined:
-            extra = "";          break;
-          case "g":
-            targetLink = googlize(extra, entry).replace(/\s+/g, '+');
-		    break;
-          case "w":
-            targetLink = wikipize(extra, entry).replace(/\s+/g, '_');
+            extra = "";
             break;
-	      case "a":
-			targetLink = allegrize(extra, entry).replace(/\s+/g, '+');
+          case "g":
+            targetLink = googlize(extra, entry);
+		        break;
+          case "w":
+            targetLink = wikipize(extra, entry);
+            break;
+          case "a":
+            targetLink = allegrize(extra, entry);
             break;
           case "m":
-            targetLink = amazonize(extra, entry).replace(/\s+/g, '+');
+            targetLink = amazonize(extra, entry);
             break;
+          case "y":
+            targetLink = youtubize(extra, entry);
         }
 
-        log("HREF=" + href + " => " + targetLink);
+        log(`href=${href} => ${targetLink}`);
         $(this).attr("href", targetLink);
       }
   });

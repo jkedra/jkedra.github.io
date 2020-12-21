@@ -26,3 +26,6 @@ zo - open fold
 zO - open fold recursively
 
 zc - close fold
+
+zn - open all folds
+

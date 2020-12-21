@@ -7,6 +7,8 @@ language: en
 
 ## Environment and Installation
 
+Last update: 2020-12-16
+
 ### Links
 
 1. In [Rubygems Guides][rgg-ref_env]
@@ -39,11 +41,11 @@ _This is slightly updated and briefed version of [original article][rruby]._
 First we fetch the latest [ruby-install][rubyinstall] file, extract it into a
 directory, then make it.
 
-    sudo apt-get install build-essential
-    wget -O ruby-install-0.6.1.tar.gz \
-        https://github.com/postmodern/ruby-install/archive/v0.6.1.tar.gz
-    tar -xzvf ruby-install-0.6.1.tar.gz
-    cd ruby-install-0.6.1/
+    sudo apt install build-essential
+    wget -O ruby-install-0.7.0.tar.gz \
+        https://github.com/postmodern/ruby-install/archive/v0.7.0.tar.gz
+    tar -xzf ruby-install-0.7.0.tar.gz
+    cd ruby-install-0.7.0/
     sudo make install
 
 You can verify that these steps have worked by running the following command:
@@ -81,21 +83,21 @@ In order for this to take effect, we'll reload the shell:
 To verify that chruby is installed and has detected our Ruby installation, run
 chruby. If you see this, then it's working:
 
-    ruby-2.4.0
+    ruby-2.7.2
 
 Now we need to make that Ruby the default Ruby for our system, which we can do
 by creating a new file called `~/.ruby-version` with this content:
 
-    ruby-2.4.0
+    ruby-2.7.2
 
 This file tells chruby which Ruby we want to use by default. To change the
-ruby version that we're using, we can run chruby ruby-2.3.0 for example --
-assuming that we have Ruby 2.3.0 installed first!
+ruby version that we're using, we can run chruby ruby-2.3.3 for example --
+assuming that we have Ruby 2.3.3 installed first!
 
 Did this work? Let's find out:
 
     $ ruby -v
-    ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+    ruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-linux]
 
 ## Programming
 
