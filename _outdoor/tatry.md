@@ -109,9 +109,8 @@ W zimie jest cicho, pogoda jest stabilniejsza, deszcz nie zmoczy.
 
 ### Istotny ekwipunek
 
-1. [Stuptuty](gp:) - ważne żeby mieć, nie muszą być długie aż pod kolano,
-    najlepiej oddychające, mogą być z grubszym materiałem od pomiędzy nogami
-    (ochrona przed rakami).
+1. [Stuptuty](gp:) - nie muszą być długie aż pod kolano, najlepiej oddychające,
+    mogą być z grubszym materiałem od pomiędzy nogami (ochrona przed rakami).
 2. Bandana (ew. czapka), najlepiej więcej niż jedna.
     Może pełnić funkcję czapki, szalika lub rękawiczki.
 3. Rękawiczki! Cienkie, grube, palczaste i tzw. łapawice.
@@ -120,10 +119,9 @@ W zimie jest cicho, pogoda jest stabilniejsza, deszcz nie zmoczy.
 5. Telefon (tryb oszczędny), ew. ładowarka (w schronisku).
 6. Kijki z małym talerzykiem.
 7. Czekan długi turystyczny zawsze zimą warto mieć. Nie waży dużo ale
-    może dosłownie uratować życie.
-8. [Raki turystyczne](gp:). Zawsze warto mieć jakieś lekkie raczki w plecaku.
-    Najlepiej full wypas duże raki. Wiele razy celowo nie brałem raków,
-    a potem żałowałem. Patrz czekan.
+   może dosłownie uratować życie.
+8. [Raki turystyczne](gp:). Jeżeli duże raki są za ciężkie to przynajmniej
+   lekkie raczki. Patrz czekan.
 9. Karta 3+ uprawnia do darmowego wejścia TPN. Karta Alpenverein (zniżki).
 
 Jeżeli chodzisz zawsze po ubitych ścieżkach i wiesz, że wycofasz się przy
@@ -143,14 +141,14 @@ np. raki w oblodzeniu albo okulary przeciwsłoneczne.
     * filtr w sztyfcie (ochrona ust)
 1. Smartfon dodatkowo (tryb offline, mapy).
 2. Szkła kontaktowe, futerał na okulary.
-3. Drugi czekan może czasem warto wziąć.
 4. GPS klasyczny, z zapasowymi bateriami. [Garmin 60CSx](gp:).
-    Zawsze biorę jeżeli pogoda nie ma być idealna. Bardzo przydaje się
-    w sytuacji mgły, ciemności itp. Na Czerwonych Wierchach można się
-    nieźle zapchac w sytuacji dujawicy.
+    Biorę jeżeli pogoda nie ma być idealna i nie znam bardzo dobrze drogi.
+    Bardzo przydaje się w sytuacji mgły, ciemności itp.\
+    Na Czerwonych Wierchach można się nieźle zapchac w sytuacji dujawicy.
 5. Apteczka. 
     * plastry na odciski (compeed)
     * plastry normalne na skaleczenia (ostra skała)
+    * waciki nasączone środkiem dezynfekcyjnym
     * opaska elastyczna na skręconą kostkę
 6. Zapasowa latarka. Gdy planujemy nocne akcje i gdy jest wyjątkowo zimno.
 7. Ogrzewacze chemiczne.
@@ -177,9 +175,10 @@ Miałem ze trzy pary butów z Decathlonu używanych w górach. Pierwsze
 były ultra lekkie, miękkie, z elastyczną podeszwą.
 Potem kupiłem twarde [Trek 900 Forclaz](https://www.decathlon.pl/buty-trek-900-mskie-id_8398954.html).
 
-Obecnie w zimie chodzę w La Sportiva Nepal Evo, ale to już overkill do turystki
-zimowej. Używam ich głównie do wspinaczki lodowej ale są tak wygodne, że
-chętnie chodzę w nich na dłuższe piesze wycieczki.
+Zasadniczo w zimie chodzę w La Sportiva Nepal Evo. Używam ich głównie do
+wspinaczki ale są dość wygodne można ostatecznie robić w nich dość długie
+podejścia. Niestety obcierają mi moją wąską piętę. Bywa więc, że podchodzę
+w innych lekkich butach, a Nepale ubieram kiedy to konieczne.
 
 Przykład lekkich miękkich butów zimowych:
 
@@ -199,17 +198,18 @@ Warto rzucić okiem na
 
 ### Posiłki
 
-1. Kabanosy i sucha kiełbasa. Lekkie, ale dość ciężkostrawne.
-2. Łatwa i szybka glukoza czyli mała cola/pepsi.
-3. Łatwa lekka glukoza czyli czekolada.
+1. Kabanosy i dobra wiejska kiełbasa. Lekkie, energetyczne, wystarcza na długo.
+2. Łatwa i szybka glukoza czyli mała cola/pepsi - waży dość dużo.
+3. Łatwa lekka glukoza czyli czekolada. Tańszym zamiennikiem przeróżnych
+   żeli energetycznych są mleczka skondensowane w tubce z Biedronki.
 4. Płatki owsiane (kalorie) wymieszane z kaszkami ryżowymi Bobovita lub
     podobnymi (na mleku). Ewentualnie kaszkę można zastąpić mlekiem w proszku.
-    Do smaku jakieś rodzynki, suszone jabłka. Zmieszać. W schronisku zalać
-    wrzątkiem. Smaczne, bardzo pożywne.
+    Do smaku jakieś rodzynki, suszone jabłka, przetarta czekolada. Zmieszać.
+    W schronisku zalać wrzątkiem, albo na sucho. Smaczne, bardzo pożywne.
 4. Picie, w schronisku tani wrzątek, wystarczy sok, cukier, herbata
    w torebkach, kawa instant.
 
-Lekkie śniadanie jest nalepsze. _Lekkie_ oznacza jedną kanapkę,
+Lekkie śniadanie jest najlepsze. _Lekkie_ oznacza jedną kanapkę,
 a nie wypaśną jajecznicę na boczku. Zbyt obfity posiłek jest dużym
 obciążeniem dla organizmu. Duży posiłek nalepiej zjeść już pod koniec
 dnia.
@@ -257,6 +257,7 @@ Spytaj znajomego, lub poszukaj na FB.
 4. [Lawina pod Szpiglasową][4]
 5. [Panoramy Tatrzańskie][5]
 6. [forum.outdoor.org.pl][11]
+7. [projektyprzygodowe.pl/tatry-poza-szlakiem/][13]
 
 [1]: http://www.turystyka-gorska.pl/forum/index.php
 [2]: http://www.portalgorski.pl/blogi/post/zimowe-trasy-w-tatrach-wysokich-hala-gasienicowa
@@ -270,4 +271,5 @@ Spytaj znajomego, lub poszukaj na FB.
 [10]: http://montano.pl/pl/p/Bluza-Cortina-stretch-kaptur/70
 [11]: http://forum.outdoor.org.pl/
 [12]: http://just-hike.blogspot.com/2009/03/vapour-barrier.html
+[13]: https://projektyprzygodowe.pl/tatry-poza-szlakiem/
 
