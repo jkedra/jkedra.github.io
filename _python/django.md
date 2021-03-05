@@ -47,6 +47,7 @@ tags: django
     Nicely integrated with django.
 * [Django Debug Toolbar][debug-toolbar]: a must!
 * [Django Book](http://djangobook.com/)
+* [Django vs Flask](https://testdriven.io/blog/django-vs-flask/)
 
 
 [djbreadcrumbs]: https://django-bootstrap-breadcrumbs.readthedocs.org/en/latest/

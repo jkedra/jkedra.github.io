@@ -32,6 +32,7 @@ jss: [wikipize]
 * [Python and Oracle](pyora)
 * [Setup Python](setup).
 * [Packaging Python](packaging)
+* [Learning Python](learning)
 
 ### [Multiprocessing and Async](async)
 

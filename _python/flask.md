@@ -10,6 +10,7 @@ tags: django flask jinja
 2. [Flask Uploads](https://pythonhosted.org/Flask-Uploads/)
 3. [Patrick's Flask Tutorial](http://www.patricksoftwareblog.com/flask-tutorial/)
 4. [Explore Flask](https://exploreflask.readthedocs.io) book
+5. [Django vs Flask](https://testdriven.io/blog/django-vs-flask/)
 
 
 ## Flask Libraries
