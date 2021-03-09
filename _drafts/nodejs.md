@@ -22,11 +22,19 @@ attempt this time.
 ## Ubuntu Install
 
 First install nodejs, but not like [the course][1] says (it mentions
-global install for Mac and Windows), but rather using [this tutorial][2](16.04)
+global install for Mac and Windows), but rather using [this tutorial][2](20.04)
 or [this one][3](18.04).
 
+    nvm ls
+    nvm ls-remote
+    nvm install v14.16.0 
+    nvm use v14.16.0
+    nvm current
+    nvm uninstall v13.9.0
+
+
 [1]: https://www.udemy.com/the-complete-nodejs-developer-course-2
-[2]: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
+[2]: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 [3]: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04
 
 
