@@ -10,8 +10,8 @@ jss: [wikipize]
 
 [PyEnv][pyenv] is similar to [rbenv][rbenv] and allows to use multiple Python
 versions simultenously. It means it is able to bind an installed script with
-proper virtualenv and appropriate python version. It integrates well with virtualenv.
-Really cool stuff.
+proper virtualenv and appropriate python version. It integrates well with
+virtualenv. Really cool stuff.
 
 Below are procedures to install Python 3.6 and 3.7 for Ubuntu and RHEL:
 
@@ -41,6 +41,17 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
     # install then follow onscreen instructions to modify
     # rc files
     curl -L  https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
+
+At least for Ubuntu16 I hit a weird problem with `libreadline` being not
+properly installed and not recognized by python installator. In such the
+case you may try to uninstall the metapackage and install specifically
+its 6 version:
+
+    apt remove libreadline-dev libreadline6-dev
+    apt install libreadline6-dev
+
+More details on that may be found in
+[pyenv issue #1479](https://github.com/pyenv/pyenv/issues/1479).
 
 ### Installing Python with pyenv
 

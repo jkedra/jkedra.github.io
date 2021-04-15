@@ -114,6 +114,15 @@ wspinaczy spakowałoby swoje czekany i buty, i wróciłoby do domu.
 
 **Joe Simpson** _"Gra z duchami"_.
 
+## This Old Tony
+
+I like to fix stuff. More precisely: I like being able to fix stuff.
+If I so choose. Which I try no to choose that often.
+
+https://youtu.be/aGsFdudG7Ho?t=154
+
+I don't think anything's even come through my door that I haven't been
+able to TIG weld. Though full disclosure I keep my door closed. 
 
 ## Zasoby
 

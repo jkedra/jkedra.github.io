@@ -42,22 +42,49 @@ First we fetch the latest [ruby-install][rubyinstall] file, extract it into a
 directory, then make it.
 
     sudo apt install build-essential
-    wget -O ruby-install-0.7.0.tar.gz \
-        https://github.com/postmodern/ruby-install/archive/v0.7.0.tar.gz
-    tar -xzf ruby-install-0.7.0.tar.gz
-    cd ruby-install-0.7.0/
+    wget -O ruby-install-0.8.1.tar.gz \
+        https://github.com/postmodern/ruby-install/archive/v0.8.1.tar.gz
+    tar -xzvf ruby-install-0.8.1.tar.gz
+    cd ruby-install-0.8.1/
     sudo make install
 
 You can verify that these steps have worked by running the following command:
 
     $ ruby-install -V
-    ruby-install: 0.6.1
+    ruby-install: 0.8.1
+    $ ruby-install
+    >>> Downloading latest truffleruby versions ...
+    >>> Downloading latest truffleruby-graalvm versions ...
+    Stable ruby versions:
+      ruby:
+        2.6.7
+        2.7.3
+        3.0.1
+      jruby:
+        1.7.26
+        9.1.6.0
+      rbx:
+        2.71828182
+        3.69
+      truffleruby:
+        21.0.0
+      truffleruby-graalvm:
+        21.0.0
+      mruby:
+        1.2.0
+    $ ruby-install ruby 2.7.3
+    >>> Installing ruby 2.7.3 into /home/jxa/.rubies/ruby-2.7.3 ...
+    >>> Installing dependencies for ruby 2.7.3 ...
+    [...]
 
-_Our next step is to install Ruby itself, which we can do with this command:_
+
+_Our next step is to install the latest Ruby itself,
+which we can do with this command:_
 
     ruby-install --latest ruby
 
-Once it's done, we'll have Ruby 2.4.0 installed. In order to use this Ruby
+Once it's done, we'll have Ruby 3.0.1 installed (Apr 15th 2021).
+In order to use this Ruby
 version, we'll need to install chruby as well. The instructions can be found in
 [chruby's README][chruby] too.
 
@@ -83,12 +110,15 @@ In order for this to take effect, we'll reload the shell:
 To verify that chruby is installed and has detected our Ruby installation, run
 chruby. If you see this, then it's working:
 
-    ruby-2.7.2
+    $ chruby ruby-3.0.1
+    $ ruby -v
+    ruby 3.0.1p64 (2021-04-05 revision 0fb782ee38) [x86_64-linux]
+
 
 Now we need to make that Ruby the default Ruby for our system, which we can do
 by creating a new file called `~/.ruby-version` with this content:
 
-    ruby-2.7.2
+    ruby-3.0.1
 
 This file tells chruby which Ruby we want to use by default. To change the
 ruby version that we're using, we can run chruby ruby-2.3.3 for example --
