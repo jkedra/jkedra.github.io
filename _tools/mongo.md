@@ -6,6 +6,12 @@ tags: mongo
 language: en
 ---
 
+# Documentation
+
+<https://docs.mongodb.com/manual/>
+<https://docs.mongodb.com/manual/replication/>
+<https://docs.mongodb.com/manual/sharding/>
+
 
 ## Replica-set for development using Docker
 
