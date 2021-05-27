@@ -9,6 +9,7 @@ comments: true
 css: [css-snip1, css]
 jss: [wikipize]
 categories: moto
+permalink: /moto/opony
 ---
 
 Czas zmienić opony. Bieżnik zjechany, guma już niemłoda. Stanąłem zupełnie

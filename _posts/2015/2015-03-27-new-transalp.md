@@ -207,6 +207,9 @@ go poza jazdą w terenie.
 1. Przód: [Metzeler Tourance][tourance] 90/90-21 M/C 54S
 2. Tył: [Metzeler Tourance][tourance], 120/90-17 M/C 64S, rocznik 2011
 
+Nie byłem zadowolony z tych opon, [rozpoznałem temat](/moto/opony)
+i zmieniłem je na Heidenau K60.
+
 ### Inne Problemy ###
 Przy niskich obrotach silnika (czyli nie przy małej prędkości),
 silnik szarpie i idzie nierówno przy obciążaniu.
