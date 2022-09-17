@@ -27,12 +27,14 @@ attempt this time.
 
 First install nodejs, but not like [the course][1] says (it mentions
 global install for Mac and Windows), but rather using [this tutorial][2](20.04)
-or [this one][3](18.04).
+or [this one][3](22.04 - option 3).
 
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    source ~/.bashrc
     nvm ls
     nvm ls-remote
-    nvm install v14.16.0 
-    nvm use v14.16.0
+    nvm install v16.17.0
+    nvm use v16.17.0
     nvm current
     nvm uninstall v13.9.0
 
@@ -50,7 +52,7 @@ or [this one][3](18.04).
 
 [1]: https://www.udemy.com/the-complete-nodejs-developer-course-2
 [2]: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
-[3]: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04
+[3]: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04
 [yargs]: https://github.com/yargs/yargs/
 [yrgs-exmp]: https://github.com/yargs/yargs/blob/master/docs/examples.md
 [yrgs-cs]: https://github.com/yargs/yargs/wiki
