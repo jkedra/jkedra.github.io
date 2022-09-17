@@ -13,7 +13,8 @@ versions simultenously. It means it is able to bind an installed script with
 proper virtualenv and appropriate python version. It integrates well with
 virtualenv. Really cool stuff.
 
-Below are procedures to install Python 3.6 and 3.7 for Ubuntu and RHEL:
+Below are procedures to install Python 3.6 and 3.7 for Ubuntu and RHEL.
+I have tested them with Ubuntu 20-22 and RHEL7.
 
 ### Pre requisites
 
@@ -30,13 +31,13 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
     dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite \
         sqlite-devel openssl-devel xz xz-devel
 
-    # UBuntu
+    # UBuntu 22
     apt install -y make build-essential libssl-dev zlib1g-dev \
         libreadline-dev tk-dev \
         libsqlite3-dev sqlite3 \
         libncurses5-dev libncursesw5-dev \
-        xz-utils tk-dev bzip2 libbz2-dev libz-dev  \
-        curl wget llvm git
+        xz-utils liblzma-dev bzip2 libbz2-dev libz-dev  \
+        tk-dev curl wget llvm git
 
     # install then follow onscreen instructions to modify
     # rc files
@@ -77,7 +78,7 @@ You will need virtualenv later:
 Assume I want to open a new project named `rdspump` to work with python 3.7.2:
 
     pyenv virtualenv 3.7.2 rdspumptest
-    pyenv activate rdspump
+    pyenv activate rdspumptest
     pip install cx_Oracle
     pip install rdspump
     pyenv deactivate
