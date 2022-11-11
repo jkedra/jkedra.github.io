@@ -13,7 +13,8 @@ jss: [wikipize]
     standarize testing in Python
     * [tox docker](https://github.com/themattrix/docker-tox/blob/master/README.md)
 2. [pytest](pytest)
-3. [bump2version](https://github.com/c4urself/bump2version/blob/master/README.md)
+3. [pyenv](pyenv)
+4. [bump2version](https://github.com/c4urself/bump2version/blob/master/README.md)
 
 ## Front
 
