@@ -129,8 +129,8 @@ który jest w dodatku mokry i oślizgły, i po nim przesuwam się kilka metrów 
 prawo, bardzo męcząco i trudno. Wreszcie jestem przy haku.
 
 Ten suchy opis pokonania trudnego miejsca w ścianie zupełnie nie oddaje
-rzeczywistości. Poza nim się długa, wyczerpująca walka, zacięta tak, jak bywa
-wtedy, gdy idzie o życie.
+rzeczywistości. Poza nim ukrywa się długa, wyczerpująca walka, zacięta tak, jak
+bywa wtedy, gdy idzie o życie.
 
 Hak to staromodny, zardzewiały, wielki «wycior>>, wbity przez pierwszych
 zdobywców, akurat odwrotnie niż trzeba: tak do sufitu, inaczej się nie dało.
@@ -140,7 +140,7 @@ zmęczony. Dalej trawers przewija się przez stojącego w poprzek drogi skalnego
 konika. Teraz trzeba obniżyć się do miejsca, gdzie zagradzający drogę filarek
 urywa się nad przepaścią. Czekam chwilę przy haku, aż Staś przeniesie
 stanowisko asekuracyjne kilka metrów wyżej na wspaniałą platformę. Pode mną był
-duży stopień z mchu, lecz Staś strącił w dół. Nie ma tam teraz na czym stać.
+duży stopień z mchu, lecz Staś strącił go w dół. Nie ma tam teraz na czym stać.
 Schodzę z pomocą pętli do stóp filarka urywającego się wywieszoną przewieszką i
 z pomocą haka wchodzę z boku na filarek. Jest to owa Stasiowa <<autostrada>>,
 wściekle krucha i nadzwyczaj trudna, lecz rzeczywiście nie tak trudna jak
