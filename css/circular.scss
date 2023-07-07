@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+@import "_centerflex";
+
+.shadow {
+    box-shadow: 5px 5px 3px #888888;
+}
+
+//    @extend .shadow;
+
+.circular {
+    display: block;
+    overflow: hidden;
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.round {
+    line-height: 0;
+    margin: 0 auto;
+    padding: 8px;
+    background: #f4f4f4 none repeat scroll 0 0;
+}
+
+
+.clearb {
+  clear: both;
+}
+

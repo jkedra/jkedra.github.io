@@ -60,6 +60,15 @@ img {
   float: right;
 }
 
+.image-left-25 {
+  display: block;
+  margin-left: $spacing-unit;
+  margin-right: auto;
+  float: right;
+  width: -webkit-calc(#{$content-width} / 4);
+  width:         calc(#{$content-width} / 4);
+}
+
 .image-left-30 {
   display: block;
   margin-left: $spacing-unit;
