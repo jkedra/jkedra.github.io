@@ -35,15 +35,17 @@ jak wyrwać się na Bałtyk. O Mazurach więcej już nie piszę.
 ![Nyköping Jump >]({{"/img/Nykoping-2022.png" | absolute_url}})
 
 Po uzyskaniu patentu żeglarza, tego samego roku wkręciłem się na prywatny rejs
-w środku październiku [s/y Dunajec](g:) z zamiarem popływania po Bałtyku. Z racji
-sztormu i fatalnego stanu technicznego jachtu (próchno i rdza) rejs został
-zamieniony na mazurski, a ja czmychnąłem do domu chomikując urlop na przyszły rok.
+w środku października na [s/y Dunajec](g:) z zamiarem popływania po Bałtyku. Z
+racji sztormu i fatalnego stanu technicznego jachtu (próchno i rdza) rejs
+został zamieniony na mazurski, a ja czmychnąłem do domu chomikując urlop na
+przyszły rok.
 
 Rok 2022 mógł być szalonym rokiem - wracając do Jungi na komercyjny rejs w
-środku maja [Gdynia](w:) - [Sztokholm](w:), w okrojnym składzie (5 osób), wreszcie
-zaspokoiłem swój głód nocnej żeglugi długim - jak na pierwszy raz- przelotem
-Gdynia - [Nyköping](w:) i później przez [Södertälje](w:) do Sztokholmu klucząc między
-[szkierami](w:szkier). Łącznie 385 mil w zróżnicowanej pogodzie i morskich warunkach.
+środku maja [Gdynia](w:) - [Sztokholm](w:), w okrojnym składzie (5 osób),
+wreszcie zaspokoiłem swój głód nocnej żeglugi długim - jak na pierwszy raz-
+przelotem Gdynia - [Nyköping](w:) i później przez [Södertälje](w:) do
+Sztokholmu klucząc między [szkierami](w:szkier). Łącznie 385 mil w
+zróżnicowanej pogodzie i morskich warunkach.
 
 ![Norwegian ]({{"/img/norwegian-2022.png" | absolute_url}})
 

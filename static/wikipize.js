@@ -8,11 +8,14 @@ function wikipize(lang, entry) {
  log(`WIKIPIZE lang:${lang}:`);
   //  w:xxx  - polish wiki
   //  we:xxx - english wiki
+  //  wv:xxx - svenska wiki
   switch(lang) {
     case (undefined || ""):
       lang = "pl"; break;
     case "e":
       lang = "en"; break;
+    case "s":
+      lang = "sv"; break;
   }
   // if empty link, use <A>TEXT</A>
   if(entry.length==0)
@@ -74,6 +77,7 @@ function ize() {
 	 
        w:xxx  - polish wiki
        we:xxx - english wiki
+       ws:xxx - swedish wiki
 
        a:xxx  - allegro
       
