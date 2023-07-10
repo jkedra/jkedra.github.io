@@ -59,31 +59,28 @@ zrobiliśmy 208 mil każdego dnia cumując gdzie indziej, a to w [Furusund](ws:)
 
 ![Borchardt <>]({{"/img/borchardt-2023.jpg" | absolute_url}})
 
-Ten rok byłby rzeczywiście szalonym gdyby w październiku - przy świetnej
-pogodzie - udało się poszwędać na [STS Kapitan Borchardt](w:) po Bałtyku.
-Losowe wypadki przesunęły ten rejs na marzec 2023 i wtedy pływając nabiłem
-kolejne 395 mil.  Trasa [Szczecin](w:), [Ustka](w:), [Sassnitz](w:),
-[Stralsund](w:), Szczecin. Przeważnie na silniku, zupełnie inne doświadczenia
-niż na jachtowych rejsach. Żaglowiec na obecnym etapie to głównie
-doświadczenia społeczne, funkcjonowanie wśród załogi, hierarchia, dużo
-nietypowych elementów żeglarstwa, naprawdę wyczerpujące wachty kambuzowe.
-Ale przy tym wszystkim też duża satysfakcja. Poza tym fascynująca nocna
-żegluga wąskim (przy tak dużym statku) i długim kanałem do Świnoujścia,
-miejscami tylko z użyciem nabieżników.
+Październikowe plany na pływanie statkiem [STS Kapitan Borchardt](w:) po
+Bałtyku zostały przesunięte przez losowe wypadki marzec 2023 i wtedy pływając
+nabiłem kolejne 395 mil. Trasa [Szczecin](w:), [Ustka](w:), [Sassnitz](w:),
+[Stralsund](w:), Szczecin. Pływanie głównie na silniku, ale nawet na żaglach jest
+mocno inaczej od tego co było na rejsch jachtowych. Na żaglowcu zbieram głównie
+doświadczenia społeczne, załogowe, hierarchia, dużo nietypowych elementów
+żeglarstwa, naprawdę wyczerpujące wachty kambuzowe. Ale przy tym wszystkim też
+duża satysfakcja. Poza tym fascynująca nocna żegluga wąskim (przy tak dużym
+statku i tak dużej bezwładności) i długim kanałem do Świnoujścia, miejscami
+tylko z użyciem nabieżników.
 
 # Sternik Morski 2023
 
 ![westerplatte 2023 >]({{"/img/westerplatte-2023.jpg" | absolute_url}})
 
-I tak po zaledwie 3 rejsach wyrabiam regulaminowe 200 godzin i przychodzi
-czas na szkolenie na [jachtowego sternika morskiego][jsm]. Bez żadnego powodu,
-żeby było ciekawiej, zmieniam szkołę tym razem na [Pana Kubryka][kubryk],
-szkolenie, pływanie, spanie, posiłki - tutaj wszystko na jachcie. Odwiedzane
-porty to kultowe [Sobieszewo](w:), [Hel](w:) i [Jastarnia](w:), baza
-w [Gdańsku](w:Gdańsk). Poza uzyskaniem patentu [jsm][jsm] mam wreszcie
-okazję poznać kultowe polskie porty i kanały z bezpiecznej pozycji
-załoganta. Perspektywa bycia samodzielnym skiperem nadal wygląda dość ambitnie,
-choć formalnie realna. Na liczniku łącznie 1100 mil morskich.
+I tak po trzech rejsach wyrabiam regulaminowe 200 godzin i przychodzi czas na
+szkolenie na [jachtowego sternika morskiego][jsm]. Kurs robię na w szkole [Pana
+Kubryka][kubryk], szkolenie, pływanie, spanie, posiłki - wszystko na jachcie.
+Odwiedzone porty to [Sobieszewo](w:), [Hel](w:) i [Jastarnia](w:), baza w
+[Gdańsku](w:Gdańsk). Poza uzyskaniem patentu [jsm][jsm] mam wreszcie okazję
+poznać kultowe polskie porty i kanały z bezpiecznej pozycji załoganta.
+Wypływałem 1100 mil morskich.
 
 
 [junga]: http://junga.pl/
