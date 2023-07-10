@@ -15,7 +15,9 @@ Hello friend and thank you for reaching my page.
 My name is Jurek, I am
 <script type="text/javascript">
        document.write(moment([1973,11]).fromNow(true));
-</script> old, I enjoy various activities, listed below:
+</script> old. I am blessed to have a loving wife and three grown kids.
+
+I enjoy various activities, listed below:
 
 1. [Sailing](/sail).
 2. Climbing (<script>document.write(moment([2017,03]).fromNow(true));</script>).
@@ -25,4 +27,3 @@ My name is Jurek, I am
 6. IT professional (unix admin 1994, db admin 2000).
 7. Being christian (since I remember).
 
-I am also blessed to have a loving wife and three grown kids.
