@@ -3,7 +3,7 @@ layout: post
 title:  "Zespół Trójkowy"
 author: jkedra
 language: pl
-date: 2018-05-17
+date: 2023-07-11
 
 jquery: true
 jss: [wikipize]
@@ -22,7 +22,7 @@ i tylko z jednej strony, przeciwnej niż ta w którą znowu pójdzie pierwszy.
 Nie powinno doprowadzać się do sytuacji w której pierwszy
 jest pomiędzy drugim i trzecim na linie.
 
-Drugi powinien być asekurującym na linie.
+Drugi (bliżej pierwszego) powinien być asekurującym na linie.
 
 ### Zmiana prowadzenia
 
@@ -51,7 +51,8 @@ Drugi powinien być asekurującym na linie.
 
 ATC/Reverso nie było odpinane, a mimo to już jest dobrze ustwawione do asekuracji nowego lidera.
 
-1. Cała wiedza powyżej jest żywcem przełożona z [Chasing Mastery][1].
+1. Cała wiedza powyżej jest żywcem przełożona z [Chasing Mastery][1],
+   niestety content gdzieś już wyparował z netu.
 2. [StackExchange][2]
 3. [BigWall Techniques][3]
 4. [Swapping Leads on Mult-Pitch][4]
