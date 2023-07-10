@@ -3,7 +3,7 @@ layout: post
 title:  "Ubuntu Zooms"
 author: jkedra
 date: 2017-07-24 13:00
-language: pl
+language: en
 
 jquery: true
 jss: [wikipize]
@@ -22,4 +22,4 @@ which looks quite powerfull.
 
     service lightdm restart
 
-https://www.youtube.com/watch?v=sACNU_819TU
+<https://www.youtube.com/watch?v=sACNU_819TU>

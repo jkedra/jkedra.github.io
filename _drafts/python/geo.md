@@ -3,7 +3,7 @@ layout: post
 title:  GeoPython
 author: jkedra
 #date: 2017-07-18 20:00
-language: pl
+language: en
 
 jquery: true
 jss: [wikipize]

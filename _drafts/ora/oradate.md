@@ -3,7 +3,7 @@ layout: post
 title:  "Mapping Oracle SQL DATE Data type do Java"
 author: jkedra
 date: 2017-07-14 16:00
-language: pl
+language: en
 
 jquery: true
 jss: [wikipize]

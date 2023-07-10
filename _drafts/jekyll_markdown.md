@@ -15,13 +15,15 @@ page.tags: {{ page.tags | join:', ' }}
 # Github's Markdown Flawor
 
 Github uses the following markdown:
-https://www.markdownguide.org/tools/github-pages/
+
+1. <https://www.markdownguide.org/tools/github-pages/>
+2. <https://github.github.com/gfm/>
 
 # Images
 
 Examples from [Stack Overflow][1].
-Also examples from post [Lód i Mikst](/_lod_i_mikst)
-and [Czerwone Wierchy](/trips/2017/01/29/tatry.html).
+Also examples from post [Lód i Mikst]({% post_url 2018-08-08-lod-i-mikst %})
+and [Czerwone Wierchy]({% post_url 2017-01-29-tatry %}).
 And [another post][2] on the image alignment.
 
 

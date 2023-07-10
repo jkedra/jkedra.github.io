@@ -2,7 +2,7 @@
 layout: post
 title:  "folding"
 author: jkedra
-language: pl
+language: en
 
 jquery: true
 jss: [wikipize]

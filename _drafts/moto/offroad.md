@@ -25,5 +25,5 @@ Przeróbki off-road i wyprawowe
 10. Agresywne podnóżki (pegs)
 
 SW-MOTECH
-https://allegro.pl/oferta/mb-sakwy-boczne-dakar-uniwersalne-7988664852
-https://allegro.pl/oferta/sw-motech-sakwy-boczne-centralna-sysbag-10-15-15-7992182197
+* <https://allegro.pl/oferta/mb-sakwy-boczne-dakar-uniwersalne-7988664852>
+* <https://allegro.pl/oferta/sw-motech-sakwy-boczne-centralna-sysbag-10-15-15-7992182197>

@@ -9,6 +9,7 @@ tags: jekyll
 ---
 
 ## Why blogging
+
 Why blogging at all? IT knowledge is so wide and wast
 - there is no chance I could remember all of it.
 Often it happens I learn something and the skill is not used later

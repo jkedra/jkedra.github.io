@@ -2,7 +2,7 @@
 layout: post
 title:  "vim window split and tabs"
 author: jkedra
-language: pl
+language: en
 
 jquery: true
 jss: [wikipize]
