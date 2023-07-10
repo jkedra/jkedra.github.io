@@ -12,8 +12,12 @@ page.categories: {{ page.categories }}
 
 page.tags: {{ page.tags | join:', ' }}
 
+# Github's Markdown Flawor
 
-## Images
+Github uses the following markdown:
+https://www.markdownguide.org/tools/github-pages/
+
+# Images
 
 Examples from [Stack Overflow][1].
 Also examples from post [Lód i Mikst](/_lod_i_mikst)
@@ -71,6 +75,10 @@ then in HTML:
 
 [Documentation Theme][3].
 
+## Jekyl Links
+
+1. [Mastering Jekyll](https://mademistakes.com/mastering-jekyll/)
+2. [How to link](https://mademistakes.com/mastering-jekyll/how-to-link/)
 
 [1]: https://stackoverflow.com/questions/19075023/flow-text-around-an-image-in-github-markdown
 [2]: http://stackoverflow.com/questions/255170/markdown-and-image-alignment
