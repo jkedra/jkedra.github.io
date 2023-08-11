@@ -1,13 +1,16 @@
 ---
-layout: post
+layout: plpost
 title:  "Opony motocyklowe"
 date:   2019-04-29 09:00:00
 author: jkedra
 language: pl
-jquery: true
 comments: true
+
+jquery: true
 css: [css-snip1, css]
 jss: [wikipize]
+
+tags: moto
 categories: moto
 permalink: /moto/opony
 ---

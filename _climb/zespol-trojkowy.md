@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plpost
 title:  "Zespół Trójkowy"
 author: jkedra
 language: pl

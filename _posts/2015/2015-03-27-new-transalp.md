@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: plpost
 title:  "Motocykl"
 date:   2015-03-27 16:00:00
 author: jkedra
 language: pl
-jquery: true
 comments: false
+
+jquery: true
 jss: [wikipize]
+
 categories: moto
 tags: moto
 ---

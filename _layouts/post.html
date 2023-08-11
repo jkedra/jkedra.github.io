@@ -10,6 +10,8 @@ layout: default
     <p class="post-meta">
     {{ date }}{%- if page.last-update %}, updated {{ last-update }} {% endif -%}
     {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    {% if page.tags.size > 0 %}<br>• <em>tags: {{ page.tags | join:', ' }}</em>{% endif %}
+    {% if page.categories.size > 0 %} • <em>categories: {{ page.categories | join:', ' }}</em>{% endif %}
     </p>
   </header>
 
