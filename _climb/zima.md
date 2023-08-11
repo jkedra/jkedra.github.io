@@ -3,6 +3,7 @@ layout: plpost
 title:  Zima
 author: jkedra
 language: pl
+date: 2023-08-12
 
 jquery: true
 jss: [wikipize, moment-with-locales.min]
@@ -11,7 +12,8 @@ categories: climb
 
 ---
 
-# Wspinaczka zimowa
+> “In winter, everything takes twice as long and requires ten times more energy”<br>
+> Andy Kirkpatrick
 
 ## Polecane zimowe drogi
 

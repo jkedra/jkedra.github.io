@@ -6,12 +6,12 @@ language: pl
 regenerate: true
 ---
 
-
 > jak możesz to ci się nie chce, a jak ci się chce to już nie możesz
 
-Tematy wspinaczkowe.
+Tematy wspinaczkowe
 
-{% for item in site.climb %}
+{% assign i=site.climb | sort: "date" | reverse %}
+{% for item in i %}
 <ul class="post-list">
   <li>
     <span class="post-meta">{{ item.date | date: "%d.%m.%Y" }}</span>
@@ -21,7 +21,7 @@ Tematy wspinaczkowe.
   </li>
 </ul>
 {% endfor %}
-
+---
 {% assign category="climb" %}
   <ul class="post-list">
     {% for post in site.posts %}
