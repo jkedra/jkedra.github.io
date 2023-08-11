@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: plpost
 title:  "Lód i mikst"
 author: jkedra
 language: pl
 date: 2018-08-08
+last-update: 2023-08-11
 
 jquery: true
 jss: [wikipize]
@@ -138,7 +139,7 @@ Od tego momentu kolejne wyjazdy zaczynały stawać się czystą przyjemnością.
 
 Czy można z tej książki nauczyć się samemu wspinać w lodzie? No samemu to
 nie. Doświadczony partner to podstawa. Druga sprawa to jakiś background.
-Coś tam wcześniej wspinałem się drytoolowo pod okiem instruktorem, od którego
+Coś tam wcześniej wspinałem się drytoolowo pod okiem instruktora, od którego
 zyskałem teorię i praktykę, ale także zachętę i pewność siebie (albo zaufanie)
 by przezwyciężyć strach i obawę przed prowadzeniem.
 
@@ -171,3 +172,16 @@ wagę kursu - zaznaczam tylko, że wiedza teoretyczna jest znacznie tańsza.
 1. Will Gadd: [strona domowa](http://willgadd.com/),
    [drytooling.com.pl](http://drytooling.com.pl/baza/ludzie/1103-will-gadd),
    [Wikipedia](we:Will_Gadd)
+2. Moje listy z youtube:
+    * [Drytooling.][1]
+    * [wspinanie na lodospadach.][2]
+    * [How to Ice Climb Series.][3], Will Gadd i Black Diamond
+    * [Wspinanie w zimie.][4]
+
+
+
+
+[1]: https://youtube.com/playlist?list=PLbXqvh153faiTFzN06WrvCJ_ka-jaxMQE
+[2]: https://youtube.com/playlist?list=PLbXqvh153fajXPyJfP3LWaZ_mRkKt0vZT
+[3]: https://youtube.com/playlist?list=PLsRwj-7GKciQ0o6gh5zkJceWRBx0-b2gC
+[4]: https://youtube.com/playlist?list=PLbXqvh153fahWU6aGZxUW0DqRchieZc31
