@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: climbing"
-tag: climbing
+title: "Tag: wspinanie"
+tag: wspinanie
 robots: noindex
 ---

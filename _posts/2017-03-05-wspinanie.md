@@ -6,7 +6,7 @@ language: pl
 
 jquery: true
 jss: [wikipize, moment-with-locales.min]
-tags: climbing góry
+tags: wspinanie góry tatry
 categories: climb
 
 ---
