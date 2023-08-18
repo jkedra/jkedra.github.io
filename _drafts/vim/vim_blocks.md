@@ -8,6 +8,7 @@ jquery: true
 js: wikipize
 
 categories: vim
+tags: vim
 tags: blockwise
 ---
 

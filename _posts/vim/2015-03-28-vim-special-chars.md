@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Vim Special Characters"
-date:   2015-03-28 16:00:00
 author: jkedra
 language: en
 categories: vim
+tags: vim
 ---
 
 ## Quick Info
