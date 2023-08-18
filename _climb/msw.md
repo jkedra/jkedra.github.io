@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: plpost
 title:  "Mięguszowieckie Szczyty"
 author: jkedra
 language: pl
 date: 2018-07-20
+last-update: 2023-08-11
 
 jquery: true
 jss: [wikipize]
@@ -62,3 +63,7 @@ _Najłatwiejsza ORIENTACYJNIE moim zdaniem  jest droga taka: szlak pod Chłopka 
 
 _Polecam Czerwony Żlebek, Biały odradzam. Potwierdzam - orientacja wyjątkowo prosta, stopień trudności taki sam, jak pozostałych dróg turystycznych prowadzących na MSW, jedynka. Przez Siodełko w Filarze, wchodząc na nie albo z Bańdziocha albo Klimkową Ławką z Wielkiej Galerii Cubryńskiej szedłem na MSW kilkanaście razy, schodziłem też tamtędy z wierzchołka. To piękna, urozmaicona droga. Nie należy jedynie pomylić Zachodu Janczewskiego z Zachiodem Marusarza idącym wyżej, bo bedzie dwójka zamiast jedynki i nie wejść przypadkiem w Rynnę Wawrytki._
 
+Ostatni update: po niedawnym [obrywie Turnicy Kurczaba](g:) Biały Żlebek
+nie nadaje się do przejścia ze względu na ilość zalegającego luźnego gruzu
+oraz z uwagi na nieustabilizowany obryw. Czerwony Żlebek w tej chwili wygląda
+na jedyną rozsądną opcję bezpiecznego dojścia do Zachodu Janczewskiego.
