@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plpost
 title:  "Przeróbki off-road"
 author: jkedra
 language: pl
@@ -7,7 +7,7 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: moto suspension
+tags: moto
 categories: moto
 ---
 

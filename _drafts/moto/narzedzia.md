@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plpost
 title:  "Podróżny zestaw narzędzi"
 author: jkedra
 language: pl

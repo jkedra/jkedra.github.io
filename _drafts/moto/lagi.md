@@ -7,7 +7,7 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: moto suspension
+tags: moto
 categories: moto
 ---
 

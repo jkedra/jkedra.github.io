@@ -8,7 +8,7 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: moto tire
+tags: moto
 categories: moto
 ---
 

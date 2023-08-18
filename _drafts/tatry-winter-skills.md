@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: plpost
 title:  Tatry Zimą
 author: jkedra
 categories: trips
+
+tags: tatry zima
+
 comments: true
 language: pl
 ---

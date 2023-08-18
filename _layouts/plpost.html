@@ -12,13 +12,23 @@ language: pl
     <p class="post-meta">
     {{ date }}{%- if page.last-update %}, poprawki {{ last-update }}{% endif -%}
     {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-    {% if page.tags.size > 0 %}<br>• <em>tagi: {{ page.tags | join:', ' }}</em>{% endif %}
+    {% if page.tags.size > 0 %}<br>• <em>tagi:<span>
+            {%- for tag in page.tags -%}
+               {%- capture tag_name -%}
+                  {{ tag }}
+               {%- endcapture -%}
+            <a href="/tag/{{ tag_name | slugify: 'latin' }}"><code class="highligher-rouge"><nobr>
+                    {{- tag_name -}}
+            </nobr></code>&nbsp;</a>
+            {%- endfor -%}
+            </span></em>
+    {%- endif %}
     {% if page.categories.size > 0 %} • <em>kategorie: {{ page.categories | join:', ' }}</em>{% endif %}
-
     </p>
   </header>
 
   <article class="post-content">
+
     {{ content }}
   </article>
 

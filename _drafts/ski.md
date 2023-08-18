@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plpost
 title:  "Narty"
 author: jkedra
 date: 2019-02-09 20:00
@@ -8,7 +8,7 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: winter
+tags: narty zima
 categories: ski
 ---
 

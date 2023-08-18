@@ -8,7 +8,7 @@ language: pl
 jquery: true
 jss: [wikipize]
 
-tags: russian, languages
+tags: rosyjski languages
 ---
 
 1. [Duolingo](https://www.duolingo.com/) - bardziej kojarzy się z aplikacją
