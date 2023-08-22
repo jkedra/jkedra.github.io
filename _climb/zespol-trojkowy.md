@@ -8,7 +8,7 @@ date: 2023-07-11
 jquery: true
 jss: [wikipize]
 
-tags: climb
+tags: wspinanie
 css: [html5, img]
 ---
 
