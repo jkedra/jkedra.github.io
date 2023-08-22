@@ -2,10 +2,13 @@
 layout: post
 title:  "First Post"
 date:   2015-02-06 14:20:50
+last-update: 2023-08-22
 author: jkedra
+
+tags: jekyll
+
 categories: www
 language: en
-tags: jekyll
 ---
 
 ## Why blogging
@@ -66,6 +69,8 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 3. [Jekyll Themes](https://github.com/jglovier/jekyll-new)
 4. [Jekyll News](https://jekyllrb.com/news/)
 5. Collections: [Baleter's introduction](http://ben.balter.com/2015/02/20/jekyll-collections/) and [original Jekyll's docs](http://jekyllrb.com/docs/collections/) on collections.
+6. [Tags](https://longqian.me/2017/02/09/github-jekyll-tag/) - also
+   quite nice layout of gihub based jekyll site.
 
 ## Liquid ##
 
@@ -76,14 +81,19 @@ And this was a great template system for the web.
 Later on, when I found [Jekyll] and its template system -- [Liquid],
 it came to me, they (Liquid-Jinja) are similar in syntax.
 
-Posts in Polish:
+#### Liquid posts ####
 
-{% for item in site.posts %}{% if item.language == "pl" %}
-1. [{{ item.title }}]({{ item.url }}) {% for t in item.tags %} {{ t }} {% endfor %}
-{% endif %}
+<ul>
+{% for post in site.tags["liquid"] %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+  </li>
 {% endfor %}
+</ul>
+
 
 ## Sass ##
+
 [Sass][sass] is an extension to CSS, a preprocessor which allows to use
 variables, nesting, arithmetic operators.
 It also allows to share a set of CSS properties from one selector
