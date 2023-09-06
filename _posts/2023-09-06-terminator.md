@@ -33,6 +33,26 @@ i wybierając z menu gnome-terminal.
 sudo update-alternatives --config x-terminal-emulator
 ```
 
+## Inne
+
+Terminator nie jest programem tekstowym. Bez graficznego środowiska
+jaki daje mu Gnome, nie istnieje. Bywa, że obecnie do systemu
+można było zalogować się wyłącznie ssh, kiedyś można było to zrobić
+tylko z terminala tekstowego. Wtedy prawdziwą siłę pokazywał program
+czysto tekstowy o nazwie `screen`. Pozwalające zarządzać wieloma
+wirtualnymi ekranami, zostawiać je działające na serwerze choć odłączone
+od realnego terminala. Można było się do nich podłączać i odłączać
+wielokrotnie, wygodnie w ten sposób zarządzając sesjami jobami działającymi
+czasami lata na serwerzach. Screen pozwala oczywiście nie tylko przełączać
+ekrany ale dzielić na na obszary (podobnie jak terminator) i dokonywać
+zaawansowanych operacji cut-and-paste.
+
+Można się też bliżej przyjrzeć równie staremu vim'owi, którego przodkowie
+(vi) są jeszcze starsi niż rodzice niejednego z nas. Vim pozwala na wygodny
+podział okna na mniejsze obszary i przetwarzanie w nich tego samego, albo
+zupełnie różnego pliku.
+
+
 ## Linki
 1. [Gnome Terminator][1]
 2. [Gnome Terminator opis po polsku][2]
