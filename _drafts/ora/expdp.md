@@ -2,7 +2,8 @@
 layout: post
 title:  Export Import DataPump
 author: jkedra
-categories: oracle
+categories: db
+tags: oracle
 language: en
 ---
 

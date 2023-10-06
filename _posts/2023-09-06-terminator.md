@@ -54,11 +54,12 @@ zupełnie różnego pliku.
 
 
 ## Linki
-1. [Gnome Terminator][1]
+1. [Gnome Terminator][1], [GTK Terminator][4]
 2. [Gnome Terminator opis po polsku][2]
 3. [Wyczerpująco o instalacji i deinstalacji terminatora][3]
 
-[1]: https://gnome-terminator.readthedocs.io/en/latest/#
+[1]: https://gnome-terminator.readthedocs.io/
 [2]: https://pl.euro-linux.com/blog/terminator-efektywny-i-prosty-emulator-terminala/
 [3]: https://linux.how2shout.com/install-terminator-terminal-emulator-in-ubuntu-22-04-lts/
+[4]: https://terminator-gtk3.readthedocs.io/
 

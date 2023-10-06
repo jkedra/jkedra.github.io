@@ -3,9 +3,9 @@ layout: post
 title:  "Extended Statistics (draft)"
 date:   2015-08-31 10:43
 author: jkedra
-categories: www
+categories: db
 language: en
-tags: jekyll
+tags: oracle
 ---
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj

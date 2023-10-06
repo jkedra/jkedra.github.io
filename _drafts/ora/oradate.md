@@ -9,7 +9,7 @@ jquery: true
 jss: [wikipize]
 
 tags: oracle jdbc
-categories: database
+categories: db
 ---
 
 Quite common problem in Oracle 10g - a query on an indexed DATE column,

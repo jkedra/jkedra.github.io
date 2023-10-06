@@ -2,7 +2,8 @@
 layout: post
 title:  "Oracle 12c New Features"
 author: jkedra
-categories: oracle
+categories: db
+tags: oracle
 language: en
 ---
 

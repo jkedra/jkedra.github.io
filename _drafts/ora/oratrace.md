@@ -2,7 +2,9 @@
 layout: post
 title:  "Tracing Oracle Errors"
 author: jkedra
-categories: oracle
+
+categories: db
+tags: oracle
 language: en
 ---
 
