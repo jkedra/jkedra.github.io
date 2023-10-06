@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post"
 date:   2015-02-06 14:20:50
-last-update: 2023-08-22
+last-update: 2023-10-06
 author: jkedra
 
 tags: jekyll
@@ -13,9 +13,11 @@ language: en
 
 ## Why blogging
 
-Why blogging at all? IT knowledge is so wide and wast
-- there is no chance I could remember all of it.
-Often it happens I learn something and the skill is not used later
+Why me bloggingl? First it came from keeping notes from what I have
+learned in IT. The IT knowledge area is wide and wast,
+there is no chance I could remember all of it.
+
+Sometimes I learn something and the skill is not used later
 for longer time. If had not written it down, I would have forgotten it.
 So I developed some ways of storing the information. Starting with
 plain files, spread over my Oracle Virtualbox VM. Then I peeked
@@ -26,9 +28,9 @@ is not enough I wanted to share most of them publicly.
 
 Considering above I moved to blogging instead, and
 choose [Blogspot] as my platform. I created a couple of posts
-during over a year but soon I discovered this is not my choice.
-Blogspot was too heavy for me, too slow, too stiff. I could not
-breath.  And despite I usually like Google products
+during over a year but soon I discovered it is rather not my preference.
+Blogspot was too heavy for me, too slow, too stiff. I could not take a breath.
+And despite I usually like with what Google comes with
 (it is owned by Google) I did not like [Blogspot] at all.
 
 Recently I have found [Jekyll], it is static website rendered
@@ -65,12 +67,12 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 1. [Jekyll] can be also deployed
    [directly to S3](http://www.jonknapp.com/2013/01/deploying-jekyll-to-s3/).
-2. [Jekyll multiple languages][jkyl-lang]
 3. [Jekyll Themes](https://github.com/jglovier/jekyll-new)
 4. [Jekyll News](https://jekyllrb.com/news/)
 5. Collections: [Baleter's introduction](http://ben.balter.com/2015/02/20/jekyll-collections/) and [original Jekyll's docs](http://jekyllrb.com/docs/collections/) on collections.
 6. [Tags](https://longqian.me/2017/02/09/github-jekyll-tag/) - also
    quite nice layout of gihub based jekyll site.
+7. [Awesome Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
 
 ## Liquid ##
 
@@ -117,7 +119,6 @@ to another (@extend). Here is [Sass Reference][sassref].
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
-[jkyl-lang]:   http://jekyll-langs.liaohuqiu.net/
 [liquid]:      http://liquidmarkup.org/
 [textile]:     http://redcloth.org/textile
 [md]:          http://daringfireball.net/projects/markdown/
