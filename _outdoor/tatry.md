@@ -1,18 +1,20 @@
 ---
-layout: post
+layout: plpost
 title:  Turystyka w Tatrach
 author: jkedra
-tags: tatry
-comments: true
+
 language: pl
+last-update: 2023.08.10
+
+tags: tatry
+
 jquery: true
+comments: true
 jss:
     - wikipize
 ---
 
 Wycieczki turystyczne, jak się do nich przygotowuję.
-
-_Ostatnie poprawki: 2023.08.10_
 
 ## Lato
 
