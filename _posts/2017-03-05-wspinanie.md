@@ -3,6 +3,7 @@ layout: plpost
 title:  Wspinanie
 author: jkedra
 language: pl
+last-update: 2023-10-21
 
 jquery: true
 jss: [wikipize, moment-with-locales.min]
@@ -54,6 +55,7 @@ categories: climb
 1. [Ruda z wyboru](http://www.rudazwyboru.pl/) - prawdziwa włóczęga tatrzańska.
 2. [Woda Góry Las](http://wodagorylas.pl/category/blog-turystyczny/)
 3. [Taternik.eu](http://taternik.eu/)
+4. [Andy Kirkpatrick](http://andy-kirkpatrick.com/blog/)
 
 ## Żywność i Dieta
 
@@ -69,7 +71,6 @@ categories: climb
 
 #### Stacjonarne KRK
 
-1. [A5](http://a5.sklep.pl)
 2. [Alpintech](http://alpintech.pl/)
 2. [E-Pamir](http://e-pamir.pl/)
 
@@ -87,6 +88,7 @@ categories: climb
 
 ### Serwis
 
+1. [Restart](https://restart-krakow.pl/) - serwis butów wspinaczkowych.
 1. [M5](http://m5.krakow.pl/cennik.html) - podklejanie butów wspinaczkowych.
 
 ### Turystyka i Biwak
@@ -147,6 +149,10 @@ Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 
 ### Taternictwo
 
+### Słownictwo
+
+[Climbing dictionary English-Polish](http://majatravels.com/climbing-dictionary-english-polish/)
+
 #### Łączność
 
 1. [PMR Midland G18](http://www.alan.pl/radiokomunikacja/produkt/680/radio_pmr_midland_g18_ip67_accu_li_ion)
@@ -174,6 +180,11 @@ Poniżej tylko te i inne, które są dla mnie szczególnie cenne.
 1. [Klasyki literatury za DryTooling](http://drytooling.com.pl/serwis/art/artykuly/7059-dobra-literatura-gorska)
 2. _Góry - wolność i przygoda_ (GWP) - mapa tej książki poniżej
 3. [Wspinaczka. Asekuracja i autoratownictwo](http://lubimyczytac.pl/ksiazka/3981627/wspinaczka-asekuracja-i-autoratownictwo), David J.Fasulo
+4. [Książki o tematyce himalajskiej](http://przezhimalaje.wordpress.com/2016/01/03/polecane-ksiazki/)
+
+### [vdiffclimbing.com](http://vdiffclimbing.com)
+
+1. [Alpine Butterfly](http://vdiffclimbing.com/alpine-butterfly/)
 
 ### (GWP)
 

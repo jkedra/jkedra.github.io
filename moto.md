@@ -23,10 +23,13 @@ Tam gdzie nie ma asfaltu.
 1. [Porównanie XL650 kontra XT660R](http://forum.transalpclub.pl/viewtopic.php?f=191&t=14314)
 
 ### Blogi motocyklowe
-1. [Motohoryzont][mh] - podróże motocyklowe Janusza Osadzińskiego.
-   Nie mogłem się od tego oderwać.
+1. Motohoryzont, był kiedyś taki blog o podróżach Janusza Osadzińskiego.
+   Nie mogłem się od tego oderwać, niestety gdzieś to zniknęło i nie jest
+   dostępne.
 2. [Pozytywnie do przodu][pdp] - Marek Remiszewski, ekonomicznie i ambitnie,
    mnóstwo przepięknych zdjęć.
+3. [Trudne jazdy](http://forum.transalpclub.pl/viewtopic.php?f=46&t=15515&start=280) z
+   [forum.transalpclub.pl](http://forum.transalpclub.pl/) oraz z [mototrud.pl](http://mototrud.pl).
 
 [pdp]: http://pozytywniedoprzodu.blogspot.com
 [mh]: https://cargocollective.com/MOTOHORYZONT

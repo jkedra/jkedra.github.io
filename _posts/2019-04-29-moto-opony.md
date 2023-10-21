@@ -27,12 +27,12 @@ europejskie oznaczenia określające ekonomiczność, głośność i przyczepno�
 mieć już względnie dobre pojęcie o zakupie. Przy motocyklu dochodzi jeszcze
 aspekt "terenowości" bieżnika.
 
-Nawet gdy dookoła mnie same asfalty i rozsądnie byłoby kupić oponę na tego typu
-nawierzchnię to jednak bardziej terenowa opona jednak zostawia mi możliwość
-zjechania w teren. Dlatego jednak mój ostateczny wybór zbudowany jest na
-chęciach, zamiast na faktach. 
+Nawet gdy dokoła asfalty i betony, więc i rozsądniej byłoby mieć oponę na tego
+typu nawierzchnię - to właśnie bardziej terenowa opona daje więcej możliwości
+zjechania w teren. Więc ostateczny wybór dokonywany jest bardziej w oparciu o
+pragnienia niż fakty. 
 
-Opona, którą kupię musi więc być kompromisem. Na [TCP][tcp]
+Opona, którą wybiorę musi więc być kompromisem. Na [TCP][tcp]
 ludzie piszą o swoich doświadczeniach, na Youtube znalazłem conajmniej kilka
 złożonych review i porównań. Autorzy zarzekają się, że nie są sponsorowani przez
 producentów. Na podstawie tych informacji zrobiłem poniższą listę:

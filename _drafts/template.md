@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plpost
 title:  "Template - Post Name"
 author: jkedra
 date: 2017-07-18 20:00

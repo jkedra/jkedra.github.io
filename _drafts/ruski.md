@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plpost
 title: Rosyjski
 author: jkedra
 date: 2019-06-01 20:00
