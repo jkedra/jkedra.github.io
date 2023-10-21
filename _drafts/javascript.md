@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JavaScript and Node.js""
+title:  "JavaScript and Node.js"
 author: jkedra
 date: 2023-10-21
 language: en
