@@ -11,6 +11,8 @@ jss: [wikipize]
 tags: cw radio
 ---
 
+![Klucz <>]({{"/img/klucz.jpg" | absolute_url}})
+
 [CW](w:) chyba nie ma zręcznego tłumaczenia w języku polskim, z grubsza
 oznacza to transmisję, technicznie powiedzielibyśmy "kluczowaną",
 informatycznie "binarną", gdzie informacja przenoszona jest obecnością

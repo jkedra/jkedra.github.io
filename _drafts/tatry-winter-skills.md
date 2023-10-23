@@ -10,6 +10,9 @@ comments: true
 language: pl
 ---
 
+> “In winter, everything takes twice as long and requires ten times more energy”<br>
+> Andy Kirkpatrick
+
 ## Lawiny
 
 1. [Lawinowe ABC+D][abcd] - (pl) co mieć, a co można nie.
