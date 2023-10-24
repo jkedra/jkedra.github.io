@@ -39,17 +39,19 @@ Jego opanowanie wymaga niemałego wysiłku i niewielu jest w stanie go
 podjąć. Używanie go jest podobną przyjemnością jak granie na instrumencie.
 Przecież wielu woli grać na gitarze zamiast odsłuchiwać utworów ze Spotify.
 
-Gdy zdobywałem licencję krótkofalarską, kod Morse'a był jeszcze obowiązkowy
-na egzaminach, ale kilka lat później zupełnie zniesiono to wymaganie.
-Mimo, iż nie wymagany - nadal jest jest używany i cieszy się sporą
-popularnością. W USA jest wiele organizacji i klubów, które popularyzują
-kod Morse'a. Ja sam uczyłem się kodu wraz z [Long Island CW Club][LICW], 
-klubem entuzjastów, który zdobył popularność podczas pandemii
-koronawirusa (spotkania przez Zoom). Popularność w Polsce ma jeszcze dość
-niewielką, ale takie mody dochodzą do nas zwykle 10 lat później - więc
-pewnie w 2030 pojawi się podobna fala zainteresowania wśrod emerytowanych
-krótkofalowców, uciekających przed cyfrową zarazą w sztukę porozumiewania
-się kodem Morse'a.
+Gdy zdawałem egzamin na licencję krótkofalarską były to ostatnie lata kiedy dla
+najszerszego rodzaju licencji wymagano umiejętności posługiwania się kodem
+Morse'a w bardzo ograniczony sposób. Już kilka lat później zupełnie zniesiono
+to wymaganie. Mimo, iż obecnie nie wymagany - nadal jest jest używany i - w
+mojej ocenie - na świecie cieszy się sporą popularnością. Głównie wśród
+amatorów na emeryturze. W USA jest wiele organizacji i klubów, które
+popularyzują kod Morse'a. Ja sam uczyłem się kodu wraz z [Long Island CW
+Club][LICW], klubem entuzjastów, który zdobył popularność podczas pandemii
+koronawirusa (spotkania przez Zoom). Popularność w Polsce ma nadal dość
+niewielką, ale takie mody dochodzą do nas zwykle 10 lat później - więc pewnie w
+2030 pojawi się podobna fala zainteresowania wśrod emerytowanych
+krótkofalowców, uciekających przed cyfrową zarazą w sztukę porozumiewania się
+kodem Morse'a.
 
 # Linki
 
