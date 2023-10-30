@@ -32,9 +32,11 @@ function googlize(extra, entry) {
   //  gp:xxx - search on google pictures
   switch(extra) {
     case undefined:
-       extra = "";          break;
+       extra = "";
+       break;
     case "p":
-       extra = "&tbm=isch"; break;
+       extra = "&tbm=isch";
+       break;
    }
    
    const link = ("https://www.google.com/search?q="+entry+extra)
@@ -59,11 +61,22 @@ function amazonize(extra, entry) {
   return(link);
 }
 
-// the required argument is youtube move alphanumeric descriptor
-// returns https://www.youtube.com/watch?v=l4Nn-y9ktd4
+
 function youtubize(extra, entry) {
+  // the required argument is youtube move alphanumeric descriptor
+  // returns https://www.youtube.com/watch?v=l4Nn-y9ktd4
+  // with y@ query, the response will be
+  // https://www.youtube.com/@QUERY
   log("YOUTUBIZE");
-  return(`https://www.youtube.com/watch?v=${entry}`);
+  switch(extra) {
+    case undefined:
+      extra = `watch?v=${entry}`;
+      break;
+    case "@":
+      extra = `@${entry}`;
+      break;
+  }
+  return(`https://www.youtube.com/${extra}`);
 }
 
 function qrzize(extra, entry) {
@@ -75,7 +88,7 @@ function ize() {
   log("IZE");
   $("a").each(
     function() {
-      var href = $(this).attr("href");
+      let href = $(this).attr("href");
       /*
        g:xxx  - search on google
        gp:xxx - search on google pictures
@@ -89,6 +102,7 @@ function ize() {
        m:xxx  - amazon us search
       
        y:xxx  - youtube search
+       y@:xxx - youtube author link https://www.youtube.com/@xxx
 
        q:xxx  - qrz.com callsign
       
@@ -96,39 +110,23 @@ function ize() {
        http://www.rexegg.com/regex-conditionals.html
        optionally enclosed in ()
       */
-      var results = /^([gwamyq])(\w?):(.*)/.exec( href )
+      let results = /^([gwamyq])([\w@]?):(.*)/.exec( href )
       if(results != null) {
-		    var typize = results[1]; // link type (allowed types above)
-        var extra  = results[2]; // extra tags for search service
+		    let typize = results[1]; // link type (allowed types above)
+        let extra  = results[2]; // extra tags for search service
                                  // eg wiki language or google images
                                  // (optional letter)
-        var entry  = results[3]; // search tag
+        let entry  = results[3]; // search tag
 
         // if empty link, use <A>TEXT</A>
         if(entry.length==0)
           entry = $(this).text();
 
-        switch(typize) {
-          case undefined:
-            extra = "";
-            break;
-          case "g":
-            targetLink = googlize(extra, entry);
-		        break;
-          case "w":
-            targetLink = wikipize(extra, entry);
-            break;
-          case "a":
-            targetLink = allegrize(extra, entry);
-            break;
-          case "m":
-            targetLink = amazonize(extra, entry);
-            break;
-          case "y":
-            targetLink = youtubize(extra, entry);
-          case "q":
-            targetLink = qrzize(extra, entry);
-        }
+        let opsMap = {
+            "g": googlize,  "w": wikipize,  "a": allegrize,
+            "m": amazonize, "y": youtubize, "q": qrzize };
+        
+        let targetLink = opsMap[typize](extra, entry);
 
         log(`href=${href} => ${targetLink}`);
         $(this).attr("href", targetLink);
