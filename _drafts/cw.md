@@ -4,6 +4,7 @@ title:  "CW"
 author: jkedra
 date: 2023-10-21 20:00
 language: pl
+permalink: /cw
 
 jquery: true
 jss: [wikipize]

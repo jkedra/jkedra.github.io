@@ -63,7 +63,12 @@ function amazonize(extra, entry) {
 // returns https://www.youtube.com/watch?v=l4Nn-y9ktd4
 function youtubize(extra, entry) {
   log("YOUTUBIZE");
-  return(`https://www.youtube.com/watch?v=${entry}`)
+  return(`https://www.youtube.com/watch?v=${entry}`);
+}
+
+function qrzize(extra, entry) {
+  log("QRZize");
+  return(`https://www.qrz.com/db/${entry}`);
 }
 
 function ize() {
@@ -84,12 +89,14 @@ function ize() {
        m:xxx  - amazon us search
       
        y:xxx  - youtube search
+
+       q:xxx  - qrz.com callsign
       
        https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec
        http://www.rexegg.com/regex-conditionals.html
        optionally enclosed in ()
       */
-      var results = /^([gwamy])(\w?):(.*)/.exec( href )
+      var results = /^([gwamyq])(\w?):(.*)/.exec( href )
       if(results != null) {
 		    var typize = results[1]; // link type (allowed types above)
         var extra  = results[2]; // extra tags for search service
@@ -119,6 +126,8 @@ function ize() {
             break;
           case "y":
             targetLink = youtubize(extra, entry);
+          case "q":
+            targetLink = qrzize(extra, entry);
         }
 
         log(`href=${href} => ${targetLink}`);
