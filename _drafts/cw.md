@@ -2,7 +2,7 @@
 layout: plpost
 title:  "CW"
 author: jkedra
-date: 2023-10-21 20:00
+date: 2023-11-08 08:00
 language: pl
 permalink: /cw
 
@@ -14,45 +14,43 @@ tags: cw radio
 
 ![Klucz <>]({{"/img/klucz.jpg" | absolute_url}})
 
-[CW](w:) chyba nie ma zręcznego tłumaczenia w języku polskim, z grubsza
-oznacza to transmisję, technicznie powiedzielibyśmy "kluczowaną",
-informatycznie "binarną", gdzie informacja przenoszona jest obecnością
-fali. W świecie radiowym rozumie się przez to transmisję z użyciem
-[kodu Morse'a](w:kod_Morse'a).
+[CW](w:), czyli telegrafia, z grubsza oznacza to transmisję, technicznie
+powiedzielibyśmy "kluczowaną", informatycznie "binarną", gdzie informacja
+przenoszona jest obecnością fali. W świecie radiowym rozumie się przez to
+transmisję z użyciem [kodu Morse'a](w:kod_Morse'a). Poniżej oba pojęcia - kod
+Morse'a i telegrafia są używane wymiennie.
 
-Obecnie większość transmisji między krótkofalowcami odbywa się głosowo,
+Obecnie większość transmisji między radioamatorami odbywa się głosowo,
 a ponieważ czasy są wybitnie komputerowe, wielu z nich używa tzw. emisji
 cyfrowych do nawiązania łączności, które wymagają użycia komputera.
 
-Skoro można porozumiewać się głosem to w jakim celu używać transmisji
-cyfrowych albo kodem Morse'a? Te transmisje mają to do siebie, że
-mimo iz potrzebują mniej mocy od transmisji głosowej - mają większy zasięg.
-Więc dlaczego nie zastąpiono kodu Morse'a całkowicie transmisjami
-cyfrowymi? Przecież one są dodatkowo jeszcze dużo szybsze.
+Skoro można porozumiewać się głosem to w jakim celu używać transmisji cyfrowych
+albo telegrafii? Te transmisje mają to do siebie, że mimo iż potrzebują mniej
+mocy od transmisji głosowej - mają większy zasięg. Więc dlaczego nie
+zastąpiono telegrafii całkowicie transmisjami cyfrowymi? Przecież one są
+dodatkowo jeszcze dużo szybsze.
 
 Można to wytłumaczyć prostotą kodu Morse'a - człowiek jest w stanie rozumieć
 ten kod bezpośrednio, a niektórzy osiągają w tym nieprawdopodobną sprawność.
 Do nadawania i odbioru można użyć radia dużo prostszej konstrukcji,
 komputer też nie jest potrzebny.
 
-Jest też mniej racjonalny powód - operowanie kodem Morse'a jest sztuką.
-Jego opanowanie wymaga niemałego wysiłku i niewielu jest w stanie go
-podjąć. Używanie go jest podobną przyjemnością jak granie na instrumencie.
-Przecież wielu woli grać na gitarze zamiast odsłuchiwać utworów ze Spotify.
+Jest też mniej racjonalny powód - operowanie kodem Morse'a jest sztuką. Jego
+opanowanie wymaga niemałego wysiłku, który niewielu podejmie, a z tych którzy
+podejmą, jeszcze mniej odniesie sukces. Używanie telegrafii jest podobną
+przyjemnością jak granie na instrumencie. Przecież wielu woli grać na gitarze
+zamiast odsłuchiwać utworów ze Spotify.
 
-Gdy zdawałem egzamin na licencję krótkofalarską były to ostatnie lata kiedy dla
-najszerszego rodzaju licencji wymagano umiejętności posługiwania się kodem
-Morse'a w bardzo ograniczony sposób. Już kilka lat później zupełnie zniesiono
-to wymaganie. Mimo, iż obecnie nie wymagany - nadal jest jest używany i - w
-mojej ocenie - na świecie cieszy się sporą popularnością. Głównie wśród
-amatorów na emeryturze. W USA jest wiele organizacji i klubów, które
-popularyzują kod Morse'a. Ja sam uczyłem się kodu wraz z [Long Island CW
-Club][LICW], klubem entuzjastów, który zdobył popularność podczas pandemii
-koronawirusa (spotkania przez Zoom). Popularność w Polsce ma nadal dość
-niewielką, ale takie mody dochodzą do nas zwykle 10 lat później - więc pewnie w
-2030 pojawi się podobna fala zainteresowania wśrod emerytowanych
-krótkofalowców, uciekających przed cyfrową zarazą w sztukę porozumiewania się
-kodem Morse'a.
+Mimo, iż obecnie nie wymaga się znajomości kodu Morse'a na licencję
+krótkofalarską - nadal jest jest używany i - w mojej ocenie - na świecie cieszy
+się sporą popularnością. Głównie wśród amatorów na emeryturze. W USA jest wiele
+organizacji i klubów, które popularyzują telegrafię. Ja sam uczyłem się kodu
+wraz z [Long Island CW Club][LICW], klubem entuzjastów, który zdobył
+popularność podczas pandemii koronawirusa (spotkania przez Zoom). Popularność w
+Polsce ma nadal dość niewielką, ale takie mody dochodzą do nas zwykle 10 lat
+później - więc pewnie w 2030 pojawi się podobna fala zainteresowania wśród
+emerytowanych polskich krótkofalowców, uciekających przed cyfrową zarazą w
+telegrafię.
 
 # Linki
 
