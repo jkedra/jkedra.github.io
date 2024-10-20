@@ -13,8 +13,8 @@ versions simultenously. It means it is able to bind an installed script with
 proper virtualenv and appropriate python version. It integrates well with
 virtualenv. Really cool stuff.
 
-Below are procedures to install Python 3.6 and 3.7 for Ubuntu and RHEL.
-I have tested them with Ubuntu 20-22 and RHEL7.
+Below are procedures to install Python 3.6 and 3.13 for Ubuntu and RHEL.
+I have tested them with Ubuntu 22-24 and RHEL7.
 
 ### Pre requisites
 
@@ -23,6 +23,7 @@ which are required in the system before using `pyenv` to compile the Python
 installation. Most of packages have been listed below but if something is
 missing you can [find it on Google](g:pyenv+common+build+problems).
 
+    # below section you run as root
     # RHEL
     yum install -y zlib-dev openssl-devel sqlite-devel bzip2-devel \
         readline-devel libffi-devel tk-devel curl git
@@ -31,7 +32,7 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
     dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite \
         sqlite-devel openssl-devel xz xz-devel
 
-    # UBuntu 22
+    # UBuntu 22-24
     apt install -y make build-essential libssl-dev zlib1g-dev \
         libreadline-dev tk-dev \
         libsqlite3-dev sqlite3 \
@@ -40,7 +41,8 @@ missing you can [find it on Google](g:pyenv+common+build+problems).
         tk-dev curl wget llvm git
 
     # install then follow onscreen instructions to modify
-    # rc files
+    # rc files as a local non-root user
+    #
     curl -L  https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
 
 At least for Ubuntu16 I hit a weird problem with `libreadline` being not
@@ -58,9 +60,9 @@ More details on that may be found in
 
     pyenv install -l
     pyenv install 3.6.4
-    pyenv install 3.7.2
+    pyenv install 3.13.0
     pyenv version
-    pyenv global 3.6.4 3.7.2 system
+    pyenv global 3.6.4 3.13.0 system
     pyenv version
 
 If something goes wrong, uninstall the failed version
@@ -70,20 +72,20 @@ Always install virtualenv within the new python version you have created.
 You will need virtualenv later:
 
     pip install virtualenv
-    pyenv activate 3.7.2
+    pyenv activate 3.13.0
     pip install virtualenv
 
 ### Creating Own VirtualEnv with pyenv
 
-Assume I want to open a new project named `rdspump` to work with python 3.7.2:
+Assume I want to open a new project named `rdspump` to work with python 3.13.0:
 
-    pyenv virtualenv 3.7.2 rdspumptest
+    pyenv virtualenv 3.13.0 rdspumptest
     pyenv activate rdspumptest
     pip install cx_Oracle
     pip install rdspump
     pyenv deactivate
 
-The `pyenv virtualenv` creates new virtualenv with the python version 3.7.2.
+The `pyenv virtualenv` creates new virtualenv with the python version 3.13.0.
 Then `pyenv activate` fixes the current environment to newly created virtualenv
 `rdspump`. And the following `pip install` commands affect only `rdspumptest` virtualenv.
 The current virtualenv needs to be deactivated afterwards.
@@ -94,7 +96,7 @@ Then when I try to call newly created `rdspump` I get in response:
     pyenv: rdspump: command not found
 
     The `rdspump' command exists in these Python versions:
-      3.7.2/envs/rdspumptest
+      3.13.0/envs/rdspumptest
       rdspumptest
     $
 
@@ -103,7 +105,7 @@ it won't be called because it is not in the path. I can either
 add it to the global path or call `pyenv activate rdspumptest` before using
 `rdspump` command:
 
-    $ pyenv global 3.6.4 3.7.2 rdspumptest system
+    $ pyenv global 3.13.0 3.6.4 rdspumptest system
     $ rdspump
     At least one argument expected.
     usage: rdspump [-h] [-l [LIST_PROFILES]] [-P PROFILE] [--version]
@@ -119,7 +121,7 @@ on this blog blost:
 
 The command `pyenv global precendence_list` is worth some explanation:
 It set up search path for python programs. Say you have installed `youtube-dl`
-in 3.7.2. If you call it with `python youtuble-dl` the python version used will
+in 3.13.0. If you call it with `python youtule-dl` the python version used will
 be
 
 
