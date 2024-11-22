@@ -54,15 +54,14 @@ dużo bardziej zaawansowany i miał "roger", chyba też i "echo"
 oraz pozwalał robić łączności "w piątkach" i na ssb.
 
 Jak się było doświadczonym amatorem cb-istą można było należeć do klubów
-brav delta, alfa tango, echo echo, dostawało się klubowy znak
+bravo delta, alfa tango, echo echo, dostawało się klubowy znak
 i robiło łączności z Włochami tak jak licencjonowani amatorzy.
 No prawie - bo moc jest legalnie ograniczna do 4W. 
 
-Właściwie dlaczego nie zostać tym licenjonowanym radioamatorem?
-Pierwsza licencja którą zdobyłem przydzieliła mi znak [SQ9MCP](:q) oraz
-pozwalała wtedy na pracę z mocą bodajże 50W w pasmie 80m
-oraz 2m i krótszym. Kto zdał egzamin z telegrafii, dostawał
-100W i możliwość pracy w każdym dostępnym amatorom paśmie.
+Właściwie dlaczego nie zostać tym licenjonowanym radioamatorem?  Pierwsza
+licencja którą zdobyłem przydzieliła mi znak [SQ9MCP](:q) oraz pozwalała wtedy
+na pracę z mocą 50W w pasmie 80m oraz 2m i krótszym. Kto zdał egzamin z
+telegrafii, dostawał 100W i możliwość pracy w każdym dostępnym amatorom paśmie.
 
 W 2007r. zniesiono wymaganie zdawalności telegrafii i tym samym podniesiono
 moje uprawnienia, otwierając bez ograniczeń dostęp do pasm i podwyższając
@@ -77,6 +76,27 @@ swoją pierwszą łączność na [CW](/cw).
 Obecnie moja dość ograniczona aktywność radiowa, koncentruje się na telegrafii
 i technicznych ekspertymentach w ramach wolnego czasu, którego jest niewiele.
 
+Radio w swojej analogowej formie na falach ultrakrótkich jest nadal powszechne
+w Polsce. Nadal używa się radia FM (ze wstawkami DCS/CTCSS) do komunikacji
+lokalnej - straż, kolejarze nadal używają analogowej transmisji FM. Na morzu
+również jest powszechna modulacja FM, a do dalszych połączeń używa się tam
+regularnie radia KF. Lotnictwo poszechnie używa modulacji AM w zakresie
+fal ultrakrótkich.
+
+Pomimo iż nadal istnieje radio w formie odbieranej przez mojego dziadka -
+czyli państwowe stacje nadawcze na KF, wizytówki krajów takie jak
+BBC (i Radio Wolna Europa), RRI (Radio Romania Internaltional) - to w naszym
+kraju raczej nie znajdują słuchaczy.
+
+Uwaga słuchaczy już dawno przesunęła się z ram ścisłego kalendarza audycji
+RRI, BBC czy Radiowej Trójki na on-demand podcasty dostępne na Spotify i 
+Youtube. Ale magia odbioru sygnału jakiejś odległej stacji radiowej nadal
+pozostała i lubię czasem podsłuchać takiej stacji zanieczyszczonej szumem,
+burzami i warunkami propagacji.
+
+Pozostała też grupa ludzi, którzy dzielą ten sentyment. Są strony poświęcone
+wyłącznie nasłuchowi (https://swling.com/).
+
 ## Odnośniki
 
 1. tutaj też warto zerknąć: [elektronika](/elektronika).
@@ -86,7 +106,14 @@ i technicznych ekspertymentach w ramach wolnego czasu, którego jest niewiele.
 ## znani ludzie na radiu
 
 1. Alan Wolke [W2AEW](q:), [kanał YT](y@:W2AEW)
-2. Thomas Witherspoon [K4SWL](q:), [kanał YT channel](y@:ThomasK4SWL) i strona https://qrper.com/  
+2. Thomas Witherspoon [K4SWL](q:), [kanał YT channel](y@:ThomasK4SWL) i strony
+   https://qrper.com/ oraz https://swling.com/blog/
+3. [Digital Library of Amateur Radio & Communications](https://archive.org/details/dlarc)
+4. [Radio Show and Programs Archive](https://archive.org/details/radioprograms)
+5. [Radio Stations and Radio Station Archives](https://archive.org/details/radiostationarchives)
+6. [The Shortwave Radio Audio Archive](https://shortwavearchive.com/)
+7. [The Radio Spectrum Archive](https://spectrumarchive.org/) (RSA)
+
 
 ## Radiowe www
 
