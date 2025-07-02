@@ -2,7 +2,7 @@
 layout: post
 title:  "Edycja wielu plików"
 author: jkedra
-language: en
+language: pl 
 
 jquery: true
 jss: [wikipize]
@@ -101,11 +101,47 @@ i wtedy przeskakiwanie odbywa się między plikami.
 ## Tryb Zakładek (tabpage)
 
 Nazwałem to trybem zakładek choć nie jestem pewien jako to przetłumaczyć.
+Na zakładce może być otwarte jedno lub więcej okien.
 
+Główne źródło informacji o zakładkach to:
+
+    :help tabpage    (nie tabpages)
+    :help tab-page   (nie tab-pages)
     :help usr_08
     :help windows
-    :help tabpage
-    :help tab-page
+
+Otwieranie nowych zakładek:
+
+    vim -p filename ....
+    :tabedit file.c
+
+### Nawigacja w zakładkach.
+
+Przechodzenie do następnej lub `{count}` zakładki.
+
+    :{count}tabn[ext]
+    :tabn[ext] {count}
+    {count}<C-PageDown>
+    {count}gt
+
+Analogicznie przechodzenie do poprzednich zakładek:
+
+    :tabp[revious] {count}
+    :tabN[ext] {count}
+    {count}<C-PageUp>
+    {count}gT
+
+Warto zapamiętać kombinację `CTRL-PageDown/PageUp`.
+
+Zamykanie zakładek.
+
+    :tabonly
+    :tabc[lose]
+
+
+Każdą komendę  można poprzedzić przez `:tab {cmd}` - jej rezultat zostanie
+otwarty w nowej zakładce. `:tabonly` zamyka wszystkie zakładki oprócz bieżącej.
+
 
 ## Tryb dzielonego okna (window split)
 
