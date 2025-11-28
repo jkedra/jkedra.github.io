@@ -31,7 +31,7 @@ jss: [wikipize]
 * [Books](learningpython5ed)
 * [Quotes](quotes)
 * [Python and Oracle](pyora)
-* [Setup Python](setup).
+* [Setup Python](setup)
 * [Packaging Python](packaging)
 * [Learning Python](learning)
 
