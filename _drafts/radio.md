@@ -59,7 +59,7 @@ i robiło łączności z Włochami tak jak licencjonowani amatorzy.
 No prawie - bo moc jest legalnie ograniczna do 4W. 
 
 Właściwie dlaczego nie zostać tym licenjonowanym radioamatorem?  Pierwsza
-licencja którą zdobyłem przydzieliła mi znak [SQ9MCP](:q) oraz pozwalała wtedy
+licencja którą zdobyłem przydzieliła mi znak [SQ9MCP](q:) oraz pozwalała wtedy
 na pracę z mocą 50W w pasmie 80m oraz 2m i krótszym. Kto zdał egzamin z
 telegrafii, dostawał 100W i możliwość pracy w każdym dostępnym amatorom paśmie.
 
