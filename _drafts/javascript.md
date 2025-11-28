@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript and Node.js"
 author: jkedra
-date: 2023-10-21
+date: 2025-11-29
 language: en
 
 jquery: true
@@ -30,7 +30,7 @@ categories: lang
 
 * NodeJS Releases: <https://nodejs.org/en/about/releases/>
 * <https://node.green/>
-* API <https://nodejs.org/dist/latest-v14.x/docs/api/>
+* API <https://nodejs.org/docs/latest/api/>
 
 ## How to start
 
@@ -45,14 +45,18 @@ First install nodejs, but not like [the course][n1] says (it mentions
 global install for Mac and Windows), but rather using [this tutorial][n2](20.04)
 or [this one][n3](22.04 - option 3).
 
-    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
     source ~/.bashrc
     nvm ls
     nvm ls-remote
-    nvm install v16.17.0
-    nvm use v16.17.0
+    nvm install --lts
+    nvm use --lts
     nvm current
     nvm uninstall v13.9.0
+
+## Utils
+
+* <https://github.com/nvm-sh/nvm>
 
 ## Packages
 
