@@ -12,6 +12,7 @@ jss: [wikipize]
 1. [Python Guide](https://docs.python-guide.org)
 2. [Awesome Python Libraries][5]
 3. [Top 10 Python Libraries of 2016][6]
+4. [mathspp.com blog](https://mathspp.com/blog)
 4. [Ian Bicking](http://www.ianbicking.org/blog/)
 5. [Medium Python Tag](https://medium.com/tag/python/latest)
 6. [Python Tips](http://book.pythontips.com/en/latest/)
