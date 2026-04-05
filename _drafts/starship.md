@@ -17,8 +17,6 @@ tak jak się wypala logo na telewizorze albo pasek windows na monitorze. Patrzę
 na to częściej i dłużej niż na cokolwiek innego, więc dobrze jest nieco zadbać
 o jego kształt.
 
-Mój standardowy prompt jaki często używam w bashu ma taki kształt:
-
     export PS1=
 
 ## Starship
@@ -85,6 +83,25 @@ starshipa i instalujemy:
 
     curl -sS https://starship.rs/install.sh | sh
 
+## Prompt gita
+
+Podczas pracy z repozytorium gita, prompt pokazuje stan repozytorium zakodowany
+w dość niezrozumiałych znaczkach, np. [$!?⇡?⇕], poniżej ich znaczenie:
+
+    $ — Stashed changes.
+    ! — Unstaged (modified) changes in your working directory.
+    ? — Untracked changes (new files that have not been added to the repository).
+    ⇡ — Your current branch is ahead of the remote branch (you have local commits you haven't pushed).
+    ⇕ — Your branch has diverged from the remote branch (both your local and the remote have unique commits). 
+
+Inne symbole jakie można zobaczyć na gitowym repo:
+
+    + — Uncommitted changes added to the index (staged changes).
+    » — Renamed files.
+    ✘ — Deleted files.
+    = — Unmerged changes (during a merge conflict).
+    ⇣ — Behind the remote branch (you need to pull new changes). 
+
 ## Minusy
 
 No więc wbrew zapewnieniom, w zależności od aktywnego modułu, 
@@ -93,6 +110,11 @@ zachowuje się tak szybko jak normalny prompt, ale wystarczy wejść do katalogu
 z repozytorium gita i mamy już opóźnienie jest rzędu 0,5-1 sekundy. 
 
 ## Linki
+
+1. [starship.rs][1]
+2. [www.nerdfonts.com][2]
+3. [github.com/ryanoasis/nerd-fonts][3]
+
 
 [1]: https://starship.rs/
 [2]: https://www.nerdfonts.com/
