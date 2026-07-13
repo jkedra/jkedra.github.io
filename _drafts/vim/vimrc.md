@@ -56,6 +56,19 @@ set backupdir-=.
 set backupdir^=~/tmp,/tmp
 set backup
 
+" displays the unicodes below instead of whitespaces
+" it needs to be activated first by typing
+" :set list
+set listchars=eol:↲,tab:⇤–⇥,space:·,trail:•,precedes:⟨,extends:⟩,nbsp:×
+"
+" and below works independent of :set list
+"
+set showbreak=↪
+"
+set ignorecase
+" override ignorecase if the search pattern contains upper case characters
+set smartcase
+
 {% endhighlight %}
 
 ### References
