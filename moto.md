@@ -48,7 +48,7 @@ Tam gdzie nie ma asfaltu.
 ## Trasy
 
 ### Opisane gdzie indziej
-1. [10 najpiękniejszych tras](http://motovoyager.net/2015/01/polskie-drogi-10-najpiekniejszych-tras-motocyklowych-polsce/) wg [motovoyager](motovoyager.net).
+1. [10 najpiękniejszych tras](http://motovoyager.net/2015/01/polskie-drogi-10-najpiekniejszych-tras-motocyklowych-polsce/) wg [motovoyager](https://motovoyager.net).
 2. [Transalpem](http://transalpem.blogspot.com/)
 
 ### Dalsze Trasy

@@ -8,18 +8,18 @@ function wikipize(lang, entry) {
  log(`WIKIPIZE lang:${lang}:`);
   //  w:xxx  - polish wiki
   //  we:xxx - english wiki
-  //  wv:xxx - svenska wiki
+  //  ws:xxx - svenska wiki
   switch(lang) {
-    case (undefined || ""):
+    case undefined:
+    case "":
       lang = "pl"; break;
     case "e":
       lang = "en"; break;
     case "s":
       lang = "sv"; break;
+    default:
+      lang = "pl"; break;
   }
-  // if empty link, use <A>TEXT</A>
-  if(entry.length==0)
-    entry = $(this).text();
 
   const link = `https://${lang}.wikipedia.org/wiki/${entry}`
     .replace(/\s+/g, '_');
@@ -31,11 +31,11 @@ function googlize(extra, entry) {
   //  g:xxx  - search on google
   //  gp:xxx - search on google pictures
   switch(extra) {
-    case undefined:
-       extra = "";
-       break;
     case "p":
        extra = "&tbm=isch";
+       break;
+    default:
+       extra = "";
        break;
    }
    
@@ -70,10 +70,15 @@ function youtubize(extra, entry) {
   log("YOUTUBIZE");
   switch(extra) {
     case undefined:
+    case "":
       extra = `watch?v=${entry}`;
       break;
     case "@":
       extra = `@${entry}`;
+      break;
+    default:
+      log(`YOUTUBIZE unknown extra:${extra}`);
+      extra = `watch?v=${entry}`;
       break;
   }
   return(`https://www.youtube.com/${extra}`);
@@ -89,6 +94,7 @@ function ize() {
   $("a").each(
     function() {
       let href = $(this).attr("href");
+      if (!href) return;
       /*
        g:xxx  - search on google
        gp:xxx - search on google pictures

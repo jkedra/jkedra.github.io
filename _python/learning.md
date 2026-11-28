@@ -14,7 +14,7 @@ tags: python fundamentals
     
 
 [19jupyter]: https://www.youtube.com/watch?v=hgiNlxUN2V0
-[19PBI]: Phttps://www.youtube.com/watch?v=F6yLRM3b0q8
+[19PBI]: https://www.youtube.com/watch?v=F6yLRM3b0q8
 [19]: https://www.youtube.com/c/pycon2019/videos
 
 1. [List Comprehensions and Generator Expressions in Python][trey] -

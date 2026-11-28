@@ -17,11 +17,11 @@ css: [html5]
 
 ### TryTool 2015
 
-![TT2015_niski_wysoki_mur](http://kedra.s3-website-eu-west-1.amazonaws.com/topo/zakrz/TT2015_niski_wysoki_mur.jpg)
+![TT2015_niski_wysoki_mur]({{"/img/topo/zakrz/TT2015_niski_wysoki_mur.jpg" | absolute_url}})
 
-![TT2015 nowy sektor](http://kedra.s3-website-eu-west-1.amazonaws.com/topo/zakrz/TT2015_nowy_sektor.jpg)
+![TT2015 nowy sektor]({{"/img/topo/zakrz/TT2015_nowy_sektor.jpg" | absolute_url}})
 
 ### Własne topo
 
-![Zawziętość i Firewall](http://kedra.s3-website-eu-west-1.amazonaws.com/topo/zakrz/20200106_zawzietosc_firewall.png)
+![Zawziętość i Firewall]({{"/img/topo/zakrz/20200106_zawzietosc_firewall.png" | absolute_url}})
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Golden Quotes"
 author: jkedra
 language: en
-css: ["http://www.w3schools.com/lib/w3.css"]
+css: ["https://www.w3schools.com/lib/w3.css"]
 jquery: true
 jss: [wikipize]
 ---

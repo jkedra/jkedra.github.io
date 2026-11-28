@@ -9,6 +9,17 @@ layout: default
     {{ post.description }}
   </li>
 {% endfor %}
+{% for col in site.collections %}
+  {% unless col.label == 'posts' %}
+    {% for doc in col.docs %}
+      {% if doc.tags contains page.tag %}
+        <li><a href="{{ doc.url }}">{{ doc.title }}</a>{% if doc.date %} ({{ doc.date | date_to_string }}){% endif %}<br>
+          {{ doc.description }}
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endunless %}
+{% endfor %}
 </ul>
 </div>
 <hr>
